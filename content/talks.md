@@ -1,5 +1,5 @@
 ---
-# title: Publications
+title: Talks
 ---
 
 - **Online Resource Allocation with Supply Costs and Capacity Limits**

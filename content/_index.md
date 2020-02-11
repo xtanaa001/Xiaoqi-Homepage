@@ -15,7 +15,11 @@ I study the interplay between **incentives**, **algorithms**, and **learning**, 
 - Online algorithms and sequential decision-making.
 - Machine learning algorithms and applications.
 
+
+----
+## Selected Publications
 Below please find my recent and selected publications. For more details, please see [Publication](/publications) page or my [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en/).
+
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Orchestration of Virtual Network Functions: A Mechanism Design Approach", preprint.
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs", preprint.
