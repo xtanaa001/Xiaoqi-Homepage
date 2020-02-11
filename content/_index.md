@@ -9,8 +9,7 @@ I am a postdoc at the [Department of Electrical & Computer Engineering](https://
 
 ---
 ## Research
-I study the interplay between **incentives**, **algorithms**, and **learning**, with a focus on applications in **networking and energy**\\
-**systems** (e.g., cloud computing, computer networks, and smart grid). Current topics of interest include:
+I study the interplay between **incentives**, **algorithms**, and **learning**, with a focus on applications in **networking and energy systems** (e.g., cloud computing, computer networks, and smart grid). Current topics of interest include:
 
 - Algorithmic mechanism design/game theory.
 - Online algorithms and sequential decision-making.
