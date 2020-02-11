@@ -27,6 +27,7 @@ title: Publications
 1. Y. Wu, **X. Tan**, L. Qian, D.H.K. Tsang, W. Song, and L. Yu, “Optimal Pricing and Energy Scheduling for Hybrid Energy Trading Market in Future Smart Grid”, IEEE Transactions on Industrial Informatics, vol. 11, no. 6, pp. 1585-1596, Dec. 2015. [[PDF]](/documents/)
 1. S. Niafar, **X. Tan**, and D.H.K. Tsang et al, “Optimal Downlink Scheduling for Heterogeneous Traffic in LET-A Based on MDP and Chance-Constrained Approaches”, ACM Springer Mobile Networks and Applications (MONET) Journal, 2015. [[PDF]](/documents/)
 
+
 --- 
 ## Conference Papers
 1. X. Tan, A. Leon-Garcia and D.H.K. Tsang, “Optimal Posted Prices for Online Resource Allocation with Supply Costs”, in Proceedings of ACM Sigmetrics Workshop on MAMA in 2019.
