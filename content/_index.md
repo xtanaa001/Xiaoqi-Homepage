@@ -3,20 +3,18 @@ title: Home
 ---
 
 
-[<img src="/img/xiaoqi.png" style="max-width:16%;min-width:60px;float:right" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
+[<img src="/img/xiaoqi.png" style="max-width:14%;min-width:60px;float:right" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
 
 ## Xiaoqi Tan's Bio
 
-I am a postdoc at the [Department of Electrical & Computer Engineering](https://www.ece.utoronto.ca), [University of Toronto](https://utoronto.ca), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
-
-Prior to my current position, I obtained my Ph.D. in electronic and computer engineering from the [Hong Kong University of Science and Technology](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/).  From Oct. 2015 to April 2016, I was a visiting student with the School of Engineering and Applied Science, Harvard University, hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
+I am a postdoc at the [Dept. of Electrical & Computer Engineering](https://www.ece.utoronto.ca), [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). Prior to my current position, I obtained my Ph.D. degree in electronic and computer engineering from the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/).  From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the School of Engineering and Applied Science, Harvard University. 
 
 ---
-## Research Summary
+## Research Overview
 
 I study the interplay between incentives, algorithms, and learning, with a focus on applications in networked systems.
 
-A large part of my current research focuses on problems at the intersection of  mechanism design, online algorithms, and machine learning. The goal is to design economic mechanisms and algorithms for real-world platforms that lead to **incentive-aware, online and sequential decision-making** in the presence of uncertainty and strategic user behaviors. Examples of current applications include cloud computing, network function virtualization, and smart grid.
+In more detail: my current research focuses on problems at the intersection of **algorithmic mechanism design** and **online decision-making**. The goal is to design economic incentives and online algorithms that lead to efficient decision-making in the presence of uncertainty and strategic behaviors. Current applications include cloud computing, network function virtualization, and smart grid.
 
 Click [here](/research) for more details of my current research projects.
 
