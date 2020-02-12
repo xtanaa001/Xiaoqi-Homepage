@@ -15,13 +15,13 @@ Prior to my current position, I obtained my Ph.D. in electronic and computer eng
 ---
 ## Research Interests
 
-I study the interplay between incentives, algorithms, and learning in networking and energy systems. Topics include:
+I study the interplay between incentives, algorithms, and learning for the optimization of networked systems. Topics include:
 
 - Algorithmic mechanism design and game theory.
 - Online algorithms and sequential decision making.
 - Machine learning algorithms and applications.
 
-The long term goal of my research is to help stakeholders make better decisions in managing networks/platforms (e.g., cloud computing, computer networks, and smart grid) in the presence of uncertainty and strategic user behaviors. 
+I am most excited by problems where theoretic results lead to rich insights for the design of real-world platforms in networked systems such as cloud computing, computer networks, and smart grid. The long term goal of my research is to help stakeholders make better decisions in managing platforms in the presence of uncertainty and strategic behaviors. 
 
 Click [here](/research)  for detailed description of my research by topics.
 

@@ -1,6 +1,7 @@
 ---
 title: Research
 ---
+
 I study the interplay between incentives, algorithms, and learning, with a focus on applications in networks, markets, and energy systems (e.g., cloud computing, computer networks, and smart grid).  Current topics of interest include:
 
 
@@ -12,7 +13,7 @@ The long term goal of my research is to create the synergy between economic ince
 
 There are two layout files under `layouts/partials/` that you may want to override: `head_custom.html` and `foot_custom.html`. 
 
-<img src="/img/three_layer_smart_cities.png" style="max-width:80%;min-width:40px; float:center" alt="Xiaoqi Tan" />
+<img src="/img/three_layer_smart_cities.png" style="max-width:80%; min-width:40px; float: center" alt="Xiaoqi Tan"/>
 
 
 This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
