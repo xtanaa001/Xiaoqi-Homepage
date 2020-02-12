@@ -4,6 +4,7 @@ title: Research
 
 I study the interplay between incentives, algorithms, and learning, with a focus on applications in networks, markets, and energy systems (e.g., cloud computing, computer networks, and smart grid).  Current topics of interest include:
 
+In particular, I am most excited by problems where theoretic results lead to rich insights for the design of real-world platforms in networked systems such as cloud computing, computer networks, and smart grid. 
 
 The long term goal of my research is to create the synergy between economic incentives and engineering algorithms to help stakeholders make smarter decisions in managing online platforms in the presence of uncertainty and strategic user behaviors.
 

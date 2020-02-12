@@ -24,19 +24,48 @@ title: Resume
 - National Scholarship (approximately top 1~2%), Ministry of Education of P.R.China, 2009
 
 ## Teaching
-#### Course Instructor (Guest Lecturer) at HKUST for the Following Courses:
->
-- Current and Emerging Technologies in Telecommunications (EESM5900F), Spring 2017.
 
-#### Teaching Assistant at HKUST for the Following Courses:
->
-- Computer Communication Networks (ELEC4120), Spring 2012, Fall 2013.
-- A System View of Communications: from Signals to Packets (ELEC1200), Spring 2013.
+> **Course Instructor (Guest Lecturer) at HKUST for the Following Courses**:
 
+> - Current and Emerging Technologies in Telecommunications (EESM5900F), Spring 2017.
+
+> **Teaching Assistant at HKUST for the Following Courses**:
+
+> - Computer Communication Networks (ELEC4120), Spring 2012, Fall 2013.
+> - A System View of Communications: from Signals to Packets (ELEC1200), Spring 2013.
+
+## Talks
+
+>
+- **Online Resource Allocation with Supply Costs and Capacity Limits**
+  - Central South University, Changsha, China, Feb 2020.
+  - Southest University, Nanjing, China, January 2020. 
+  - Nanjing University of Astraunatns and Aerospace, Nanjing, China, January 2020. 
+  - Zhejiang University of Technology, Hangzhou, China, January 2020.  
+>
+- **Enabling Intelligent Decision-Making in Smart Cities: When Internet of Things Meets Multi-Agent Systems**
+  - The 10th CASCON Workshop on Cloud Computing, Toronto, 30 October 2018.
+>
+- **Value-Lifetime Tradeoff Analysis for Battery Energy Storage in Dynamic Electricity Market**, 
+  - Zhejiang University of Technology, Hangzhou, China, 2015.
+>
+- **Model Predictive Control of Integrated Room Automation Considering Occupants Preference**
+  - IEEE SmartGridComm, Miami, USA, 2015.
+>
+- **Optimal Energy Trading with Battery Energy Storage under Dynamic Pricing**
+  - IEEE SmartGridComm, Venice, Italy, 2014.
+>
+- **Queueing Network Models for Electric Vehicle Charging Station with Battery Swapping**
+  - IEEE SmartGridComm, Venice, Italy, 2014.
+  - Green Computing Seminar Series, HKUST, Hong Kong, 2014.
+>
+- **Economic Analysis of Lifetime-Constrained Battery Energy Storage under Dynamic Pricing**
+  - IEEE SmartGridComm, Vancouver, Canada, 2013.
 
 
 ## Professional Services
-#### Technical Reviewer for the Following Journals:
+
+> **Technical Reviewer for the Following Journals**:
 
 >
 - IEEE Network
@@ -52,7 +81,8 @@ title: Resume
 - IEEE Transactions on Intelligent Transportation Systems
 - International Journal of Electrical Power & Energy Systems
 
-#### Technical Reviewer for the Following Conferences:
+> **Technical Reviewer for the Following Conferences**:
+
 >
 - IEEE International Conference on Smart Grid Communication
 - IEEE Power & Energy Society General Meeting
