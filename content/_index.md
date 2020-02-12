@@ -14,10 +14,7 @@ Prior to my current position, I obtained my Ph.D. degree in electronic and compu
 ---
 ## Research Summary
 
-I study the interplay between incentives, algorithms, and learning, with a focus on addressing the challenges emerging from networked systems (e.g., cloud computing, communication networks, and energy systems) that must operate in the face of strategic user behaviors.  
-
-
-A large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient online resource allocation despite the existence of self-interested users and incomplete future information.
+I study the interplay between incentives, algorithms, and learning, with a focus on applications in networked systems such as cloud computing, communication networks, and energy systems.  A large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient online resource allocation despite the existence of strategic user behaviors and incomplete future information.
 
 ---
 ## Recent Publications
