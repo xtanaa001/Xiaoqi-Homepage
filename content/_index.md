@@ -14,7 +14,9 @@ Prior to my current position, I obtained my Ph.D. in electronic and computer eng
 ---
 ## Research Summary
 
-I study the interplay between incentives, algorithms, and learning, with a focus on applications in communication networks,  cloud computing, and smart grid. I am particularly excited by problems where the interaction between mechanism design, online algorithms, and machine learning leads to rich insights into the design of real-world platforms where **online and sequential decision-making** must be performed in the presence of uncertainty and strategic user behaviors.
+I study the interplay between incentives, algorithms, and learning, with a focus on applications in networked systems.
+
+A large part of my current research focuses on problems at the intersection of  mechanism design, online algorithms, and machine learning. The goal is to design economic mechanisms and algorithms for real-world platforms that lead to **incentive-aware, online and sequential decision-making** in the presence of uncertainty and strategic user behaviors. Examples of current applications include cloud computing, network function virtualization, and smart grid.
 
 Click [here](/research) for more details of my current research projects.
 
