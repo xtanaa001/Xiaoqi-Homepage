@@ -3,7 +3,7 @@ title: Home
 ---
 
 
-[<img src="/img/xiaoqi.png" style="max-width:12%;min-width:100px;float:right" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
+[<img src="/img/xiaoqi.png" style="max-width:13%;min-width:100px;float:right" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
 
 ## Xiaoqi Tan's Bio
 
