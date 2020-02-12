@@ -2,13 +2,14 @@
 title: Publications
 ---
 
+
 ## Journal Papers
 
- - **X. Tan**, A. Leon-Garcia, et al., ‘‘Orchestration of Virtual Network Functions: A Mechanism Design Approach", preprint.
- - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs", preprint.
- - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach", preprint.
+> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Orchestration of Virtual Network Functions: A Mechanism Design Approach", preprint.
+> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs", preprint.
+> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach", preprint.
 
-1. **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, IEEE Journal of Selected Areas in Communications, in press. [[PDF]](/documents/)
+> 1. **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, IEEE Journal of Selected Areas in Communications, in press. [[PDF]](/documents/)
     - Earlier version appeared in ACM Sigmetrics Workshop on MAMA in 2019: [[PDF]](/documents/).
     - Technical report with complete proofs: [[PDF]](/documents/). 
 1. **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, IEEE Journal of Selected Areas in Communications, vol. 38, no. 1, pp. 5-16, Jan. 2020. [[PDF]](/documents/)
@@ -30,7 +31,7 @@ title: Publications
 
 --- 
 ## Conference Papers
-1. X. Tan, A. Leon-Garcia and D.H.K. Tsang, “Optimal Posted Prices for Online Resource Allocation with Supply Costs”, in Proceedings of ACM Sigmetrics Workshop on MAMA in 2019.
+> 1. X. Tan, A. Leon-Garcia and D.H.K. Tsang, “Optimal Posted Prices for Online Resource Allocation with Supply Costs”, in Proceedings of ACM Sigmetrics Workshop on MAMA in 2019.
 1. X. Tan, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, “A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals”, [Extended Abstract], in Proceedings of ACM e-Energy, 2019.
 1. L. Liu, B. Sun, X. Tan, Y.S. Xiao, D.H.K. Tsang, “Energy-efficient Resource Allocation and Channel Assignment for NOMA-based Mobile Edge Computing”, in Proceedings of IEEE Wireless Communications and Networking Conference (WCNC), April. 2019, Marrakech, Morocco.
 1. X. Tan and A. Leon-Garcia, “Autonomous Mobility and Energy Service Management in Future Smart Cities: An Overview”, in Proceedings of IEEE UV 2018, MIT, Boston, MA, USA.

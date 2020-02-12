@@ -50,7 +50,7 @@ Related papers on this topic:
 
 ---
 
-## 2. Online Mechanism Design
+## 2. Mechanism Design for Online Resource Allocation
 
 There are two layout files under `layouts/partials/` that you may want to override: `head_custom.html` and `foot_custom.html`. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
@@ -61,7 +61,7 @@ Related papers on this topic:
 
 ---
 
-## 3. Sequential Decision-Making under Uncertainty
+## 3. Online Learning for Sequential Decision-Making
 
 I could have added more features to this theme, but I decided not to, since I have no intention to make this theme feature-rich. However, I will teach you how. I have prepared several examples via pull requests at https://github.com/yihui/hugo-xmin/pulls, so that you can see the implementations of these features when you check out the diffs in the pull requests. For example, you can:
 

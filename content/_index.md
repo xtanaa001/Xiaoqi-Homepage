@@ -12,14 +12,12 @@ I am a postdoc at the [Dept. of Electrical & Computer Engineering](https://www.e
 ---
 ## Research Overview
 
-I study the interplay between incentives, algorithms, and learning, with a focus on applications in  networked systems arise from cloud computing, network virtualization, rishesharing, and smart grid. The goal is to design **economic incentives and algorithms** that lead to efficient **online and sequential decision-making** despite the presence of uncertainty and strategic user behaviors. 
-
-Click [here](/research) for more details of my current research projects.
+I study the interplay between incentives, algorithms, and learning, with a focus on applications in  networked systems arise from cloud computing, network virtualization, ridesharing, and smart grid. A large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that leads to efficient online decision-making in networked systems despite the presence of uncertainty and strategic user behaviors. 
 
 ---
 ## Recent Publications
 
-Below please find my recent journal papers. For complete list of publications, please click [here](/publications) or my [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en/).
+For complete list of publications, please click [here](/publications) or my [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en/).
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Orchestration of Virtual Network Functions: A Mechanism Design Approach", preprint.
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs", preprint.
