@@ -14,7 +14,7 @@ I am a postdoc at the [Dept. of Electrical & Computer Engineering](https://www.e
 
 I study the interplay between incentives, algorithms, and learning, with a focus on applications in networked systems.
 
-In more detail: my current research focuses on problems at the intersection of **algorithmic mechanism design** and **online decision-making**. The goal is to design economic incentives and online algorithms that lead to efficient decision-making in the presence of uncertainty and strategic behaviors. Current applications include cloud computing, network function virtualization, and smart grid.
+In more detail: my current research focuses on problems at the intersection of **algorithmic mechanism design** and **online decision-making**. The goal is to design economic incentives and online algorithms that lead to efficient sequential decision-making in the presence of uncertainty and strategic behaviors. Current applications include cloud computing, network function virtualization, and smart grid.
 
 Click [here](/research) for more details of my current research projects.
 
