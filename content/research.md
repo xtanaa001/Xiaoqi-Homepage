@@ -56,13 +56,5 @@ There are two layout files under `layouts/partials/` that you may want to overri
 
 Related papers on this topic:
 
-- **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach”, preprint.
-- **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, IEEE Journal of Selected Areas in Communications, in press. 
-
----
-
-## 3. Online Learning for Sequential Decision-Making
-
-I could have added more features to this theme, but I decided not to, since I have no intention to make this theme feature-rich. However, I will teach you how. I have prepared several examples via pull requests at https://github.com/yihui/hugo-xmin/pulls, so that you can see the implementations of these features when you check out the diffs in the pull requests. For example, you can:
-
-To fully understand these examples, you have to read [the section on Hugo templates](https://bookdown.org/yihui/blogdown/templates.html) in the **blogdown** book.
+> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach”, preprint.
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, IEEE Journal of Selected Areas in Communications, in press. 

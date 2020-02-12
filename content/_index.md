@@ -3,16 +3,16 @@ title: Home
 ---
 
 
-[<img src="/img/xiaoqi.png" style="max-width:14%;min-width:100px;float:right" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
+[<img src="/img/xiaoqi.png" style="max-width:12%;min-width:100px;float:right" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
 
 ## Xiaoqi Tan's Bio
 
-I am a postdoc at the [Dept. of Electrical & Computer Engineering](https://www.ece.utoronto.ca), [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). Prior to my current position, I obtained my Ph.D. degree in electronic and computer engineering from the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/).  From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the School of Engineering and Applied Science, Harvard University. 
+I am a postdoc at the [Dept. of Electrical & Computer Engineering](https://www.ece.utoronto.ca), [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). Prior to my current position, I obtained my Ph.D. degree in electronic and computer engineering from the [Hong Kong University of Science and Technology](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/).  From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at [SEAS@Harvard University](https://www.seas.harvard.edu/). 
 
 ---
 ## Research Summary
 
-I study the interplay between incentives, algorithms, and learning, with a focus on applications in  networked systems arise from cloud computing, network virtualization, ridesharing, and smart grid. A large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that leads to efficient online decision-making in networked systems despite the presence of uncertainty and strategic user behaviors. 
+I study the interplay between incentives, algorithms, and learning, with a focus on applications in  networked systems arise from cloud computing, network virtualization, and smart grid. A large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that leads to efficient online decision-making (e.g., resource allocation in the clouds) despite the presence of uncertainty and strategic user behaviors. 
 
 ---
 ## Recent Publications
