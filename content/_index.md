@@ -11,17 +11,12 @@ I am a postdoc at the [Department of Electrical & Computer Engineering](https://
 
 Prior to my current position, I obtained my Ph.D. in electronic and computer engineering from the [Hong Kong University of Science and Technology](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/).  From Oct. 2015 to April 2016, I was a visiting student with the School of Engineering and Applied Science, Harvard University, hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
-
 ---
 ## Research Summary
 
-I study the interplay between incentives, algorithms, and learning, with a focus on applications in networked systems such as cloud computing, computer networks, and smart grid. Topics include:
+I study the interplay between incentives, algorithms, and learning, with a focus on applications in communication networks,  cloud computing, and smart grid. I am particularly excited by problems where the interaction between mechanism design, online algorithms, and machine learning leads to rich insights into the design of real-world platforms where **online and sequential decision-making** must be performed in the presence of uncertainty and strategic user behaviors.
 
-> - Algorithmic mechanism design.
-> - Online algorithms and sequential decision making.
-> - Machine learning algorithms and applications.
-
-My research aims to help stakeholders make better decisions in managing platforms in the presence of uncertainty and strategic behaviors. 
+Click [here](/research) for more details of my current research projects.
 
 ---
 ## Recent Publications
@@ -31,15 +26,15 @@ Below please find my recent journal papers. For complete list of publications, p
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Orchestration of Virtual Network Functions: A Mechanism Design Approach", preprint.
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs", preprint.
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach", preprint.
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, IEEE Journal of Selected Areas in Communications - Special Issue on Smart Data Pricing for Next Generation Networks. [[PDF]](/papers/OCA-JSAC-2020.pdf)
-    - Earlier version appeared in ACM Sigmetrics Workshop on MAMA in 2019: [Extended Abstract].
-    - Technical report with complete proofs: [Report](/files/pdf). 
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, IEEE Journal of Selected Areas in Communications, in press. [[PDF]](/documents/OCA-JSAC-2020.pdf)
+    - Extended abstract appeared in ACM Sigmetrics Workshop on MAMA in 2019: [[PDF]](https://www.sigmetrics.org/mama/abstracts/Tan.pdf).
+    - Technical report with complete proofs: [[PDF]](/documents/jsac_sdp_report.pdf). 
 > - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, IEEE Journal of Selected Areas in Communications, vol. 38, no. 1, pp. 5-16, Jan. 2020.
 > - B. Sun, **X. Tan**, and D.H.K. Tsang, “Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach”, IEEE Trans. on Power Systems, vol. 34, no. 5, pp. 4038–4047, Sept. 2019.
 
 ---
 ## Contact
  
-**Office**: 7137 Bahen Centre, 40 St. George Street, Toronto, Ontario M5S 2E4, Canada.\\
-**Email**: firstname.lastname@utoronto.ca, (My first name is pronounced as “Shiao-Chee”)
+**Office**: [7137 Bahen Centre, 40 St. George Street, Toronto, Ontario M5S 2E4, Canada](https://goo.gl/maps/vfCbo1zuws5Wspzu8).\\
+**Email**: firstname.lastname@utoronto.ca, (My first name is pronounced as “Shiao-Chee”).
 
