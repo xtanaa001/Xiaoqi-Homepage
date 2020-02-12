@@ -3,7 +3,7 @@ title: Home
 ---
 
 
-[<img src="/img/xiaoqi.png" style="max-width:17%;min-width:60px;float:right" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
+[<img src="/img/xiaoqi.png" style="max-width:16%;min-width:60px;float:right" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
 
 ## Xiaoqi Tan's Bio
 
@@ -13,20 +13,21 @@ Prior to my current position, I obtained my Ph.D. in electronic and computer eng
 
 
 ---
-## Research Interests
+## Research Summary
 
 I study the interplay between incentives, algorithms, and learning, with a focus on applications in networked systems such as cloud computing, computer networks, and smart grid. Topics include:
 
-- Algorithmic mechanism design and game theory.
-- Online algorithms and sequential decision making.
-- Machine learning algorithms and applications.
+> - Algorithmic mechanism design.
+> - Online algorithms and sequential decision making.
+> - Machine learning algorithms and applications.
 
-The long term goal of my research is to help stakeholders make better decisions in managing networks/platforms/markets in the presence of uncertainty and strategic behaviors. 
-
-Click [here](/research)  for detailed description of my research by topics.
+My research aims to help stakeholders make better decisions in managing platforms in the presence of uncertainty and strategic behaviors. 
 
 ---
 ## Recent Publications
+
+Below please find my recent journal papers. For complete list of publications, please click [here](/publications) or my [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en/).
+
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Orchestration of Virtual Network Functions: A Mechanism Design Approach", preprint.
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs", preprint.
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach", preprint.
@@ -35,8 +36,6 @@ Click [here](/research)  for detailed description of my research by topics.
     - Technical report with complete proofs: [Report](/files/pdf). 
 > - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, IEEE Journal of Selected Areas in Communications, vol. 38, no. 1, pp. 5-16, Jan. 2020.
 > - B. Sun, **X. Tan**, and D.H.K. Tsang, “Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach”, IEEE Trans. on Power Systems, vol. 34, no. 5, pp. 4038–4047, Sept. 2019.
-
-For complete list of publications, please click [here](/publications) or my [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en/).
 
 ---
 ## Contact
