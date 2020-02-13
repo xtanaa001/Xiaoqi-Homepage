@@ -19,8 +19,8 @@ There are two layout files under `layouts/partials/` that you may want to overri
 
 $$
 \begin{align}
-& \text{maximize}  & & \sum _ {n=1}^N v_n x_n - \sum _ {t=1}^T f_t\Big(\sum _ {n=1}^N r_n^t x_n\Big),\\\\\
-& \text{subject to} & & \sum _ {n=1}^N r_n^t x_n\leq 1, \forall t\in\mathcal{T},\\\\\
+& \max  & & \sum _ {n=1}^N v_n x_n - \sum _ {t=1}^T f_t\Big(\sum _ {n=1}^N r_n^t x_n\Big),\\\\\
+& \ s.t. & & \sum _ {n=1}^N r_n^t x_n\leq 1, \forall t\in\mathcal{T},\\\\\
 & & & x_n = \{0,1\}, \forall n = \{1,2,\cdots,N\}.
 \end{align}
 $$
