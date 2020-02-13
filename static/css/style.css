@@ -27,6 +27,27 @@ a:hover, a:visited, a:link, a:active
     text-decoration: none;
 }
 
+/* unvisited link */
+a:link {
+  color: darkblue;
+}
+
+/* visited link */
+a:visited {
+  color: darkblue;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+  text-decoration: underline;
+}
+
 /* code */
 pre {
   border: 1px solid #ddd;

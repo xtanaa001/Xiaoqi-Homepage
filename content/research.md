@@ -8,7 +8,7 @@ title: Research
 
 My research centers on addressing the challenges emerging from the design and operation of real-world networked systems, e.g.,  cloud computing, communication networks, and energy systems.  The key research question that drives my research is as follows: 
 
-<span style="color:Sienna"> 
+<span style="color:darkblue"> 
 How to make better decisions in managing networked systems so that a desired objective can be achieved despite the presence of  **strategic behaviors**  and  **information uncertainty**?
 </span>
 
