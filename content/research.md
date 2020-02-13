@@ -3,7 +3,7 @@ title: Research
 ---
 
 
-<img src="/img/overview.png" style="max-width:30%; min-width:250px; float: right" alt="Xiaoqi Tan"/>
+<img src="/img/overview.png" style="max-width:25%; min-width:350px; float: right" alt="Xiaoqi Tan"/>
 
 
 My research centers on addressing the challenges emerging from the design and operation of real-world networked systems, e.g.,  cloud computing, communication networks, and energy systems.  The key research question that drives my research is as follows: 
