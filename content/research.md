@@ -3,7 +3,7 @@ title: Research
 ---
 
 
-<img src="/img/overview.png" style="max-width:30%; min-width:100px; float: right" alt="Xiaoqi Tan"/>
+<img src="/img/overview.png" style="max-width:30%; min-width:250px; float: right" alt="Xiaoqi Tan"/>
 
 
 I study the interplay between incentives, algorithms, and learning, with a focus on applications in networks, markets, and energy systems (e.g., cloud computing, computer networks, and smart grid).  Current topics of interest include:
