@@ -3,13 +3,13 @@ title: Home
 ---
 
 
-[<img src="/img/xiaoqi.png" style="max-width:12%;min-width:100px;float:right" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
+[<img src="/img/xiaoqi.png" style="max-width:13%;min-width:100px;float:right" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
 
 ## Xiaoqi Tan's Bio
 
 I am a postdoc at the [Dept. of ECE](https://www.ece.utoronto.ca), [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/).  
 
-Prior to my current position, I obtained my Ph.D. degree in electronic and computer engineering from the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at [SEAS@Harvard University](https://www.seas.harvard.edu/). 
+Before joining University of Toronto, I obtained my Ph.D. degree in electronic and computer engineering from the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), Harvard University.
 
 ---
 ## Research Summary
