@@ -22,24 +22,22 @@ hr {
   color: #ddd;
 }
 
-a:hover, a:visited, a:link, a:active
-{
-    text-decoration: none;
-}
-
 /* unvisited link */
 a:link {
   color: darkblue;
+  text-decoration: none;
 }
 
 /* visited link */
 a:visited {
   color: darkblue;
+  text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
   color: hotpink;
+  text-decoration: none;
 }
 
 /* selected link */
