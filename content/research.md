@@ -8,7 +8,9 @@ title: Research
 
 My research centers on addressing the challenges emerging from the design and operation of real-world networked systems, e.g.,  cloud computing, communication networks, and energy systems.  The key research question that drives my research is as follows: 
 
-How to make better decisions in managing networked systems so that a desired objective can be achieved despite the presence of **strategic behaviors** and **information uncertainty**?
+<span style="color:DarkBlue"> 
+How to make better decisions in managing networked systems so that a desired objective can be achieved despite the presence of  **strategic behaviors**  and  **information uncertainty**?
+</span>
 
 To answer the above two questions, I study the interplay between incentives, algorithms, and learning.  I believe solutions to the above problem can help us gain insights into how to tackle many societal challenges that include  energy sustainability, network security, traffic congestion, and climate change.
 

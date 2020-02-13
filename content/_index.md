@@ -16,9 +16,7 @@ Before joining University of Toronto, I obtained my Ph.D. degree in electronic a
 
 I study the interplay between incentives, algorithms, and learning, with a focus on applications in networked systems (e.g., cloud computing, communication networks, and energy systems). 
 
-A large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information.
-
-
+A large part of my current research focuses on problems at the intersection of <span style="color:DarkBlue">mechanism design</span> and <span style="color:DarkBlue">online algorithms</span>. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information.
 
 ---
 ## Recent Publications
@@ -31,14 +29,11 @@ For complete list of publications, please click [here](/publications) or my [Goo
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach", preprint.
 
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, IEEE Journal of Selected Areas in Communications, in press. 
-    - Earlier version appeared in ACM Sigmetrics Workshop on MAMA in 2019: [[PDF]](https://www.sigmetrics.org/mama/abstracts/Tan.pdf)
-    - Technical report with complete proofs: [final version to be available].
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits](/documents/OCA-JSAC-2020.pdf)”, <span style="color:DarkRed">IEEE Journal of Selected Areas in Communications</span>, in press.  [[Earlier Version]](https://www.sigmetrics.org/mama/abstracts/Tan.pdf) [[Technical Report]](/documents/jsac_sdp_report.pdf)
     
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, IEEE Journal of Selected Areas in Communications, vol. 38, no. 1, pp. 5-16, Jan. 2020. [[PDF]](/documents/PPR-JSAC-2020.pdf)
-    - Technical report with complete proofs: [final version to be available].
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction](/documents/PPR-JSAC-2020.pdf)”, <span style="color:DarkRed">IEEE Journal of Selected Areas in Communications</span>, vol. 38, no. 1, pp. 5-16, Jan. 2020. [[Technical Report]](/documents/jsac_pprTE_report.pdf)
 
-> -  B. Sun, **X. Tan**, and D.H.K. Tsang, “Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach”, IEEE Transactions on Power Systems, vol. 34, no. 5, pp. 4038–4047, Sept. 2019. [[PDF]](/documents/MDF_mechanism_TPS.pdf)
+> -  B. Sun, **X. Tan**, and D.H.K. Tsang, “[Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach](/documents/MDF_mechanism_TPS.pdf)”, <span style="color:DarkRed">IEEE Transactions on Power Systems</span>, vol. 34, no. 5, pp. 4038–4047, Sept. 2019.
 
 ---
 ## Contact
