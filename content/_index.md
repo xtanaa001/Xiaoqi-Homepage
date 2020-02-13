@@ -14,9 +14,7 @@ Before joining University of Toronto, I obtained my Ph.D. degree in electronic a
 ---
 ## Research Summary
 
-I study the interplay between incentives, algorithms, and learning, with a focus on applications in networked systems (e.g., cloud computing, communication networks, and energy systems). 
-
-A large part of my current research focuses on problems at the intersection of <span style="color:darkblue">mechanism design</span> and <span style="color:darkblue">online algorithms</span>. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information.
+I study the interplay between mechanism design, online algorithms, and machine learning, with a focus on applications in networked systems such as cloud computing, communication networks, and energy systems. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making in managing networked systems despite the presence of  strategic behaviors and information uncertainty.
 
 ---
 ## Recent Publications
