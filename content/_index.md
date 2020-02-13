@@ -3,7 +3,7 @@ title: Home
 ---
 
 
-[<img src="/img/xiaoqi.png" style="max-width:13%;min-width:100px;float:right" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
+[<img src="/img/xiaoqi.png" style="max-width:12%;min-width:100px;float:right" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
 
 ## Xiaoqi Tan's Bio
 
@@ -14,7 +14,11 @@ Prior to my current position, I obtained my Ph.D. degree in electronic and compu
 ---
 ## Research Summary
 
-I study the interplay between incentives, algorithms, and learning, with a focus on applications in networked systems (e.g., cloud computing, communication networks, and energy systems). A large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient online decision-making for networked systems in the presence of  strategic user behaviors and incomplete future information.
+I study the interplay between incentives, algorithms, and learning, with a focus on applications in networked systems (e.g., cloud computing, communication networks, and energy systems). 
+
+A large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information.
+
+
 
 ---
 ## Recent Publications
