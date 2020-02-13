@@ -1,5 +1,5 @@
 ---
-title: Xiaoqi Tan's Homepage
+title: A paper was accepted to JSAC.
 ---
 
 
