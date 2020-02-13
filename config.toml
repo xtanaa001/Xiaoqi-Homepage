@@ -30,3 +30,6 @@ footnotereturnlinkcontents = "↩"
 [params]
     description = "A website built through Hugo and blogdown."
     footer = "&copy; [Xiaoqi Tan](https://xiaoqitan.org) 2018--2020"
+
+[blackfriday]
+hrefTargetBlank = true
