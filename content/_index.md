@@ -35,5 +35,5 @@ For complete list of publications, please click [here](/publications) or my [Goo
 ## Contact
  
 **Office**: [7137 Bahen Centre, 40 St. George Street, Toronto, Ontario M5S 2E4, Canada](https://goo.gl/maps/vfCbo1zuws5Wspzu8).\\
-**Email**: firstname.lastname@utoronto.ca, (My first name is pronounced as “Shiao-Chee”).
+**Email**: `$\textsf{xiaoqi.tan}@\textsf{utoronto.ca}$`, (My first name "Xiaoqi" is pronounced as “Shiao-Chee”).
 
