@@ -21,11 +21,11 @@ To answer this question, I study the interplay between incentives, algorithms, a
 
 I am most excited by problems where theoretic results provide rich insights into the design of real-world platforms. For instance, a large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information. 
 
-**Topic 1: Orchestration of Virtual Network Functions**
+<span style="color:darkblue"> **Application 1: Orchestration of Virtual Network Functions** </span>
 
 This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
-**Topic 2: Charging Scheduling of Electric Vehicles  in Smart Grid**
+<span style="color:darkblue"> **Application 2: Charging Scheduling of Electric Vehicles  in Smart Grid**</span>
 
 This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
@@ -33,14 +33,14 @@ This is how you inject arbitrary HTML code to the head and foot areas. For examp
 
 This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
-**Topic 3: Online Vehicle Routing in Transportation Networks**
+<span style="color:darkblue"> **Application 3: Online Vehicle Routing in Transportation Networks**</span>
 
 This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
 $$ \psi'(p) = \frac{1}{\varphi'\left(\varphi^{-1}(p)\right)} = \frac{1}{\varphi'(y)}. $$
 
 
-<span style="color:darkblue"> Related papers:</span>
+### Related Papers
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs”, preprint.
 
@@ -48,19 +48,19 @@ $$ \psi'(p) = \frac{1}{\varphi'\left(\varphi^{-1}(p)\right)} = \frac{1}{\varphi'
 
 ---
 
-## 2. <a id="mechanism_design"></a> Online Mechanism Design
+## 2. <a id="mechanism_design"></a> Mechanism Design for Online Resource Allocation
 
 There are two layout files under `layouts/partials/` that you may want to override: `head_custom.html` and `foot_custom.html`. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
-**Topic 1: Online Combinatorial Auctions in Cloud Computing**
+<span style="color:darkblue">**Application 1: Online Combinatorial Auctions in Cloud Computing**</span>
 
 This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
-**Topic 2: Posted Price Mechanisms for Online Resource Allocation**
+<span style="color:darkblue">**Application 2: Posted Price Mechanisms for Online Resource Allocation**</span>
 
 This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
-<span style="color:darkblue"> Related papers:</span>
+### Related Papers
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach”, preprint.
 
@@ -70,6 +70,6 @@ This is how you inject arbitrary HTML code to the head and foot areas. For examp
 
 There are two layout files under `layouts/partials/` that you may want to override: `head_custom.html` and `foot_custom.html`. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
-<span style="color:darkblue"> Related papers:</span>
+### Related Papers
 
 > - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, `IEEE Journal of Selected Areas in Communications`, in press. 
