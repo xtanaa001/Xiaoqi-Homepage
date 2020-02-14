@@ -21,6 +21,8 @@ A large part of my current research focuses on problems at the intersection of <
 
 Click [here](/research)  for detailed description of my research by topics.
 
+I am most excited by problems where the design of economic incentives and online algorithms provides insight into the operation of  platforms - settings where  resources and services must be managed in  the face of  strategic user behaviors and uncertain future information.
+
 ---
 ## Recent Publications
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Orchestration of Virtual Network Functions: A Mechanism Design Approach", preprint.
