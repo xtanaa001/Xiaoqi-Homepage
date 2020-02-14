@@ -3,70 +3,71 @@ title: Research
 ---
 
 
-<img src="/img/overview.png" style="max-width:25%; min-width:350px; float: right" alt="Xiaoqi Tan"/>
+<img src="/img/overview.png" style="max-width:33%; min-width:330px; float: right" alt="Xiaoqi Tan"/>
 
 
-My research centers around resource allocation and scheduling in networked systems. More specifically, my research focuses both on developing analytical techniques in mechanism design, online algorithms, and machine learning, and applying these techniques to application domains such as cloud computing, communication networks, and energy systems.  
+My research centers around the design of efficient decisions for resource allocation and scheduling in networked systems. My research is primarily driven by the following question
 
-The central theme of my research is driven by the following question
+`How to manage the resources and services in networked systems in the face of  strategic user behaviors and uncertain future information?`
 
-<span style="color:darkblue"> 
-How to perform better **online decision-making** in managing networked systems in the presence of  **strategic behaviors**  and  **information uncertainty**?
-</span>
-
-To answer the above two questions, I study the interplay between mechanism design, online algorithms, and machine learning.  I believe solutions to the above problem can help us gain insights into how to tackle many societal challenges that include  energy sustainability, network security, traffic congestion, and climate change.  
+To answer this question, I study the interplay between incentives, algorithms, and learning. In particular, my research focuses both on developing analytical techniques in `mechanism design`, `online algorithms`, and `machine learning`, and applying these techniques to application domains such as `cloud computing`, `communication networks`, and `energy systems`.  The long term goal of my research is to help us gain insights into how to tackle societal challenges such as energy sustainability, network security, traffic congestion, and climate change.  
 
 ---
 
 
 ## 1. Online Algorithms: A Primal-Dual Framework
 
-I am most excited by problems where theoretic results provide rich insights into the design of real-world platforms. For instance, a large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information.
+I am most excited by problems where theoretic results provide rich insights into the design of real-world platforms. For instance, a large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information. 
 
-There are two layout files under `layouts/partials/` that you may want to override: `head_custom.html` and `foot_custom.html`.  This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
-
-$$
-\begin{align}
-& \max  & & \sum _ {n=1}^N v_n x_n - \sum _ {t=1}^T f_t\Big(\sum _ {n=1}^N r_n^t x_n\Big),\\\\\
-& \ s.t. & & \sum _ {n=1}^N r_n^t x_n\leq 1, \forall t\in\mathcal{T},\\\\\
-& & & x_n = \{0,1\}, \forall n = \{1,2,\cdots,N\}.
-\end{align}
-$$
-
-There are two layout files under `layouts/partials/` that you may want to override: `head_custom.html` and `foot_custom.html`.  This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
-
-
-**Application 1: Network Resource Allocation**
+**Topic 1: Orchestration of Virtual Network Functions**
 
 This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
-**Application 2: Electric Vehicle Charging in Smart Grid**
+**Topic 2: Charging Scheduling of Electric Vehicles  in Smart Grid**
 
 This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
-<img src="/img/three_layer_smart_cities.png" style="max-width:80%; min-width:40px; float: center" alt="Xiaoqi Tan"/>
+<img src="/img/three_layer_smart_cities.png" style="max-width:80%; min-width:300px; float: center" alt="Xiaoqi Tan"/>
 
 This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
-**Application 3: Vehicle Routing in Transportation Networks**
+**Topic 3: Online Vehicle Routing in Transportation Networks**
 
 This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
 $$ \psi'(p) = \frac{1}{\varphi'\left(\varphi^{-1}(p)\right)} = \frac{1}{\varphi'(y)}. $$
 
 
-<span style="color:darkblue"> Related papers on this topic:</span>
+<span style="color:darkblue"> Related papers:</span>
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs”, preprint.
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, IEEE Journal of Selected Areas in Communications, vol. 38, no. 1, pp. 5-16, Jan. 2020.
+
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, `IEEE Journal of Selected Areas in Communications`, vol. 38, no. 1, pp. 5-16, Jan. 2020.
 
 ---
 
-## 2. Mechanism Design for Online Resource Allocation
+## 2. Online Mechanism Design
 
 There are two layout files under `layouts/partials/` that you may want to override: `head_custom.html` and `foot_custom.html`. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
-<span style="color:darkblue"> Related papers on this topic:</span>
+**Topic 1: Online Combinatorial Auctions in Cloud Computing**
+
+This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+
+**Topic 2: Posted Price Mechanisms for Online Resource Allocation**
+
+This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+
+<span style="color:darkblue"> Related papers:</span>
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach”, preprint.
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, IEEE Journal of Selected Areas in Communications, in press. 
+
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, `IEEE Journal of Selected Areas in Communications`, in press. 
+
+## 3. Online Learning and Sequential Decision-Making
+
+There are two layout files under `layouts/partials/` that you may want to override: `head_custom.html` and `foot_custom.html`. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+
+<span style="color:darkblue"> Related papers:</span>
+
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, `IEEE Journal of Selected Areas in Communications`, in press. 
