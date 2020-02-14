@@ -6,9 +6,11 @@ title: Research
 <img src="/img/overview.png" style="max-width:33%; min-width:330px; float: right" alt="Xiaoqi Tan"/>
 
 
-My research centers around the design of efficient decisions for resource allocation and scheduling in networked systems. My research is primarily driven by the following question
+My research centers around the design of efficient decisions for resource allocation and scheduling in networked systems. My research is primarily driven by the following intrigue question:
 
-`How to manage the resources and services in networked systems in the face of  strategic user behaviors and uncertain future information?`
+<span style="color:darkblue"> 
+How to improve the performance of resource allocation and scheduling in networked systems in the face of **strategic user behaviors** and **uncertain future information**?
+</span>
 
 To answer this question, I study the interplay between incentives, algorithms, and learning. In particular, my research focuses both on developing analytical techniques in `mechanism design`, `online algorithms`, and `machine learning`, and applying these techniques to application domains such as `cloud computing`, `communication networks`, and `energy systems`.  The long term goal of my research is to provide insights into how to tackle societal challenges such as energy sustainability, network security, traffic congestion, and climate change.  
 
