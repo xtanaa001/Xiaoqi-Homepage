@@ -6,13 +6,13 @@ title: Research
 <img src="/img/overview.png" style="max-width:25%; min-width:350px; float: right" alt="Xiaoqi Tan"/>
 
 
-My research centers on addressing the challenges emerging from the design and operation of real-world networked systems arise from cloud computing, communication networks, and energy systems.  The key research question that drives my research is as follows: 
+My research centers on resource allocation and scheduling in networked systems. Examples of application domains include cloud computing, communication networks, and energy systems.  The central theme of my research is driven by the following question
 
 <span style="color:darkblue"> 
 How to perform better **online decision-making** in managing networked systems in the presence of  **strategic behaviors**  and  **information uncertainty**?
 </span>
 
-To answer the above two questions, I study the interplay between incentives, algorithms, and learning.  I believe solutions to the above problem can help us gain insights into how to tackle many societal challenges that include  energy sustainability, network security, traffic congestion, and climate change.
+To answer the above two questions, I study the interplay between mechanism design, online algorithms, and machine learning.  I believe solutions to the above problem can help us gain insights into how to tackle many societal challenges that include  energy sustainability, network security, traffic congestion, and climate change.  
 
 ---
 

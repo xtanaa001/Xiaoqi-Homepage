@@ -19,8 +19,6 @@ I study the interplay between mechanism design, online algorithms, and machine l
 ---
 ## Recent Publications
 
-For complete list of publications, please click [here](/publications) or my [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en/).
-
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Orchestration of Virtual Network Functions: A Mechanism Design Approach", preprint.
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs", preprint.
@@ -32,6 +30,8 @@ For complete list of publications, please click [here](/publications) or my [Goo
 > - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction](/documents/PPR-JSAC-2020.pdf)”, `IEEE Journal of Selected Areas in Communications`, vol. 38, no. 1, pp. 5-16, Jan. 2020. [[Technical Report]](/documents/jsac_pprTE_report.pdf)
 
 > -  B. Sun, **X. Tan**, and D.H.K. Tsang, “[Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach](/documents/MDF_mechanism_TPS.pdf)”, `IEEE Transactions on Power Systems`, vol. 34, no. 5, pp. 4038–4047, Sept. 2019.
+
+For complete list of publications, please click [here](/publications) or my [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en/).
 
 ---
 ## Contact
