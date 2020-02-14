@@ -16,7 +16,7 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 
 I study the interplay between incentives, algorithms, and learning, with a focus on applications in networked systems. 
 
-More specifically, my research focuses both on developing analytical techniques in `mechanism design`, `online algorithms`, and `machine learning`, and applying these techniques to improve the performance of resource allocation and scheduling in `cloud computing`, `computer networking`, and `energy systems`. 
+More specifically, my research focuses both on developing analytical techniques in `mechanism design`, `online algorithms`, and `machine learning`, and applying these techniques to improve the performance of resource allocation and scheduling in networked systems such as `cloud computing`, `computer networking`, and `energy systems`. 
 
 ---
 ## Recent Publications
