@@ -16,7 +16,7 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 
 I study the interplay between incentives, algorithms, and learning, with a focus on applications in networked systems. 
 
-More specifically, my research focuses both on developing analytical techniques in `mechanism design`, `online algorithms`, and `machine learning`, and applying these techniques to improve the performance of resource allocation and scheduling in networked systems such as `cloud computing`, `computer networking`, and `energy systems`. 
+More specifically, my research focuses both on developing analytical techniques in `mechanism design`, `online algorithms`, and `machine learning`, and applying these techniques to improve the performance of resource allocation and scheduling in networks of interacting and strategic agents. Applications  of my current research include `cloud computing`, `computer networking`, and `energy systems`. 
 
 ---
 ## Recent Publications
@@ -30,8 +30,6 @@ More specifically, my research focuses both on developing analytical techniques 
 > - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits](/documents/OCA-JSAC-2020.pdf)”, `IEEE Journal of Selected Areas in Communications`, in press.  [[Earlier Version]](https://www.sigmetrics.org/mama/abstracts/Tan.pdf) [[Technical Report]](/documents/jsac_sdp_report.pdf)
     
 > - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction](/documents/PPR-JSAC-2020.pdf)”, `IEEE Journal of Selected Areas in Communications`, vol. 38, no. 1, pp. 5-16, Jan. 2020. [[Technical Report]](/documents/jsac_pprTE_report.pdf)
-
-> -  B. Sun, **X. Tan**, and D.H.K. Tsang, “[Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach](/documents/MDF_mechanism_TPS.pdf)”, `IEEE Transactions on Power Systems`, vol. 34, no. 5, pp. 4038–4047, Sept. 2019.
 
 For complete list of publications, please click [here](/publications) or my [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en/).
 
