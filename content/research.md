@@ -6,7 +6,9 @@ title: Research
 <img src="/img/overview.png" style="max-width:25%; min-width:350px; float: right" alt="Xiaoqi Tan"/>
 
 
-My research centers on resource allocation and scheduling in networked systems. Examples of application domains include cloud computing, communication networks, and energy systems.  The central theme of my research is driven by the following question
+My research centers around resource allocation and scheduling in networked systems. More specifically, my research focuses both on developing analytical techniques in mechanism design, online algorithms, and machine learning, and applying these techniques to application domains such as cloud computing, communication networks, and energy systems.  
+
+The central theme of my research is driven by the following question
 
 <span style="color:darkblue"> 
 How to perform better **online decision-making** in managing networked systems in the presence of  **strategic behaviors**  and  **information uncertainty**?
