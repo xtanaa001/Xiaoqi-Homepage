@@ -25,14 +25,12 @@ title: Resume
 
 ## Teaching
 
-> **Course Instructor (Guest Lecturer) at HKUST**:
+> - **Course Instructor (Guest Lecturer) at HKUST**:
+    - Current and Emerging Technologies in Telecommunications (EESM5900F), Spring 2017.
 
-> - Current and Emerging Technologies in Telecommunications (EESM5900F), Spring 2017.
-
-> **Teaching Assistant at HKUST**:
-
-> - Computer Communication Networks (ELEC4120), Spring 2012, Fall 2013.
-> - A System View of Communications: from Signals to Packets (ELEC1200), Spring 2013.
+> - **Teaching Assistant at HKUST**:
+    - Computer Communication Networks (ELEC4120), Spring 2012, Fall 2013.
+    - A System View of Communications: from Signals to Packets (ELEC1200), Spring 2013.
 
 ## Talks
 
@@ -65,27 +63,23 @@ title: Resume
 
 ## Professional Services
 
-> **Technical Reviewer for the Following Journals**:
+> - **Technical Reviewer for the Following Journals**:
+    - IEEE Network
+    - Computers & Operations Research.
+    - IEEE/ACM Transactions on Networking
+    - IEEE Transactions on Wireless Communication
+    - IEEE Transactions on Industrial Informatics
+    - IEEE Transactions on Power System
+    - IEEE Transactions on Smart Grid
+    - IEEE Transactions on Cybernetics
+    - IEEE Transactions on Vehicular Technology
+    - IEEE Transactions on Sustainable Energy
+    - IEEE Transactions on Intelligent Transportation Systems
+    - International Journal of Electrical Power & Energy Systems
 
->
-- IEEE Network
-- Computers & Operations Research.
-- IEEE/ACM Transactions on Networking
-- IEEE Transactions on Wireless Communication
-- IEEE Transactions on Industrial Informatics
-- IEEE Transactions on Power System
-- IEEE Transactions on Smart Grid
-- IEEE Transactions on Cybernetics
-- IEEE Transactions on Vehicular Technology
-- IEEE Transactions on Sustainable Energy
-- IEEE Transactions on Intelligent Transportation Systems
-- International Journal of Electrical Power & Energy Systems
-
-> **Technical Reviewer for the Following Conferences**:
-
->
-- IEEE International Conference on Smart Grid Communication
-- IEEE Power & Energy Society General Meeting
-- IEEE International Conference on Communication
-- IEEE Global Communications Conference
-- International Teletraffic Congress
+> - **Technical Reviewer for the Following Conferences**:
+    - IEEE International Conference on Smart Grid Communication
+    - IEEE Power & Energy Society General Meeting
+    - IEEE International Conference on Communication
+    - IEEE Global Communications Conference
+    - International Teletraffic Congress
