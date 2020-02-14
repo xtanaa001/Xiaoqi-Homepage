@@ -4,11 +4,11 @@ description: This is the abstract
 ---
 
 
-<img src="/img/overview.png" style="max-width:20%; min-width:310px; float: right" alt="Xiaoqi Tan"/>
+[comment]: # (<img src="/img/overview.png" style="max-width:20%; min-width:310px; float: right" alt="Xiaoqi Tan"/>)
 
 Much of the modern world is networks of interacting and self-interested agents.  Managing resources and services in these networked systems faces two separate, but interrelated, challenges. First, in any system, an optimal resource allocation and scheduling decision, whether that be defined as an efficient allocation of computing resources in the clouds or a routing strategy in computer networks, are often computed by solving a potentially difficult optimization problem with <span style="color:darkblue"> uncertain future information</span>. Second, and often more difficult, the implementation of any optimal decision must involve a collective <span style="color:darkblue"> strategic user behaviors</span>, as a result,  we must design appropriate incentives to encourage interaction so that the optimal decisions can be implemented in real networked systems and platforms. 
 
-To tackle these two challenges, I study the interplay between incentives, algorithms, and learning. In particular, my research focuses both on developing analytical techniques in `mechanism design`, `online algorithms`, and `machine learning`, and applying these techniques to application domains such as `cloud computing`, `computer networking`, and `energy systems`. I believe that solutions to alleviate or resolve these research challenges provide insights into how to tackle many societal challenges such as computing efficiency, cyber security, energy sustainability, traffic congestion, and climate change, etc.
+To tackle these two challenges, I study the interplay between incentives, algorithms, and learning. More specifically, my research focuses both on developing analytical techniques in [mechanism design](/research/#mechanism_design), [online algorithms](/research/#online_algorithms), and [machine learning](/research/#machine_learning), and applying these techniques to application domains such as <span style="color:darkblue">cloud computing</span>, <span style="color:darkblue">computer networking</span>, and <span style="color:darkblue">energy systems</span>. I believe that solutions to alleviate or resolve these research challenges provide insights into how to tackle many societal challenges such as computing efficiency, cyber security, energy sustainability, traffic congestion, and climate change, etc.
 
 ---
 
