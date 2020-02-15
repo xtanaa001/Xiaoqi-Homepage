@@ -25,45 +25,45 @@ title: Resume
 
 ## Teaching
 
-> - **Course Instructor (Guest Lecturer) at HKUST**:
+> - <span style="color:darkblue">**Course Instructor (Guest Lecturer) at HKUST**</span>:
     - Current and Emerging Technologies in Telecommunications (EESM5900F), Spring 2017.
 
-> - **Teaching Assistant at HKUST**:
+> - <span style="color:darkblue">**Teaching Assistant at HKUST**</span>:
     - Computer Communication Networks (ELEC4120), Spring 2012, Fall 2013.
     - A System View of Communications: from Signals to Packets (ELEC1200), Spring 2013.
 
 ## Talks
 
 >
-- **Online Resource Allocation with Supply Costs and Capacity Limits**
+- <span style="color:darkblue">**Online Resource Allocation with Supply Costs and Capacity Limits**</span>
   - Central South University, Changsha, China, Feb 2020.
   - Southest University, Nanjing, China, January 2020. 
   - Nanjing University of Astraunatns and Aerospace, Nanjing, China, January 2020. 
   - Zhejiang University of Technology, Hangzhou, China, January 2020.  
 >
-- **Enabling Intelligent Decision-Making in Smart Cities: When Internet of Things Meets Multi-Agent Systems**
+- <span style="color:darkblue">**Enabling Intelligent Decision-Making in Smart Cities: When Internet of Things Meets Multi-Agent Systems**</span>
   - The 10th CASCON Workshop on Cloud Computing, Toronto, 30 October 2018.
 >
-- **Value-Lifetime Tradeoff Analysis for Battery Energy Storage in Dynamic Electricity Market**, 
+- <span style="color:darkblue">**Value-Lifetime Tradeoff Analysis for Battery Energy Storage in Dynamic Electricity Market**</span> 
   - Zhejiang University of Technology, Hangzhou, China, 2015.
 >
-- **Model Predictive Control of Integrated Room Automation Considering Occupants Preference**
+- <span style="color:darkblue">**Model Predictive Control of Integrated Room Automation Considering Occupants Preference**</span>
   - IEEE SmartGridComm, Miami, USA, 2015.
 >
-- **Optimal Energy Trading with Battery Energy Storage under Dynamic Pricing**
+- <span style="color:darkblue">**Optimal Energy Trading with Battery Energy Storage under Dynamic Pricing**</span>
   - IEEE SmartGridComm, Venice, Italy, 2014.
 >
-- **Queueing Network Models for Electric Vehicle Charging Station with Battery Swapping**
+- <span style="color:darkblue">**Queueing Network Models for Electric Vehicle Charging Station with Battery Swapping**</span>
   - IEEE SmartGridComm, Venice, Italy, 2014.
   - Green Computing Seminar Series, HKUST, Hong Kong, 2014.
 >
-- **Economic Analysis of Lifetime-Constrained Battery Energy Storage under Dynamic Pricing**
+- <span style="color:darkblue">**Economic Analysis of Lifetime-Constrained Battery Energy Storage under Dynamic Pricing**</span>
   - IEEE SmartGridComm, Vancouver, Canada, 2013.
 
 
 ## Professional Services
 
-> - **Technical Reviewer for the Following Journals**:
+> - <span style="color:darkblue">**Technical Reviewer for the Following Journals**</span>:
     - IEEE Network
     - Computers & Operations Research.
     - IEEE/ACM Transactions on Networking
@@ -77,7 +77,7 @@ title: Resume
     - IEEE Transactions on Intelligent Transportation Systems
     - International Journal of Electrical Power & Energy Systems
 
-> - **Technical Reviewer for the Following Conferences**:
+> - <span style="color:darkblue">**Technical Reviewer for the Following Conferences**</span>:
     - IEEE International Conference on Smart Grid Communication
     - IEEE Power & Energy Society General Meeting
     - IEEE International Conference on Communication

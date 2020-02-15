@@ -27,14 +27,14 @@ More specifically, my research focuses both on developing analytical techniques 
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach", preprint.
 
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits](/documents/OCA-JSAC-2020.pdf)”, `IEEE Journal of Selected Areas in Communications`, in press.  [[Earlier Version]](https://www.sigmetrics.org/mama/abstracts/Tan.pdf) [[Technical Report]](/documents/jsac_sdp_report.pdf)
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits](/documents/OCA-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, in press.  [[Earlier Version]](https://www.sigmetrics.org/mama/abstracts/Tan.pdf) [[Technical Report]](/documents/jsac_sdp_report.pdf)
     
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction](/documents/PPR-JSAC-2020.pdf)”, `IEEE Journal of Selected Areas in Communications`, vol. 38, no. 1, pp. 5-16, Jan. 2020. [[Technical Report]](/documents/jsac_pprTE_report.pdf)
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction](/documents/PPR-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020. [[Technical Report]](/documents/jsac_pprTE_report.pdf)
 
 For complete list of publications, please click [here](/publications) or my [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en/).
 
 ---
-## Contact
+## <a id="contact"></a> Contact
  
 **Office**: [7137 Bahen Centre, 40 St. George Street, Toronto, Ontario M5S 2E4, Canada](https://goo.gl/maps/vfCbo1zuws5Wspzu8).\\
 **Email**: `$\textsf{xiaoqi.tan}@\textsf{utoronto.ca}$`, (My first name "Xiaoqi" is pronounced as “Shiao-Chee”).
