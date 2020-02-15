@@ -12,11 +12,11 @@ I am a postdoc at the [Dept. of ECE](https://www.ece.utoronto.ca), [University o
 Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer engineering from the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).
 
 ---
-## Research Summary
+## Research Interests
 
-I study the interplay between online decision-making and mechanism design for networked systems.  
+My research focuses both on developing analytical techniques in [online algorithms](/research/#online_algorithms), [mechanism design](/research/#mechanism_design), and [machine learning](/research/#machine_learning), and applying these techniques to [networked systems and platforms](/research/#research_overview) arising from application domains such as cloud computing, computer networking, and energy systems.
 
-*In more detail*: my research centers around the design of algorithms and incentives for networked systems of interacting and possibly self-interested agents. More specifically, my research focuses both on developing analytical techniques in online algorithms, mechanism design, and machine learning, and applying these techniques to  application domains such as cloud computing, computer networking, and energy systems.
+[comment]: # (*In more detail*: my research centers around the design of algorithms and incentives for networked systems of interacting and possibly self-interested agents. More specifically, my research focuses both on developing analytical techniques in online algorithms, mechanism design, and machine learning, and applying these techniques to  application domains such as cloud computing, computer networking, and energy systems.)
 
 ---
 ## Recent Publications
