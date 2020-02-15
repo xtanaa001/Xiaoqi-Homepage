@@ -14,9 +14,9 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 ---
 ## Research Summary
 
-My research lies in online decision-making and mechasnim design for networked systems.  
+My research centers around online decision-making and mechasnim design for networked systems.  
 
-In more detail: my research focuses both on developing analytical techniques in online algorithms, mechanism design, and machine learning, and applying these techniques to  application domains such as cloud computing, computer networking, and energy systems.
+`In more detail`: my research focuses both on developing analytical techniques in online algorithms, mechanism design, and machine learning, and applying these techniques to  application domains such as cloud computing, computer networking, and energy systems.
 
 ---
 ## Recent Publications

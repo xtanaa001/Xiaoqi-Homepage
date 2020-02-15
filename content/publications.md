@@ -2,21 +2,7 @@
 title: Publications
 --- 
 
-## Selected Papers
 
-> 1. **X. Tan**, A. Leon-Garcia, et al., ‘‘Orchestration of Virtual Network Functions: A Mechanism Design Approach", preprint. 
-
-> 1. **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs", preprint.
-1. **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach", preprint.
-1. **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits](/documents/OCA-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, in press.  [[Earlier Version]](https://www.sigmetrics.org/mama/abstracts/Tan.pdf) [[Technical Report]](/documents/jsac_sdp_report.pdf)
-1. **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction](/documents/PPR-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020. [[Technical Report]](/documents/jsac_pprTE_report.pdf)
-1. **X. Tan**, G. Qu, B. Sun, N. Li, and D.H.K. Tsang, “[Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping](/documents/bcs_scheduling_ev_tsg.pdf)”, *IEEE Transactions on Smart Grid*, vol. 10, no. 2, pp. 1372-1384, March 2019.
-1. **X. Tan**, B. Sun, Y. Wu and D.H.K. Tsang, “[Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles](/documents/bscs_queuing_pe.pdf)”, *Performance Evaluation (Elsevier)*, vol. 119, pp. 43-57, March 2018.
-1. **X. Tan**, Y. Wu and D.H.K. Tsang, “[A Stochastic Shortest Path Framework for Quantifying the Value and Lifetime of Battery Energy Storage under Dynamic Pricing](/documents/ssp_bess_tsg.pdf)”, *IEEE Transactions on Smart Grid*, vol. 8, no. 2, pp. 769-778, March 2017. 
-1. **X. Tan**, Y. Wu and D.H.K. Tsang, “[Pareto Optimal Operation of Distributed Battery Energy Storage Systems for Energy Arbitrage under Dynamic Pricing](/documents/pareto_bess_tpds.pdf)”, *IEEE Transactions on Parallel and Distributed Systems*, Vol. 27, No. 7, pp. 2103-2115, July 2016.
-
-
---- 
 ## Journal Papers
 
 > - <span style="color:Gray"> **X. Tan**, A. Leon-Garcia, et al., "Orchestration of Virtual Network Functions: A Mechanism Design Approach", preprint. </span>
