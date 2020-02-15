@@ -3,7 +3,7 @@ title: Home
 ---
 
 
-[<img src="/img/xiaoqi.png" style="max-width:12%;min-width:100px;float:right" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
+[<img src="/img/xiaoqi.png" style="max-width:12%;min-width:120px;float:right" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
 
 ## Xiaoqi Tan's Bio
 
@@ -14,9 +14,9 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 ---
 ## Research Summary
 
-I study the interplay between incentives, algorithms, and learning, with a focus on applications in networked systems. 
+I study the interplay between online decision-making and incentives, with a focus on applications in networked systems and platforms. 
 
-More specifically, my research focuses both on developing analytical techniques in `mechanism design`, `online algorithms`, and `machine learning`, and applying these techniques to improve the performance of resource allocation and scheduling in networks of interacting and strategic agents. Applications  of my current research include `cloud computing`, `computer networking`, and `energy systems`. 
+More specifically, my research focuses both on developing analytical techniques in `online algorithms`, `mechanism design`,  and `machine learning`, and applying these techniques to improve the design and operation of networked systems and platforms arising from application domains such as `cloud computing`, `computer networking`, and `energy systems`.
 
 ---
 ## Recent Publications

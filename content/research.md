@@ -4,13 +4,16 @@ description: This is the abstract
 ---
 
 
-[comment]: # (<img src="/img/overview.png" style="max-width:20%; min-width:310px; float: right" alt="Xiaoqi Tan"/>)
+<img src="/img/overview.png" style="max-width:30%; min-width:300px; float: right" alt="Xiaoqi Tan"/>
 
-Much of the modern world is networks of interacting and self-interested agents.  Managing resources and services in these networked systems faces two separate, but interrelated, challenges. First, in any system, an optimal resource scheduling decision, whether that be defined as an allocation of computing resources in the clouds or network resources in computer networks, are often computed by solving a potentially difficult optimization problem with <span style="color:darkblue"> incomplete knowledge of the future</span>, e.g., random job arrivals in the clouds or volatile renewable energy generation in the power grids. Second, and often more difficult, the implementation of any optimal decision must involve <span style="color:darkblue">a collective behavior of agents that are often self-interested and strategic</span>, as a result,  we must design appropriate incentives to encourage agent interactions so that the optimal decisions can actually be implemented in real networked systems and platforms. 
+Much of the modern world is networks of interacting and self-interested agents.  Managing resources and services in these networked systems faces two separate, but interrelated, challenges. First, in any system, a good decision, whether that be defined as an algorithm for resource allocation in the clouds, a strategy for  traffic routing in computer networks, or a policy for electricity distribution in power grids, are often computed with <span style="color:darkblue"> incomplete knowledge of the future</span>, e.g., random job arrivals in cloud computing or volatile renewable energy generation in energy systems. Second, and often more difficult, the implementation of any decision must involve <span style="color:darkblue">a collective behavior of agents that are often self-interested and strategic</span>, as a result,  we must design appropriate incentives, commonly studied in the field of mechanism design, to encourage agent interactions (towards a desired direction) so that the decisions can be implemented in real-world networked systems and platforms. 
 
-To tackle these two challenges, I study the interplay between incentives, algorithms, and learning. More specifically, my research focuses both on developing analytical techniques in [mechanism design](/research/#mechanism_design), [online algorithms](/research/#online_algorithms), and [machine learning](/research/#machine_learning), and applying these techniques to application domains such as <span style="color:darkblue">cloud computing</span>, <span style="color:darkblue">computer networking</span>, and <span style="color:darkblue">energy systems</span>.  I believe that investigation of how to approach these two research challenges can provide insights into how to tackle more momentous societal challenges such as cyber security, energy sustainability, traffic congestion, and climate change, etc.
+My research aims to tackle these two challenges and centers around understanding the interplay between **online decision-making**  and  **incentives**. More specifically, my research focuses both on developing analytical techniques in [online algorithms](/research/#online_algorithms), [mechanism design](/research/#mechanism_design), and [machine learning](/research/#machine_learning), and applying these techniques to improve the design and operation of networked systems and platforms arising from application domains such as <span style="color:darkblue">cloud computing</span>, <span style="color:darkblue">computer networking</span>,  and <span style="color:darkblue">energy systems</span>.   I believe that investigation of how to approach these two research challenges can provide insights into how to tackle more momentous societal challenges such as cyber security, energy sustainability, and climate change, etc. 
 
-[comment]: # (I believe that solutions to alleviate or resolve these research challenges provide insights into how to tackle many societal challenges such as computing efficiency, cyber security, energy sustainability, traffic congestion, and climate change, etc.)
+
+[comment]: # (I believe that solutions to alleviate or resolve these research challenges provide insights into how to tackle many societal challenges such as computing efficiency, cyber security, energy sustainability, traffic congestion, and climate change, etc. )
+
+[comment]: # (For examples, how incentives influence the behavior of self-interested agents, and thus the peformance of online decisions? how online decisions influence the outcome of incentives if there exist zero knowledge of future information? )
 
 ---
 
@@ -75,7 +78,7 @@ This is how you inject arbitrary HTML code to the head and foot areas. For examp
 
 ---
 
-## 4. <a id="machine_learning"></a>  Online Learning
+## 4. <a id="machine_learning"></a>  Online Learning and Sequential Decision-Making
 
 There are two layout files under `layouts/partials/` that you may want to override: `head_custom.html` and `foot_custom.html`. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
