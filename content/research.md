@@ -6,9 +6,10 @@ description: This is the abstract
 
 <img src="/img/overview.png" style="max-width:30%; min-width:330px; float: right" alt="Xiaoqi Tan"/>
 
-Our world comprises ubiquitous platforms providing resources and services for systems of interacting and self-interested agents.  Managing resources and services in these networked systems and platforms faces two separate, but interrelated, challenges. First, in any system, a good decision, whether that be defined as an algorithm for resource allocation in the clouds, a strategy for  traffic routing in the Internet, or a policy for electricity distribution in power grids, are often computed by solving some explicit or implicit optimization problems with *incomplete knowledge of the future*. Thus, making decisions in an online fashion (with or without prediction) is, in many cases, not just an advantage, but a necessity. Second, and often more difficult, the performance of a platform (e.g., revenue or welfare) often depends on *a collective behavior of its agents that are self-interested* (and thus, not directly controallable by the platform). As a result,  we must design appropriate incentives to encourage agent interactions, towards a desired direction, so that the decisions can be implemented with a guaranteed efficiency and rationality (e.g., users are not forced to purchase virtual machines from the cloud platform). 
+Many platform-based services are carried out by providing resources or products  for networked systems of interacting and self-interested agents.  Managing resources in these networked systems faces two separate, but interrelated, challenges. First, in any system, a good decision, whether that be defined as an algorithm for resource allocation in the clouds, a strategy for  traffic routing in the Internet, or a policy for electricity distribution in power grids, are often computed by solving some explicit or implicit optimization problems with *incomplete knowledge of the future*. Thus, making decisions in an online fashion (with or without prediction) is, in many cases, not just an advantage, but a necessity. Second, and often more difficult, the performance of a platform (e.g., revenue or welfare) often depends on *a collective behavior of its agents that are self-interested* (and thus, not directly controallable by the platform). As a result,  we must design appropriate incentives to encourage agent interactions, towards a desired direction, so that the decisions can be implemented with a guaranteed efficiency and rationality (e.g., users are not forced to purchase virtual machines from the cloud platform). 
 
-Motivated by these two challenges, my research  centers around the design of incentives and algorithms for networked systems and platforms. In particular, I study the interplay between online decision-making  and  incentives, and focus both on developing analytical techniques in [online algorithms](/research/#online_algorithms), [mechanism design](/research/#mechanism_design), and [machine learning](/research/#machine_learning), and applying these techniques to improve the design and operation of networked systems and platforms arising from application domains such as cloud computing, computer networking,  and energy systems. I believe that solutions to these two research challenges can provide insights into how to tackle more momentous societal challenges such as cyber security, energy sustainability, and climate change, etc. 
+
+Motivated by these two challenges, my research  centers around the design of incentives and algorithms for networked systems and platforms. In particular, I study the interplay between *online decision-making*  and  *incentives*, and focus both on developing analytical techniques in *online algorithms*, *mechanism design*, and *machine learning*, and applying these techniques to improve the design and operation of networked systems and platforms arising from application domains such as *cloud computing*, *computer networking*,  and *energy systems*. I believe that solutions to these two research challenges can provide insights into how to tackle more momentous societal challenges such as cyber security, energy sustainability, and climate change, etc. 
 
 
 [comment]: # (I believe that solutions to alleviate or resolve these research challenges provide insights into how to tackle many societal challenges such as computing efficiency, cyber security, energy sustainability, traffic congestion, and climate change, etc. e.g., random job arrivals in cloud computing or volatile renewable energy generation in energy systems. The design of economic incentives, termed as mechanism design, sits at the intersection of artificial intelligence and economics, and has led to transformative applications in various domains such as online advertising and on-demand service platforms. My research)
@@ -21,12 +22,12 @@ Motivated by these two challenges, my research  centers around the design of inc
 
 There are two layout files under `layouts/partials/` that you may want to override: `head_custom.html` and `foot_custom.html`. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
-<span style="color:darkblue">**Posted Price Mechanisms**</span>. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+_**Posted Price Mechanisms**_. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
-<span style="color:darkblue">**Online Combinatorial Auctions**</span>. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+_**Online Combinatorial Auctions**_. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
 
-<span style="color:darkblue"> **App 1: Electric Vehicle Charging  in Smart Grid**</span>. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+_**App 1: Electric Vehicle Charging  in Smart Grid**_. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
 <img src="/img/three_layer_smart_cities.png" style="max-width:80%; min-width:300px; float: center" alt="Xiaoqi Tan"/>
 
@@ -45,11 +46,11 @@ I am most excited by problems where theoretic results provide rich insights into
 
 This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. 
 
-<span style="color:darkblue"> **App 2: Resource Allocation in Computer Networks**</span>. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+_**App 2: Resource Allocation in Computer Networks**_. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
 This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
-<span style="color:darkblue"> **App 3: Vehicle Routing in Transportation Networks**</span>. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+_**App 3: Vehicle Routing in Transportation Networks**_. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
 $$ \psi'(p) = \frac{1}{\varphi'\left(\varphi^{-1}(p)\right)} = \frac{1}{\varphi'(y)}. $$
 
@@ -66,7 +67,7 @@ This is how you inject arbitrary HTML code to the head and foot areas. This is h
 I am most excited by problems where theoretic results provide rich insights into the design of real-world platforms. For instance, a large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information. 
 
 
-<span style="color:darkblue"> **App 2: Resource Allocation in Computer Networks**</span>. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+_**App 2: Resource Allocation in Computer Networks**_. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
 This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 

@@ -4,14 +4,14 @@ title: Resume
 
 ## Employment
 >
-- Postdoctoral Fellow in ECE, University of Toronto, Toronto, ON, Canada, 07/2018-Present.
-- Postdoctoral Fellow in ECE, HKUST, Clear Water Bay, Kowloon, Hong Kong SAR, China, 02/2018-06/2018.
+- *Postdoctoral Fellow* in ECE, University of Toronto, Toronto, ON, Canada, 07/2018-Present.
+- *Postdoctoral Fellow* in ECE, HKUST, Clear Water Bay, Kowloon, Hong Kong SAR, China, 02/2018-06/2018.
 
 ## Education
 >
-- Ph.D. in ECE, HKUST, Clear Water Bay, Kowloon, Hong Kong SAR, China, 09/2012–01/2018.
-- Visiting Research Fellow in EE@SEAS, Harvard University, Cambridge, MA, USA, 10/2015–05/2016.
-- B.Eng. in Information Engineering, Xi'an Jiaotong University, Xi'an, China, 09/2008-06/2012.
+- *Ph.D.* in ECE, HKUST, Clear Water Bay, Kowloon, Hong Kong SAR, China, 09/2012–01/2018.
+- *Visiting Research Fellow* in EE@SEAS, Harvard University, Cambridge, MA, USA, 10/2015–05/2016.
+- *B.Eng.* in Information Engineering, Xi'an Jiaotong University, Xi'an, China, 09/2008-06/2012.
 
 ## Selected Awards
 >
