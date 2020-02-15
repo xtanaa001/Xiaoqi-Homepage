@@ -33,8 +33,8 @@ There are two layout files under `layouts/partials/` that you may want to overri
 ### Related Papers
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach”, preprint.
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, `IEEE Journal of Selected Areas in Communications`, in press. 
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, `IEEE Journal of Selected Areas in Communications`, vol. 38, no. 1, pp. 5-16, Jan. 2020.
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, *IEEE Journal of Selected Areas in Communications*, in press. 
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020.
 
 ---
 
@@ -73,7 +73,7 @@ This is how you inject arbitrary HTML code to the head and foot areas. For examp
 ### Related Papers
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Scheduling of Continuous Resources with Time Flexibility and Convex Supply Costs”, preprint.
-> - **X. Tan**, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, “[A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals](/documents/e_energy_19.pdf)”, [Extended Abstract], `in Proceedings of ACM e-Energy`, 2019.
+> - **X. Tan**, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, “[A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals](/documents/e_energy_19.pdf)”, [Extended Abstract], *in Proceedings of ACM e-Energy*, 2019.
 
 
 ---
@@ -84,4 +84,4 @@ There are two layout files under `layouts/partials/` that you may want to overri
 
 ### Related Papers
 
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, `IEEE Journal of Selected Areas in Communications`, in press. 
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, *IEEE Journal of Selected Areas in Communications*, in press. 
