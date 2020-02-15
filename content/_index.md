@@ -16,7 +16,7 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 
 I study the interplay between online decision-making and mechanism design for networked systems.  
 
-`In more detail`: my research focuses both on developing analytical techniques in online algorithms, mechanism design, and machine learning, and applying these techniques to  application domains such as cloud computing, computer networking, and energy systems.
+`In more detail`: my research centers around the design of algorithms and incentives for networked systems of interacting and possibly self-interested agents. More specifically, my research focuses both on developing analytical techniques in online algorithms, mechanism design, and machine learning, and applying these techniques to  application domains such as cloud computing, computer networking, and energy systems.
 
 ---
 ## Recent Publications
