@@ -9,7 +9,7 @@ description: This is the abstract
 Many platform-based services are carried out by distributing resources  to networks of interacting and self-interested agents.  Managing resources in these networked systems and platforms faces two separate, but interrelated, challenges. First, in any system, a good decision, whether that be defined as an algorithm for computing resource scheduling in the clouds, a strategy for  traffic routing in the Internet, or a policy for electricity distribution in power grids, are often computed by solving some explicit or implicit optimization problems with *incomplete knowledge of the future*. Thus, making decisions in an online fashion (with or without prediction) is, in many cases, not just an advantage, but a necessity. Second, and often more difficult, the performance of platforms (e.g., revenue or welfare) often depends on *a collective behavior of agents that are self-interested* (and thus, not directly controllable by the platform). As a result,  we must design appropriate incentives to encourage agent interactions, towards a desired direction, so that the decisions can be implemented with a guaranteed efficiency and rationality (e.g., users are not forced to purchase virtual machines from the cloud platform). 
 
 
-Motivated by these two challenges, my research  centers around the design of incentives and algorithms for networked systems and platforms. In particular, I study the interplay between *online decision-making*  and  *incentives*, and focus both on developing analytical techniques in *online algorithms*, *mechanism design*, and *machine learning*, and applying these techniques to improve the design and operation of networked systems and platforms arising from application domains such as *cloud computing*, *computer networking*,  and *energy systems*. I believe that solutions to these two research challenges can provide insights into how to tackle more momentous societal challenges such as cyber security, energy sustainability, and climate change, etc. 
+Motivated by these two challenges, my research  centers around the *interplay between online decision-making  and  incentives* for networked systems and platforms. In particular, my research focuses both on developing analytical techniques in *online algorithms*, *mechanism design*, and *machine learning*, and applying these techniques to improve the design and operation of networked systems and platforms arising from application domains such as *cloud computing*, *computer networking*,  and *energy systems*. I believe that solutions to these two research challenges can provide insights into how to tackle more momentous societal challenges such as cyber security, energy sustainability, and climate change, etc. 
 
 
 [comment]: # (I believe that solutions to alleviate or resolve these research challenges provide insights into how to tackle many societal challenges such as computing efficiency, cyber security, energy sustainability, traffic congestion, and climate change, etc. e.g., random job arrivals in cloud computing or volatile renewable energy generation in energy systems. The design of economic incentives, termed as mechanism design, sits at the intersection of artificial intelligence and economics, and has led to transformative applications in various domains such as online advertising and on-demand service platforms. My research)
@@ -18,31 +18,7 @@ Motivated by these two challenges, my research  centers around the design of inc
 
 ---
 
-## 1. <a id="mechanism_design"></a> Mechanism Design
-
-Research in mechanism design, a subfield of *artificial intelligence*, *economics*, and *game theory*, has led to transformative applications in online marketplaces such as online advertising. In mechainism design, the designer takes an objective-oriented approach to design mechanisms that incentivize self-interested agents/players to follow a certain pattern so as to achieve a desired collective behaivor, assuming that all the agents are rational. 
-
-In this research thrust, we are interested in developing mechanisms that 
-
-
-*Posted Price Mechanisms*. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
-
-*Online Combinatorial Auctions*. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
-
-
-_**App 1: Electric Vehicle Charging  in Smart Grid**_. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
-
-<img src="/img/three_layer_smart_cities.png" style="max-width:80%; min-width:300px; float: center" alt="Xiaoqi Tan"/>
-
-### Related Papers
-
-> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach”, preprint.
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, *IEEE Journal of Selected Areas in Communications*, in press. 
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020.
-
----
-
-## 2. <a id="online_algorithms"></a> Online Algorithms
+## 1. <a id="online_algorithms"></a> Online Algorithms
 
 I am most excited by problems where theoretic results provide rich insights into the design of real-world platforms. For instance, a large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information. 
 
@@ -67,6 +43,30 @@ This is how you inject arbitrary HTML code to the head and foot areas. This is h
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Scheduling of Continuous Resources with Time Flexibility and Convex Supply Costs”, preprint.
 > - **X. Tan**, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, “[A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals](/documents/e_energy_19.pdf)”, [Extended Abstract], *in Proceedings of ACM e-Energy*, 2019.
 
+
+---
+
+## 2. <a id="mechanism_design"></a> Mechanism Design
+
+Research in mechanism design, a subfield of *artificial intelligence*, *economics*, and *game theory*, has led to transformative applications in online marketplaces such as online advertising. In mechainism design, the designer takes an objective-oriented approach to design mechanisms that incentivize self-interested agents/players to follow a certain pattern so as to achieve a desired collective behaivor, assuming that all the agents are rational. 
+
+In this research thrust, we are interested in developing mechanisms that 
+
+
+*Posted Price Mechanisms*. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+
+*Online Combinatorial Auctions*. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+
+
+_**App 1: Electric Vehicle Charging  in Smart Grid**_. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+
+<img src="/img/three_layer_smart_cities.png" style="max-width:80%; min-width:300px; float: center" alt="Xiaoqi Tan"/>
+
+### Related Papers
+
+> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach”, preprint.
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, *IEEE Journal of Selected Areas in Communications*, in press. 
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020.
 
 ---
 
