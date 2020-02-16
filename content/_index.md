@@ -14,7 +14,7 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 ---
 ## Research Interests
 
-I study the interplay between **online decision-making** and **incentives** in networked systems and platforms.
+I study the interplay between **online decision-making** and **incentives** in **networked systems and platforms**.
 
 More specifically, my research focuses both on developing analytical techniques in [online algorithms](/research/#online_algorithms),  [mechanism design](/research/#mechanism_design), and [machine learning](/research/#machine_learning), and applying these techniques to [networked systems and platforms](/research/#research_overview) arising from application domains such as cloud computing, computer networking, and energy systems.
 
