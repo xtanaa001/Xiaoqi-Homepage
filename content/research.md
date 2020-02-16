@@ -3,10 +3,9 @@ title: Research
 description: This is the abstract
 ---
 
-
+<a id="research_overview"></a>
 <img src="/img/overview.png" style="max-width:30%; min-width:330px; float: right" alt="Xiaoqi Tan"/>
 
-<a id="research_overview"></a>
 Many platform-based services are carried out by providing resources  for networked systems of interacting and self-interested agents.  Managing resources in these networked systems faces two separate, but interrelated, challenges. First, in any system, a good decision, whether that be defined as an algorithm for computing resource scheduling in the clouds, a strategy for  traffic routing in the Internet, or a policy for electricity distribution in power grids, are often computed by solving some explicit or implicit optimization problems with *incomplete knowledge of the future*. Thus, making decisions in an online fashion (with or without prediction) is, in many cases, not just an advantage, but a necessity. Second, and often more difficult, the performance of platforms (e.g., revenue or welfare) often depends on *a collective behavior of agents that are self-interested* (and thus, not directly controllable by the platform). As a result,  we must design appropriate incentives to encourage agent interactions, towards a desired direction, so that the decisions can be implemented with a guaranteed efficiency and rationality (e.g., users are not forced to purchase virtual machines from the cloud platform). 
 
 

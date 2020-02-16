@@ -22,6 +22,12 @@ hr {
   color: #ddd;
 }
 
+
+.nav > li.current > a {
+  color: #d5d5d5 !important;
+}
+
+
 /* unvisited link */
 a:link {
   color: darkblue;
