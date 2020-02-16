@@ -5,7 +5,7 @@ title: Publications
 
 ## Journal Papers
 
-> - <span style="color:Gray"> **X. Tan**, A. Leon-Garcia, et al., "Orchestration of Virtual Network Functions: A Mechanism Design Approach", preprint. </span>
+> - <span style="color:Gray"> **X. Tan**, A. Leon-Garcia, et al., "Online Mechanism Design for Network Resource Allocation with Bounded Efficiency Loss", preprint. </span>
 - <span style="color:Gray"> **X. Tan**, A. Leon-Garcia, et al., "Online Knapsack Problems with Weight-Dependent Packing Costs", preprint. </span>
 - <span style="color:Gray"> **X. Tan**, A. Leon-Garcia, et al., "Mechanism Design for Online Resource Allocation: A Unified Approach", preprint. </span>
 [comment]: # (- <span style="color:Gray"> L. Ni, B. Sun, **X. Tan**, and D.H.K. Tsang, "Joint Demand and Energy Management in Electric Mobility-on-Demand Systems: A Reinforcement Learning-based Approach", preprint. </span> - <span style="color:Gray"> L. Ni, B. Sun, **X. Tan**, and D.H.K. Tsang, "Inventory Planning and Real-time Routing for Network of Electric Vehicle Battery Swapping Stations", preprint. </span> - <span style="color:Gray"> L. Liu, B. Sun, **X. Tan**, and D.H.K. Tsang, “Joint Resource Allocation and Subchannel Assignment for NOMA-enabled Multi-access Edge Computing”, preprint. </span> - <span style="color:Gray"> S. Wang, **X. Tan**, T. Liu, and D.H.K. Tsang, “Aggregation of Demand-Side Flexibility in Electricity Markets: Negative Impact Analysis and Mitigation Method”, preprint. </span> - <span style="color:Gray"> S. Wang, B. Sun, **X. Tan**, and D.H.K. Tsang, "Real-time Interactions between Transmission and Distribution Networks in Power Systems", preprint. </span>)

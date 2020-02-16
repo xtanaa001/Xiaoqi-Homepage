@@ -23,7 +23,7 @@ More specifically, my research focuses both on developing analytical techniques 
 ---
 ## Recent Publications
 
-> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Orchestration of Virtual Network Functions: A Mechanism Design Approach", preprint.
+> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Mechanism Design for Network Resource Allocation with Bounded Efficiency Loss", preprint.
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs", preprint.
 
