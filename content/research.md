@@ -18,16 +18,16 @@ Motivated by these two challenges, my research  centers around the design of inc
 
 ---
 
-## 1. <a id="mechanism_design"></a> Mechanism Design for Online Resource Allocation
+## 1. <a id="mechanism_design"></a> Mechanism Design
 
 Research in mechanism design, a subfield of *artificial intelligence*, *economics*, and *game theory*, has led to transformative applications in online marketplaces such as online advertising. In mechainism design, the designer takes an objective-oriented approach to design mechanisms that incentivize self-interested agents/players to follow a certain pattern so as to achieve a desired collective behaivor, assuming that all the agents are rational. 
 
 In this research thrust, we are interested in developing mechanisms that 
 
 
-_**Posted Price Mechanisms**_. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+*Posted Price Mechanisms*. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
-_**Online Combinatorial Auctions**_. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+*Online Combinatorial Auctions*. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
 
 _**App 1: Electric Vehicle Charging  in Smart Grid**_. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
@@ -42,18 +42,20 @@ _**App 1: Electric Vehicle Charging  in Smart Grid**_. This is how you inject ar
 
 ---
 
-## 2. <a id="online_algorithms"></a> Online Knapsack Problems with Packing Costs
+## 2. <a id="online_algorithms"></a> Online Algorithms
 
 I am most excited by problems where theoretic results provide rich insights into the design of real-world platforms. For instance, a large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information. 
 
 
-This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. 
+*Online Knapsack Problems with Packing Costs*. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. 
 
-_**App 2: Resource Allocation in Computer Networks**_. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+*Online Scheduling with Convex Supply Costs*. I am most excited by problems where theoretic results provide rich insights into the design of real-world platforms. For instance, a large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information. 
+
+*App 1: Resource Allocation in Computer Networks*. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
 This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
-_**App 3: Vehicle Routing in Transportation Networks**_. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+*App 2: Vehicle Routing in Transportation Networks*. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
 $$ \psi'(p) = \frac{1}{\varphi'\left(\varphi^{-1}(p)\right)} = \frac{1}{\varphi'(y)}. $$
 
@@ -62,27 +64,13 @@ This is how you inject arbitrary HTML code to the head and foot areas. This is h
 ### Related Papers
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs”, preprint.
-
----
-
-## 3. <a id="online_algorithms"></a> Online Scheduling with Convex Supply Costs
-
-I am most excited by problems where theoretic results provide rich insights into the design of real-world platforms. For instance, a large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information. 
-
-
-_**App 2: Resource Allocation in Computer Networks**_. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
-
-This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
-
-### Related Papers
-
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Scheduling of Continuous Resources with Time Flexibility and Convex Supply Costs”, preprint.
 > - **X. Tan**, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, “[A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals](/documents/e_energy_19.pdf)”, [Extended Abstract], *in Proceedings of ACM e-Energy*, 2019.
 
 
 ---
 
-## 4. <a id="machine_learning"></a>  Online Learning and Sequential Decision-Making
+## 3. <a id="machine_learning"></a>  Online Learning
 
 There are two layout files under `layouts/partials/` that you may want to override: `head_custom.html` and `foot_custom.html`. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
