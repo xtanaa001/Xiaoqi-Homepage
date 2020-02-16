@@ -14,7 +14,9 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 ---
 ## Research Interests
 
-My research focuses both on developing analytical techniques in [online algorithms](/research/#online_algorithms),  [mechanism design](/research/#mechanism_design), and [machine learning](/research/#machine_learning), and applying these techniques to [networked systems and platforms](/research/#research_overview) arising from application domains such as cloud computing, computer networking, and energy systems.
+I study the interplay between **online decision-making** and **incentives** in networked systems and platforms.
+
+More specifically, my research focuses both on developing analytical techniques in [online algorithms](/research/#online_algorithms),  [mechanism design](/research/#mechanism_design), and [machine learning](/research/#machine_learning), and applying these techniques to [networked systems and platforms](/research/#research_overview) arising from application domains such as cloud computing, computer networking, and energy systems.
 
 [comment]: # (*In more detail*: my research centers around the design of algorithms and incentives for networked systems of interacting and possibly self-interested agents. More specifically, my research focuses both on developing analytical techniques in online algorithms, mechanism design, and machine learning, and applying these techniques to  application domains such as cloud computing, computer networking, and energy systems.)
 

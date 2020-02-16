@@ -6,10 +6,9 @@ description: This is the abstract
 <a id="research_overview"></a>
 <img src="/img/overview.png" style="max-width:30%; min-width:330px; float: right" alt="Xiaoqi Tan"/>
 
-Many platform-based services are carried out by distributing resources  to networks of interacting and self-interested agents.  Managing resources in these networked systems and platforms faces two separate, but interrelated, challenges. First, in any system, a good decision, whether that be defined as an algorithm for computing resource scheduling in the clouds, a strategy for  traffic routing in the Internet, or a policy for electricity distribution in power grids, are often computed by solving some explicit or implicit optimization problems with *incomplete knowledge of the future*. Thus, making decisions in an online fashion (with or without prediction) is, in many cases, not just an advantage, but a necessity. Second, and often more difficult, the performance of platforms (e.g., revenue or welfare) often depends on *a collective behavior of agents that are self-interested* (and thus, not directly controllable by the platform). As a result,  we must design appropriate incentives to encourage agent interactions, towards a desired direction, so that the decisions can be implemented with a guaranteed efficiency and rationality (e.g., users are not forced to purchase virtual machines from the cloud platform). 
+Many platform-based services are carried out by allocating resources  to networks of interacting and self-interested agents.  Managing resources in these networked systems and platforms faces two separate, but interrelated, challenges. First, in any system, a good decision, whether that be defined as an algorithm for computing resource scheduling in the clouds, a strategy for  traffic routing in the Internet, or a policy for electricity distribution in power grids, are often computed by solving some explicit or implicit optimization problems with *incomplete knowledge of the future*. Thus, making decisions in an online fashion (with or without prediction) is, in many cases, not just an advantage, but a necessity. Second, and often more difficult, the performance of platforms (e.g., revenue or welfare) often depends on *a collective behavior of agents that are self-interested* (and thus, not directly controllable by the platform). As a result,  we must design appropriate incentives to encourage agent interactions, towards a desired direction, so that the decisions can be implemented with a guaranteed efficiency and rationality (e.g., users are not forced to purchase virtual machines from the cloud platform). 
 
-
-Motivated by these two challenges, my research  centers around the *interplay between online decision-making  and  incentives* for networked systems and platforms. In particular, my research focuses both on developing analytical techniques in *online algorithms*, *mechanism design*, and *machine learning*, and applying these techniques to improve the design and operation of networked systems and platforms arising from application domains such as *cloud computing*, *computer networking*,  and *energy systems*. I believe that solutions to these two research challenges can provide insights into how to tackle more momentous societal challenges such as cyber security, energy sustainability, and climate change, etc. 
+My research is motivated by these two challenges and centers around the *theories and applications of  online decision-making  and  incentives*. In particular, my research focuses both on developing analytical techniques in *online algorithms*, *mechanism design*, and *machine learning*, and applying these techniques to improve the design of real-world platforms arising from application domains such as *cloud computing*, *computer networking*,  and *energy systems*. I believe that solutions to these two research challenges can provide insights into how to tackle more momentous societal challenges such as cyber security, energy sustainability, and climate change, etc. 
 
 
 [comment]: # (I believe that solutions to alleviate or resolve these research challenges provide insights into how to tackle many societal challenges such as computing efficiency, cyber security, energy sustainability, traffic congestion, and climate change, etc. e.g., random job arrivals in cloud computing or volatile renewable energy generation in energy systems. The design of economic incentives, termed as mechanism design, sits at the intersection of artificial intelligence and economics, and has led to transformative applications in various domains such as online advertising and on-demand service platforms. My research)
@@ -29,8 +28,6 @@ I am most excited by problems where theoretic results provide rich insights into
 
 *App 1: Resource Allocation in Computer Networks*. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
-This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
-
 *App 2: Vehicle Routing in Transportation Networks*. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
 $$ \psi'(p) = \frac{1}{\varphi'\left(\varphi^{-1}(p)\right)} = \frac{1}{\varphi'(y)}. $$
@@ -41,7 +38,6 @@ This is how you inject arbitrary HTML code to the head and foot areas. This is h
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs”, preprint.
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Scheduling of Continuous Resources with Time Flexibility and Convex Supply Costs”, preprint.
-> - **X. Tan**, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, “[A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals](/documents/e_energy_19.pdf)”, [Extended Abstract], *in Proceedings of ACM e-Energy*, 2019.
 
 
 ---
@@ -67,6 +63,7 @@ _**App 1: Electric Vehicle Charging  in Smart Grid**_. This is how you inject ar
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach”, preprint.
 > - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, *IEEE Journal of Selected Areas in Communications*, in press. 
 > - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020.
+> - **X. Tan**, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, “[A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals](/documents/e_energy_19.pdf)”, [Extended Abstract], *in Proceedings of ACM e-Energy*, 2019.
 
 ---
 
