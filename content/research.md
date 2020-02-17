@@ -56,7 +56,9 @@ In this research thrust, we are interested in developing mechanisms that
 
 _**App 1: Electric Vehicle Charging  in Smart Grid**_. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
-<img src="/img/three_layer_smart_cities.png" style="max-width:80%; min-width:300px; float: center" alt="Xiaoqi Tan"/>
+<p align="center">
+  <img src="/img/three_layer_smart_cities.png" style="max-width:80%; min-width:300px"/>
+</p>
 
 ### Related Papers
 
