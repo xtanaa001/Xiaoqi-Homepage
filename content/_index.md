@@ -23,9 +23,10 @@ More specifically, my research focuses both on developing analytical techniques 
 ---
 ## Recent Publications
 
-> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Welfare Maximization for Network Resource Allocation under Arbitrary Arrivals", preprint.
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Packing Costs", preprint.
+
+> - **X. Tan**, A. Leon-Garcia, et al., "Value-based Network Resource Allocation under Arbitrary Arrivals", preprint.
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach", preprint.
 
