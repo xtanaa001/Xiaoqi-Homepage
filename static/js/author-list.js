@@ -24,4 +24,9 @@ var authorList = {
         name : "Bo Sun",
         web : "http://c2e.ece.ust.hk/sunbo/",
     },
+
+    Sareh : {
+        name : "Sareh Agheb",
+        web : "http://c2e.ece.ust.hk/sunbo/",
+    },
 };

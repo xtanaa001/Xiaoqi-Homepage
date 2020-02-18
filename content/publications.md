@@ -8,7 +8,7 @@ title: Publications
         <script>
             var i;
             for (i = 0; i < papers.length; i++) {
-                if (papers[i].type.search("g") >= 0) {
+                if (papers[i].journal == "Preprint") {
                     document.write("<li class=paper>");
                     printPaper(papers[i], "g");
                     document.write("</li>");
@@ -16,12 +16,13 @@ title: Publications
             }
         </script>
 </ul>
+
 
 <ul class=decimal>
         <script>
             var i;
             for (i = 0; i < papers.length; i++) {
-                if (papers[i].type.search("g") >= 0) {
+                if (papers[i].journal != "Preprint") {
                     document.write("<li class=paper>");
                     printPaper(papers[i], "g");
                     document.write("</li>");
@@ -29,7 +30,6 @@ title: Publications
             }
         </script>
 </ul>
-
 
 
 > - <span style="color:Gray"> **X. Tan**, A. Leon-Garcia, et al., "Online Knapsack Problems with Packing Costs", preprint. </span>

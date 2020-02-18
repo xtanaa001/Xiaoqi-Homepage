@@ -14,7 +14,7 @@ function printPaper(paper, type){
         for (i = 0; i < paper.coauthors.length; i++){
             printAuthor(paper.coauthors[i]);
             if (i == paper.coauthors.length - 2)
-                document.write(" and ");
+                document.write(", and ");
             else if (i != paper.coauthors.length - 1) document.write(", ");
         }
         document.writeln("</div>");
@@ -28,7 +28,9 @@ function printPaper(paper, type){
     
     if (typeof paper.confVersion == "string") document.write("&emsp;<a href=\""+paper.confVersion+"\">[pdf]</a>"); 
     
-    if (typeof paper.journal == "string") document.write("<i>"+paper.journal+"</i>");
+    if (paper.journal == "Preprint") document.writeln("<i>Preprint</i>");
+    else 
+        document.write("<i>"+paper.journal+"</i>");
 
     if (typeof paper.pubinfo == "string") document.write(", "+paper.pubinfo+".");
     

@@ -26,9 +26,9 @@ My research focuses both on developing analytical techniques in [online algorith
             <script>
                 var i;
                 for (i = 0; i < papers.length; i++) {
-                    if (papers[i].type.search("highlight") >= 0) {
+                    if (papers[i].highlight.search("yes") >= 0) {
                         document.write("<li class=paper>");
-                        printPaper(papers[i], "highlight");
+                        printPaper(papers[i], "yes");
                         document.write("</li>");
                     }
                 }
