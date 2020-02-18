@@ -45,12 +45,6 @@ This is how you inject arbitrary HTML code to the head and foot areas. This is h
             </script>
 </ul>
 
-
-
-> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs”, preprint.
-> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Scheduling of Continuous Resources with Convex Supply Costs”, preprint.
-
-
 ---
 
 ##  <a id="mechanism_design"></a> Mechanism Design
@@ -79,9 +73,6 @@ In this research thrust, we are interested in developing mechanisms that
             </script>
 </ul>
 
-> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach”, preprint.
-- **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits](/documents/OCA-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, in press. [[Earlier Version]](https://www.sigmetrics.org/mama/abstracts/Tan.pdf) [[Technical Report]](/documents/jsac_sdp_report.pdf)
-
 ---
 
 ##  <a id="machine_learning"></a> Machine Learning
@@ -98,8 +89,18 @@ In this thrust, our major focus is on the interaction between machine learning  
 
 #### Related Papers
 
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020.
-> - **X. Tan**, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, “[A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals](/documents/e_energy_19.pdf)”, [Extended Abstract], *in Proceedings of ACM e-Energy*, 2019.
+<ul class=circle>
+            <script>
+                var i;
+                for (i = 0; i < papers.length; i++) {
+                    if (papers[i].topic.search("mechanism") >= 0) {
+                        document.write("<li class=paper>");
+                        printPaper(papers[i], "mechanism");
+                        document.write("</li>");
+                    }
+                }
+            </script>
+</ul>
 
 ---
 ## <a id="cloud_computing"></a> Cloud Computing
@@ -120,9 +121,6 @@ In this thrust, our major focus is on the interaction between machine learning  
                 }
             </script>
 </ul>
-
-> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Job Scheduling in the Clouds with Server Costs”, preprint.
-- **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits](/documents/OCA-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, in press. [[Earlier Version]](https://www.sigmetrics.org/mama/abstracts/Tan.pdf) [[Technical Report]](/documents/jsac_sdp_report.pdf)
 
 ---
 
@@ -148,9 +146,6 @@ In this thrust, our major focus is on the interaction between machine learning  
                 }
             </script>
 </ul>
-
-> - **X. Tan**, A. Leon-Garcia, et al.,  "Resource Management of On-demand Virtual Network Service Platforms”, in preparation.
-> - **X. Tan**, A. Leon-Garcia, et al., "Value-based Network Resource Allocation under Arbitrary Arrivals", preprint.
 
 ---
 
