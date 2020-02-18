@@ -1,12 +1,22 @@
 var authorList = {
 
-    Azar : {
-        name : "Yossi Azar",
+    XQTan : {
+        name : "Xiaoqi Tan",
+        web : "https://xiaoqitan.org",
+    },
+
+    Garcia : {
+        name : "Alberto Leon-Garcia",
         web : "http://www.cs.tau.ac.il/~azar/",
     },
 
-    Bei : {
-        name : "Xiaohui Bei",
+    DHKTsang : {
+        name : "Danny H.K. Tsang",
+        web : "http://www.cs.tau.ac.il/~azar/",
+    },
+
+    YuanWu : {
+        name : "Yuan Wu",
         web : "https://www.ntu.edu.sg/home/xhbei/",
     },
 

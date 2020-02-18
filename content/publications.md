@@ -3,6 +3,22 @@ title: Publications
 --- 
 
 
+## Recent Highlights
+
+<ul class=circle>
+        <script>
+            var i;
+            for (i = 0; i < papers.length; i++) {
+                if (papers[i].type.search("g") >= 0) {
+                    document.write("<li class=paper>");
+                    printPaper(papers[i], "g");
+                    document.write("</li>");
+                }
+            }
+        </script>
+</ul>
+
+
 ## Journal Papers
 
 > - <span style="color:Gray"> **X. Tan**, A. Leon-Garcia, et al., "Online Knapsack Problems with Packing Costs", preprint. </span>

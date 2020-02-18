@@ -20,7 +20,7 @@ My research focuses both on developing analytical techniques in [online algorith
 [comment]: # (*In more detail*: my research centers around the design of algorithms and incentives for networked systems of interacting and possibly self-interested agents. More specifically, my research focuses both on developing analytical techniques in online algorithms, mechanism design, and machine learning, and applying these techniques to  application domains such as cloud computing, computer networking, and energy systems. I work on problems at the intersection of **online decision-making** and **incentives**, with applications to networked systems and platforms. For more details, please click [here](/research). [networked systems and platforms](/research/#research_overview) arising from. and [stochastic models and optimization](/research/#stochastic_models) )
 
 ---
-## Selected Publications
+## Recent Publications
 
 <ul class=circle>
             <script>
