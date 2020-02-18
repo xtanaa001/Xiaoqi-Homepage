@@ -9,7 +9,7 @@ description: This is the abstract
 
 Many platform-based services are carried out by sharing resources  among networks of interacting and self-interested agents.  Making decisions in managing these networked systems and platforms faces two separate, but interrelated, challenges. First, in any system, a good decision, whether that be defined as an algorithm for computing resource allocation in the clouds, a strategy for  traffic routing in the Internet, or a policy for electricity distribution in electric power networks, are often computed by solving some explicit or implicit optimization problems with incomplete knowledge of the future (e.g., piece-by-piece input). Thus, _making decisions in an online fashion_ (with or without prediction) is, in many cases, not just an advantage, but a necessity. Second, and often more difficult, the performance of a decision-making process often depends on a collective behavior of agents that may act strategically (and thus, cannot be forced to follow the decisions made by the platform). For this reason,  we must _design appropriate incentives to encourage agent interactions_ towards a desired direction, otherwise the decisions cannot be implemented with a guaranteed efficiency and rationality. 
 
-My research is primarily motivated by these two challenges and centers around  the interplay between  online decision-making  and  incentives in networked systems and platforms. More specifically, my research focuses both on developing analytical techniques in *online algorithms*, *mechanism design*, and *machine learning*, and applying these techniques to  the resource allocation and scheduling in  networked systems and platforms  arising from application domains such as *cloud computing*, *computer networking*, and *energy systems*. 
+Motivated by these two challenges, my research centers around  the interplay between  online decision-making  and  incentives in networked systems and platforms. More specifically, my research focuses both on developing analytical techniques in [online algorithms](/research/#online_algorithms), [mechanism design](/research/#mechanism_design), and [machine learning](/research/#machine_learning), and applying these techniques to networked systems and platforms such as [cloud computing](/research/#cloud_computing), [computer networking](/research/#computer_networking), and [energy systems](/research/#energy_systems). 
 
 [commet]: # (I believe that solutions to these two research challenges can provide insights into how to tackle more momentous societal challenges such as cyber security, energy sustainability, and climate change, etc.) 
 
@@ -33,7 +33,7 @@ This is how you inject arbitrary HTML code to the head and foot areas. This is h
 #### Related Papers
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs”, preprint.
-> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Scheduling of Continuous Resources with Time Flexibility and Convex Supply Costs”, preprint.
+> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Scheduling of Continuous Resources with Convex Supply Costs”, preprint.
 
 
 ---
@@ -52,7 +52,7 @@ In this research thrust, we are interested in developing mechanisms that
 #### Related Papers
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach”, preprint.
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, *IEEE Journal of Selected Areas in Communications*, in press. 
+- **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits](/documents/OCA-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, in press. [[Earlier Version]](https://www.sigmetrics.org/mama/abstracts/Tan.pdf) [[Technical Report]](/documents/jsac_sdp_report.pdf)
 
 ---
 
@@ -80,8 +80,8 @@ In this thrust, our major focus is on the interaction between machine learning  
 
 #### Related Papers
 
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020.
-> - **X. Tan**, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, “[A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals](/documents/e_energy_19.pdf)”, [Extended Abstract], *in Proceedings of ACM e-Energy*, 2019.
+> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Job Scheduling in the Clouds with Server Costs”, preprint.
+- **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits](/documents/OCA-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, in press. [[Earlier Version]](https://www.sigmetrics.org/mama/abstracts/Tan.pdf) [[Technical Report]](/documents/jsac_sdp_report.pdf)
 
 ---
 
@@ -95,8 +95,8 @@ In this thrust, our major focus is on the interaction between machine learning  
 
 #### Related Papers
 
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020.
-> - **X. Tan**, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, “[A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals](/documents/e_energy_19.pdf)”, [Extended Abstract], *in Proceedings of ACM e-Energy*, 2019.
+> - **X. Tan**, A. Leon-Garcia, et al.,  "Resource Management of On-demand Virtual Network Service Platforms”, in preparation.
+> - **X. Tan**, A. Leon-Garcia, et al., "Value-based Network Resource Allocation under Arbitrary Arrivals", preprint.
 
 ---
 
@@ -112,5 +112,5 @@ This is how you inject arbitrary HTML code to the head and foot areas. For examp
 
 #### Related Papers
 
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mehanism without Prediction”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020.
-> - **X. Tan**, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, “[A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals](/documents/e_energy_19.pdf)”, [Extended Abstract], *in Proceedings of ACM e-Energy*, 2019.
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction](/documents/PPR-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020. [[Technical Report]](/documents/PPR-JSAC-2020.pdf)
+- B. Sun, **X. Tan**, and D.H.K. Tsang, “[Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach](/documents/MDF_mechanism_TPS.pdf)”, *IEEE Transactions on Power Systems*, vol. 34, no. 5, pp. 4038–4047, Sept. 2019.
