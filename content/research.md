@@ -4,6 +4,7 @@ description: This is the abstract
 ---
 
 <a id="research_overview"></a>
+
 <img src="/img/overview.png" style="max-width:33%; min-width:330px; float: right" alt="overview"/>
 
 Many platform-based services are carried out by sharing resources  among networks of interacting and self-interested agents.  Making decisions in managing these networked systems and platforms faces two separate, but interrelated, challenges. First, in any system, a good decision, whether that be defined as an algorithm for computing resource allocation in the clouds, a strategy for  traffic routing in the Internet, or a policy for electricity distribution in electric power networks, are often computed by solving some explicit or implicit optimization problems with incomplete knowledge of the future (e.g., piece-by-piece input). Thus, _making decisions in an online fashion_ (with or without prediction) is, in many cases, not just an advantage, but a necessity. Second, and often more difficult, the performance of a decision-making process often depends on a collective behavior of agents that may act strategically (and thus, cannot be forced to follow the decisions made by the platform). For this reason,  we must _design appropriate incentives to encourage agent interactions_ towards a desired direction, otherwise the decisions cannot be implemented with a guaranteed efficiency and rationality. 
@@ -23,18 +24,13 @@ My research is primarily motivated by these two challenges and centers around  t
 
 I am most excited by problems where theoretic results provide rich insights into the design of real-world platforms. For instance, a large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information. 
 
-
-- **Online Knapsack Problems with Packing Costs**. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. 
-
-- **Online Scheduling with Convex Supply Costs**. I am most excited by problems where theoretic results provide rich insights into the design of real-world platforms. For instance, a large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information. 
-
-*Applications*. Online decision-making is resource allocation in computer networks. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically. *App 2: Vehicle Routing in Transportation Networks*. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+*Online Knapsack Problems with Packing Costs*. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas.  *Online Scheduling with Convex Supply Costs*. I am most excited by problems where theoretic results provide rich insights into the design of real-world platforms. For instance, a large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information.
 
 $$ \psi'(p) = \frac{1}{\varphi'\left(\varphi^{-1}(p)\right)} = \frac{1}{\varphi'(y)}. $$
 
 This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. 
 
-### Related Papers
+#### Related Papers
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs”, preprint.
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Scheduling of Continuous Resources with Time Flexibility and Convex Supply Costs”, preprint.
@@ -53,31 +49,68 @@ In this research thrust, we are interested in developing mechanisms that
 - **Online Combinatorial Auctions**. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
 
-_App 1: Electric Vehicle Charging  in Smart Grid_. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
-
-<img src="/img/three_layer_smart_cities.png" style="max-width:90%; min-width:330px"/>
-
-[comment]: # (<p align="center"><img src="/img/three_layer_smart_cities.png" style="max-width:90%; min-width:330px"/></p>)
-
-### Related Papers
+#### Related Papers
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach”, preprint.
 > - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, *IEEE Journal of Selected Areas in Communications*, in press. 
+
+---
+
+##  <a id="machine_learning"></a> Machine Learning
+
+
+I am most excited by problems where theoretic results provide rich insights into the design of real-world platforms. For instance, a large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information. 
+
+In this thrust, our major focus is on the interaction between machine learning  and mechanism design, as well as how learning can help online decision-makings. Two particular topics of interests include
+
+- **Machine Learning v.s. Online Algorithms**. Online decision-making is resource allocation in computer networks. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically. *App 2: Vehicle Routing in Transportation Networks*. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+
+ 
+- **Machine Learning v.s. Mechanism Design**. Online decision-making is resource allocation in computer networks. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically. *App 2: Vehicle Routing in Transportation Networks*. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+
+#### Related Papers
+
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020.
+> - **X. Tan**, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, “[A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals](/documents/e_energy_19.pdf)”, [Extended Abstract], *in Proceedings of ACM e-Energy*, 2019.
+
+---
+## <a id="cloud_computing"></a> Cloud Computing
+
+In this thrust, our major focus is on the interaction between machine learning  and mechanism design, as well as how learning can help online decision-makings. Two particular topics of interests include
+
+#### Related Papers
+
 > - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020.
 > - **X. Tan**, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, “[A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals](/documents/e_energy_19.pdf)”, [Extended Abstract], *in Proceedings of ACM e-Energy*, 2019.
 
 ---
 
-## <a id="machine_learning"></a>  Machine Learning
+## <a id="computer_networking"></a> Computer Networking
 
-Machine learning has changed the landscape of many areas in both academy and industry in the past decade. In particular, the success of deep learning in applications such as computer vision and natural language processsing has led to transformative impacts on other communities that were traditionally not relavant.
+*Applications*. Online decision-making is resource allocation in computer networks. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically. *App 2: Vehicle Routing in Transportation Networks*. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+
 
 In this thrust, our major focus is on the interaction between machine learning  and mechanism design, as well as how learning can help online decision-makings. Two particular topics of interests include
 
-- **Data-Driven Mechanism Design**. 
 
-- **Online Learning**. 
+#### Related Papers
 
-### Related Papers
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020.
+> - **X. Tan**, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, “[A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals](/documents/e_energy_19.pdf)”, [Extended Abstract], *in Proceedings of ACM e-Energy*, 2019.
 
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, *IEEE Journal of Selected Areas in Communications*, in press. 
+---
+
+## <a id="energy_systems"></a>  Energy Systems
+
+Machine learning has changed the landscape of many areas in both academy and industry in the past decade. In particular, the success of deep learning in applications such as computer vision and natural language processsing has led to transformative impacts on other communities that were traditionally not relavant.
+
+This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
+
+  <img src="/img/three_layer_smart_cities.png" style="max-width:90%; min-width:330px"/>
+
+  [comment]: # (<p align="center"><img src="/img/three_layer_smart_cities.png" style="max-width:90%; min-width:330px"/></p>)
+
+#### Related Papers
+
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mehanism without Prediction”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020.
+> - **X. Tan**, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, “[A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals](/documents/e_energy_19.pdf)”, [Extended Abstract], *in Proceedings of ACM e-Energy*, 2019.
