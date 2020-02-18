@@ -32,6 +32,21 @@ This is how you inject arbitrary HTML code to the head and foot areas. This is h
 
 #### Related Papers
 
+<ul class=circle>
+            <script>
+                var i;
+                for (i = 0; i < papers.length; i++) {
+                    if (papers[i].topic.search("online_algorithms") >= 0) {
+                        document.write("<li class=paper>");
+                        printPaper(papers[i], "online_algorithms");
+                        document.write("</li>");
+                    }
+                }
+            </script>
+</ul>
+
+
+
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs”, preprint.
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Scheduling of Continuous Resources with Convex Supply Costs”, preprint.
 

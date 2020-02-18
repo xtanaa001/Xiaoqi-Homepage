@@ -22,12 +22,23 @@ hr {
   color: #ddd;
 }
 
+ul.circle       {  
+  list-style-type: circle;     
+  line-height:    1.4em;
+  margin-left:    -15px;      
+}
+
+ul.decimal       {  
+  list-style-type: decimal;     
+  line-height:    1.4em;
+  margin-left:    -15px;      
+}
 
 li.paper        {   
   font-size:      95%;
   padding-left:  10px;
   margin-bottom: 20px;
-  border-left: 3px solid #ccc;       
+  border-left: 3px solid #ccc;     
 }
 
 div.abstract    {   

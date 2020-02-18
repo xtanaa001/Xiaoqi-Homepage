@@ -25,14 +25,16 @@ I am most excited by problems where the design of economic incentives and online
 
 ---
 ## Recent Publications
-> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Orchestration of Virtual Network Functions: A Mechanism Design Approach", preprint.
-> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Weight-Dependent Packing Costs", preprint.
+
+> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Packing Costs", preprint.
+
+> - **X. Tan**, A. Leon-Garcia, et al., "Value-based Network Resource Allocation under Arbitrary Arrivals", preprint.
+
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach", preprint.
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, IEEE Journal of Selected Areas in Communications - Special Issue on Smart Data Pricing for Next Generation Networks. [[PDF]](/papers/OCA-JSAC-2020.pdf)
-    - Earlier version appeared in ACM Sigmetrics Workshop on MAMA in 2019: [Extended Abstract].
-    - Technical report with complete proofs: [Report](/files/pdf). 
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction”, IEEE Journal of Selected Areas in Communications, vol. 38, no. 1, pp. 5-16, Jan. 2020.
-> - B. Sun, **X. Tan**, and D.H.K. Tsang, “Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach”, IEEE Trans. on Power Systems, vol. 34, no. 5, pp. 4038–4047, Sept. 2019.
+
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits](/documents/OCA-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, in press.  [[Earlier Version]](https://www.sigmetrics.org/mama/abstracts/Tan.pdf) [[Technical Report]](/documents/jsac_sdp_report.pdf)
+    
+> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction](/documents/PPR-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020. [[Technical Report]](/documents/jsac_pprTE_report.pdf)
 
 For complete list of publications, please click [here](/publications) or my [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en/).
 

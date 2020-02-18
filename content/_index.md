@@ -26,24 +26,14 @@ My research focuses both on developing analytical techniques in [online algorith
             <script>
                 var i;
                 for (i = 0; i < papers.length; i++) {
-                    if (papers[i].type.search("g") >= 0) {
+                    if (papers[i].type.search("highlight") >= 0) {
                         document.write("<li class=paper>");
-                        printPaper(papers[i], "g");
+                        printPaper(papers[i], "highlight");
                         document.write("</li>");
                     }
                 }
             </script>
 </ul>
-
-> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Packing Costs", preprint.
-
-> - **X. Tan**, A. Leon-Garcia, et al., "Value-based Network Resource Allocation under Arbitrary Arrivals", preprint.
-
-> - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach", preprint.
-
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits](/documents/OCA-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, in press.  [[Earlier Version]](https://www.sigmetrics.org/mama/abstracts/Tan.pdf) [[Technical Report]](/documents/jsac_sdp_report.pdf)
-    
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction](/documents/PPR-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020. [[Technical Report]](/documents/jsac_pprTE_report.pdf)
 
 For complete list of publications, please click [here](/publications) or my [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en/).
 

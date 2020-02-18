@@ -30,11 +30,10 @@ function printPaper(paper, type){
     
     if (typeof paper.journal == "string") document.write("<i>"+paper.journal+"</i>");
 
-    if (typeof paper.info == "string") document.write(", "+paper.info);
+    if (typeof paper.pubinfo == "string") document.write(", "+paper.pubinfo+".");
     
     if (typeof paper.publisher == "string") document.write("&emsp;<a href=\""+paper.publisher+"\">[Publisher Version]</a>");
     
-
     if (typeof paper.arxiv == "string") document.write("&emsp;<a href=\""+paper.arxiv+"\">[Report in arXiv]</a>");
     
     //if (typeof paper.slides == "string") document.write("&emsp;<a href=\""+paper.slides+"\">[slides]</a>");
