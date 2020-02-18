@@ -36,9 +36,9 @@ This is how you inject arbitrary HTML code to the head and foot areas. This is h
             <script>
                 var i;
                 for (i = 0; i < papers.length; i++) {
-                    if (papers[i].topic.search("online_algorithms") >= 0) {
+                    if (papers[i].topic.search("algorithms") >= 0) {
                         document.write("<li class=paper>");
-                        printPaper(papers[i], "online_algorithms");
+                        printPaper(papers[i], "algorithms");
                         document.write("</li>");
                     }
                 }
@@ -65,6 +65,19 @@ In this research thrust, we are interested in developing mechanisms that
 
 
 #### Related Papers
+
+<ul class=circle>
+            <script>
+                var i;
+                for (i = 0; i < papers.length; i++) {
+                    if (papers[i].topic.search("mechanism") >= 0) {
+                        document.write("<li class=paper>");
+                        printPaper(papers[i], "mechanism");
+                        document.write("</li>");
+                    }
+                }
+            </script>
+</ul>
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Mechanism Design for Online Resource Allocation: A Unified Approach”, preprint.
 - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits](/documents/OCA-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, in press. [[Earlier Version]](https://www.sigmetrics.org/mama/abstracts/Tan.pdf) [[Technical Report]](/documents/jsac_sdp_report.pdf)
@@ -95,6 +108,19 @@ In this thrust, our major focus is on the interaction between machine learning  
 
 #### Related Papers
 
+<ul class=circle>
+            <script>
+                var i;
+                for (i = 0; i < papers.length; i++) {
+                    if (papers[i].topic.search("cloud") >= 0) {
+                        document.write("<li class=paper>");
+                        printPaper(papers[i], "cloud");
+                        document.write("</li>");
+                    }
+                }
+            </script>
+</ul>
+
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Job Scheduling in the Clouds with Server Costs”, preprint.
 - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits](/documents/OCA-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, in press. [[Earlier Version]](https://www.sigmetrics.org/mama/abstracts/Tan.pdf) [[Technical Report]](/documents/jsac_sdp_report.pdf)
 
@@ -109,6 +135,19 @@ In this thrust, our major focus is on the interaction between machine learning  
 
 
 #### Related Papers
+
+<ul class=circle>
+            <script>
+                var i;
+                for (i = 0; i < papers.length; i++) {
+                    if (papers[i].topic.search("network") >= 0) {
+                        document.write("<li class=paper>");
+                        printPaper(papers[i], "network");
+                        document.write("</li>");
+                    }
+                }
+            </script>
+</ul>
 
 > - **X. Tan**, A. Leon-Garcia, et al.,  "Resource Management of On-demand Virtual Network Service Platforms”, in preparation.
 > - **X. Tan**, A. Leon-Garcia, et al., "Value-based Network Resource Allocation under Arbitrary Arrivals", preprint.
@@ -127,5 +166,15 @@ This is how you inject arbitrary HTML code to the head and foot areas. For examp
 
 #### Related Papers
 
-> - **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction](/documents/PPR-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020. [[Technical Report]](/documents/PPR-JSAC-2020.pdf)
-- B. Sun, **X. Tan**, and D.H.K. Tsang, “[Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach](/documents/MDF_mechanism_TPS.pdf)”, *IEEE Transactions on Power Systems*, vol. 34, no. 5, pp. 4038–4047, Sept. 2019.
+<ul class=circle>
+            <script>
+                var i;
+                for (i = 0; i < papers.length; i++) {
+                    if (papers[i].topic.search("energy") >= 0) {
+                        document.write("<li class=paper>");
+                        printPaper(papers[i], "energy");
+                        document.write("</li>");
+                    }
+                }
+            </script>
+</ul>

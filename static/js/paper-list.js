@@ -8,7 +8,7 @@ var papers = new Array (
         journal : "Preprint",
         //arxiv : "https://arxiv.org/abs/1912.05770",
         highlight : "yes",
-        topic: "online_algorithms",
+        topic: "algorithms",
         paperAbstract : "<p>We consider a generalization of the third degree price discrimination problem studied in Bergemann et al. (2015), where an intermediary between the buyer and the seller can design market segments to maximize any linear combination of consumer surplus and seller revenue. Unlike in Bergemann et al. (2015), we assume that the intermediary only has partial information about the buyer's value. We consider three different models of information, with increasing order of difficulty. In the first model, we assume that the intermediary's information allows him to construct a probability distribution of the buyer's value. Next we consider the sample complexity model, where we assume that the intermediary only sees samples from this distribution. Finally, we consider a bandit online learning model, where the intermediary can only observe past purchasing decisions of the buyer, rather than her exact value. For each of these models, we present algorithms to compute optimal or near optimal market segmentation.</p>",
     },
 
@@ -30,6 +30,7 @@ var papers = new Array (
         journal : "Preprint",
         //arxiv : "https://arxiv.org/abs/1912.05770",
         highlight : "yes",
+        topic: "mechanism",
         paperAbstract : "<p>We consider a generalization of the third degree price discrimination problem studied in Bergemann et al. (2015), where an intermediary between the buyer and the seller can design market segments to maximize any linear combination of consumer surplus and seller revenue. Unlike in Bergemann et al. (2015), we assume that the intermediary only has partial information about the buyer's value. We consider three different models of information, with increasing order of difficulty. In the first model, we assume that the intermediary's information allows him to construct a probability distribution of the buyer's value. Next we consider the sample complexity model, where we assume that the intermediary only sees samples from this distribution. Finally, we consider a bandit online learning model, where the intermediary can only observe past purchasing decisions of the buyer, rather than her exact value. For each of these models, we present algorithms to compute optimal or near optimal market segmentation.</p>",
     },
 
@@ -42,6 +43,7 @@ var papers = new Array (
         publisher: "/documents/OCA-JSAC-2020.pdf",
         arxiv : "https://arxiv.org/abs/2002.01802",
         highlight : "yes",
+        topic: "cloud",
         paperAbstract : "<p> We study a general online combinatorial auction problem in algorithmic mechanism design. A provider allocates multiple types of capacity-limited resources to customers that arrive in a sequential and arbitrary manner. Each customer has a private valuation function on bundles of resources that she can purchase (e.g., a combination of different resources such as CPU and RAM in cloud computing). The provider charges payment from customers who purchase a bundle of resources and incurs an increasing supply cost with respect to the totality of resources allocated. The goal is to maximize the social welfare, namely, the total valuation of customers for their purchased bundles, minus the total supply cost of the provider for all the resources that have been allocated. We adopt the competitive analysis framework and provide posted-price mechanisms with optimal competitive ratios. Our pricing mechanism is optimal in the sense that no other online algorithms can achieve a better competitive ratio. We validate the theoretic results via empirical studies of online resource allocation in cloud computing. Our numerical results demonstrate that the proposed pricing mechanism is competitive and robust against system uncertainties and outperforms existing benchmarks.</p>",
     },
 
@@ -54,6 +56,7 @@ var papers = new Array (
         publisher: "https://arxiv.org/abs/1912.05770",
         arxiv : "https://arxiv.org/abs/1912.05770",
         highlight : "yes",
+        topic: "energy",
         paperAbstract : "<p>We consider a generalization of the third degree price discrimination problem studied in Bergemann et al. (2015), where an intermediary between the buyer and the seller can design market segments to maximize any linear combination of consumer surplus and seller revenue. Unlike in Bergemann et al. (2015), we assume that the intermediary only has partial information about the buyer's value. We consider three different models of information, with increasing order of difficulty. In the first model, we assume that the intermediary's information allows him to construct a probability distribution of the buyer's value. Next we consider the sample complexity model, where we assume that the intermediary only sees samples from this distribution. Finally, we consider a bandit online learning model, where the intermediary can only observe past purchasing decisions of the buyer, rather than her exact value. For each of these models, we present algorithms to compute optimal or near optimal market segmentation.</p>",
     },
 	
@@ -67,6 +70,7 @@ var papers = new Array (
         publisher: "/documents/MDF_mechanism_TPS.pdf",
         //arxiv : "https://arxiv.org/abs/1912.05770",
         highlight : "no",
+        topic: "energy",
         paperAbstract : "<p>Electric vehicles (EVs) have been well recognized as a deferrable load with the flexibility to shift their energy demands over time. Although this one-dimensional flexibility has been extensively investigated both by research and industrial implementations, the expanding energy demand and the associated uncertainties still make the integration of a large population of EVs into power system reliably and economically greatly challenging. In this paper, we design an auction scheme via mechanism design to elicit two additional flexibilities from EVs, namely energy flexibility and deadline flexibility. An offline mechanism is firstly designed as a benchmark based on the famous Vickrey–Clark– Groves mechanism. Then based on the primal-dual approach, we propose an online auction, in which all bids are truthful, the loss of social welfare is bounded by competitive ratio, and the mechanism can be implemented in polynomial time. By the numerical results, we quantitatively show that both the power system operators and individual EVs can benefit from the integration of the multi-dimensional flexibilities through our proposed mechanisms.</p>",
     },
 	
