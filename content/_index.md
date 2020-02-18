@@ -14,14 +14,10 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 ---
 ## Research Interests
 
-I design algorithms and incentives for **online decision-making** in **networked systems and platforms**.
-
-More specifically, my research focuses both on developing analytical techniques in [online algorithms](/research/#online_algorithms),  [mechanism design](/research/#mechanism_design), and [machine learning](/research/#machine_learning), and applying these techniques to application domains such as cloud computing, computer networking, and energy systems. 
+My research focuses both on developing analytical techniques in [online decision-making](/research/#online_algorithms) and [mechanism design](/research/#mechanism_design), and applying these techniques to [networked systems and platforms](/research/#research_overview) arising from cloud computing, computer networking, and energy systems. 
 
 
-For more details, please click [here](/research).
-
-[comment]: # (*In more detail*: my research centers around the design of algorithms and incentives for networked systems of interacting and possibly self-interested agents. More specifically, my research focuses both on developing analytical techniques in online algorithms, mechanism design, and machine learning, and applying these techniques to  application domains such as cloud computing, computer networking, and energy systems. I work on problems at the intersection of **online decision-making** and **incentives**, with applications to networked systems and platforms.)
+[comment]: # (*In more detail*: my research centers around the design of algorithms and incentives for networked systems of interacting and possibly self-interested agents. More specifically, my research focuses both on developing analytical techniques in online algorithms, mechanism design, and machine learning, and applying these techniques to  application domains such as cloud computing, computer networking, and energy systems. I work on problems at the intersection of **online decision-making** and **incentives**, with applications to networked systems and platforms. For more details, please click [here](/research).)
 
 ---
 ## Recent Publications
