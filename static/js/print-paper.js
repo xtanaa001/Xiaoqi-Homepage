@@ -4,7 +4,7 @@ function printAuthor(author) {
 };
 
 function printPaper(paper, type){
-    document.write("<div class=title display=block style=\"cursor:pointer\" onclick=\"return toggleAbstract(\'abs-" + paper.id + "-" + type + "\');\"><b>");
+    document.write("<div class=title display=block style=\"cursor:pointer\" onclick=\"return toggleAbstract(\'abs-" + paper.id + "-" + type + "\');\">");
     document.write(paper.name);
     document.writeln("</b></div>");
     if (typeof paper.coauthors != "undefined"){
@@ -21,7 +21,7 @@ function printPaper(paper, type){
     if (paper.conference == "Manuscript") document.writeln("<i>Manuscript</i>");
     else if (paper.conference == "Dissertation") document.writeln("<i>Ph.D. Dissertation</i>");
     else
-        document.writeln("In <b><i>" + paper.conference + "</i></b>");
+        document.writeln("In <i>" + paper.conference + "</i>");
     if (typeof paper.note == "string") document.write("&emsp;<i><b>("+paper.note+")</b></i>");
     if (typeof paper.confVersion == "string") document.write("&emsp;<a href=\""+paper.confVersion+"\">[pdf]</a>"); 
     if (typeof paper.arxiv == "string") document.write("&emsp;<a href=\""+paper.arxiv+"\">[arXiv]</a>");

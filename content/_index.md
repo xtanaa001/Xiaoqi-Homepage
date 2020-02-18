@@ -20,8 +20,20 @@ My research focuses both on developing analytical techniques in [online algorith
 [comment]: # (*In more detail*: my research centers around the design of algorithms and incentives for networked systems of interacting and possibly self-interested agents. More specifically, my research focuses both on developing analytical techniques in online algorithms, mechanism design, and machine learning, and applying these techniques to  application domains such as cloud computing, computer networking, and energy systems. I work on problems at the intersection of **online decision-making** and **incentives**, with applications to networked systems and platforms. For more details, please click [here](/research). [networked systems and platforms](/research/#research_overview) arising from. and [stochastic models and optimization](/research/#stochastic_models) )
 
 ---
-## Recent Publications
+## Selected Publications
 
+<ul class=circle>
+            <script>
+                var i;
+                for (i = 0; i < papers.length; i++) {
+                    if (papers[i].type.search("g") >= 0) {
+                        document.write("<li class=paper>");
+                        printPaper(papers[i], "g");
+                        document.write("</li>");
+                    }
+                }
+            </script>
+</ul>
 
 > - **X. Tan**, A. Leon-Garcia, et al., ‘‘Online Knapsack Problems with Packing Costs", preprint.
 
