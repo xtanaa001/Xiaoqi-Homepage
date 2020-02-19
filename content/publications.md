@@ -31,30 +31,6 @@ title: Publications
         </script>
 </ul>
 
-
-> - <span style="color:Gray"> **X. Tan**, A. Leon-Garcia, et al., "Online Knapsack Problems with Packing Costs", preprint. </span>
-- <span style="color:Gray"> **X. Tan**, A. Leon-Garcia, et al., "Value-based Network Resource Allocation under Arbitrary Arrivals", preprint. </span>
-- <span style="color:Gray"> **X. Tan**, A. Leon-Garcia, et al., "Mechanism Design for Online Resource Allocation: A Unified Approach", preprint. </span>
-[comment]: # (- <span style="color:Gray"> L. Ni, B. Sun, **X. Tan**, and D.H.K. Tsang, "Joint Demand and Energy Management in Electric Mobility-on-Demand Systems: A Reinforcement Learning-based Approach", preprint. </span> - <span style="color:Gray"> L. Ni, B. Sun, **X. Tan**, and D.H.K. Tsang, "Inventory Planning and Real-time Routing for Network of Electric Vehicle Battery Swapping Stations", preprint. </span> - <span style="color:Gray"> L. Liu, B. Sun, **X. Tan**, and D.H.K. Tsang, “Joint Resource Allocation and Subchannel Assignment for NOMA-enabled Multi-access Edge Computing”, preprint. </span> - <span style="color:Gray"> S. Wang, **X. Tan**, T. Liu, and D.H.K. Tsang, “Aggregation of Demand-Side Flexibility in Electricity Markets: Negative Impact Analysis and Mitigation Method”, preprint. </span> - <span style="color:Gray"> S. Wang, B. Sun, **X. Tan**, and D.H.K. Tsang, "Real-time Interactions between Transmission and Distribution Networks in Power Systems", preprint. </span>)
-
-> 1. **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits](/documents/OCA-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, in press. [[Earlier Version]](https://www.sigmetrics.org/mama/abstracts/Tan.pdf) [[Technical Report]](/documents/jsac_sdp_report.pdf)
-
-> 1. **X. Tan**, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, “[Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction](/documents/PPR-JSAC-2020.pdf)”, *IEEE Journal of Selected Areas in Communications*, vol. 38, no. 1, pp. 5-16, Jan. 2020. [[Technical Report]](/documents/PPR-JSAC-2020.pdf)
-1. B. Sun, **X. Tan**, and D.H.K. Tsang, “[Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach](/documents/MDF_mechanism_TPS.pdf)”, *IEEE Transactions on Power Systems*, vol. 34, no. 5, pp. 4038–4047, Sept. 2019.
-1. **X. Tan**, G. Qu, B. Sun, N. Li, and D.H.K. Tsang, “[Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping](/documents/bcs_scheduling_ev_tsg.pdf)”, *IEEE Transactions on Smart Grid*, vol. 10, no. 2, pp. 1372-1384, March 2019.
-1. B. Sun, **X. Tan**, and D.H.K. Tsang, “[Optimal Charging Operation of Battery Swapping and Charging Stations with QoS Guarantee](/documents/operation_BSCS_QoS.pdf)”, *IEEE Transactions on Smart Grid*, vol. 9, no. 5, pp. 4689-4701, Sept. 2018.
-1. Y. Wu, L. Qian, H. Mao, X. Yang, H. Zhou, **X. Tan**, and D.H.K. Tsang, “[Secrecy-Driven Resource Management for Vehicular Computation-Ofﬂoading Networks](/documents/yuan_SDRM_net.pdf)”, *IEEE Network*, vol. 32, no. 3, pp. 84-91, June 2018.
-1. S. Agheb, **X. Tan**, B. Sun, and D.H.K. Tsang, “[Contract Design for Aggregating, Trading, and Distributing Reserves in Demand-side Frequency Regulation](/documents/sareh_contract_tii.pdf)”, *IEEE Transactions on Industrial Informatics*, vol. 14, no. 6, pp. 2539-2549, June 2018.
-1. **X. Tan**, B. Sun, Y. Wu and D.H.K. Tsang, “[Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles](/documents/bscs_queuing_pe.pdf)”, *Performance Evaluation (Elsevier)*, vol. 119, pp. 43-57, March 2018.
-1. W. Li, **X. Tan**, B. Sun, and D.H.K. Tsang, “[Optimal Power Dispatch of a Centralized Electric Vehicle Battery Charging Station with Renewables](/documents/jason_bcs_iet.pdf)”, *IET Communications*, vol. 12, no. 5, pp. 579-585, March 2018.
-1. T. Liu, **X. Tan**, B. Sun, Y. Wu, and D.H.K. Tsang, “[Energy Management of Cooperative Microgrids: A Distributed Optimization Approach](/documents/distributed_MG_IJEPES.pdf)”, *International Journal of Electrical Power and Energy Systems*, vol. 96, pp. 335-346, March 2018.
-1. B. Sun, Zhe Huang, **X. Tan**, and D.H.K. Tsang, “[Optimal Scheduling for Electric Vehicle Charging with Discrete Charging Levels in Distribution Grid](/documents/ev_discrete_charging_tsg.pdf)”, *IEEE Transactions on Smart Grid*, vol. 9, no. 2, pp. 624-634, March 2018.
-1. **X. Tan**, Y. Wu and D.H.K. Tsang, “[A Stochastic Shortest Path Framework for Quantifying the Value and Lifetime of Battery Energy Storage under Dynamic Pricing](/documents/ssp_bess_tsg.pdf)”, *IEEE Transactions on Smart Grid*, vol. 8, no. 2, pp. 769-778, March 2017.
-1. **X. Tan**, Y. Wu and D.H.K. Tsang, “[Pareto Optimal Operation of Distributed Battery Energy Storage Systems for Energy Arbitrage under Dynamic Pricing](/documents/pareto_bess_tpds.pdf)”, *IEEE Transactions on Parallel and Distributed Systems*, Vol. 27, No. 7, pp. 2103-2115, July 2016. 
-1. Y. Wu, **X. Tan**, L. Qian, D.H.K. Tsang, W. Song, and L. Yu, “[Optimal Pricing and Energy Scheduling for Hybrid Energy Trading Market in Future Smart Grid](/documents/pricing_hybrid_market_tii.pdf)”, *IEEE Transactions on Industrial Informatics*, vol. 11, no. 6, pp. 1585-1596, Dec. 2015.
-1. S. Niafar, **X. Tan**, and D.H.K. Tsang et al, “[Optimal Downlink Scheduling for Heterogeneous Traffic in LET-A Based on MDP and Chance-Constrained Approaches](/documents/downlink_scheduling_monet.pdf)”, *ACM Springer Mobile Networks and Applications (MONET) Journal*, 2015.
-
-
 --- 
 ## Conference Papers
 > 1. **X. Tan**, A. Leon-Garcia and D.H.K. Tsang, “[Optimal Posted Prices for Online Resource Allocation with Supply Costs](https://www.sigmetrics.org/mama/abstracts/Tan.pdf)”, *in Proceedings of ACM Sigmetrics Workshop on MAMA*, 2019.

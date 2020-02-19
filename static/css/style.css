@@ -42,6 +42,7 @@ li.paper        {
   font-size:      95%;
   padding-left:  10px;
   margin-bottom: 20px;
+  background: #fffaff;
   border-left: 3px solid #ccc;     
 }
 
@@ -51,7 +52,7 @@ div.abstract    {
   padding:        10px;
   margin:         10px;
   line-height:    1.4em;
-  background: #f9f9f9;
+  background: #f9f9f0;
 }
 
 .abstract p     {   

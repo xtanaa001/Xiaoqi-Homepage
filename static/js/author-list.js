@@ -15,8 +15,13 @@ var authorList = {
         web : "#",
     },
 
-    YuanWu : {
+    YWu : {
         name : "Yuan Wu",
+        web : "#",
+    },
+
+    LQian : {
+        name : "Li Ping Qian",
         web : "#",
     },
 
@@ -29,4 +34,40 @@ var authorList = {
         name : "Sareh Agheb",
         web : "#",
     },
+
+    JWLi : {
+        name : "Wenjin (Jason) Li",
+        web : "#",
+    },
+
+    Niafar : {
+        name : "Samira Niafar",
+        web : "#",
+    },
+
+    GQu : {
+        name : "Guannan Qu",
+        web : "#",
+    },
+
+    NLi : {
+        name : "Na (Lina) Li",
+        web : "#",
+    },
+
+    HMao : {
+        name : "Haowei Mao",
+        web : "#",
+    },
+
+    XYang : {
+        name : "Xiaowei Yang",
+        web : "#",
+    },
+
+    HZhou : {
+        name : "Haibo Zhou",
+        web : "#",
+    },
+
 };

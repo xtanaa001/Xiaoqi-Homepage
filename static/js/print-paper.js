@@ -34,7 +34,7 @@ function printPaper(paper, type){
 
     if (typeof paper.pubinfo == "string") document.write(", "+paper.pubinfo+".");
     
-    if (typeof paper.publisher == "string") document.write("&emsp;<a href=\""+paper.publisher+"\">[Publisher Version]</a>");
+    if (typeof paper.pdf == "string") document.write("&emsp;<a href=\""+paper.pdf+"\">[PDF]</a>");
     
     if (typeof paper.arxiv == "string") document.write("&emsp;<a href=\""+paper.arxiv+"\">[Report in arXiv]</a>");
     
