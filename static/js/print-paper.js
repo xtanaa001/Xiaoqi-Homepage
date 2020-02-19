@@ -23,8 +23,6 @@ function printPaper(paper, type){
     //else
 
     if (typeof paper.conference == "string") document.write("<i>"+paper.conference+"</i>");
-
-    //if (typeof paper.note == "string") document.write("&emsp;<i><b>("+paper.note+")</b></i>");
     
     //if (typeof paper.confVersion == "string") document.write("&emsp;<a href=\""+paper.confVersion+"\">[pdf]</a>"); 
     
@@ -35,6 +33,8 @@ function printPaper(paper, type){
             document.write("<i>"+paper.journal+"</i>");
 
     if (typeof paper.pubinfo == "string") document.write(", "+paper.pubinfo+".");
+
+    if (typeof paper.note == "string") document.write("&emsp;<i><b>("+paper.note+")</b></i>");
     
     if (typeof paper.pdf == "string") document.write("&emsp;<a href=\" " +paper.pdf+ " \" target=\"_blank\" >[PDF]</a>");
     

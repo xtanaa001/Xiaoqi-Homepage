@@ -100,4 +100,28 @@ var authorList = {
         web : "#",
     },
 
+    XHGuan : {
+        name : "Xiaohong Guan",
+        web : "#",
+    },
+
+    XSun : {
+        name : "Xiaojie Sun",
+        web : "#",
+    },
+
+    LMeng : {
+        name : "Limin Meng",
+        web : "#",
+    },
+
+    LYu : {
+        name : "Li Yu",
+        web : "#",
+    },
+
+    WZSong : {
+        name : "Wen-zhan Song",
+        web : "#",
+    }, 
 };
