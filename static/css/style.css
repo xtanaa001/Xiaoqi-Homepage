@@ -50,18 +50,19 @@ li.paper        {
   padding-bottom: 1px;
   margin-bottom: 20px;
   /*background: #fffaff;*/
-  border-left: 0.5px solid #ccc;     
+  border-left: 1px solid #ddd;     
 }
 
 div.abstract    {   
   display:        none;
   font-size:      90%;
+  color:        black;
   padding:        5px;
   margin:         10px;
   margin-right:   20px;
   margin-bottom:  10px;
   line-height:    1.4em; 
-  background: #f9f9f0;
+  background: #eee;   /*f9f9f0*/
 }
 
 .abstract p     {   
