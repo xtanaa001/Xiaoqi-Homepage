@@ -62,7 +62,7 @@ var papers = new Array (
         coauthors : new Array(authorList.XQTan, authorList.YWu, authorList.Garcia, authorList.DHKTsang),
         journal : "IEEE Journal of Selected Areas in Communications",
         pubinfo: "in press",
-        pdf: "/documents/OCA-JSAC-2020.pdf",
+        pdf: "/documents/OCA_JSAC_2020.pdf",
         arxiv : "https://arxiv.org/abs/2002.01802",
         highlight : "yes",
         topic: "cloud",
