@@ -30,6 +30,16 @@ var authorList = {
         web : "#",
     },
 
+    TLiu : {
+        name : "Tian Liu",
+        web : "#",
+    },
+
+    SWang : {
+        name : "Su Wang",
+        web : "#",
+    },
+
     Sareh : {
         name : "Sareh Agheb",
         web : "#",
@@ -67,6 +77,26 @@ var authorList = {
 
     HZhou : {
         name : "Haibo Zhou",
+        web : "#",
+    },
+
+    LLiu : {
+        name : "Lina Liu",
+        web : "#",
+    },
+
+    YSXiao : {
+        name : "Yu Sing Xiao",
+        web : "#",
+    },
+
+    LNi : {
+        name : "Liang Ni",
+        web : "#",
+    },
+
+    AZhang : {
+        name : "Ao Zhang",
         web : "#",
     },
 

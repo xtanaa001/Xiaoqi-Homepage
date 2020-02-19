@@ -170,7 +170,7 @@ var papers_journal = new Array (
     {
         id : "distributed_MG_IJEPES",
         name : "Energy Management of Cooperative Microgrids: A Distributed Optimization Approach",
-        coauthors : new Array(authorList.XQTan, authorList.BSun, authorList.YWu, authorList.DHKTsang),
+        coauthors : new Array(authorList.TLiu, authorList.XQTan, authorList.BSun, authorList.YWu, authorList.DHKTsang),
         journal : "International Journal of Electrical Power and Energy Systems",
         pubinfo: "vol. 96, pp. 335-346, March 2018",
         pdf: "/documents/distributed_MG_IJEPES.pdf",

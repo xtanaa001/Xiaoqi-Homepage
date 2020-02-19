@@ -35,10 +35,10 @@ This is how you inject arbitrary HTML code to the head and foot areas. This is h
 <ul class=circle>
             <script>
                 var i;
-                for (i = 0; i < papers.length; i++) {
-                    if (papers[i].topic.search("algorithms") >= 0) {
+                for (i = 0; i < papers_journal.length; i++) {
+                    if (papers_journal[i].topic.search("algorithms") >= 0) {
                         document.write("<li class=paper>");
-                        printPaper(papers[i], "algorithms");
+                        printPaper(papers_journal[i], "algorithms");
                         document.write("</li>");
                     }
                 }
@@ -63,10 +63,10 @@ In this research thrust, we are interested in developing mechanisms that
 <ul class=circle>
             <script>
                 var i;
-                for (i = 0; i < papers.length; i++) {
-                    if (papers[i].topic.search("mechanism") >= 0) {
+                for (i = 0; i < papers_journal.length; i++) {
+                    if (papers_journal[i].topic.search("mechanism") >= 0) {
                         document.write("<li class=paper>");
-                        printPaper(papers[i], "mechanism");
+                        printPaper(papers_journal[i], "mechanism");
                         document.write("</li>");
                     }
                 }
@@ -92,10 +92,10 @@ In this thrust, our major focus is on the interaction between machine learning  
 <ul class=circle>
             <script>
                 var i;
-                for (i = 0; i < papers.length; i++) {
-                    if (papers[i].topic.search("mechanism") >= 0) {
+                for (i = 0; i < papers_journal.length; i++) {
+                    if (papers_journal[i].topic.search("mechanism") >= 0) {
                         document.write("<li class=paper>");
-                        printPaper(papers[i], "mechanism");
+                        printPaper(papers_journal[i], "mechanism");
                         document.write("</li>");
                     }
                 }
@@ -112,10 +112,10 @@ In this thrust, our major focus is on the interaction between machine learning  
 <ul class=circle>
             <script>
                 var i;
-                for (i = 0; i < papers.length; i++) {
-                    if (papers[i].topic.search("cloud") >= 0) {
+                for (i = 0; i < papers_journal.length; i++) {
+                    if (papers_journal[i].topic.search("cloud") >= 0) {
                         document.write("<li class=paper>");
-                        printPaper(papers[i], "cloud");
+                        printPaper(papers_journal[i], "cloud");
                         document.write("</li>");
                     }
                 }
@@ -137,10 +137,10 @@ In this thrust, our major focus is on the interaction between machine learning  
 <ul class=circle>
             <script>
                 var i;
-                for (i = 0; i < papers.length; i++) {
-                    if (papers[i].topic.search("network") >= 0) {
+                for (i = 0; i < papers_journal.length; i++) {
+                    if (papers_journal[i].topic.search("network") >= 0) {
                         document.write("<li class=paper>");
-                        printPaper(papers[i], "network");
+                        printPaper(papers_journal[i], "network");
                         document.write("</li>");
                     }
                 }
@@ -164,10 +164,10 @@ This is how you inject arbitrary HTML code to the head and foot areas. For examp
 <ul class=circle>
             <script>
                 var i;
-                for (i = 0; i < papers.length; i++) {
-                    if (papers[i].topic.search("energy") >= 0) {
+                for (i = 0; i < papers_journal.length; i++) {
+                    if (papers_journal[i].topic.search("energy") >= 0) {
                         document.write("<li class=paper>");
-                        printPaper(papers[i], "energy");
+                        printPaper(papers_journal[i], "energy");
                         document.write("</li>");
                     }
                 }

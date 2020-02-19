@@ -23,16 +23,16 @@ My research focuses both on developing analytical techniques in [online algorith
 ## Recent Publications
 
 <ul class=circle>
-            <script>
-                var i;
-                for (i = 0; i < papers_journal.length; i++) {
-                    if (papers_journal[i].highlight.search("yes") >= 0) {
-                        document.write("<li class=paper>");
-                        printPaper(papers_journal[i], "yes");
-                        document.write("</li>");
-                    }
-                }
-            </script>
+    <script>
+        var i;
+        for (i = 0; i < papers_journal.length; i++) {
+            if (papers_journal[i].highlight.search("yes") >= 0) {
+                document.write("<li class=paper>");
+                printPaper(papers_journal[i], "yes");
+                document.write("</li>");
+            }
+        }
+    </script>
 </ul>
 
 For complete list of publications, please click [here](/publications) or my [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en/).

@@ -22,11 +22,11 @@ function printPaper(paper, type){
     //if (paper.conference == "Preprint") document.writeln("<i>Preprint</i>");
     //else
 
-    if (typeof paper.conference == "string") document.writeln("<i>" + paper.conference + "</i>");
+    if (typeof paper.conference == "string") document.write("<i>"+paper.conference+"</i>");
 
-    if (typeof paper.note == "string") document.write("&emsp;<i><b>("+paper.note+")</b></i>");
+    //if (typeof paper.note == "string") document.write("&emsp;<i><b>("+paper.note+")</b></i>");
     
-    if (typeof paper.confVersion == "string") document.write("&emsp;<a href=\""+paper.confVersion+"\">[pdf]</a>"); 
+    //if (typeof paper.confVersion == "string") document.write("&emsp;<a href=\""+paper.confVersion+"\">[pdf]</a>"); 
     
     if (typeof paper.journal == "string") 
         if (paper.journal == "Preprint") 
