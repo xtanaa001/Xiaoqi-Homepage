@@ -103,7 +103,7 @@ main { hyphens: auto; }
 blockquote {
   margin: auto;
   background: #f9f9f9;
-  border-left: 5px solid #ccc;
+  border-left: 1px solid #ccc;
   padding: 0.02px 1em 0.02px;
 }
 
