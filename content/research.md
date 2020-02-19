@@ -9,7 +9,7 @@ description: This is the abstract
 
 Many platform-based services are carried out by sharing resources  among networks of interacting and self-interested agents.  Making decisions in managing these networked systems and platforms faces two separate, but interrelated, challenges. First, in any system, a good decision, whether that be defined as an algorithm for computing resource allocation in the clouds, a strategy for  traffic routing in the Internet, or a policy for electricity distribution in electric power networks, are often computed by solving some explicit or implicit optimization problems with uncertain future information (e.g., piece-by-piece input). Thus, _**making decisions in an online fashion**_ (with or without prediction) is, in many cases, not just an advantage, but a necessity. Second, and often more difficult, the performance of a decision-making process often depends on a collective behavior of agents that may act strategically (and thus, cannot be forced to follow the decisions made by the platform). For this reason,  we must _**design appropriate incentives**_ to encourage agent interactions towards a desired direction, otherwise the decisions cannot be implemented with a guaranteed efficiency and rationality. 
 
-Motivated by these two challenges, my research centers around  the interplay between  algorithms  and  incentives for decision-making under uncertainty in networked systems and platforms. More specifically, my research focuses both on developing analytical techniques in [online optimization/learning](/research/#online_algorithms) and [algorithmic mechanism design](/research/#mechanism_design), and applying these techniques to networked systems and platforms such as [cloud computing](/research/#cloud_computing), [computer networking](/research/#computer_networking), and [energy systems](/research/#energy_systems). 
+Motivated by these two challenges, my research centers around  the interplay between  algorithms  and  incentives for online decision-making under uncertainty in networked systems and platforms. More specifically, my research focuses both on developing analytical techniques in [online algorithms](/research/#online_algorithms) and [mechanism design](/research/#mechanism_design), and applying these techniques to networked systems and platforms such as [cloud computing](/research/#cloud_computing), [computer networking](/research/#computer_networking), and [energy systems](/research/#energy_systems). 
 
 [commet]: # (I believe that solutions to these two research challenges can provide insights into how to tackle more momentous societal challenges such as cyber security, energy sustainability, and climate change, etc.) 
 
@@ -50,7 +50,7 @@ This is how you inject arbitrary HTML code to the head and foot areas. This is h
 
 ---
 
-##  <a id="mechanism_design"></a> Algorithmic Mechanism Design
+##  <a id="mechanism_design"></a> Mechanism Design
 
 Research in mechanism design, a subfield of *artificial intelligence*, *economics*, and *game theory*, has led to transformative applications in online marketplaces such as online advertising. In mechainism design, the designer takes an objective-oriented approach to design mechanisms that incentivize self-interested agents/players to follow a certain pattern so as to achieve a desired collective behaivor, assuming that all the agents are rational. 
 
