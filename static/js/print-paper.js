@@ -19,24 +19,26 @@ function printPaper(paper, type){
         }
         document.writeln("</div>");
     }
-    if (paper.conference == "Preprint") document.writeln("<i>Preprint</i>");
-    else if (paper.conference == "Dissertation") document.writeln("<i>Ph.D. Dissertation</i>");
+    //if (paper.conference == "Preprint") document.writeln("<i>Preprint</i>");
     //else
-    //    document.writeln("In <i>" + paper.conference + "</i>");
+
+    if (typeof paper.conference == "string") document.writeln("<i>" + paper.conference + "</i>");
 
     if (typeof paper.note == "string") document.write("&emsp;<i><b>("+paper.note+")</b></i>");
     
     if (typeof paper.confVersion == "string") document.write("&emsp;<a href=\""+paper.confVersion+"\">[pdf]</a>"); 
     
-    if (paper.journal == "Preprint") document.writeln("<i>Preprint</i>");
-    else 
-        document.write("<i>"+paper.journal+"</i>");
+    if (typeof paper.journal == "string") 
+        if (paper.journal == "Preprint") 
+            document.writeln("<i>Preprint</i>");
+        else 
+            document.write("<i>"+paper.journal+"</i>");
 
     if (typeof paper.pubinfo == "string") document.write(", "+paper.pubinfo+".");
     
-    if (typeof paper.pdf == "string") document.write("&emsp;<a href=\""+paper.pdf+"\">[PDF]</a>");
+    if (typeof paper.pdf == "string") document.write("&emsp;<a href=\" " +paper.pdf+ " \" target=\"_blank\" >[PDF]</a>");
     
-    if (typeof paper.arxiv == "string") document.write("&emsp;<a href=\""+paper.arxiv+"\">[Report in arXiv]</a>");
+    if (typeof paper.arxiv == "string") document.write("&emsp;<a href=\""+paper.arxiv+"\" target=\"_blank\" >[Report in arXiv]</a>");
     
     //if (typeof paper.slides == "string") document.write("&emsp;<a href=\""+paper.slides+"\">[slides]</a>");
     if (typeof paper.talk == "string") document.write("&emsp;<a href=\""+paper.talk+"\">[talk]</a>");

@@ -25,10 +25,10 @@ My research focuses both on developing analytical techniques in [online algorith
 <ul class=circle>
             <script>
                 var i;
-                for (i = 0; i < papers.length; i++) {
-                    if (papers[i].highlight.search("yes") >= 0) {
+                for (i = 0; i < papers_journal.length; i++) {
+                    if (papers_journal[i].highlight.search("yes") >= 0) {
                         document.write("<li class=paper>");
-                        printPaper(papers[i], "yes");
+                        printPaper(papers_journal[i], "yes");
                         document.write("</li>");
                     }
                 }

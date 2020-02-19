@@ -1,5 +1,4 @@
-var papers = new Array (
-
+var papers_journal = new Array (
 
     {
         id : "job_scheduling",

@@ -28,6 +28,12 @@ ul.circle       {
   margin-left:    -20px;      
 }
 
+ol {
+  list-style-type: decimal;     
+  line-height:    1.4em;
+  margin-left:    -20px;  
+}
+
 ul.decimal       {  
   list-style-type: decimal;     
   line-height:    1.4em;
@@ -35,7 +41,7 @@ ul.decimal       {
 }
 
 div.title       {
-  color:   Black;   
+  color:   DarkBlue;   
 }
 
 li.paper        {   

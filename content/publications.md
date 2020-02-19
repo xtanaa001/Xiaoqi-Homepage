@@ -7,32 +7,45 @@ title: Publications
 <ul class=circle>
         <script>
             var i;
-            for (i = 0; i < papers.length; i++) {
-                if (papers[i].journal == "Preprint") {
+            for (i = 0; i < papers_journal.length; i++) {
+                if (papers_journal[i].journal == "Preprint") {
                     document.write("<li class=paper>");
-                    printPaper(papers[i], "g");
+                    printPaper(papers_journal[i], "g");
                     document.write("</li>");
                 }
             }
         </script>
 </ul>
 
-
-<ul class=decimal>
+<ol reversed>
         <script>
             var i;
-            for (i = 0; i < papers.length; i++) {
-                if (papers[i].journal != "Preprint") {
+            for (i = 0; i < papers_journal.length; i++) {
+                if (papers_journal[i].journal != "Preprint") {
                     document.write("<li class=paper>");
-                    printPaper(papers[i], "g");
+                    printPaper(papers_journal[i], "g");
                     document.write("</li>");
                 }
             }
         </script>
-</ul>
+</ol>
 
 --- 
 ## Conference Papers
+
+<ol reversed>
+        <script>
+            var i;
+            for (i = 0; i < papers_conference.length; i++) {
+                if (papers_conference[i].conference != "Preprint") {
+                    document.write("<li class=paper>");
+                    printPaper(papers_conference[i], "g");
+                    document.write("</li>");
+                }
+            }
+        </script>
+</ol>
+
 > 1. **X. Tan**, A. Leon-Garcia and D.H.K. Tsang, “[Optimal Posted Prices for Online Resource Allocation with Supply Costs](https://www.sigmetrics.org/mama/abstracts/Tan.pdf)”, *in Proceedings of ACM Sigmetrics Workshop on MAMA*, 2019.
 
 > 1. **X. Tan**, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, “[A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals](/documents/e_energy_19.pdf)”, [Extended Abstract], *in Proceedings of ACM e-Energy*, 2019.
