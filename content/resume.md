@@ -65,11 +65,11 @@ title: Resume
 
 > - <span style="color:darkblue">**Technical Reviewer for the Following Journals**</span>:
     - IEEE Network
-    - Computers & Operations Research.
     - IEEE/ACM Transactions on Networking
+    - Computers & Operations Research
     - IEEE Transactions on Wireless Communication
     - IEEE Transactions on Industrial Informatics
-    - IEEE Transactions on Power System
+    - IEEE Transactions on Power Systems
     - IEEE Transactions on Smart Grid
     - IEEE Transactions on Cybernetics
     - IEEE Transactions on Vehicular Technology
