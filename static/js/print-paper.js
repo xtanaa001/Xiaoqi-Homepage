@@ -23,9 +23,7 @@ function printPaper(paper, type){
     //else
 
     if (typeof paper.conference == "string") document.write("<i>"+paper.conference+"</i>");
-    
-    //if (typeof paper.confVersion == "string") document.write("&emsp;<a href=\""+paper.confVersion+"\">[pdf]</a>"); 
-    
+        
     if (typeof paper.journal == "string") 
         if (paper.journal == "Preprint") 
             document.writeln("<i>Preprint</i>");
@@ -38,6 +36,8 @@ function printPaper(paper, type){
     
     if (typeof paper.pdf == "string") document.write("&emsp;<a href=\" " +paper.pdf+ " \" target=\"_blank\" >[PDF]</a>");
     
+    if (typeof paper.confVersion == "string") document.write("&emsp;<a href=\""+paper.confVersion+"\" target=\"_blank\" >[Earlier Version]</a>"); 
+
     if (typeof paper.arxiv == "string") document.write("&emsp;<a href=\""+paper.arxiv+"\" target=\"_blank\" >[Technical Report]</a>");
     
     //if (typeof paper.slides == "string") document.write("&emsp;<a href=\""+paper.slides+"\">[slides]</a>");

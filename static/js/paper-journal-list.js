@@ -62,6 +62,7 @@ var papers_journal = new Array (
         journal : "IEEE Journal of Selected Areas in Communications",
         pubinfo: "in press",
         pdf: "/documents/OCA_JSAC_2020.pdf",
+        confVersion: "https://www.sigmetrics.org/mama/abstracts/Tan.pdf",
         arxiv : "https://arxiv.org/abs/1707.07175",
         highlight : "yes",
         topic: "cloud",
@@ -152,6 +153,7 @@ var papers_journal = new Array (
         pdf: "/documents/bscs_queuing_pe.pdf",
         arxiv : "https://arxiv.org/abs/1707.07175",
         highlight : "no",
+        note: "Appeared in the list of \"Most Downloaded Performance Evaluation Paper\" ",
         paperAbstract : "<p>A battery swapping and charging station (BSCS) is an energy refueling station, where (i) electric vehicles (EVs) with depleted batteries (DBs) can swap their DBs for fully-charged ones, and (ii) the swapped DBs are then charged until they are fully-charged. Successful deployment of a BSCS system necessitates a careful planning of swapping- and chargingrelated infrastructures, and thus a comprehensive performance evaluation of the BSCS is becoming crucial. This paper studies such a performance evaluation problem with a novel mixed queueing network (MQN) model and validates this model with extensive numerical simulation. We adopt the EVs’ blocking probability as our quality-of-service measure and focus on studying the impact of the key parameters of the BSCS (e.g., the numbers of parking spaces, swapping islands, chargers, and batteries) on the blocking probability. We prove a necessary and sufficient condition for showing the ergodicity of the MQN when the number of batteries approaches infinity, and further prove that the blocking probability has two different types of asymptotic behaviors. Meanwhile, for each type of asymptotic behavior, we analytically derive the asymptotic lower bound of the blocking probability.</p>",
     },
 
