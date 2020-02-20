@@ -18,9 +18,13 @@ Motivated by these two challenges, my research centers around  the interplay bet
 
 [comment]: # (For examples, how incentives influence the behavior of self-interested agents, and thus the peformance of online decisions? how online decisions influence the outcome of incentives if there exist zero knowledge of future information? )
 
+
+<a id="online_algorithms"></a>  
+
 ---
 
-## <a id="online_algorithms"></a> Online Algorithms
+
+##  Online Algorithms
 
 I am most excited by problems where theoretic results provide rich insights into the design of real-world platforms. For instance, a large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information. 
 
@@ -48,9 +52,13 @@ This is how you inject arbitrary HTML code to the head and foot areas. This is h
             </script>
 </ul>
 
+
+
+<a id="mechanism_design"></a>
+
 ---
 
-##  <a id="mechanism_design"></a> Mechanism Design
+##  Algorithmic Mechanism Design
 
 Research in mechanism design, a subfield of *artificial intelligence*, *economics*, and *game theory*, has led to transformative applications in online marketplaces such as online advertising. In mechainism design, the designer takes an objective-oriented approach to design mechanisms that incentivize self-interested agents/players to follow a certain pattern so as to achieve a desired collective behaivor, assuming that all the agents are rational. 
 
@@ -84,8 +92,11 @@ In this thrust, our major focus is on the interaction between machine learning  
 </ul>
 
 
+<a id="cloud_computing"></a> 
+
 ---
-## <a id="cloud_computing"></a> Cloud Computing
+
+## Cloud Computing
 
 In this thrust, our major focus is on the interaction between machine learning  and mechanism design, as well as how learning can help online decision-makings. Two particular topics of interests include
 
@@ -104,9 +115,12 @@ In this thrust, our major focus is on the interaction between machine learning  
             </script>
 </ul>
 
+
+<a id="computer_networking"></a> 
+
 ---
 
-## <a id="computer_networking"></a> Communication Networks
+## Communication Networks
 
 *Applications*. Online decision-making is resource allocation in computer networks. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically. *App 2: Vehicle Routing in Transportation Networks*. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
@@ -129,9 +143,12 @@ In this thrust, our major focus is on the interaction between machine learning  
             </script>
 </ul>
 
+
+<a id="energy_systems"></a>
+
 ---
 
-## <a id="energy_systems"></a>  Energy Systems
+##  Energy Systems
 
 Machine learning has changed the landscape of many areas in both academy and industry in the past decade. In particular, the success of deep learning in applications such as computer vision and natural language processsing has led to transformative impacts on other communities that were traditionally not relavant.
 
