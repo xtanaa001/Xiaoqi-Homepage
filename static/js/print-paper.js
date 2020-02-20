@@ -36,7 +36,7 @@ function printPaper(paper, type){
     
     if (typeof paper.pdf == "string") document.write("&emsp;<a href=\" " +paper.pdf+ " \" target=\"_blank\" >[PDF]</a>");
     
-    if (typeof paper.confVersion == "string") document.write("&emsp;<a href=\""+paper.confVersion+"\" target=\"_blank\" >[Earlier Version]</a>"); 
+    if (typeof paper.confVersion == "string") document.write("&emsp;<a href=\""+paper.confVersion+"\" target=\"_blank\" >[Conference Version]</a>"); 
 
     if (typeof paper.arxiv == "string") document.write("&emsp;<a href=\""+paper.arxiv+"\" target=\"_blank\" >[Technical Report]</a>");
     
