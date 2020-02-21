@@ -14,7 +14,7 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 ---
 ## Research Interests
 
-My research centers around the interplay between algorithms and incentives in networked systems, with particular applications to [**cloud computing**](/research/#cloud_computing), [**communication networks**](/research/#computer_networking) (e.g., resource allocation and network economics), and [**energy systems**](/research/#energy_systems) (e.g., energy-efficient computing, green communication, and smart grid).
+I study the interplay between algorithms and incentives, with a focus on applications in networked systems such as [**cloud computing**](/research/#cloud_computing), [**communication networks**](/research/#computer_networking) (e.g., resource allocation and network economics), and [**energy systems**](/research/#energy_systems) (e.g., energy-efficient computing, green communication, and smart grid).
 
 In particular, a large part of my research focuses on developing online resource allocation decisions for networked systems with interacting and self-interested agents, using tools from [**online algorithms**](/research/#online_algorithms) and [**algorithmic game theory**](/research/#mechanism_design).
 
