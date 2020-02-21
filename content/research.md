@@ -58,7 +58,7 @@ This is how you inject arbitrary HTML code to the head and foot areas. This is h
 
 ---
 
-##  Mechanism Design
+##  Algorithmic Game Theory
 
 Research in mechanism design, a subfield of *artificial intelligence*, *economics*, and *game theory*, has led to transformative applications in online marketplaces such as online advertising. In mechainism design, the designer takes an objective-oriented approach to design mechanisms that incentivize self-interested agents/players to follow a certain pattern so as to achieve a desired collective behaivor, assuming that all the agents are rational. 
 
