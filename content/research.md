@@ -9,7 +9,7 @@ description: This is the abstract
 
 Many platform-based services are carried out by sharing resources  among networks of interacting and self-interested agents.  Making decisions in managing these networked systems and platforms faces two separate, but interrelated, challenges. First, in any system, a good decision, whether that be defined as an algorithm for computing resource allocation in the clouds, a strategy for  traffic routing in the Internet, or a policy for electricity distribution in electric power networks, are often computed by solving some explicit or implicit optimization problems with uncertain future information (e.g., piece-by-piece input). Thus, _**making decisions in an online fashion**_ (with or without prediction) is, in many cases, not just an advantage, but a necessity. Second, and often more difficult, the performance of a decision-making process often depends on a collective behavior of agents that may act strategically (and thus, cannot be forced to follow the decisions made by the platform). For this reason,  we must _**design appropriate incentives**_ to encourage agent interactions towards a desired direction, otherwise the decisions cannot be implemented with a guaranteed efficiency and rationality. 
 
-Motivated by these two challenges, my research centers around  the interplay between  algorithms,   incentives, and learning, with a focus on applications in [**cloud computing**](/research/#cloud_computing), [**communication networks**](/research/#computer_networking) (e.g., adaptive resource allocation and network economics), and [**energy systems**](/research/#energy_systems) (e.g., energy-efficient computing, green communication, and smart grid). In particular, a large part of my current research focuses on [**online algorithms**](/research/#online_algorithms) and [**algorithmic mechanism design**](/research/#mechanism_design). The goal is to develop algorithms and incentives for efficient online decision-making in managing networked systems of interacting and possibly self-interested agents. 
+Motivated by these two challenges, my research centers around  the interplay between  algorithms,   incentives, and learning, with a focus on applications in [**cloud computing**](/research/#cloud_computing), [**communication networks**](/research/#networking) (e.g., adaptive resource allocation and network economics), and [**energy systems**](/research/#energy_systems) (e.g., energy-efficient computing, green communication, and smart grid). In particular, a large part of my current research focuses on [**online algorithms**](/research/#online_algorithms) and [**algorithmic mechanism design**](/research/#mechanism_design). The goal is to develop algorithms and incentives for efficient online decision-making in managing networked systems of interacting and possibly self-interested agents. 
 
 [commet]: # (I believe that solutions to these two research challenges can provide insights into how to tackle more momentous societal challenges such as cyber security, energy sustainability, and climate change, etc.) 
 
@@ -116,7 +116,7 @@ In this thrust, our major focus is on the interaction between machine learning  
 </ul>
 
 
-<a id="computer_networking"></a> 
+<a id="networking"></a> 
 
 ---
 
