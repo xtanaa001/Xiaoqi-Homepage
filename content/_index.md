@@ -14,7 +14,7 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 ---
 ## Research Interests
 
-My research interests span various topics in [**online algorithms**](/research/#online_algorithms), [**algorithmic game theory**](/research/#mechanism_design), [**cloud computing**](/research/#cloud_computing),  [**network economics**](/research/#networking),  and [**smart grid**](/research/#smart_grid). The central theme of my research is to develop algorithms and incentives for networks of interacting and possibly self-interested agents in the face of uncertainty, using tools from mathematics, engineering and economics.
+My research interests span various topics in [**online algorithms**](/research/#online_algorithms), [**algorithmic game theory**](/research/#mechanism_design), [**cloud computing**](/research/#cloud_computing),  [**network economics**](/research/#networking),  and [**smart grid**](/research/#smart_grid). Though diverse in topics, these areas all center around the broader theme of my research: developing mathematical models to provide insight into the design of [**networked systems and platforms**](/research/#research_overview) in the face of self-interested agents and uncertainty.
 
 
 
