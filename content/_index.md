@@ -14,7 +14,9 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 ---
 ## Research Interests
 
-I study the interplay between algorithms, incentives, and learning in [**networking and energy systems**](/research/#research_overview). To be more specific, my research focuses both on developing analytical techniques in online algorithms, algorithmic game theory, optimization, and machine learning, and applying these techniques in  networking and energy domains such as cloud computing, network economics, and smart grid. 
+I study the interplay between algorithms, incentives, and learning in [**networking and energy systems**](/research/#research_overview). 
+
+To be more specific, my research focuses both on developing analytical techniques in online algorithms, algorithmic game theory, optimization, and machine learning, and applying these techniques in  networking and energy domains such as cloud computing, network economics, and smart grid. 
 
 
 
