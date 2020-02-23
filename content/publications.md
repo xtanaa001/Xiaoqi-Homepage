@@ -30,7 +30,7 @@ title: Publications
         </script>
 </ol>
 
---- 
+
 ## Conference Papers
 
 <ol reversed>
