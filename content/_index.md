@@ -14,7 +14,7 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 ---
 ## Research Interests
 
-My research spans various topics in [**computing, communication and energy systems**](/research/#research_overview). More specifically, my research focuses both on developing  analytical techniques in [**online algorithms**](/research/#online_algorithms), [**algorithmic game theory**](/research/#mechanism_design), and [**stochastic modeling and optimization**](/research/#online_algorithms), and applying these techniques in application domains such as [**cloud computing**](/research/#cloud_computing),  [**network economics**](/research/#networking),  and [**smart grid**](/research/#smart_grid). 
+My research spans various topics in [**computing, communication, and energy systems**](/research/#research_overview). More specifically, my research focuses both on developing  analytical and computational techniques in online algorithms, algorithmic game theory, and optimization, and applying these techniques in  application domains such as cloud computing, network economics, and smart grid. 
 
 
 
