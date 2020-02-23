@@ -14,9 +14,9 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 
 ## Research Interests
 
-> I study the interplay between algorithms, incentives, and learning in [**networking and energy systems**](/research/#research_overview). 
+I study the interplay between algorithms, incentives, and learning in [**networking and energy systems**](/research/#research_overview). 
 
-> To be more specific, my research focuses both on developing analytical techniques in online algorithms, algorithmic game theory, optimization, and machine learning, and applying these techniques in  networking and energy domains such as cloud computing, network economics, and smart grid. 
+To be more specific, my research focuses both on developing analytical techniques in online algorithms, algorithmic game theory, optimization, and machine learning, and applying these techniques in  networking and energy domains such as cloud computing, network economics, and smart grid. 
 
 
 
@@ -25,6 +25,7 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 
 ## Recent Publications
 
+>
 <ul class=circle>
     <script>
         var i;
@@ -44,7 +45,6 @@ For complete list of publications, please click [here](/publications) or my [Goo
 
 ## <a id="contact"></a> Contact
  
->
 **Office**: [7137 Bahen Centre, 40 St. George Street, Toronto, Ontario M5S 2E4, Canada](https://goo.gl/maps/vfCbo1zuws5Wspzu8).\\
 **Email**: `$\textsf{xiaoqi.tan}@\textsf{utoronto.ca}$`, (My first name "Xiaoqi" is pronounced as “Shiao-Chee”).
 
