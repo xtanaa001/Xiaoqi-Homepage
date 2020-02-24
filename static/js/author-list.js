@@ -2,7 +2,7 @@ var authorList = {
 
     XQTan : {
         name : "<b>Xiaoqi Tan</b>",
-        web : "#",
+        web : "https://xiaoqitan.org",
     },
 
     Garcia : {
@@ -27,7 +27,7 @@ var authorList = {
 
     BSun : {
         name : "Bo Sun",
-        web : "#",
+        web : "http://c2e.ece.ust.hk/sunbo/",
     },
 
     TLiu : {
