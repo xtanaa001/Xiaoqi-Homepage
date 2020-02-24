@@ -4,7 +4,6 @@ title: Publications
 
 ## Journal Papers
 
->
 <ul class=circle>
         <script>
             var i;
@@ -18,7 +17,6 @@ title: Publications
         </script>
 </ul>
 
->
 <ol reversed>
         <script>
             var i;
@@ -35,7 +33,7 @@ title: Publications
 
 ## Conference Papers
 
->
+
 <ol reversed>
         <script>
             var i;

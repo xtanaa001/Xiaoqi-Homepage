@@ -24,7 +24,6 @@ My research interests center around the interplay between algorithms, incentives
 ---
 ## Recent Publications
 
->
 <ul class=circle>
     <script>
         var i;
