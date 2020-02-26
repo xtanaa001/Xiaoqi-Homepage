@@ -13,7 +13,7 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 ---
 ## Research Interests
 
-My research spans various topics in [**networking and energy systems**](/research/). The main theme of my research is to develop algorithms and incentives for resource allocation and service scheduling in the presence of uncertainty, using tools from mathematics, engineering, and economics.
+My research interests span various topics in [**networking and energy systems**](/research/). The central theme of my research is to develop algorithms and incentives for resource allocation and service scheduling in the presence of uncertainty, using tools from mathematics, engineering, and economics.
 
 More specifically, my research focuses both on developing analytical techniques in online optimization, algorithmic game theory, and machine learning, and applying these techniques in application domains such as cloud computing, network economics, energy-efficient computing, and smart grid. Though diverse, these areas all play essential roles in the broader goal of my research: *achieving a better balance between efficiency and sustainability for services in networking and energy systems*.
 
