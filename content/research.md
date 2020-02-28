@@ -5,11 +5,20 @@ description: This is the abstract
 
 <a id="research_overview"></a>
 
-[comment]: # (<img src="/img/overview.png" style="max-width:33%; min-width:330px; float: right" alt="overview"/>)
-
 Many network-based applications and services are carried out by providing resources to systems of interacting and self-interested agents.  Making decisions in managing these systems faces two separate, but interrelated, challenges. First, in any system, a good decision, whether that be defined as an algorithm for computing resource allocation in the clouds, a strategy for  traffic routing in the Internet, or a policy for electricity distribution in smart grid, are often computed by solving some explicit or implicit optimization problems with uncertain future information (e.g., stochastic job arrivals in cloud computing, or fluctuating renewable energy generation in smart grid). Thus, _designing algorithms to enable efficient decision-making under uncertainty_ (with or without prediction) is, in many cases, not just an advantage, but a necessity. Second, and often more difficult, the performance of a decision-making process, e.g., economic efficiency, often depends on a collective behavior of agents that may act strategically (and thus, cannot be forced to follow the decisions made by the platform). For this reason,  we must _design appropriate incentives to encourage agent interactions towards a desired direction_, otherwise the decisions cannot be implemented with a guaranteed efficiency and rationality.
 
-Motivated by these challenges, my research centers around  the interplay between  algorithms and  incentives in networking and energy systems. To be more specific, my research focuses both on developing analytical techniques in online algorithms, algorithmic game theory, and mechanism design, and applying these techniques in application domains such as cloud computing, network economics, energy-efficient computing and communication, and smart grid. Though diverse, these areas all play essential roles in the broader goal of my research: achieving a better balance between _economic efficiency_ and _energy sustainability_ for network-based applications and services in networking and energy systems. For more details, please see my research description below by topics. 
+
+<img src="/img/overview.png" style="max-width:33%; min-width:330px; float: right" alt="overview"/>
+
+
+Towards this end, my research centers around developing principles to address the following two tricky questions:
+
+Q1: _How to improve the energy sustainability of networking and energy systems in the presence of information/data uncertainty about distributed energy resources?_
+
+Q2: _How to improve the economic efficiency of network-based applications and services in the presence of multiple stakeholders/agents with conflicting objectives?_
+
+
+To answer these two questions, my research centers around  the interplay between  algorithms and  incentives in networking and energy systems. To be more specific, my research focuses both on developing analytical techniques in online algorithms, algorithmic game theory, and mechanism design, and applying these techniques in application domains such as cloud computing, network economics, energy-efficient computing and communication, and smart grid. Though diverse, these areas all play essential roles in the broader goal of my research: achieving a better balance between _economic efficiency_ and _energy sustainability_ for network-based applications and services in networking and energy systems. For more details, please see my research description below by topics. 
 
 
 

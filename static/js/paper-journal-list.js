@@ -1,5 +1,6 @@
 var papers_journal = new Array (
 
+    /*
     {
         id : "job_scheduling",
         name : "Online Auctions for Job Scheduling in the Clouds with Server Costs",
@@ -32,10 +33,11 @@ var papers_journal = new Array (
         topic: "network",
         //paperAbstract : "<p>We consider a generalization of the third degree price discrimination problem studied in Bergemann et al. (2015), where an intermediary between the buyer and the seller can design market segments to maximize any linear combination of consumer surplus and seller revenue. Unlike in Bergemann et al. (2015), we assume that the intermediary only has partial information about the buyer's value. We consider three different models of information, with increasing order of difficulty. In the first model, we assume that the intermediary's information allows him to construct a probability distribution of the buyer's value. Next we consider the sample complexity model, where we assume that the intermediary only sees samples from this distribution. Finally, we consider a bandit online learning model, where the intermediary can only observe past purchasing decisions of the buyer, rather than her exact value. For each of these models, we present algorithms to compute optimal or near optimal market segmentation.</p>",
     },
+    */
 
     {
         id : "knapsack",
-        name : "Online Knapsack Problems with Convex Weight-dependent Packing Costs",
+        name : "Online Knapsack Problems with Convex Packing Costs",
         coauthors : new Array(authorList.XQTan, authorList.BSun, authorList.Garcia),
         journal : "Preprint",
         //arxiv : "https://arxiv.org/abs/1912.05770",
