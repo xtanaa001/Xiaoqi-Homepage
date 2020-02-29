@@ -4,7 +4,7 @@ var papers_conference = new Array (
         id : "mama_2019",
         name : "Optimal Posted Prices for Online Resource Allocation with Supply Costs",
         coauthors : new Array(authorList.XQTan, authorList.Garcia, authorList.DHKTsang),
-        conference : "ACM Sigmetrics Workshop on MAMA",
+        conference : "MAMA 2019, in conjunction with ACM Sigmetrics/IFIP Performance 2019",
         pubinfo: "June 2019",
         pdf: "https://www.sigmetrics.org/mama/abstracts/Tan.pdf",
         //arxiv : "https://arxiv.org/abs/1912.05770",
