@@ -11,11 +11,11 @@ Many network-based applications and services are carried out by providing resour
 <img src="/img/overview.png" style="max-width:33%; min-width:330px; float: right" alt="overview"/>
 
 
-Towards this end, my research centers around developing principles to address the following two tricky questions:
+Towards this end, my research centers around developing principles to address the following two intriguing questions:
 
-Q1: _How to improve the energy sustainability of networking and energy systems in the presence of information/data uncertainty about distributed energy resources?_
+Q1: _How to improve the **energy sustainability** of network-based applications and services by incorporating more renewable energy into their corresponding infrastrucutres, or more generally, the electrical grid?_
 
-Q2: _How to improve the economic efficiency of network-based applications and services in the presence of multiple stakeholders/agents with conflicting objectives?_
+Q2: _How to improve the **economic efficiency** of network-based applications and services in the presence of multiple stakeholders/agents with conflicting objectives?_
 
 
 To answer these two questions, my research centers around  the interplay between  algorithms and  incentives in networking and energy systems. To be more specific, my research focuses both on developing analytical techniques in online algorithms, algorithmic game theory, and mechanism design, and applying these techniques in application domains such as cloud computing, network economics, energy-efficient computing and communication, and smart grid. Though diverse, these areas all play essential roles in the broader goal of my research: achieving a better balance between _economic efficiency_ and _energy sustainability_ for network-based applications and services in networking and energy systems. For more details, please see my research description below by topics. 
