@@ -5,12 +5,9 @@ description: This is the abstract
 
 <a id="research_overview"></a>
 
-My research lies in the field of _economics and computation of networked systems_. The central theme of my research is driven by the following two intriguing challenges in the development of network-based applications and services in communication and computation.  
+My research lies in the field of economics and computation of networked systems. The central theme of my research is driven by the following two intriguing challenges in the development of network-based applications and services in communication and computation. First, in any system, a good decision, whether that be defined as an algorithm for resource allocation in the clouds, a strategy for traffic routing in the Internet, or a policy for electricity distribution in power grids, are often computed by solving some explicit or implicit optimization problems with incomplete knowledge of the future. Thus,  making efficient online decisions under uncertainty is, in many cases, not just an advantage, but a necessity. Second, and often more difficult, the performance of a system (e.g., revenue or welfare) often depends on a collective behavior of multiple stakeholders/agents with divergent or even competing interests (and thus, not directly controllable by the system). As a result, we must design appropriate incentives to encourage agent interactions towards a desired direction so that the  decisions can be implemented with a guaranteed efficiency and rationality. 
 
-- First, in any system, a good decision, whether that be defined as an algorithm for resource allocation in the clouds, a strategy for traffic routing in the Internet, or a policy for electricity distribution in power grids, are often computed by solving some explicit or implicit optimization problems with incomplete knowledge of the future. Thus,  making efficient online decisions under _uncertainty_ is, in many cases, not just an advantage, but a necessity. 
-- Second, and often more difficult, the performance of a system (e.g., revenue or welfare) often depends on a collective behavior of multiple stakeholders/agents with divergent or even competing interests (and thus, not directly controllable by the system). As a result, we must design appropriate _incentives_ to encourage agent interactions towards a desired direction so that the  decisions can be implemented with a guaranteed efficiency and rationality. 
-
-To tackle this research agenda, my research focuses both on developing analytical techniques in online algorithms, algorithmic game theory, and machine learning, and applying these analytical techniques to improve the economic and computational efficiency of network-based applications and services emerging from cloud computing, communication networks, and smart grid. For more details, please see my research description below by topics. 
+To tackle these two challenges, my research focuses both on developing analytical techniques in [**online algorithms**](/research/#online_algorithms), [**algorithmic game theory**](/research/#mechanism_design), and [**machine learning**](/research/#machine_learning), and applying these analytical techniques in application domains such as [**cloud computing**](/research/#computing), [**communication networks**](/research/#networking), and [**smart grid**](/research/#energy). For more details, please see my research description below by topics. 
 
 
 
@@ -95,7 +92,7 @@ In this thrust, our major focus is on the interaction between machine learning  
 </ul>
 
 
-<a id="cloud_computing"></a> 
+<a id="computing"></a> 
 
 ---
 
@@ -123,7 +120,7 @@ In this thrust, our major focus is on the interaction between machine learning  
 
 ---
 
-## Network Economics
+## Communication Networks
 
 *Applications*. Online decision-making is resource allocation in computer networks. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically. *App 2: Vehicle Routing in Transportation Networks*. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
 
@@ -147,7 +144,7 @@ In this thrust, our major focus is on the interaction between machine learning  
 </ul>
 
 
-<a id="smart_grid"></a>
+<a id="energy"></a>
 
 ---
 
