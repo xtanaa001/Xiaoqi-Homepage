@@ -7,7 +7,7 @@ description: This is the abstract
 
 Many network-based applications and services are carried out by providing resources to systems of interacting agents.  Managing these systems faces two separate, but interrelated, challenges. First, in any system, a good decision, whether that be defined as an algorithm for resource allocation in cloud computing, a strategy for traffic routing in communication networks, or a policy for renewable energy integration in smart grids, are often computed by solving some explicit or implicit optimization problems with incomplete future information. Thus,  performing efficient _online decision-making under uncertainty_ is, in many cases, not just an advantage, but a necessity. Second, and often more difficult, the outcome of a decision-making process often depends on a collective behavior of multiple agents with divergent or even competing interests (and thus, not directly controllable by the system).   As a result, we must design appropriate incentives, based on _economic and game theoretic-models_, to encourage agent interactions towards a desired direction; otherwise, the  decisions cannot be implemented with a guaranteed efficiency and rationality.
 
-To tackle these two challenges, my research focuses both on developing analytical techniques in [**online algorithms**](/research/#online_algorithms), [**algorithmic game theory**](/research/#mechanism_design), and [**machine learning**](/research/#machine_learning), and applying these techniques to improve the economic and computational efficiency of networked systems emerging from application domains such as [**cloud computing**](/research/#computing), [**communication networks**](/research/#networking), and [**smart grid**](/research/#energy). For more details, please see my research description below by topics. 
+To tackle these two challenges, my research focuses both on developing analytical techniques in [**online algorithms**](/research/#OA), [**algorithmic game theory**](/research/#AGT), and [**machine learning**](/research/#ML), and applying these techniques to improve the economic and computational efficiency of networked systems emerging from application domains such as [**cloud computing**](/research/#computing), [**communication networks**](/research/#communication), and [**smart grid**](/research/#energy). For more details, please see my research description below by topics. 
 
 
 
@@ -19,7 +19,7 @@ To tackle these two challenges, my research focuses both on developing analytica
 [comment]: # (For examples, how incentives influence the behavior of self-interested agents, and thus the peformance of online decisions? how online decisions influence the outcome of incentives if there exist zero knowledge of future information? )
 
 
-<a id="online_algorithms"></a>  
+<a id="OA"></a>  
 
 ---
 
@@ -54,7 +54,7 @@ This is how you inject arbitrary HTML code to the head and foot areas. This is h
 
 
 
-<a id="mechanism_design"></a>
+<a id="AGT"></a>
 
 ---
 
@@ -116,7 +116,7 @@ In this thrust, our major focus is on the interaction between machine learning  
 </ul>
 
 
-<a id="networking"></a> 
+<a id="communication"></a> 
 
 ---
 
