@@ -11,21 +11,22 @@ var papers_journal = new Array (
         topic: "cloud",
         //paperAbstract : "<p>We consider a generalization of the third degree price discrimination problem studied in Bergemann et al. (2015), where an intermediary between the buyer and the seller can design market segments to maximize any linear combination of consumer surplus and seller revenue. Unlike in Bergemann et al. (2015), we assume that the intermediary only has partial information about the buyer's value. We consider three different models of information, with increasing order of difficulty. In the first model, we assume that the intermediary's information allows him to construct a probability distribution of the buyer's value. Next we consider the sample complexity model, where we assume that the intermediary only sees samples from this distribution. Finally, we consider a bandit online learning model, where the intermediary can only observe past purchasing decisions of the buyer, rather than her exact value. For each of these models, we present algorithms to compute optimal or near optimal market segmentation.</p>",
     },
+    */
 
-    {
-        id : "continuous",
-        name : "Online Resources Allocation with Time Flexibility and Convex Supply Costs",
-        coauthors : new Array(authorList.XQTan, authorList.Garcia),
-        journal : "Preprint",
-        //arxiv : "https://arxiv.org/abs/1912.05770",
-        highlight : "no",
-        topic: "algorithms",
-        //paperAbstract : "<p>We consider a generalization of the third degree price discrimination problem studied in Bergemann et al. (2015), where an intermediary between the buyer and the seller can design market segments to maximize any linear combination of consumer surplus and seller revenue. Unlike in Bergemann et al. (2015), we assume that the intermediary only has partial information about the buyer's value. We consider three different models of information, with increasing order of difficulty. In the first model, we assume that the intermediary's information allows him to construct a probability distribution of the buyer's value. Next we consider the sample complexity model, where we assume that the intermediary only sees samples from this distribution. Finally, we consider a bandit online learning model, where the intermediary can only observe past purchasing decisions of the buyer, rather than her exact value. For each of these models, we present algorithms to compute optimal or near optimal market segmentation.</p>",
+   {
+    id : "knapsack",
+    name : "Online Knapsack Problems with Convex Packing Costs",
+    coauthors : new Array(authorList.XQTan, authorList.Garcia),
+    journal : "Preprint",
+    //arxiv : "https://arxiv.org/abs/1912.05770",
+    highlight : "yes",
+    topic: "algorithms",
+    //paperAbstract : "<p>We consider a generalization of the third degree price discrimination problem studied in Bergemann et al. (2015), where an intermediary between the buyer and the seller can design market segments to maximize any linear combination of consumer surplus and seller revenue. Unlike in Bergemann et al. (2015), we assume that the intermediary only has partial information about the buyer's value. We consider three different models of information, with increasing order of difficulty. In the first model, we assume that the intermediary's information allows him to construct a probability distribution of the buyer's value. Next we consider the sample complexity model, where we assume that the intermediary only sees samples from this distribution. Finally, we consider a bandit online learning model, where the intermediary can only observe past purchasing decisions of the buyer, rather than her exact value. For each of these models, we present algorithms to compute optimal or near optimal market segmentation.</p>",
     },
 
     {
         id : "network",
-        name : "Value-based Network Resource Allocation under Arbitrary Arrivals",
+        name : "Bounded Efficiency Loss for Network Welfare Maximization under Arbitrary Arrivals",
         coauthors : new Array(authorList.XQTan, authorList.Garcia),
         journal : "Preprint",
         //arxiv : "https://arxiv.org/abs/1912.05770",
@@ -33,12 +34,11 @@ var papers_journal = new Array (
         topic: "network",
         //paperAbstract : "<p>We consider a generalization of the third degree price discrimination problem studied in Bergemann et al. (2015), where an intermediary between the buyer and the seller can design market segments to maximize any linear combination of consumer surplus and seller revenue. Unlike in Bergemann et al. (2015), we assume that the intermediary only has partial information about the buyer's value. We consider three different models of information, with increasing order of difficulty. In the first model, we assume that the intermediary's information allows him to construct a probability distribution of the buyer's value. Next we consider the sample complexity model, where we assume that the intermediary only sees samples from this distribution. Finally, we consider a bandit online learning model, where the intermediary can only observe past purchasing decisions of the buyer, rather than her exact value. For each of these models, we present algorithms to compute optimal or near optimal market segmentation.</p>",
     },
-    */
 
     {
-        id : "knapsack",
-        name : "Online Knapsack Problems with Convex Packing Costs",
-        coauthors : new Array(authorList.XQTan, authorList.BSun, authorList.Garcia),
+        id : "continuous",
+        name : "Online Job Scheduling with Time Flexibility and Diseconomy-of-scale Server Costs",
+        coauthors : new Array(authorList.XQTan, authorList.Garcia),
         journal : "Preprint",
         //arxiv : "https://arxiv.org/abs/1912.05770",
         highlight : "yes",

@@ -2,7 +2,7 @@
 title: Talks
 ---
 
-- Online Resource Allocation with Supply Costs and Capacity Limits
+- Online Resource Allocation with Supply Costs and Capacity Limits: A Unified Approach
   - Central South University, Changsha, China, Feb 2020.
   - Southest University, Nanjing, China, January 2020. 
   - Nanjing University of Astraunatns and Aerospace, Nanjing, China, January 2020. 
