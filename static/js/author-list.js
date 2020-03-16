@@ -27,7 +27,7 @@ var authorList = {
 
     BSun : {
         name : "Bo Sun",
-        web : "http://c2e.ece.ust.hk/sunbo/",
+        web : "#",
     },
 
     TLiu : {

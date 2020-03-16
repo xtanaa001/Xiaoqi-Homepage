@@ -35,13 +35,18 @@ title: Resume
 ## Talks
 
 >
-- <span style="color:darkblue">**Online Resource Allocation with Supply Costs and Capacity Limits**</span>
-  - Central South University, Changsha, China, Feb 2020.
+- <span style="color:darkblue">**Online Mechanism Design for Multi-Agent Resource Allocation**</span>
+  - Central South University, Changsha, China, January 2020.
+
+> - <span style="color:darkblue">**Posted Price Retailing of Transactive Energy: An Optimal Online Mechanism**</span>
   - Southest University, Nanjing, China, January 2020. 
-  - Nanjing University of Astraunatns and Aerospace, Nanjing, China, January 2020. 
+
+>
+- <span style="color:darkblue">**Online Resource Allocation with Supply Costs and Capacity Limits: A Unified Approach**</span>
+  - Nanjing University of Aeronautics and Astronautics, Nanjing, China, January 2020. 
   - Zhejiang University of Technology, Hangzhou, China, January 2020.  
 >
-- <span style="color:darkblue">**Enabling Intelligent Decision-Making in Smart Cities: When Internet of Things Meets Multi-Agent Systems**</span>
+- <span style="color:darkblue">**Enabling Intelligent Decision-Making in Smart Cities: When IoT Meets Multi-Agent Systems**</span>
   - The 10th CASCON Workshop on Cloud Computing, Toronto, 30 October 2018.
 >
 - <span style="color:darkblue">**Value-Lifetime Tradeoff Analysis for Battery Energy Storage in Dynamic Electricity Market**</span> 
