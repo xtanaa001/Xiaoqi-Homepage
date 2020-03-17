@@ -22,6 +22,11 @@ title: Resume
 - National Scholarship (approximately top 1~2%), Ministry of Education of P.R.China, 2010
 - National Scholarship (approximately top 1~2%), Ministry of Education of P.R.China, 2009
 
+## Membership 
+
+> - ACM Member (2019-Present).
+> - IEEE Member (2018-Present).
+
 ## Teaching
 
 > - <span style="color:darkblue">**Course Instructor (Guest Lecturer) at HKUST**</span>:
@@ -92,8 +97,3 @@ title: Resume
     - IEEE International Conference on Communication
     - IEEE Global Communications Conference
     - International Teletraffic Congress
-
-## Membership 
-
-> - ACM Member (2019-Present).
-> - IEEE Member (2018-Present).
