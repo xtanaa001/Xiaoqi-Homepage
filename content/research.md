@@ -6,7 +6,7 @@ description: This is the abstract
 <a id="research_overview"></a>
 
 
-<img src="/img/overview.png" style="max-width:30%; min-width:300px; float: right; margin:0px 20px" alt="overview"/>
+<img src="/img/overview.png" style="max-width:30%; min-width:300px; float: right; margin:10px 20px" alt="overview"/>
 
 My research lies in economics and computation of networked systems, with particular applications to computer networks, cloud computing, and smart grid.  The main theme of my research is driven by two separate, but interrelated, challenges, in the development of network-based applications and services in computation and communication.  First, in any system, a good decision, whether that be defined as a strategy for network routing in the Internet, an algorithm for resource allocation in cloud computing, or a policy for renewable energy integration in smart grid, are often computed by solving some explicit or implicit optimization problems with incomplete knowledge of future information. Thus,  making efficient **online decisions** under **data uncertainty** (or even no data in the worst case) is, in many cases, not just an advantage, but a necessity. Second, and often more difficult, the outcome of a decision-making process often depends on a collective behavior of multiple stakeholders/agents whose preferences may  be divergent or even strategic. As a result, we must design appropriate **economic incentives**, based on game theoretic-models, to encourage agent interactions towards a desired direction; otherwise, the  decisions cannot be implemented with a guaranteed efficiency and rationality. 
 
