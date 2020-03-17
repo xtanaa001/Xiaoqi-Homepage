@@ -4,20 +4,19 @@ title: Resume
 
 ## Employment
 >
-- *Postdoctoral Fellow* in ECE, University of Toronto, Toronto, ON, Canada, 07/2018-Present.
-- *Postdoctoral Fellow* in ECE, HKUST, Clear Water Bay, Kowloon, Hong Kong SAR, China, 02/2018-06/2018.
+- `Postdoctoral Fellow` in ECE, University of Toronto, Toronto, ON, Canada, `07/2018` - Present.
+- `Postdoctoral Fellow` in ECE, HKUST, Clear Water Bay, Kowloon, Hong Kong SAR, China, `02/2018 - 06/2018`.
 
 ## Education
 >
-- *Ph.D.* in ECE, HKUST, Clear Water Bay, Kowloon, Hong Kong SAR, China, 09/2012–01/2018.
-- *Visiting Research Fellow* in EE@SEAS, Harvard University, Cambridge, MA, USA, 10/2015–05/2016.
-- *B.Eng.* in Information Engineering, Xi'an Jiaotong University, Xi'an, China, 09/2008-06/2012.
+- `Ph.D.` in ECE, HKUST, Clear Water Bay, Kowloon, Hong Kong SAR, China, `09/2012 – 01/2018`.
+- `Visiting Research Fellow` in EE@SEAS, Harvard University, Cambridge, MA, USA, `10/2015 - 05/2016`.
+- `B.Eng.` in Information Engineering, Xi'an Jiaotong University, Xi'an, China, `09/2008 - 06/2012`.
 
 ## Selected Awards
 >
 - Overseas Research Awards, School of Engineering, HKUST, 2015
 - Award of “Energy Technology Concentration”, School of Engineering, HKUST, 2014-2016
-- Postgraduate Studentships, HKUST, 2012-2017
 - Bachelor Degree with First Class Honours (Rank: 1st/180), XJTU, 2012
 - National Scholarship (approximately top 1~2%), Ministry of Education of P.R.China, 2011
 - National Scholarship (approximately top 1~2%), Ministry of Education of P.R.China, 2010
@@ -68,6 +67,10 @@ title: Resume
 
 ## Professional Services
 
+> - <span style="color:darkblue">**Technical Program Committee**</span>:
+    - IEEE VTC - Wireless Networks: Protocols and Security, 2020.
+    - IEEE SmartGridComm, 2013-2014.
+
 > - <span style="color:darkblue">**Technical Reviewer for the Following Journals**</span>:
     - IEEE Network
     - IEEE/ACM Transactions on Networking
@@ -79,6 +82,7 @@ title: Resume
     - IEEE Transactions on Cybernetics
     - IEEE Transactions on Vehicular Technology
     - IEEE Transactions on Sustainable Energy
+    - IEEE Transactions on Green Communications and Networking
     - IEEE Transactions on Intelligent Transportation Systems
     - International Journal of Electrical Power & Energy Systems
 
@@ -88,3 +92,8 @@ title: Resume
     - IEEE International Conference on Communication
     - IEEE Global Communications Conference
     - International Teletraffic Congress
+
+## Membership 
+
+> - ACM Member (2019-Present).
+> - IEEE Member (2018-Present).
