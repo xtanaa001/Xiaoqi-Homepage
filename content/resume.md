@@ -24,8 +24,8 @@ title: Resume
 
 ## Membership 
 
-> - ACM Member (2019-Present).
 > - IEEE Member (2018-Present).
+> - ACM Member (2019-Present).
 
 ## Teaching
 
