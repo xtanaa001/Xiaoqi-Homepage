@@ -13,7 +13,7 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 
 ---
 ## Research Interests
-My research spans various topics in optimization of computer and networked systems. The main theme of my research is to develop analytical techniques in online/distributed algorithms, algorithmic game theory, and machine learning, and apply these techniques to optimize the system design in cloud computing, computer networks, and smart grid.
+My research spans various topics in optimization of computer and networked systems. The main theme of my research is to develop analytical techniques in online/distributed algorithms, algorithmic game theory, and machine learning, and apply these techniques to optimize the design of many real-world computer and networked systems such as cloud computing, computer networks, and smart grid.
 
 [comment]: # (Though diverse, these areas are all essential  to the broader goal of my research: improving the economic and computational efficiency of  network-based applications and services in the presence of  uncertainty.)
 
