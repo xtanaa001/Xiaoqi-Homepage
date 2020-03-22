@@ -5,9 +5,6 @@ description: This is the abstract
 
 <a id="research_overview"></a>
 
-<img src="/img/overview.png" style="max-width:30%; min-width:300px; float: right; margin:10px 20px" alt="overview"/>
-
-
 Many real-world networked systems can be modelled as networks of interacting agents sharing and competing for limited resources. Managing resources in these systems faces two separate, but interrelated, challenges. First, in any system, a good decision, whether that be defined as an algorithm for resource allocation and scheduling in the clouds, a strategy for packet forwarding and routing in the Internet, or a policy for integration of distributed energy resources (e.g., renewable energy, plug-in electric vehicles, and energy storage, etc.) in smart grids, are often computed by solving some explicit or implicit optimization problems with incomplete knowledge of the future. Thus,  performing efficient online decision-making in the face of uncertainty is, in many cases, not just an advantage, but a necessity. Second, and often more difficult, the performance of a decision-making process often depends on a collective behavior of multiple agents whose preferences are divergent or even strategic (and thus, not directly controllable by the system). As a result, we must design appropriate incentives, based on economic and game-theoretic models, to facilitate autonomous  and distributed decision-making among multiple agents; otherwise, the  decisions cannot be implemented with a guaranteed efficiency and rationality. 
 
 
