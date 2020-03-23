@@ -13,7 +13,7 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 
 ---
 ## Research Interests
-My research focuses on online algorithms, algorithmic game theory, and mechanism design, and their applications in networked systems such as cloud computing, computer networks, network economics, and smart grid.
+My research focuses on online optimization/learning, algorithmic game theory, and mechanism design, and their applications in networked systems such as cloud computing, computer networks, network economics, and smart grid.
 
 [comment]: # (Though diverse, these areas are all essential  to the broader goal of my research: improving the economic and computational efficiency of  network-based applications and services in the presence of  uncertainty.)
 
