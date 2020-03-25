@@ -74,7 +74,7 @@ title: Resume
 
 > - <span style="color:darkblue">**Technical Program Committee**</span>:
     - IEEE VTC - Wireless Networks: Protocols and Security, 2020.
-    - IEEE SmartGridComm, 2013-2014.
+    - IEEE SmartGridComm - Grid Analytics and Computation Symposium, 2020.
 
 > - <span style="color:darkblue">**Technical Reviewer for the Following Journals**</span>:
     - IEEE Network
