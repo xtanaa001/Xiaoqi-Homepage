@@ -2,7 +2,7 @@ var authorList = {
 
     XQTan : {
         name : "<b>Xiaoqi Tan</b>",
-        web : "#",
+        web : "https://xiaoqitan.org",
     },
 
     Garcia : {

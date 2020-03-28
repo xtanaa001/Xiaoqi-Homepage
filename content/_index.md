@@ -4,6 +4,7 @@ title: Home
 
 [<img src="/img/xiaoqi.png" style="max-width:13%;min-width:110px;float:right" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
 
+
 ## Xiaoqi Tan's Bio
 
 I am a postdoc at the [Dept. of ECE](https://www.ece.utoronto.ca), [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/).  
@@ -12,13 +13,13 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 
 
 ---
-## <a id="research"></a> Research Overview
+## <a id="research"></a> Research Interests
 My research spans various topics in computer networks, cloud computing, and smart grid. The main theme of my research is to develop analytical techniques in online algorithms, algorithmic game theory, and machine learning, and apply these techniques to gain insight into the design of computer and networked systems, markets, and platforms.
 
 [comment]: # (Though diverse, these areas are all essential  to the broader goal of my research: improving the economic and computational efficiency of  network-based applications and services in the presence of  uncertainty.)
 
 
-For more information, please find my recent and selected publications below:
+For more information, please find my recent and selected publications below.
 
 <ul class=circle>
     <script>
