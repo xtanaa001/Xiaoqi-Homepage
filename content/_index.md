@@ -19,8 +19,9 @@ My research spans various topics in computer networks, cloud computing, and smar
 [comment]: # (Though diverse, these areas are all essential  to the broader goal of my research: improving the economic and computational efficiency of  network-based applications and services in the presence of  uncertainty.)
 
 
-For more information, please see my recent and selected publications below.
+For more details, please see my recent publications below. Click [here](/publications) or [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en/) for my full publication list. 
 
+ 
 <ul class=circle>
     <script>
         var i;
@@ -34,7 +35,6 @@ For more information, please see my recent and selected publications below.
     </script>
 </ul>
 
-For complete list of publications, please click [here](/publications) or my [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en/).
 
 
 ---
