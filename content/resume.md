@@ -74,12 +74,12 @@ title: Resume
 
 > - <span style="color:darkblue">**Technical Program Committee**</span>:
     - IEEE VTC - Wireless Networks: Protocols and Security, 2020.
-    - IEEE SmartGridComm - Grid Analytics and Computation Symposium, 2020.
+    - IEEE SmartGridComm - Grid Analytics and Computation, 2020.
 
 > - <span style="color:darkblue">**Technical Reviewer for the Following Journals**</span>:
     - IEEE Network
-    - IEEE/ACM Transactions on Networking
     - Computers & Operations Research
+    - IEEE/ACM Transactions on Networking
     - IEEE Transactions on Wireless Communication
     - IEEE Transactions on Industrial Informatics
     - IEEE Transactions on Power Systems
@@ -87,13 +87,13 @@ title: Resume
     - IEEE Transactions on Cybernetics
     - IEEE Transactions on Vehicular Technology
     - IEEE Transactions on Sustainable Energy
-    - IEEE Transactions on Green Communications and Networking
     - IEEE Transactions on Intelligent Transportation Systems
+    - IEEE Transactions on Green Communications and Networking
     - International Journal of Electrical Power & Energy Systems
 
 > - <span style="color:darkblue">**Technical Reviewer for the Following Conferences**</span>:
-    - IEEE International Conference on Smart Grid Communication
+    - IEEE SmartGridComm 
     - IEEE Power & Energy Society General Meeting
-    - IEEE International Conference on Communication
-    - IEEE Global Communications Conference
-    - International Teletraffic Congress
+    - IEEE International Conference on Communication (ICC)
+    - IEEE Global Communications Conference (Globecom)
+    - International Teletraffic Congress (ITC)
