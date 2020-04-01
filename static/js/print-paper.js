@@ -31,14 +31,14 @@ function printPaper(paper, type){
             document.write("<i>"+paper.journal+"</i>");
 
     if (typeof paper.pubinfo == "string") document.write(", "+paper.pubinfo+".");
-
-    if (typeof paper.note == "string") document.write("&emsp;<i><b>("+paper.note+")</b></i>");
     
     if (typeof paper.pdf == "string") document.write("&emsp;<a href=\" " +paper.pdf+ " \" target=\"_blank\" >[PDF]</a>");
     
     if (typeof paper.confVersion == "string") document.write("&emsp;<a href=\""+paper.confVersion+"\" target=\"_blank\" >[Conference Version]</a>"); 
 
     if (typeof paper.arxiv == "string") document.write("&emsp;<a href=\""+paper.arxiv+"\" target=\"_blank\" >[Technical Report]</a>");
+    
+    if (typeof paper.note == "string") document.write("&emsp;<b>("+paper.note+")</b>");
     
     //if (typeof paper.slides == "string") document.write("&emsp;<a href=\""+paper.slides+"\">[slides]</a>");
     if (typeof paper.talk == "string") document.write("&emsp;<a href=\""+paper.talk+"\">[talk]</a>");

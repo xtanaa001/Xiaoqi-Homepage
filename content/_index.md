@@ -13,17 +13,33 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 
 
 ---
-## <a id="research"></a> Research Summary
-My research spans various topics in computer networks, cloud computing, and smart grid. The main theme of my research is to develop analytical techniques in online algorithms, algorithmic game theory, and machine learning, and apply these techniques to gain insight into the design of computer systems, networks,and markets. For more details, please see my recent publications below, or click [here](/publications) for my full publication list.  
+## <a id="research"></a> Research Interests
+
+My research spans various topics in online algorithms, algorithmic game theory, and machine learning, with a focus on their applications in computing and networked systems of various types, such as cloud computing, computer networks, and smart grid.  For more details, please see my recent publications below, or click [here](/publications) for my full publication list.  
+
+
+
 
 [comment]: # (Though diverse, these areas are all essential  to the broader goal of my research: improving the economic and computational efficiency of  network-based applications and services in the presence of  uncertainty.)
-
-
 
 >
 <ul class=circle>
     <script>
         var i;
+        for (i = 0; i < papers_preprint.length; i++) {
+            if (papers_preprint[i].highlight.search("yes") >= 0) {
+                document.write("<li class=paper>");
+                printPaper(papers_preprint[i], "yes");
+                document.write("</li>");
+            }
+        }
+        for (i = 0; i < papers_conference.length; i++) {
+            if (papers_conference[i].highlight.search("yes") >= 0) {
+                document.write("<li class=paper>");
+                printPaper(papers_conference[i], "yes");
+                document.write("</li>");
+            }
+        }
         for (i = 0; i < papers_journal.length; i++) {
             if (papers_journal[i].highlight.search("yes") >= 0) {
                 document.write("<li class=paper>");
