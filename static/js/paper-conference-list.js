@@ -7,7 +7,7 @@ var papers_conference = new Array (
         coauthors : new Array(authorList.XQTan, authorList.BSun, authorList.Garcia, authorList.YWu, authorList.DHKTsang),
         conference : "ACM Sigmetrics 2020",
         //pdf: "",
-        //arxiv : "",
+        arxiv: "https://arxiv.org/abs/2004.09640",
         highlight : "no",
         topic: "mechanism",
         note: "Full Paper",

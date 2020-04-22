@@ -7,7 +7,7 @@ var papers_journal = new Array (
         journal : "Proceedings of the ACM on Measurement and Analysis of Computing Systems",
         //pubinfo: "in press",
         pubinfo: "vol. 4, no. 2, June 2020 (in press)",
-        //arxiv: "",
+        arxiv: "https://arxiv.org/abs/2004.09640",
         highlight : "yes",
         topic: "mechanism",
         note: "Conference version was accepted to ACM Sigmetrics 2020 as a full paper",
