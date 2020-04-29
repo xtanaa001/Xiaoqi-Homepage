@@ -19,7 +19,7 @@ var papers_journal = new Array (
         name : "Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits",
         coauthors : new Array(authorList.XQTan, authorList.YWu, authorList.Garcia, authorList.DHKTsang),
         journal : "IEEE Journal of Selected Areas in Communications",
-        pubinfo: "in press",
+        pubinfo: "vol. 38, no. 4, pp. 655-668, April 2020",
         pdf: "/documents/OCA_JSAC_2020.pdf",
         confVersion: "https://www.sigmetrics.org/mama/abstracts/Tan.pdf",
         //report: "",
