@@ -15,7 +15,7 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 ---
 ## <a id="research"></a> Research Interests
 
-My research lies at the intersection of online algorithms and algorithmic game theory, with an emphasis on applications to cloud computing, network economics, and energy systems. For more details, please see my recent publications below, or click [here](/publications) for my full publication list.
+My research lies at the intersection of online algorithms, algorithmic game theory, and mechanism design, with an emphasis on applications to cloud computing, network economics, and energy systems. For more details, please see my recent publications below, or click [here](/publications) for my full publication list.
 
 [comment]: # (Though diverse, these areas all center around the main theme of my research: The main theme of my research is to understand the fundamental performance limits of real-world systems in the presence of real-time data held by self-interested agents.  For more details, please see my recent publications below, or click [here](/publications) for my full publication list. My research centers around the interplay between algorithms, incentives, and learning in computing and networked systems. )
 
