@@ -8,7 +8,7 @@ var papers_journal = new Array (
         //pubinfo: "in press",
         pubinfo: "vol. 4, no. 2, June 2020",
         arxiv: "https://arxiv.org/abs/2004.09640",
-        talk: "/documents/SIGMETRICS20_slides.pdf",
+        //talk: "/documents/SIGMETRICS20_slides.pdf",
         highlight : "yes",
         topic: "mechanism",
         note: "Conference version was accepted to ACM Sigmetrics 2020 as a full paper",
