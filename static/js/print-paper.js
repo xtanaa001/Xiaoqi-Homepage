@@ -40,10 +40,13 @@ function printPaper(paper, type){
 
     if (typeof paper.report == "string") document.write("&emsp;<a href=\""+paper.report+"\" target=\"_blank\" >[Technical Report]</a>");
     
+    if (typeof paper.talk == "string") document.write("&emsp;<a href=\" " +paper.talk+ " \" target=\"_blank\" >[Slides]</a>");
+
     if (typeof paper.note == "string") document.write("&emsp;<b>("+paper.note+")</b>");
     
     //if (typeof paper.slides == "string") document.write("&emsp;<a href=\""+paper.slides+"\">[slides]</a>");
-    if (typeof paper.talk == "string") document.write("&emsp;<a href=\""+paper.talk+"\">[talk]</a>");
+    //if (typeof paper.talk == "string") document.write("&emsp;<a href=\""+paper.talk+"\">[talk]</a>");
+    
     if (typeof paper.paperAbstract == "string") {
         document.writeln("<div class=\"abstract\" id=\'abs-" + paper.id + "-" + type + "\'>");
         document.writeln("<p><b>Abstract</b></p>");
