@@ -17,8 +17,8 @@ Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer eng
 
 >
 + **Online Algorithms** for Optimization and Machine Learning.
-+ **Algorithmic Game Theory**: Mechanism Design, Pricing, Market Design.
-+ **Computing Systems and Networks**: Resource Allocation and Scheduling, Energy-Efficiency.
++ **Algorithmic Game Theory**: Mechanism Design, Resource Allocation and Pricing, Market Design.
++ **Computing Systems and Networks**: Scheduling, Energy-Efficiency, Network Optimization and Economics.
 + **Energy Systems**: Electric Vehicles, Energy Storage, Renewables, Transactive Energy.
 
 For more details, please see my recent publications below, or click [here](/publications) for my full publication list.	
