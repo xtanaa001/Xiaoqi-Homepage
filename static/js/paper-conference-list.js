@@ -8,7 +8,7 @@ var papers_conference = new Array (
         conference : "ACM Sigmetrics 2020",
         //pdf: "",
         arxiv: "https://arxiv.org/abs/2004.09640",
-        //talk: "/documents/SIGMETRICS20_slides.pdf",
+        talk: "/documents/SIGMETRICS20_slides.pdf",
         highlight : "no",
         topic: "mechanism",
         note: "Full Paper",
