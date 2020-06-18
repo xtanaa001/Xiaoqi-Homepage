@@ -39,6 +39,10 @@ title: Resume
 ## Talks
 
 >
+- [**Online Knapsack Problems with Convex Packing Costs: Algorithms and Applications**](https://events.vtools.ieee.org/m/233311)
+  - Dept. of Computer Science, University of Waterloo, ON, Canada, June 2020.
+
+>
 - <span style="color:darkblue">**Online Mechanism Design for Multi-Agent Resource Allocation**</span>
   - Central South University, Changsha, China, January 2020.
 
