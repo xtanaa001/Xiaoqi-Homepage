@@ -11,7 +11,7 @@ var papers_journal = new Array (
         talk: "/documents/SIGMETRICS20_slides.pdf",
         highlight : "yes",
         topic: "mechanism",
-        note: "Conference version was accepted to ACM Sigmetrics 2020 as a full paper",
+        note: "Conference version: ACM SIGMETRICS 2020",
         paperAbstract : "<p>This paper concerns the mechanism design for online resource allocation in a strategic setting.  In this setting, a single supplier allocates capacity-limited resources to requests that arrive in a sequential and arbitrary manner. Each request is associated with an agent who may act selfishly to misreport the requirement and valuation of her request. The supplier charges payment from agents whose requests are satisfied, but incurs a load-dependent supply cost. The goal is to design an incentive compatible  online mechanism, which determines not only the resource allocation of each request, but also the payment of each agent,  so as to (approximately) maximize  the social welfare (i.e., aggregate valuations minus supply cost). We study this problem under the framework of competitive analysis. The major contribution of this paper is the development of a unified approach that achieves the best-possible competitive ratios for setups with different supply costs. Specifically, we show that when there is no supply cost or the supply cost function is linear, our model is essentially a standard 0-1 knapsack problem, for which our approach achieves logarithmic competitive ratios that match the state-of-the-art (which is optimal). For the more challenging setup when the supply cost is  strictly-convex, we provide online mechanisms, for the first time, that lead to the optimal competitive ratios as well.  To the best of our knowledge, this is the first approach that unifies the characterization of optimal competitive ratios in online resource allocation for different setups including zero, linear and strictly-convex supply costs.</p>",
     },
 
@@ -22,10 +22,11 @@ var papers_journal = new Array (
         journal : "IEEE Journal on Selected Areas in Communications",
         pubinfo: "vol. 38, no. 4, pp. 655-668, April 2020",
         pdf: "/documents/OCA_JSAC_2020.pdf",
-        confVersion: "https://www.sigmetrics.org/mama/abstracts/Tan.pdf",
+        //confVersion: "https://www.sigmetrics.org/mama/abstracts/Tan.pdf",
         //report: "",
         highlight : "yes",
         topic: "mechanism",
+        note: "Extended abstract appeared in ACM MAMA 2019 - in conjunction with ACM SIGMETRICS/IFIP Performance 2019",
         paperAbstract : "<p> We study a general online combinatorial auction problem in algorithmic mechanism design. A provider allocates multiple types of capacity-limited resources to customers that arrive in a sequential and arbitrary manner. Each customer has a private valuation function on bundles of resources that she can purchase (e.g., a combination of different resources such as CPU and RAM in cloud computing). The provider charges payment from customers who purchase a bundle of resources and incurs an increasing supply cost with respect to the totality of resources allocated. The goal is to maximize the social welfare, namely, the total valuation of customers for their purchased bundles, minus the total supply cost of the provider for all the resources that have been allocated. We adopt the competitive analysis framework and provide posted-price mechanisms with optimal competitive ratios. Our pricing mechanism is optimal in the sense that no other online algorithms can achieve a better competitive ratio. We validate the theoretic results via empirical studies of online resource allocation in cloud computing. Our numerical results demonstrate that the proposed pricing mechanism is competitive and robust against system uncertainties and outperforms existing benchmarks.</p>",
     },
 

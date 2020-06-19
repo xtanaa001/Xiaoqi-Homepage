@@ -42,7 +42,7 @@ function printPaper(paper, type){
     
     if (typeof paper.talk == "string") document.write("&emsp;<a href=\" " +paper.talk+ " \" target=\"_blank\" >[Slides]</a>");
 
-    if (typeof paper.note == "string") document.write("&emsp;<b>("+paper.note+")</b>");
+    if (typeof paper.note == "string") document.write("&emsp;("+paper.note+")");
     
     //if (typeof paper.slides == "string") document.write("&emsp;<a href=\""+paper.slides+"\">[slides]</a>");
     //if (typeof paper.talk == "string") document.write("&emsp;<a href=\""+paper.talk+"\">[talk]</a>");
