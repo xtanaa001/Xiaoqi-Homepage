@@ -35,11 +35,20 @@ I study [online algorithms/mechanisms](/publications_topic/#online-algorithms), 
 
 
 ### <span style="color:darkred">`Recent Talks`</span>
-> - [Mechanism Design for Online Resource Allocation: A Uniﬁed Approach](https://www.youtube.com/watch?v=7s09s9p2ZYQ)\\
-ACM SIGMETRICS 2020
 
-> - [Online Knapsack Problems with Convex Packing Costs: Algorithms and Applications](https://events.vtools.ieee.org/m/233311)\\
-David R. Cheriton School of Computer Science,  University of Waterloo, ON, Canada, June 2020.
+<ul class=circle>
+        <script>
+            var i;
+            for (i = 0; i < talks_full.length; i++) {
+            if (talks_full[i].highlight.search("yes") >= 0) {
+                document.write("<li class=paper>");
+                printPaper(talks_full[i], "O");
+                document.write("</li>");
+            }
+        }
+        </script>
+</ul>
+
 
 
 
@@ -47,7 +56,6 @@ David R. Cheriton School of Computer Science,  University of Waterloo, ON, Canad
 
 ### <span style="color:darkred">`Recent Highlights` </span> 
 
->
 <ul class=circle>
         <script>
             var i;
