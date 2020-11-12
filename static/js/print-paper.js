@@ -26,7 +26,7 @@ function printPaper(paper, type){
         
     if (typeof paper.journal == "string") 
         if (paper.journal == "Preprint") 
-            document.writeln("<i>Preprint</i>");
+            document.writeln("<a>Preprint</a>");
         else 
             document.write("<a>"+paper.journal+"</a>");
 
@@ -42,7 +42,10 @@ function printPaper(paper, type){
     
     if (typeof paper.talk == "string") document.write("&emsp;<a href=\" " +paper.talk+ " \" target=\"_blank\" >[Slides]</a>");
 
+    if (typeof paper.video == "string") document.write("&emsp;<a href=\" " +paper.video+ " \" target=\"_blank\" >[Video]</a>");
+
     if (typeof paper.note == "string") document.write("&emsp;("+paper.note+")");
+        
     
     //if (typeof paper.slides == "string") document.write("&emsp;<a href=\""+paper.slides+"\">[slides]</a>");
     //if (typeof paper.talk == "string") document.write("&emsp;<a href=\""+paper.talk+"\">[talk]</a>");

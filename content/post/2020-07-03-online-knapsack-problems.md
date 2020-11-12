@@ -1,13 +1,12 @@
 ---
-title: Lorem Ipsum
-date: '2015-07-23'
-categories:
-  - Example
-tags:
-  - Markdown
+title: Online Knapsack Problems
+date: '2020-07-03'
 ---
 
-**Lorem ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore _magna aliqua_. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The knapsack problem, as well as its many variants, has been extensively studied in computer science and operations research communities over the past several decades [1].  As a classic example, the  0-1 knapsack problem considers a combinatorial optimization problem as follows: Given a set of $ N $ items indexed by $ n\in [N] $, each with a value $ v_n $ and a weight $ w_n $, one needs to decide whether  item $ n\in [N] $ is to be included in the knapsack (i.e., $ x_n = 0 $) or not (i.e., $ x_n = 0 $) so that the total weight of accepted items is less than or equal to the maximum weight capacity $ M $, and the aggregate value  of accepted items is as large as possible. 
+
+`$$\underset{\{x_n\}_{\forall n}}{\textsf{maximize}}\   \sum_{n=1}^N v_n x_n - f\left(\sum_{n=1}^N x_n\right)\quad  \textsf{subject to}\ \sum_{n=1}^N x_n \leq M; x_n = \{0,1\},\forall n\in[N]$$`
+
 
 Quisque mattis volutpat lorem vitae feugiat. Praesent porta est quis porta imperdiet. Aenean porta, mi non cursus volutpat, mi est mollis libero, id suscipit orci urna a augue. In fringilla euismod lacus, vitae tristique massa ultricies vitae. Mauris accumsan ligula tristique, viverra nulla sed, porta sapien. Vestibulum facilisis nec nisl blandit convallis. Maecenas venenatis porta malesuada. Ut ac erat tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla sodales quam sit amet tincidunt egestas. In et turpis at orci vestibulum ullamcorper. Aliquam sed ante libero. Sed hendrerit arcu lacus.
 
