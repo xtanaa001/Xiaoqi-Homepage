@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:20%;min-width:120px;float:right; margin: 60px 50px" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
+[<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:20%;min-width:198px;float:right; margin: 60px 50px" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
 
 ## <span style="color:darkred">`About Me`</span>
 
