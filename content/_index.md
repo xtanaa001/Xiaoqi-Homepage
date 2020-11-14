@@ -9,16 +9,22 @@ title: Home
 I am a postdoc at the [University of Toronto](https://utoronto.ca), hosted by Prof. [Alberto Leon-Garcia](https://www.ece.utoronto.ca/people/leon-garcia-a/).  
 
 
-Prior to my current position, I obtained my Ph.D. degree in electronic and computer engineering from the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu). 
+Prior to my current position, I received my Ph.D. from the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). At HKUST, I was affiliated with the [C2E Group](http://c2e.ece.ust.hk/main/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu). 
 
 [comment]: # (Here is my [resume](/resume))
 
 
-I study [Online Algorithms/Mechanisms](/publications_topic/#online-algorithms), with applications to networked systems ranging from [Computer Systems & Networks](/publications_topic/#networks) to [Energy & Transportation Systems](/publications_topic/#energy).  Here is my  [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en) profile and [DBLP](https://dblp.org/pid/139/4363.html).
+I study [Online Algorithms/Mechanisms](/publications_topic/#online-algorithms), with applications to Networked Systems ranging from [Computer Systems & Networks](/publications_topic/#networks) to [Energy & Transportation Systems](/publications_topic/#energy). 
+
+
+**Links**: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en) | [DBLP](https://dblp.org/pid/139/4363.html)\\
+**Email**: $\text{xiaoqi.tan}@\text{utoronto.ca}$ |  $\text{xiaoqi.xtan}@\text{gmail.com}$\\
+**Pronunciation**: My first name `"`Xiaoqi`"` is pronounced as `"`Shiao-Chee`"`.
+
+
 
 [comment]: # (I occasionally write [blog posts](/post) about my research, or other interesting concepts in mathematics and economics that are relevant to CS + EE. **Office**: 7137 Bahen Centre, 40 St. George Street, Toronto, ON, Canada. For more details, see my publications [here](/publications_year). )
 
-**Email**: $\textsf{xiaoqi.tan}@\textsf{utoronto.ca}$ (My first name `"`Xiaoqi`"` is pronounced as `"`Shiao-Chee`"`)
 
 ---
 
@@ -33,6 +39,9 @@ I study [Online Algorithms/Mechanisms](/publications_topic/#online-algorithms), 
 
 [comment]: # ( Specifically, I study [Algorithms under Uncertainty](/#online-algorithms) in optimization, algorithmic game theory, and machine learning, with applications to [Communication Networks](/#networks), [Transportation Systems](/#energy), and [Smart Grid](/#energy).  For more details,  check out my [research description](/research), or see my selected publications below by topic (some are listed under more than one topic).  I am interested in the design and analysis of [Algorithms under Uncertainty](/#online-algorithms), with tools from optimization, algorithmic game theory, and machine learning. My research strives to bring "Sustainability + Reliability" into networked systems of large-scale social impacts, ranging from [Communication Networks](/#networks) to [Transportation Systems](/#energy) and [Smart Grid](/#energy). I study how to handle uncertainty and incentives in networks and energy systems. Current topics of interest include: I work on problems at the intersection of [Online Algorithms](/#online-algorithms), [Algorithmic Game Theory](/#algorithmic-game-theory-mechanism-design), and [Mechanism Design](/#algorithmic-game-theory-mechanism-design), with applications to [Cloud Computing, Networking, and Energy Systems](/#applications). ..... I work on problems at the intersection of `Online Algorithms`,  `Algorithmic Game Theory`, and `Mechanism Design`, with an emphasis on applications to `Distributed and Networked Systems` ranging from  large-scale cloud computing platforms to computer networks and  energy systems. my [Google Scholar](https://scholar.google.com/citations?hl=en&user=drR_WcAAAAAJ&view_op=list_works&sortby=pubdate) with theoretic performance guarantees and analyses with a focus on applications to `Cloud Computing`, `Communication Networks`, and `Transactive Energy Systems`.  My research interests revolve around fundamental and algorithmic issues in computing, communication, and energy systems.  Beyond my work on applications, I also work on problems at the intersection of online algorithms, algorithmic game theory, and mechanism design. The goal is to develop foundational theory and algorithms for online decision making in the presence of incomplete information, using mathematical tools from computer science, economics, and operations research. Some specific topics of interest include online knapsack problems, online mechanism design, online scheduling, combinatorial auctions, and prophet inequalities. Though diverse, the above areas are all essential to my broader research  goal: developing foundational  algorithms and tools to help improve the sustainability of ICT, or more broadly, to enable a sustainable energy future. Some primary topics in my research include: - [Online Algorithms](/#online-algorithms). Online Optimization and Online Learning. - [Algorithmic Game Theory](/#algorithmic-game-theory). Online Combinatorial Auctions and Mechanism Design. - [Communication Networks](/#networks). Cloud Computing, Network Optimization, and Network Economics. - [Energy Systems](/#energy). Electric Vehicle Networks and  Smart Grid.)
 
+
+
+<a id="recent"></a>
 
 ### <span style="color:darkred">`Recent Talks`</span>
 
@@ -52,7 +61,7 @@ I study [Online Algorithms/Mechanisms](/publications_topic/#online-algorithms), 
 
 
 
-<a id="recent"></a> 
+<a id="recentpapers"></a> 
 
 ### <span style="color:darkred">`Recent Highlights` </span> 
 
