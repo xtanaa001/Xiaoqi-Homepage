@@ -14,9 +14,9 @@ Prior to my current position, I obtained my Ph.D. degree in electronic and compu
 [comment]: # (Here is my [resume](/resume))
 
 
-I study [online algorithms/mechanisms](/publications_topic/#online-algorithms), with applications to networked systems ranging from [computer systems & networks](/publications_topic/#networks) to [energy & transportation systems](/publications_topic/#energy).  For more details, check out my [publications](/publications_year). Here is my  [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/139/4363.html).
+I study [Online Algorithms/Mechanisms](/publications_topic/#online-algorithms), with applications to networked systems ranging from [Computer Systems & Networks](/publications_topic/#networks) to [Energy & Transportation Systems](/publications_topic/#energy).  Here is my  [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en) profile and [DBLP](https://dblp.org/pid/139/4363.html).
 
-[comment]: # (I occasionally write [blog posts](/post) about my research, or other interesting concepts in mathematics and economics that are relevant to CS + EE. **Office**: 7137 Bahen Centre, 40 St. George Street, Toronto, ON, Canada)
+[comment]: # (I occasionally write [blog posts](/post) about my research, or other interesting concepts in mathematics and economics that are relevant to CS + EE. **Office**: 7137 Bahen Centre, 40 St. George Street, Toronto, ON, Canada. For more details, see my publications [here](/publications_year). )
 
 **Email**: $\textsf{xiaoqi.tan}@\textsf{utoronto.ca}$ (My first name `"`Xiaoqi`"` is pronounced as `"`Shiao-Chee`"`)
 
