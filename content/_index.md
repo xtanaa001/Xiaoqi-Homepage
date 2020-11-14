@@ -17,9 +17,9 @@ Prior to my current position, I received my Ph.D. from the [Hong Kong University
 I study [Online Algorithms/Mechanisms](/publications_topic/#online-algorithms), with applications to Networked Systems ranging from [Computer Systems & Networks](/publications_topic/#networks) to [Energy & Transportation Systems](/publications_topic/#energy). 
 
 
-**Links**: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en) | [DBLP](https://dblp.org/pid/139/4363.html)\\
+**Links**: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en) | [DBLP](https://dblp.org/pid/139/4363.html) | [ORCID](https://orcid.org/0000-0002-5339-3245)\\
 **Email**: $\text{xiaoqi.tan}@\text{utoronto.ca}$ |  $\text{xiaoqi.xtan}@\text{gmail.com}$\\
-**Pronunciation**: My first name `"`Xiaoqi`"` is pronounced as `"`Shiao-Chee`"`.
+**Pronunciation**: My first name "`Xiaoqi`" is pronounced as "`Shiao-Chee`".
 
 
 
@@ -27,19 +27,6 @@ I study [Online Algorithms/Mechanisms](/publications_topic/#online-algorithms), 
 
 
 ---
-
-[comment]: # (## <span style="color:darkred">`Research`</span>I am interested in the design and analysis of _Online Algorithms and Mechanisms_, with applications to _Networked Systems_ ranging from computer systems and networks to energy and transportation systems.  My work aims to ensure _Rigor in Systems Research_. To accomplish this, I use tools from optimization,  economics and computation, and machine learning.)
-
-
-[comment]: # ( This includes, among others, applications arising from developing resource allocation and scheduling decisions to optimize the performance  of _Computer Systems and Networks_, energy markets to integrate distributed energy resources into  _Energy Systems_, and incentive mechanisms to induce desirable behaviors from people and vehicles in _Urban Systems_. My research centers around the theory of `"`Algorithms under Uncertainty`"`, with a focus on developing foundational online algorithms and mechanisms for decision making under uncertainty, using tools from online optimization, algorithmic game theory, and machine learning. the development of efficient resource allocation mechanisms in cloud computing and networks, real-time routing and charging strategies for electric vehicles to achieve a low-carbon transportation, and novel markets to help achieve a clean and resilient energy system.  I am broadly interested in algorithms under uncertainty, with a focus on online algorithms. My research strives to bring sustainability and reliability  into networked systems ranging from  cloud computing to transportation systems and energy systems. Click [here](/research) for more details. I study the interplay between _`Online Algorithms`_, _`Algorithmic Game Theory`_, and _`Machine Learning`_,  with a focus on applications to _`Networks`_ and _`Energy`_, e.g., communications, cloud computing, transportation, and smart grid. Click [here](/research) for more details.)
-
-
-[comment]: # (I am interested in the design and analysis of [Online Algorithms](/#online-algorithms) using tools from optimization, algorithmic game theory, and machine learning, with applications to [Networks](/#networks), [Transportation](/#transportation), and [Energy Systems](/#energy).   My research strives to bring "Sustainability + Reliability"  into these networked systems of large-scale  social impacts. For more details, you can check out my research description  [here](/research), or see my recent publications below by topic (some are listed more than once). )
-
-
-[comment]: # ( Specifically, I study [Algorithms under Uncertainty](/#online-algorithms) in optimization, algorithmic game theory, and machine learning, with applications to [Communication Networks](/#networks), [Transportation Systems](/#energy), and [Smart Grid](/#energy).  For more details,  check out my [research description](/research), or see my selected publications below by topic (some are listed under more than one topic).  I am interested in the design and analysis of [Algorithms under Uncertainty](/#online-algorithms), with tools from optimization, algorithmic game theory, and machine learning. My research strives to bring "Sustainability + Reliability" into networked systems of large-scale social impacts, ranging from [Communication Networks](/#networks) to [Transportation Systems](/#energy) and [Smart Grid](/#energy). I study how to handle uncertainty and incentives in networks and energy systems. Current topics of interest include: I work on problems at the intersection of [Online Algorithms](/#online-algorithms), [Algorithmic Game Theory](/#algorithmic-game-theory-mechanism-design), and [Mechanism Design](/#algorithmic-game-theory-mechanism-design), with applications to [Cloud Computing, Networking, and Energy Systems](/#applications). ..... I work on problems at the intersection of `Online Algorithms`,  `Algorithmic Game Theory`, and `Mechanism Design`, with an emphasis on applications to `Distributed and Networked Systems` ranging from  large-scale cloud computing platforms to computer networks and  energy systems. my [Google Scholar](https://scholar.google.com/citations?hl=en&user=drR_WcAAAAAJ&view_op=list_works&sortby=pubdate) with theoretic performance guarantees and analyses with a focus on applications to `Cloud Computing`, `Communication Networks`, and `Transactive Energy Systems`.  My research interests revolve around fundamental and algorithmic issues in computing, communication, and energy systems.  Beyond my work on applications, I also work on problems at the intersection of online algorithms, algorithmic game theory, and mechanism design. The goal is to develop foundational theory and algorithms for online decision making in the presence of incomplete information, using mathematical tools from computer science, economics, and operations research. Some specific topics of interest include online knapsack problems, online mechanism design, online scheduling, combinatorial auctions, and prophet inequalities. Though diverse, the above areas are all essential to my broader research  goal: developing foundational  algorithms and tools to help improve the sustainability of ICT, or more broadly, to enable a sustainable energy future. Some primary topics in my research include: - [Online Algorithms](/#online-algorithms). Online Optimization and Online Learning. - [Algorithmic Game Theory](/#algorithmic-game-theory). Online Combinatorial Auctions and Mechanism Design. - [Communication Networks](/#networks). Cloud Computing, Network Optimization, and Network Economics. - [Energy Systems](/#energy). Electric Vehicle Networks and  Smart Grid.)
-
-
 
 <a id="recent"></a>
 
@@ -63,7 +50,7 @@ I study [Online Algorithms/Mechanisms](/publications_topic/#online-algorithms), 
 
 <a id="recentpapers"></a> 
 
-### <span style="color:darkred">`Recent Highlights` </span> 
+### <span style="color:darkred">`Recent Papers` </span> 
 
 <ul class=circle>
         <script>

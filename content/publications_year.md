@@ -11,7 +11,7 @@ author:
 > By-topic links: [Online Algorithms/Mechanisms](/publications_topic/#online-algorithms) |  [Computer Systems & Networks](/publications_topic/#networks) | [Energy & Transportation Systems](/publications_topic/#energy) 
 
 
-### <a id="2020"></a> `2020+`
+### <a id="2020"></a> <span style="color:darkred">`2020+`</span>
 <ul class=circle>
         <script>
             var i;
@@ -26,7 +26,7 @@ author:
 </ul>
 
 
-### <a id="2019"></a> `2019`
+### <a id="2019"></a> <a id="2020"></a> <span style="color:darkred">`2019`</span>
 <ul class=circle>
         <script>
             var i;
@@ -41,7 +41,7 @@ author:
 </ul>
 
 
-### <a id="2018"></a> `2018`
+### <a id="2018"></a> <a id="2020"></a> <span style="color:darkred">`2018`</span>
 <ul class=circle>
         <script>
             var i;
@@ -56,7 +56,7 @@ author:
 </ul>
 
 
-### <a id="2017"></a> `2017`
+### <a id="2017"></a> <a id="2020"></a> <span style="color:darkred">`2017`</span>
 <ul class=circle>
         <script>
             var i;
@@ -71,7 +71,7 @@ author:
 </ul>
 
 
-### <a id="2016"></a> `2016`
+### <a id="2016"></a> <a id="2020"></a> <span style="color:darkred">`2016`</span>
 <ul class=circle>
         <script>
             var i;
@@ -86,7 +86,7 @@ author:
 </ul>
 
 
-### <a id="2015"></a> `2015`
+### <a id="2015"></a> <a id="2020"></a> <span style="color:darkred">`2015`</span>
 <ul class=circle>
         <script>
             var i;
@@ -102,7 +102,7 @@ author:
 
 
 
-### <a id="2014"></a> `2014`
+### <a id="2014"></a> <a id="2020"></a> <span style="color:darkred">`2014`</span>
 <ul class=circle>
         <script>
             var i;
@@ -117,7 +117,7 @@ author:
 </ul>
 
 
-### <a id="2013"></a> `2013`
+### <a id="2013"></a> <a id="2020"></a> <span style="color:darkred">`2013`</span>
 <ul class=circle>
         <script>
             var i;
