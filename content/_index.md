@@ -17,7 +17,7 @@ Prior to my current position, I received my Ph.D. from the [Hong Kong University
 I study [Online Algorithms/Mechanisms](/publications_topic/#online-algorithms), with applications to Networked Systems ranging from [Computer Systems & Networks](/publications_topic/#networks) to [Energy & Transportation Systems](/publications_topic/#energy). 
 
 
-**Links**: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en) | [DBLP](https://dblp.org/pid/139/4363.html) | [ORCID](https://orcid.org/0000-0002-5339-3245)\\
+**Links**: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html) | [ORCID](https://orcid.org/0000-0002-5339-3245)\\
 **Email**: $\text{xiaoqi.tan}@\text{utoronto.ca}$ |  $\text{xiaoqi.xtan}@\text{gmail.com}$\\
 **Pronunciation**: My first name "`Xiaoqi`" is pronounced as "`Shiao-Chee`".
 
