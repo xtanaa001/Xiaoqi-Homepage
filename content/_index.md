@@ -14,12 +14,12 @@ Prior to my current position, I received my Ph.D. from the [Hong Kong University
 [comment]: # (Here is my [resume](/resume))
 
 
-I study the interplay between online algorithms, mechanism design, and machine learning, with applications to networked systems ranging from cloud computing to communication and energy systems (esp. smart grid and energy-transport nexus).
+I study the interplay between Online Algorithms, Mechanism Design, and Machine Learning, with applications to Cloud Computing, Networking, and Energy Systems.
 
 
 **Links**: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html) | [ORCID](https://orcid.org/0000-0002-5339-3245)\\
 **Email**: $\text{xiaoqi.tan}@\text{utoronto.ca}$ |  $\text{xiaoqi.xtan}@\text{gmail.com}$\\
-**Pronunciation**: My first name "`Xiaoqi`" is pronounced as "`Shiao-Chee`".
+**Pronunciation**: My first name "Xiaoqi" is pronounced as "Shiao-Chee".
 
 
 
