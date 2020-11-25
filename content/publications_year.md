@@ -4,11 +4,9 @@ author:
 --- 
 
 
-> Sort [[by type]](/publications_type) or [[by year]](/publications_year) or [[by topic]](/publications_topic)
+> Sort [[by type]](/publications_type) or [[by year]](/publications_year)
 
 > By-year links: [2020+](/publications_year/#2020) | [2019](/publications_year/#2019) | [2018](/publications_year/#2018) | [2017](/publications_year/#2017) | [2016](/publications_year/#2016) | [2015](/publications_year/#2015) | [2014](/publications_year/#2014) | [2013](/publications_year/#2013)
-
-> By-topic links: [Online Algorithms/Mechanisms](/publications_topic/#online-algorithms) |  [Computer Systems & Networks](/publications_topic/#networks) | [Energy & Transportation Systems](/publications_topic/#energy) 
 
 
 ### <a id="2020"></a> <span style="color:darkred">`2020+`</span>
