@@ -5,10 +5,13 @@ title: PUBLICATIONS (By Type)
 
 > Sort [[by type]](/publications_type) or [[by year]](/publications_year)
 
-> By-year links: [2020+](/publications_year/#2020) | [2019](/publications_year/#2019) | [2018](/publications_year/#2018) | [2017](/publications_year/#2017) | [2016](/publications_year/#2016) | [2015](/publications_year/#2015) | [2014](/publications_year/#2014) | [2013](/publications_year/#2013)
+> By-type quick links: [Preprints](/publications_type/#preprints) | [Journal Papers](/publications_type/#journal) | [Conference Papers](/publications_type/#conference)
 
 
-### <span style="color:darkred">`Preprints`</span>
+> By-year quick links: [2020+](/publications_year/#2020) | [2019](/publications_year/#2019) | [2018](/publications_year/#2018) | [2017](/publications_year/#2017) | [2016](/publications_year/#2016) | [2015](/publications_year/#2015) | [2014](/publications_year/#2014) | [2013](/publications_year/#2013)
+
+
+### <a id="preprints"></a> <span style="color:darkred">`Preprints`</span>
 
 <ul class=circle>
         <script>
@@ -24,7 +27,7 @@ title: PUBLICATIONS (By Type)
 </ul>
 
 
-### <span style="color:darkred">`Journal Papers`</span>
+### <a id="journal"></a> <span style="color:darkred">`Journal Papers`</span>
 
 <ol reversed>
         <script>
@@ -42,7 +45,7 @@ title: PUBLICATIONS (By Type)
 
 
 
-### <span style="color:darkred">`Conference Papers`</span>
+### <a id="conference"></a> <span style="color:darkred">`Conference Papers`</span>
  
 <ol reversed>
         <script>
