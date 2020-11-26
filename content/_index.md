@@ -14,7 +14,7 @@ Prior to my current position, I received my Ph.D. from the [Hong Kong University
 [comment]: # (Here is my [resume](/resume))
 
 
-I study the interplay between online algorithms, mechanism design, and machine learning, with applications to computing and networked systems of various types, ranging from cloud computing to energy and urban transportation systems.
+I study the interplay between Online Algorithms, Mechanism Design, and Machine Learning, with applications to Computing and Networked Systems of various types, ranging from Cloud Computing to Energy and Urban Transportation Systems.
 
 
 **Links**: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html) | [ORCID](https://orcid.org/0000-0002-5339-3245)\\
