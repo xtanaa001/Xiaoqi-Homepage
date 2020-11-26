@@ -18,7 +18,7 @@ I study the interplay between Online Algorithms, Mechanism Design, and Machine L
 
 
 **Links**: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html) | [ORCID](https://orcid.org/0000-0002-5339-3245)\\
-**Email**: $\text{xiaoqi.tan}@\text{utoronto.ca}$ |  $\text{xiaoqi.xtan}@\text{gmail.com}$\\
+**Email**: xiaoqi.tan [$\textsf{at}$] utoronto.ca | xiaoqi.xtan [$\textsf{at}$] gmail.com\\
 **Pronunciation**: My first name "Xiaoqi" is pronounced as "Shiao-Chee".
 
 
