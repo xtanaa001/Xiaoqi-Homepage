@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:20%;min-width:198px;float:right; margin: 60px 50px" alt="Xiaoqi Tan" />
+<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:20%;min-width:198px;float:right; margin: 45px 50px" alt="Xiaoqi Tan" />
 
 ## <span style="color:darkred"> `Xiaoqi Tan` </span>
 
@@ -13,7 +13,6 @@ Prior to my current position, I received my Ph.D. from the [Hong Kong University
 
 [comment]: # (Here is my [resume](/resume))
 
-I study the interplay between online algorithms, mechanism design, and machine learning, with applications to computing and networked systems of various types, ranging from cloud computing systems to smart grid and transportation systems.
 
 
 **Links**: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html) | [ORCID](https://orcid.org/0000-0002-5339-3245)\\
@@ -27,10 +26,14 @@ I study the interplay between online algorithms, mechanism design, and machine l
 
 ---
 
+## <span style="color:darkred">`Research`</span>
+
+I study the interplay between online algorithms, mechanism design, and machine learning. On the practical side, my research is motivated by applications in computing and networked systems of various types, ranging from cloud computing systems to smart grid and transportation systems. For more details, see my recent talks and papers below.
+
+
 <a id="recent"></a>
 
-### <span style="color:darkred">`Recent Talks`</span>
-
+> #### <span style="color:darkred">`Recent Talks`</span>
 <ul class=circle>
         <script>
             var i;
@@ -48,8 +51,7 @@ I study the interplay between online algorithms, mechanism design, and machine l
 
 <a id="recentpapers"></a> 
 
-### <span style="color:darkred">`Recent Papers` </span> 
-
+> #### <span style="color:darkred">`Recent Papers` </span> 
 <ul class=circle>
         <script>
             var i;
