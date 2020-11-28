@@ -12,7 +12,7 @@ author:
 > By-year quick links: [2020+](/publications_year/#2020) | [2019](/publications_year/#2019) | [2018](/publications_year/#2018) | [2017](/publications_year/#2017) | [2016](/publications_year/#2016) | [2015](/publications_year/#2015) | [2014](/publications_year/#2014) | [2013](/publications_year/#2013)
 
 
-### <a id="2020"></a> <span style="color:darkred">`2020+`</span>
+### <a id="2020"></a> <span style="color:#BB133E">`2020+`</span>
 <ul class=circle>
         <script>
             var i;
@@ -27,7 +27,7 @@ author:
 </ul>
 
 
-### <a id="2019"></a> <a id="2020"></a> <span style="color:darkred">`2019`</span>
+### <a id="2019"></a> <a id="2020"></a> <span style="color:#BB133E">`2019`</span>
 <ul class=circle>
         <script>
             var i;
@@ -42,7 +42,7 @@ author:
 </ul>
 
 
-### <a id="2018"></a> <a id="2020"></a> <span style="color:darkred">`2018`</span>
+### <a id="2018"></a> <a id="2020"></a> <span style="color:#BB133E">`2018`</span>
 <ul class=circle>
         <script>
             var i;
@@ -57,7 +57,7 @@ author:
 </ul>
 
 
-### <a id="2017"></a> <a id="2020"></a> <span style="color:darkred">`2017`</span>
+### <a id="2017"></a> <a id="2020"></a> <span style="color:#BB133E">`2017`</span>
 <ul class=circle>
         <script>
             var i;
@@ -72,7 +72,7 @@ author:
 </ul>
 
 
-### <a id="2016"></a> <a id="2020"></a> <span style="color:darkred">`2016`</span>
+### <a id="2016"></a> <a id="2020"></a> <span style="color:#BB133E">`2016`</span>
 <ul class=circle>
         <script>
             var i;
@@ -87,7 +87,7 @@ author:
 </ul>
 
 
-### <a id="2015"></a> <a id="2020"></a> <span style="color:darkred">`2015`</span>
+### <a id="2015"></a> <a id="2020"></a> <span style="color:#BB133E">`2015`</span>
 <ul class=circle>
         <script>
             var i;
@@ -103,7 +103,7 @@ author:
 
 
 
-### <a id="2014"></a> <a id="2020"></a> <span style="color:darkred">`2014`</span>
+### <a id="2014"></a> <a id="2020"></a> <span style="color:#BB133E">`2014`</span>
 <ul class=circle>
         <script>
             var i;
@@ -118,7 +118,7 @@ author:
 </ul>
 
 
-### <a id="2013"></a> <a id="2020"></a> <span style="color:darkred">`2013`</span>
+### <a id="2013"></a> <a id="2020"></a> <span style="color:#BB133E">`2013`</span>
 <ul class=circle>
         <script>
             var i;

@@ -3,9 +3,9 @@ title: Home
 ---
 
 
-<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 60px 50px" alt="Xiaoqi Tan" />
+<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 60px 55px" alt="Xiaoqi Tan" />
 
-## <span style="color:darkred"> `XIAOQI TAN` </span>
+## <span style="color:#BB133E"> `XIAOQI TAN` </span>
 
 
 
@@ -14,13 +14,13 @@ I am a postdoc at the [University of Toronto](https://utoronto.ca), hosted by Pr
 [comment]: # (Here is my [resume](/resume))
 
 
-I study the interplay between Online Algorithms, Mechanism Design, and Machine Learning, with applications to computing and networked systems of various types, ranging from cloud computing systems to smart grid and transportation systems. For more details, see my recent talks/papers below.
+I study the interplay between Online Algorithms, Mechanism Design, and Machine Learning, with applications to Computing and Networked Systems of various types, ranging from cloud computing systems to smart grids and transportation systems. For more details, see my recent talks/papers below.
 
 
 
-**Links**: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html) | [ORCID](https://orcid.org/0000-0002-5339-3245)\\
-**Email**: xiaoqi.tan [at] utoronto.ca | xiaoqi.xtan [at] gmail.com\\
-**Pronunciation**: My first name "Xiaoqi" is pronounced as "Shiao-Chee".
+<span style="color:#BB133E"> **`Links`**</span>: [`Google Scholar`](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [`DBLP`](https://dblp.org/pid/139/4363.html) \\
+<span style="color:#BB133E">**`Email`**</span>: `xiaoqi.tan [at] utoronto.ca`\\
+<span style="color:#BB133E">**`Pronunciation`**</span>: `My first name "Xiaoqi" is pronounced as "`Shiao-Chee".
 
 
 
@@ -30,7 +30,7 @@ I study the interplay between Online Algorithms, Mechanism Design, and Machine L
 
 <a id="recent"></a>
 
-> ### <span style="color:darkred">`Recent Talks`</span>
+> ### <span style="color:#BB133E">`Recent Talks`</span>
 <ul class=circle>
         <script>
             var i;
@@ -48,7 +48,7 @@ I study the interplay between Online Algorithms, Mechanism Design, and Machine L
 
 <a id="recentpapers"></a> 
 
-> ### <span style="color:darkred">`Recent Papers` </span> 
+> ### <span style="color:#BB133E">`Recent Papers` </span> 
 <ul class=circle>
         <script>
             var i;
