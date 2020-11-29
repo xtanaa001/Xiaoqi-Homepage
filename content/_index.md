@@ -14,8 +14,7 @@ I am a postdoc at the [University of Toronto](https://utoronto.ca), hosted by Pr
 [comment]: # (Here is my [resume](/resume))
 
 
-I study the interplay between online algorithms, mechanism design, and machine learning, with applications to computing and networked systems arising from cloud computing, networking, energy, and transportation.
-
+I study the interplay between Online Algorithms, Mechanism Design, and Machine Learning, with applications to computing and networked systems arising from Cloud Computing, Networking, Energy, and Transportation.
 
 [comment]: # (I occasionally write [blog posts](/post) about my research, or other interesting concepts in mathematics and economics that are relevant to CS + EE. **Office**: 7137 Bahen Centre, 40 St. George Street, Toronto, ON, Canada. For more details, see my publications [here](/publications_year). of various types, ranging from cloud computing systems to smart grids and transportation systems. For more details, see my recent papers below.)
 
