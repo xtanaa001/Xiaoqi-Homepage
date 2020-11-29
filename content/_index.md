@@ -14,13 +14,13 @@ I am a postdoc at the [University of Toronto](https://utoronto.ca), hosted by Pr
 [comment]: # (Here is my [resume](/resume))
 
 
-I study the interplay between Online Algorithms, Mechanism Design, and Machine Learning, with applications to Computing and Networked Systems of various types, ranging from cloud computing systems to smart grids and transportation systems. For more details, see my recent talks/papers below.
+I study the interplay between Online Algorithms, Mechanism Design, and Machine Learning, with applications to Computing and Networked Systems of various types, ranging from cloud computing systems to smart grids and transportation systems. For more details, see my recent papers below.
 
 
 
 <span style="color:#BB133E"> **`Links`**</span>: [`Google Scholar`](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [`DBLP`](https://dblp.org/pid/139/4363.html) \\
 <span style="color:#BB133E">**`Email`**</span>: `xiaoqi.tan [at] utoronto.ca`\\
-<span style="color:#BB133E">**`Pronunciation`**</span>: `My first name "Xiaoqi" is pronounced as "`Shiao-Chee".
+<span style="color:#BB133E">**`Pronunciation`**</span>: `My first name "Xiaoqi" is pronounced as "Shiao-Chee"`.
 
 
 
