@@ -3,6 +3,7 @@ body {
   margin: auto;
   padding: 1em;
   line-height: 1.5em;
+  color: #00204E;
 }
 
 
@@ -42,7 +43,7 @@ ul.decimal       {
 }
 
 div.title       {
-  color:   darkblue;   
+  color:   #00204E;   
 }
 
 li.paper        {   
