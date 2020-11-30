@@ -3,18 +3,16 @@ title: Home
 ---
 
 
-<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 50px 55px" alt="Xiaoqi Tan" />
+<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 30px 55px" alt="Xiaoqi Tan" />
 
-### <span style="color:#BB133E"> `XIAOQI TAN` </span>
-
-Welcome to my homepage!
+## <span style="color:gray"> `XIAOQI TAN` </span>
 
 I am a postdoc at the [University of Toronto](https://utoronto.ca), hosted by Prof. [Alberto Leon-Garcia](https://www.ece.utoronto.ca/people/leon-garcia-a/).  Prior to my current position, I received my Ph.D. from the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). At HKUST, I was affiliated with the [C2E Group](http://c2e.ece.ust.hk/main/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).  
 
 
-<span style="color:gray">**`Links`**</span>: [`Google Scholar`](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [`DBLP`](https://dblp.org/pid/139/4363.html) \\
-<span style="color:gray">**`Email`**</span>: `xiaoqi.tan [at] utoronto.ca`\\
-<span style="color:gray">**`Pronunciation`**</span>: `My first name "Xiaoqi" is pronounced as "Shiao-Chee"`.
+`Links`: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html) \\
+`Email`: xiaoqi.tan [at] utoronto.ca\\
+`Pronunciation`: My first name "Xiaoqi" is pronounced as "Shiao-Chee".
 
 
 
@@ -26,14 +24,14 @@ I am a postdoc at the [University of Toronto](https://utoronto.ca), hosted by Pr
 
 
 
-### <span style="color:#BB133E">`RESEARCH INTERESTS`</span>
+### <span style="color:#BB133E">`Research Interests`</span>
 
 Design of online algorithms and mechanisms, with applications to cloud computing, energy, and transportation systems.
 
 
 <a id="recent"></a>
 
-### <span style="color:#BB133E">`RECENT TALKS`</span>
+### <span style="color:#BB133E">`Recent Talks`</span>
 <ul class=circle>
         <script>
             var i;
@@ -51,7 +49,7 @@ Design of online algorithms and mechanisms, with applications to cloud computing
 
 <a id="recentpapers"></a> 
 
-### <span style="color:#BB133E">`RECENT PAPERS` </span> 
+### <span style="color:#BB133E">`Recent Papers` </span> 
 <ul class=circle>
         <script>
             var i;

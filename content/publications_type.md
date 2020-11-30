@@ -11,7 +11,7 @@ title: PUBLICATIONS (By Type)
 > By-year quick links: [2020+](/publications_year/#2020) | [2019](/publications_year/#2019) | [2018](/publications_year/#2018) | [2017](/publications_year/#2017) | [2016](/publications_year/#2016) | [2015](/publications_year/#2015) | [2014](/publications_year/#2014) | [2013](/publications_year/#2013)
 
 
-### <a id="preprints"></a> <span style="color:#BB133E">`PREPRINTS`</span>
+### <a id="preprints"></a> <span style="color:#BB133E">`Preprints`</span>
 
 <ul class=circle>
         <script>
@@ -27,7 +27,7 @@ title: PUBLICATIONS (By Type)
 </ul>
 
 
-### <a id="journal"></a> <span style="color:#BB133E">`JOURNAL PAPERS`</span>
+### <a id="journal"></a> <span style="color:#BB133E">`Journal Papers`</span>
 
 <ol reversed>
         <script>
@@ -45,7 +45,7 @@ title: PUBLICATIONS (By Type)
 
 
 
-### <a id="conference"></a> <span style="color:#BB133E">`CONFERENCE PAPERS`</span>
+### <a id="conference"></a> <span style="color:#BB133E">`Conference Papers`</span>
  
 <ol reversed>
         <script>
