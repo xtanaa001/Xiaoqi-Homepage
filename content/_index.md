@@ -27,7 +27,7 @@ I am a postdoc at the [University of Toronto](https://utoronto.ca), hosted by Pr
 ### <span style="color:#BB133E">`Research Interests`</span>
 
 
-My research spans various topics in online algorithms, mechanism design, and machine learning, with applications to cloud computing, networking, energy, and transportation.
+I am interested in online algorithms and mechanism design, and the interplay between mechanism design and machine learning, with applications to cloud computing, networking, energy, and transportation.
 
 
 [comment]: # (Design of online algorithms and mechanisms, with applications to cloud computing, energy, and transportation systems.)
