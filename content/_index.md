@@ -28,7 +28,7 @@ I am a postdoc at the [University of Toronto](https://utoronto.ca), hosted by Pr
 
 ### <span style="color:#BB133E">`RESEARCH INTERESTS`</span>
 
-Design of online algorithms/mechanisms, with applications to cloud computing, energy, and transportation systems.
+Design of online algorithms and mechanisms, with applications to cloud computing, energy, and transportation systems.
 
 
 <a id="recent"></a>
