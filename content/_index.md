@@ -3,9 +3,9 @@ title: Home
 ---
 
 
-<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 55px 55px" alt="Xiaoqi Tan" />
-
 ### <span style="color:#BB133E"> `XIAOQI TAN` </span>
+
+<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 5px 55px" alt="Xiaoqi Tan" />
 
 Wecome to my homepage!
 
