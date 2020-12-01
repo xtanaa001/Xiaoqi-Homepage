@@ -26,7 +26,7 @@ I am a postdoc at the [University of Toronto](https://utoronto.ca), hosted by Pr
 
 ### <span style="color:#BB133E">`RESEARCH INTERESTS`</span>
 
-The interplay between Online Algorithms, Mechanism Design, and Machine Learning, with applications to cloud computing, networking, energy, and transportation.
+The interplay between online algorithms, mechanism design, and machine learning, with applications to cloud computing, networking, energy, and transportation.
 
 
 
