@@ -23,7 +23,7 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "Copyright &copy; 2020  Xiaoqi Tan"
+    footer = "Copyright &copy; 2020  [Xiaoqi Tan](https://xiaoqitan.org)"
 
 [blackfriday]
 hrefTargetBlank = true
