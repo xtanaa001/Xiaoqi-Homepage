@@ -9,11 +9,11 @@ title: Home
 
 I am a postdoc at [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.ece.utoronto.ca/people/leon-garcia-a/). Prior to my current position, I received my Ph.D. from [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). At HKUST, I was affiliated with the [C2E Group](http://c2e.ece.ust.hk/main/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).  
 
-<span style="color:#BB133E">**`Email`**</span>: xiaoqi.tan [at] utoronto.ca\\
-<span style="color:#BB133E">**`Office`**</span>: Room 7137, Bahen Centre for Information Technology
+<span style="color:#00204E">**Email**</span>: xiaoqi.tan [at] utoronto.ca\\
+<span style="color:#00204E">**Office**</span>: Room 7137, Bahen Centre for Information Technology
 
-<span style="color:#BB133E">**`Links`**</span>: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html) \\
-<span style="color:#BB133E">**`Pronunciation`**</span>: My first name "Xiaoqi" is pronounced as "Shiao-Chee".
+<span style="color:#00204E">**Links**</span>: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html) \\
+<span style="color:#00204E">**Pronunciation**</span>: My first name "Xiaoqi" is pronounced as "Shiao-Chee".
 
 
 

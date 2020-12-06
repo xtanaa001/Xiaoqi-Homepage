@@ -27,14 +27,16 @@
 
   <body>
     
+
+  
   <nav>
     <ul class="menu">
+      <header>
+        <img src="/img/uoft.png" style="max-width:13%;min-width:120px; margin: -10px 0px; float:left;" />
+      </header>  
       {{ range .Site.Menus.main }}
       <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
       {{ end }}
     </ul>
-    <head>
-      <img src="/img/uoft.png" style="max-width:12%;min-width:100px; margin: -50px 120px; float:right;">
-    </head>
     <hr/>
   </nav>

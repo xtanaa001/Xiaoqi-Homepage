@@ -16,7 +16,7 @@ body {
   padding: 5px;
   border-radius: 5px;
 }
-.menu, .article-meta, footer { text-align: left; }
+.menu, .article-meta, footer { text-align: center; }
 .title { font-size: 1.1em; }
 footer a { text-decoration: none; }
 hr {
@@ -75,19 +75,19 @@ div.abstract    {
 
 /* unvisited link */
 a:link {
-  color: darkblue;
+  color: #BB133E;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: darkblue;
+  color: #BB133E;
   text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-  color: pink;
+  color: #00204E;
   text-decoration: none;
 }
 
