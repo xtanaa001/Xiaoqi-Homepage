@@ -3,8 +3,10 @@ title: PUBLICATIONS (By Year)
 author:
 --- 
 
+> My research strives to address systems challenges at the intersection of computation and sustainability. Specifically, I study the interplay between online algorithms, mechanism design, and machine learning, with applications to computing and networked systems in various domains, ranging from cloud computing to IoT, energy, and transportation.
 
-> Sort [[by type]](/publications_type) or [[by year]](/publications_year)
+
+> For more details, see my publications below [[by type]](/publications_type) or [[by year]](/publications_year)
 
 > By-type quick links: [Preprints](/publications_type/#preprints) | [Journal Papers](/publications_type/#journal) | [Conference Papers](/publications_type/#conference)
 
