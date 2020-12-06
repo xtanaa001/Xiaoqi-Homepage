@@ -4,7 +4,7 @@ function printAuthor(author) {
 };
 
 function printPaper(paper, type){
-    document.write("<div class=title display=block style=\"cursor:pointer\" onclick=\"return toggleAbstract(\'abs-" + paper.id + "-" + type + "\');\">");
+    document.write("<div class=title display=block style=\"cursor:pointer\" onclick=\"return toggleAbstract(\'abs-" + paper.id + "-" + type + "\');\"><b>");
     document.write(paper.name);
     document.writeln("</b></div>");
     if (typeof paper.coauthors != "undefined"){

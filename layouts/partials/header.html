@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
     <link rel="stylesheet" href="{{ "/css/fonts.css" | relURL }}" />
     {{ partial "head_custom.html" . }}
-    <link rel="shortcut icon" href="/img/favicon.png">
+    <link rel="shortcut icon" href="/img/uoft_logo.png">
     {{ partial "mathjax_support.html" . }}
     {{ partial "google_analytics.html" . }}
   </head>
@@ -32,6 +32,10 @@
       {{ range .Site.Menus.main }}
       <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
       {{ end }}
+
+      <head>
+        <img src="/img/uoft.png" style="max-width:13%;min-width:130px; margin: -10px 120px; float:right;">
+      </head>
     </ul>
     <hr/>
   </nav>
