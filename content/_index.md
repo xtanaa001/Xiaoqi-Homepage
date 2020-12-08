@@ -17,9 +17,6 @@ I am a postdoc at [University of Toronto](https://utoronto.ca), working with Pro
 
 \
 
-
----
-
 >
 <span style="color:#00204E">**Email**</span>: xiaoqi.tan [at] utoronto.ca\\
 <span style="color:#00204E">**Office**</span>: Room 7137, Bahen Centre for Information Technology
@@ -28,15 +25,13 @@ I am a postdoc at [University of Toronto](https://utoronto.ca), working with Pro
 <span style="color:#00204E">**Pronunciation**</span>: My first name "Xiaoqi" is pronounced as "Shiao-Chee".
 
 
-
+---
 
 [comment]: # (Here is my [resume](/resume))
 
 
 
 [comment]: # (### <span style="color:#BB133E">`RESEARCH INTERESTS`</span> Design of online algorithms and mechanisms, and the interplay between mechanism design and machine learning, with applications to networked systems ranging from cloud computing to Internet of Things, energy systems, and urban transportation systems. Click [here](/publications_year) for more details.)
-
----
 
 <a id="recent"></a>
 
