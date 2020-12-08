@@ -29,6 +29,7 @@ I am a postdoc at [University of Toronto](https://utoronto.ca), working with Pro
 
 [comment]: # (### <span style="color:#BB133E">`RESEARCH INTERESTS`</span> Design of online algorithms and mechanisms, and the interplay between mechanism design and machine learning, with applications to networked systems ranging from cloud computing to Internet of Things, energy systems, and urban transportation systems. Click [here](/publications_year) for more details.)
 
+---
 
 <a id="recent"></a>
 
@@ -66,3 +67,7 @@ I am a postdoc at [University of Toronto](https://utoronto.ca), working with Pro
 </ul>
 
 [comment]: # (For my  full publication list,  click [here](/publications_year) or see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=OIDN4i8AAAAJ&view_op=list_works&sortby=pubdate) profile.)
+
+### <span style="color:#BB133E">`MISC` </span> 
+- I am big fun of [Chinese caligraphy](https://en.wikipedia.org/wiki/Chinese_calligraphy). My favorite calligraphers are  [Ouyang Xun](https://en.wikipedia.org/wiki/Ouyang_Xun) and  [Wang Xizhi](https://en.wikipedia.org/wiki/Wang_Xizhi). 
+- I am into jogging. This is my favorite place to run in Toronto, weather permitting: [Kay Gardner Beltline Trail](https://www.tripadvisor.ca/Attraction_Review-g155019-d7070406-Reviews-Kay_Gardner_Beltline_Trail-Toronto_Ontario.html).

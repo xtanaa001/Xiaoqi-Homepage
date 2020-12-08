@@ -21,11 +21,6 @@ footnotereturnlinkcontents = "↩"
     url = "/publications_year"
     weight = 3
 
-[[menu.main]]
-    name = "Misc"
-    url = "/misc"
-    weight = 5
-
 [params]
     description = "A website built through Hugo and blogdown."
     footer = "Copyright &copy; 2020  [Xiaoqi Tan](https://xiaoqitan.org)"
