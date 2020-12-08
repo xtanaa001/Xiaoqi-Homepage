@@ -28,7 +28,7 @@ I am a postdoc at [University of Toronto](https://utoronto.ca), working with Pro
 
 ### <span style="color:#BB133E">`RESEARCH INTERESTS`</span>
 
-> My research focuses on the design of online algorithms and mechanisms, and the interplay between mechanism design and machine learning, with applications to networked systems in various domains, ranging from cloud computing to Internet of Things, energy systems, and urban transportation systems. Click [here](/publications_year) for more details. 
+> Design of online algorithms and mechanisms, and the interplay between mechanism design and machine learning, with applications to networked systems ranging from cloud computing to Internet of Things, energy systems, and urban transportation systems. Click [here](/publications_year) for more details. 
 
 [comment]: # (Design of online algorithms and mechanisms, with applications to cloud computing, energy, and transportation systems.)
 
