@@ -2,18 +2,21 @@
 title: Home
 ---
 
-<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 52px 55px" alt="Xiaoqi Tan" />
+<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 77px 55px" alt="Xiaoqi Tan" />
 
-
+>
 ## <span style="color:#BB133E"> XIAOQI TAN </span>
 
-
+>
 I am a postdoc at [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.ece.utoronto.ca/people/leon-garcia-a/). Prior to my current position, I received my Ph.D. from [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). At HKUST, I was affiliated with the [C2E Group](http://c2e.ece.ust.hk/main/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).  
 
+>
+I am broadly interested in online algorithms, mechanism design, and learning theory, and their applications to networked systems ranging from cloud computing to Internet of Things, energy systems, and urban transportation systems. Click [here](/publications_year) for more details. 
 
+>
 <span style="color:#00204E">**Email**</span>: xiaoqi.tan [at] utoronto.ca\\
 <span style="color:#00204E">**Office**</span>: Room 7137, Bahen Centre for Information Technology
-
+>
 <span style="color:#00204E">**Links**</span>: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html) \\
 <span style="color:#00204E">**Pronunciation**</span>: My first name "Xiaoqi" is pronounced as "Shiao-Chee".
 
@@ -24,15 +27,7 @@ I am a postdoc at [University of Toronto](https://utoronto.ca), working with Pro
 
 
 
-[comment]: # (I occasionally write [blog posts](/post) about my research, or other interesting concepts in mathematics and economics that are relevant to CS + EE. **Office**: 7137 Bahen Centre, 40 St. George Street, Toronto, ON, Canada. For more details, see my publications [here](/publications_year). of various types, ranging from cloud computing systems to smart grids and transportation systems. For more details, see my recent papers below.)
-
-
-
-### <span style="color:#BB133E">`RESEARCH INTERESTS`</span>
-
-> Design of online algorithms and mechanisms, and the interplay between mechanism design and machine learning, with applications to networked systems ranging from cloud computing to Internet of Things, energy systems, and urban transportation systems. Click [here](/publications_year) for more details. 
-
-[comment]: # (Design of online algorithms and mechanisms, with applications to cloud computing, energy, and transportation systems.)
+[comment]: # (### <span style="color:#BB133E">`RESEARCH INTERESTS`</span> Design of online algorithms and mechanisms, and the interplay between mechanism design and machine learning, with applications to networked systems ranging from cloud computing to Internet of Things, energy systems, and urban transportation systems. Click [here](/publications_year) for more details.)
 
 
 <a id="recent"></a>
