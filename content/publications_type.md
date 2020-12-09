@@ -3,7 +3,7 @@ title: PUBLICATIONS (By Type)
 --- 
 
 > 
-<span style="color:#00204E">**Research Summary**</span>: My research focuses on the design of <span style="color:#00204E">Online Algorithms and Mechanisms</span>, and <span style="color:#00204E">the interplay between Mechanism Design and Machine Learning</span>, with applications to networked systems in various domains, ranging from <span style="color:#00204E">Cloud Computing</span> to <span style="color:#00204E">Internet of Things</span>, Network Economics,  <span style="color:#00204E">Energy Systems</span>, and <span style="color:#00204E">Transportation Systems</span>. These systems can all be modeled as networks of interacting agents, sharing and competing limited resources in the presence of stochastic dynamics and strategic behaviors. My goal is to understand fundamental performance limits of such networked systems, and develop rigorous models, algorithms, and markets, with provable guarantees, that can navigate key design tradeoffs in these systems. My research spans various topics in computer science, electrical engineering, and operations research, using mathematical tools from optimization theory, economics and computation, artificial intelligence (esp. multi-agent systems), machine learning, network science, applied probability, and queueing theory. For more details, see my publications below [by type](/publications_type) or [by year](/publications_year).
+<span style="color:#00204E">**Research Summary**</span>: My research focuses on the design of <span style="color:#E78100">online algorithms and mechanisms</span>, and the interplay between <span style="color:#E78100">mechanism design</span> and <span style="color:#E78100">machine learning</span>, with applications to networked systems in various domains, ranging from <span style="color:#E78100">cloud computing</span> to <span style="color:#E78100">Internet of Things</span>, <span style="color:#E78100">network economics</span>,  <span style="color:#E78100">energy systems</span>, and <span style="color:#E78100">transportation systems</span>. These systems can all be modeled as networks of interacting agents, sharing and competing limited resources in the presence of stochastic dynamics and strategic behaviors. My goal is to understand fundamental performance limits of such networked systems, and develop rigorous models, algorithms, and markets, with provable guarantees, that can navigate key design tradeoffs in these systems. My research spans various topics in computer science, electrical engineering, and operations research, using mathematical tools from optimization theory, economics and computation, artificial intelligence (esp. multi-agent systems), machine learning, network science, applied probability, and queueing theory. For more details, see my publications below [by type](/publications_type) or [by year](/publications_year).
 
 [comment]: # (> I study the interplay between online algorithms, mechanism design, and machine learning, with applications to computing and networked systems in various domains, ranging from cloud computing to energy and transportation systems. Broadly, my research strives to  address systems challenges at the intersection of computation and sustainability. For more details, see my publications below [[by type]](/publications_type) or [[by year]](/publications_year).)
 
@@ -16,7 +16,7 @@ title: PUBLICATIONS (By Type)
 
 ---
 
-### <a id="preprints"></a> <span style="color:#BB133E">`PREPRINTS`</span>
+### <a id="preprints"></a> <span style="color:#E78100">`PREPRINTS`</span>
 
 <ul class=circle>
         <script>
@@ -32,7 +32,7 @@ title: PUBLICATIONS (By Type)
 </ul>
 
 
-### <a id="journal"></a> <span style="color:#BB133E">`JOURNAL PAPERS`</span>
+### <a id="journal"></a> <span style="color:#E78100">`JOURNAL PAPERS`</span>
 
 <ol reversed>
         <script>
@@ -50,7 +50,7 @@ title: PUBLICATIONS (By Type)
 
 
 
-### <a id="conference"></a> <span style="color:#BB133E">`CONFERENCE PAPERS`</span>
+### <a id="conference"></a> <span style="color:#E78100">`CONFERENCE PAPERS`</span>
  
 <ol reversed>
         <script>
