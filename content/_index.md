@@ -19,8 +19,7 @@ My research focuses on the design of <span style="color:#00204E">online algorith
 >
 <span style="color:#00204E">**Email**</span>: xiaoqi.tan [at] utoronto.ca\\
 <span style="color:#00204E">**Office**</span>: Room 7137, Bahen Centre for Information Technology\\
-<span style="color:#00204E">**Links**</span>: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html) \\
-<span style="color:#00204E">**Pronunciation**</span>: My first name "Xiaoqi" is pronounced as "Shiao-Chee".
+<span style="color:#00204E">**Links**</span>: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html)
 
 
 ---
@@ -69,5 +68,6 @@ My research focuses on the design of <span style="color:#00204E">online algorith
 [comment]: # (For my  full publication list,  click [here](/publications_year) or see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=OIDN4i8AAAAJ&view_op=list_works&sortby=pubdate) profile.)
 
 ### <span style="color:#E78100">`MISC` </span> 
+- My first name "Xiaoqi" is pronounced as "Shiao-Chee".
 - I am big fun of [Chinese caligraphy](https://en.wikipedia.org/wiki/Chinese_calligraphy). My favorite calligraphers are  [Ouyang Xun](https://en.wikipedia.org/wiki/Ouyang_Xun) and  [Wang Xizhi](https://en.wikipedia.org/wiki/Wang_Xizhi). 
 - I am into jogging. This is my favorite place to run in Toronto, weather permitting: [Kay Gardner Beltline Trail](https://www.tripadvisor.ca/Attraction_Review-g155019-d7070406-Reviews-Kay_Gardner_Beltline_Trail-Toronto_Ontario.html).
