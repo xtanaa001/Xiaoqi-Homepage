@@ -2,19 +2,16 @@
 title: Home
 ---
 
-<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 77px 55px" alt="Xiaoqi Tan" />
+<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 60px 55px" alt="Xiaoqi Tan" />
 
 >
 ## <span style="color:#00204E"> XIAOQI TAN </span>
 
 >
-<span style="color:#00204E">**About Me**</span>: 
-I am a postdoc at [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.ece.utoronto.ca/people/leon-garcia-a/). Prior to my current position, I received my Ph.D. from [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). At HKUST, I was affiliated with the [C2E Group](http://c2e.ece.ust.hk/main/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).  
+I am a Postdoctoral Fellow at [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.ece.utoronto.ca/people/leon-garcia-a/). I am broadly interested in the theory of online algorithms,  mechanism design, and machine learning, with applications to networked systems ranging from <span style="color:#00204E">cloud computing</span> to <span style="color:#00204E">Internet of Things</span>, <span style="color:#00204E">network economics</span>,  <span style="color:#00204E">energy systems</span>, and <span style="color:#00204E">transportation systems</span>. 
 
 >
-<span style="color:#00204E">**Research**</span>: 
-My research focuses on the design of <span style="color:#00204E">online algorithms and mechanisms</span>, and the interplay between <span style="color:#00204E">mechanism design</span> and <span style="color:#00204E">machine learning</span>, with applications to networked systems in various domains, ranging from <span style="color:#00204E">cloud computing</span> to <span style="color:#00204E">Internet of Things</span>, <span style="color:#00204E">network economics</span>,  <span style="color:#00204E">energy systems</span>, and <span style="color:#00204E">transportation systems</span>. Click [here](/publications_year) for more details.
-
+I received my Ph.D. from [HKUST](https://hkust.edu.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). At HKUST, I was affiliated with the [C2E Group](http://c2e.ece.ust.hk/main/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).  
 
 >
 <span style="color:#00204E">**Email**</span>: xiaoqi.tan [at] utoronto.ca\\
@@ -24,7 +21,7 @@ My research focuses on the design of <span style="color:#00204E">online algorith
 
 ---
 
-[comment]: # (Here is my [resume](/resume))
+[comment]: # (Here is my [resume](/resume) Click [here](/publications_year) for more details.)
 
 
 
