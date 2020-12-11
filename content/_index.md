@@ -2,16 +2,16 @@
 title: Home
 ---
 
-<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 60px 55px" alt="Xiaoqi Tan" />
+<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 70px 55px" alt="Xiaoqi Tan" />
 
 >
 ## <span style="color:#00204E"> XIAOQI TAN </span>
 
 >
-I am a Postdoctoral Fellow at [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.ece.utoronto.ca/people/leon-garcia-a/). I am broadly interested in the theory of online algorithms,  mechanism design, and machine learning, with applications to networked systems ranging from <span style="color:#00204E">cloud computing</span> to <span style="color:#00204E">Internet of Things</span>, <span style="color:#00204E">network economics</span>,  <span style="color:#00204E">energy systems</span>, and <span style="color:#00204E">transportation systems</span>. 
+I am a Postdoctoral Fellow at [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.ece.utoronto.ca/people/leon-garcia-a/). I am broadly interested in the theory of Online Algorithms, Mechanism Design, and Machine Learning, with applications to networked systems ranging from <span style="color:#00204E">Cloud Computing</span> to <span style="color:#00204E">Internet of Things</span>, <span style="color:#00204E">Network Economics</span>,  <span style="color:#00204E">Energy Systems</span>, and <span style="color:#00204E">Transportation Systems</span>. 
 
 >
-I received my Ph.D. from [HKUST](https://hkust.edu.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). At HKUST, I was affiliated with the [C2E Group](http://c2e.ece.ust.hk/main/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).  
+I received my Ph.D. from [HKUST](https://hkust.edu.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). At HKUST, I was affiliated with the [C2E Group](http://c2e.ece.ust.hk/main/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu). 
 
 >
 <span style="color:#00204E">**Email**</span>: xiaoqi.tan [at] utoronto.ca\\
