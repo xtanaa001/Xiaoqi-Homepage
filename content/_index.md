@@ -16,7 +16,7 @@ I received my Ph.D. from [HKUST](https://hkust.edu.hk/) in 2018, advised by Prof
 >
 <span style="color:#00204E">**Email**</span>: xiaoqi.tan [at] utoronto.ca\\
 <span style="color:#00204E">**Office**</span>: Room 7137, Bahen Centre for Information Technology\\
-<span style="color:#00204E">**Links**</span>: [C.V.](/documents/cv.pdf) | [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html)
+<span style="color:#00204E">**Links**</span>: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html)
 
 
 ---
