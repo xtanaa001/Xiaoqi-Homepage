@@ -7,16 +7,15 @@
     <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
     <link rel="stylesheet" href="{{ "/css/fonts.css" | relURL }}" />
     {{ partial "head_custom.html" . }}
-    <link rel="shortcut icon" href="/img/favicon.png">
+    <link rel="shortcut icon" href="/img/uoft_logo.png">
     {{ partial "mathjax_support.html" . }}
     {{ partial "google_analytics.html" . }}
   </head>
 
     <script src="/js/jquery-latest.js" type="text/javascript"></script>
     <script src="/js/author-list.js" type="text/javascript"></script>
-    <script src="/js/paper-preprint-list.js" type="text/javascript"></script>
-    <script src="/js/paper-journal-list.js" type="text/javascript"></script>
-    <script src="/js/paper-conference-list.js" type="text/javascript"></script>
+    <script src="/js/talk-full-list.js" type="text/javascript"></script>
+    <script src="/js/paper-full-list.js" type="text/javascript"></script>
     <script src="/js/print-paper.js" type="text/javascript"></script>
     <script>
         function toggleAbstract(id) {
@@ -24,11 +23,17 @@
             return(false);
         };
     </script>
+    
 
   <body>
     
+
+  
   <nav>
     <ul class="menu">
+      <header>
+        <img src="/img/uoft.png" style="max-width:13%;min-width:120px; margin: -10px 0px; float:left;" />
+      </header>  
       {{ range .Site.Menus.main }}
       <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
       {{ end }}

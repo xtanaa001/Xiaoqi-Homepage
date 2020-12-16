@@ -4,7 +4,7 @@ function printAuthor(author) {
 };
 
 function printPaper(paper, type){
-    document.write("<div class=title display=block style=\"cursor:pointer\" onclick=\"return toggleAbstract(\'abs-" + paper.id + "-" + type + "\');\">");
+    document.write("<div class=title display=block style=\"cursor:pointer\" onclick=\"return toggleAbstract(\'abs-" + paper.id + "-" + type + "\');\"><b>");
     document.write(paper.name);
     document.writeln("</b></div>");
     if (typeof paper.coauthors != "undefined"){
@@ -22,13 +22,13 @@ function printPaper(paper, type){
     //if (paper.conference == "Preprint") document.writeln("<i>Preprint</i>");
     //else
 
-    if (typeof paper.conference == "string") document.write("<i>"+paper.conference+"</i>");
+    if (typeof paper.conference == "string") document.write("<a>"+paper.conference+"</a>");
         
     if (typeof paper.journal == "string") 
         if (paper.journal == "Preprint") 
-            document.writeln("<i>Preprint</i>");
+            document.writeln("<a>Preprint</a>");
         else 
-            document.write("<i>"+paper.journal+"</i>");
+            document.write("<a>"+paper.journal+"</a>");
 
     if (typeof paper.pubinfo == "string") document.write(", "+paper.pubinfo+".");
     
@@ -40,10 +40,16 @@ function printPaper(paper, type){
 
     if (typeof paper.report == "string") document.write("&emsp;<a href=\""+paper.report+"\" target=\"_blank\" >[Technical Report]</a>");
     
-    if (typeof paper.note == "string") document.write("&emsp;<b>("+paper.note+")</b>");
+    if (typeof paper.talk == "string") document.write("&emsp;<a href=\" " +paper.talk+ " \" target=\"_blank\" >[Slides]</a>");
+
+    if (typeof paper.video == "string") document.write("&emsp;<a href=\" " +paper.video+ " \" target=\"_blank\" >[Video]</a>");
+
+    if (typeof paper.note == "string") document.write("&emsp;("+paper.note+")");
+        
     
     //if (typeof paper.slides == "string") document.write("&emsp;<a href=\""+paper.slides+"\">[slides]</a>");
-    if (typeof paper.talk == "string") document.write("&emsp;<a href=\""+paper.talk+"\">[talk]</a>");
+    //if (typeof paper.talk == "string") document.write("&emsp;<a href=\""+paper.talk+"\">[talk]</a>");
+    
     if (typeof paper.paperAbstract == "string") {
         document.writeln("<div class=\"abstract\" id=\'abs-" + paper.id + "-" + type + "\'>");
         document.writeln("<p><b>Abstract</b></p>");

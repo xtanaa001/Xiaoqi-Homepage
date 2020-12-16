@@ -5,6 +5,11 @@ var authorList = {
         web : "#",
     },
 
+    RBoutaba : {
+        name : "Raouf Boutaba",
+        web : "#",
+    },
+
     Garcia : {
         name : "Alberto Leon-Garcia",
         web : "#",

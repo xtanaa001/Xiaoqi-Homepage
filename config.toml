@@ -7,6 +7,7 @@ disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 footnotereturnlinkcontents = "↩"
 
+
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
     note = "/note/:year/:month/:day/:slug/"
@@ -17,26 +18,12 @@ footnotereturnlinkcontents = "↩"
     weight = 1
 [[menu.main]]
     name = "Research"
-    url = "/#research"
-    weight = 2
-[[menu.main]]
-    name = "Publications"
-    url = "/publications"
+    url = "/publications_year"
     weight = 3
-[[menu.main]]
-    name = "Resume"
-    weight = 4
-    url = "/resume"
-[[menu.main]]
-    name = "Contact"
-    weight = 5
-    url = "/#contact"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Xiaoqi Tan](https://xiaoqitan.org) 2018--2020"
-
-  
+    footer = "Copyright &copy; 2020  [Xiaoqi Tan](https://xiaoqitan.org)"
 
 [blackfriday]
 hrefTargetBlank = true

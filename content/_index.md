@@ -2,57 +2,68 @@
 title: Home
 ---
 
-[<img src="/img/xiaoqi.png" style="max-width:13%;min-width:110px;float:right" alt="Xiaoqi Tan" />](https://xiaoqitan.org)
-
-
-## Xiaoqi Tan's Bio
-
-I am a postdoc at the [Dept. of ECE](https://www.ece.utoronto.ca), [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/).  
-
-Prior to joining UofT, I obtained my Ph.D. degree in electronic and computer engineering from the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).
-
-
----
-## <a id="research"></a> Research Interests
-
-
-My research interests lie at the intersection of online algorithms, algorithmic game theory, and machine learning, with a focus on applications in networked systems such as cloud computing, computer networks, Internet of Things, and smart grids. For more details, please see my recent and selected publications below, or click [here](/publications) for my full publication list.
-
-[comment]: # (Though diverse, these areas all center around the main theme of my research: The main theme of my research is to understand the fundamental performance limits of real-world systems in the presence of real-time data held by self-interested agents.  For more details, please see my recent publications below, or click [here](/publications) for my full publication list. My research centers around the interplay between algorithms, incentives, and learning in computing and networked systems. )
+<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 70px 55px" alt="Xiaoqi Tan" />
 
 >
+## <span style="color:#00204E"> XIAOQI TAN </span>
+
+>
+I am a Postdoctoral Fellow at [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.ece.utoronto.ca/people/leon-garcia-a/). My research interests span various topics in online algorithms, mechanism design, <span style="color:#00204E">computer systems and networks</span>, and <span style="color:#00204E">energy systems</span>. Click [here](/publications_year) for more details.
+
+>
+I received my Ph.D. from [HKUST](https://hkust.edu.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). At HKUST, I was affiliated with the [C2E Group](http://c2e.ece.ust.hk/main/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu). 
+
+>
+<span style="color:#00204E">**Email**</span>: xiaoqi.tan [at] utoronto.ca\\
+<span style="color:#00204E">**Office**</span>: Room 7137, Bahen Centre for Information Technology\\
+<span style="color:#00204E">**Links**</span>: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html)
+
+
+
+[comment]: # (Here is my [resume](/resume) Click [here](/publications_year) for more details.)
+
+
+
+[comment]: # (### <span style="color:#BB133E">`RESEARCH INTERESTS`</span> Design of online algorithms and mechanisms, and the interplay between mechanism design and machine learning, with applications to networked systems ranging from cloud computing to Internet of Things, energy systems, and urban transportation systems. Click [here](/publications_year) for more details.)
+
+<a id="recent"></a>
+
+### <span style="color:#E78100"> `RECENT TALKS` </span> 
+
 <ul class=circle>
-    <script>
-        var i;
-        for (i = 0; i < papers_preprint.length; i++) {
-            if (papers_preprint[i].highlight.search("yes") >= 0) {
+        <script>
+            var i;
+            for (i = 0; i < talks_full.length; i++) {
+            if (talks_full[i].highlight.search("yes") >= 0) {
                 document.write("<li class=paper>");
-                printPaper(papers_preprint[i], "yes");
+                printPaper(talks_full[i], "O");
                 document.write("</li>");
             }
         }
-        for (i = 0; i < papers_conference.length; i++) {
-            if (papers_conference[i].highlight.search("yes") >= 0) {
-                document.write("<li class=paper>");
-                printPaper(papers_conference[i], "yes");
-                document.write("</li>");
-            }
-        }
-        for (i = 0; i < papers_journal.length; i++) {
-            if (papers_journal[i].highlight.search("yes") >= 0) {
-                document.write("<li class=paper>");
-                printPaper(papers_journal[i], "yes");
-                document.write("</li>");
-            }
-        }
-    </script>
+        </script>
 </ul>
 
 
+<a id="recentpapers"></a> 
 
----
-## <a id="contact"></a> Contact
- 
-**Office**: [7137 Bahen Centre, 40 St. George Street, Toronto, Ontario M5S 2E4, Canada](https://goo.gl/maps/vfCbo1zuws5Wspzu8).\\
-**Email**: `$\textsf{xiaoqi.tan}@\textsf{utoronto.ca}$`, (My first name "Xiaoqi" is pronounced as “Shiao-Chee”).
+### <span style="color:#E78100">`RECENT PAPERS` </span> 
 
+<ul class=circle>
+        <script>
+            var i;
+            for (i = 0; i < papers_full.length; i++) {
+            if (papers_full[i].highlight.search("yes") >= 0) {
+                document.write("<li class=paper>");
+                printPaper(papers_full[i], "O");
+                document.write("</li>");
+            }
+        }
+        </script>
+</ul>
+
+[comment]: # (For my  full publication list,  click [here](/publications_year) or see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=OIDN4i8AAAAJ&view_op=list_works&sortby=pubdate) profile.)
+
+### <span style="color:#E78100">`MISC` </span> 
+- My first name "Xiaoqi" is pronounced as "Shiao-Chee".
+- I am big fun of [Chinese caligraphy](https://en.wikipedia.org/wiki/Chinese_calligraphy). My favorite calligraphers are  [Ouyang Xun](https://en.wikipedia.org/wiki/Ouyang_Xun) and  [Wang Xizhi](https://en.wikipedia.org/wiki/Wang_Xizhi). 
+- I am into jogging. This is my favorite place to run in Toronto, weather permitting: [Kay Gardner Beltline Trail](https://www.tripadvisor.ca/Attraction_Review-g155019-d7070406-Reviews-Kay_Gardner_Beltline_Trail-Toronto_Ontario.html).
