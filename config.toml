@@ -17,7 +17,7 @@ footnotereturnlinkcontents = "↩"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "Research"
+    name = "Publications"
     url = "/publications_year"
     weight = 3
 

@@ -2,16 +2,17 @@
 title: Home
 ---
 
-<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 70px 55px" alt="Xiaoqi Tan" />
+<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 80px 55px 20px 45px" alt="Xiaoqi Tan" />
 
 >
 ## <span style="color:#00204E"> XIAOQI TAN </span>
 
 >
-I am a Postdoctoral Fellow at [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.ece.utoronto.ca/people/leon-garcia-a/). My research interests span various topics in online algorithms, mechanism design, <span style="color:#00204E">computer systems and networks</span>, and <span style="color:#00204E">energy systems</span>. Click [here](/publications_year) for more details.
+I am a Postdoctoral Fellow at [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.ece.utoronto.ca/people/leon-garcia-a/).  I received my Ph.D. from [HKUST](https://hkust.edu.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). At HKUST, I was affiliated with the [C2E Group](http://c2e.ece.ust.hk/main/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu). 
 
->
-I received my Ph.D. from [HKUST](https://hkust.edu.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). At HKUST, I was affiliated with the [C2E Group](http://c2e.ece.ust.hk/main/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu). 
+
+> 
+My research strives to navigate fundamental relationships between <span style="color:#00204e">_algorithms_</span>, <span style="color:#00204e">_incentives_</span>, and <span style="color:#00204e">_performance_</span> in the design and management of networked systems. I develop new theory and methodologies in <span style="color:#E78100">online algorithms</span>  and <span style="color:#E78100">mechanism design</span>, and focus on applying these methodologies to advance the design of networked systems, markets, and platforms in various domains, ranging from <span style="color:#E78100">computer systems and networks</span> (e.g., cloud computing and network economics)  to <span style="color:#E78100">energy systems</span> (e.g., smart grid and the urban energy-transport nexus). My research features interdisciplinarity and mathematical rigor, utilizing and contributing to algorithms and complexity, economics and computation, performance  evaluation, and artificial intelligence/multi-agent systems. 
 
 >
 <span style="color:#00204E">**Email**</span>: xiaoqi.tan [at] utoronto.ca\\
@@ -20,7 +21,7 @@ I received my Ph.D. from [HKUST](https://hkust.edu.hk/) in 2018, advised by Prof
 
 
 
-[comment]: # (Here is my [resume](/resume) Click [here](/publications_year) for more details.)
+[comment]: # (For more details, see my publications [by type](/publications_type) or [by year](/publications_year). Here is my [resume](/resume) Click [here](/publications_year) for more details.)
 
 
 

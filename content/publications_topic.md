@@ -3,6 +3,13 @@ title: PUBLICATIONS (By Topic)
 author:
 --- 
 
+>
+## <span style="color:#00204E"> RESEARCH </span>
+
+> 
+My research strives to _navigate fundamental relationships between <span style="color:#00204e">**algorithms**</span>, <span style="color:#00204e">**incentives**</span>, and <span style="color:#00204e">**performance**</span> in the design and management of networked systems_. I develop new theory and methodologies in <span style="color:#E78100">online algorithms</span> (i.e., algorithm design for optimization/learning problems without having the entire input/data available from the start) and <span style="color:#E78100">mechanism design</span> (i.e., design of incentive-aware algorithms in settings when there exist strategic interactions between self-interested agents), and focus on applying these methodologies to advance the design of networked systems, markets, and platforms in various domains, ranging from <span style="color:#E78100">computer systems and networks</span> (e.g., cloud computing and network economics)  to <span style="color:#E78100">energy systems</span> (e.g., smart grid and the urban energy-transport nexus). My research features interdisciplinarity and mathematical rigor, utilizing and contributing to algorithms and complexity, economics and computation, performance  evaluation, and artificial intelligence (esp. multi-agent systems).
+
+
 > Sort [[by type]](/publications_type) or [[by year]](/publications_year) or [[by topic]](/publications_topic) (some papers are listed under more than one topic)
 
 > By-year links: [2020+](/publications_year/#2020) | [2019](/publications_year/#2019) | [2018](/publications_year/#2018) | [2017](/publications_year/#2017) | [2016](/publications_year/#2016) | [2015](/publications_year/#2015) | [2014](/publications_year/#2014) | [2013](/publications_year/#2013)
