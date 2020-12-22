@@ -2,7 +2,7 @@ var papers_full = new Array (
 
     {
         id : "mk_search2020",
-        name : "Competitive $(m,k)$-Searching with Convex Costs",
+        name : "Competitive $(m,k)$-Searching under Generalized Budget Constraints",
         coauthors : new Array(authorList.XQTan, authorList.RBoutaba, authorList.Garcia),
         journal : "Preprint",
         //arxiv: "",
