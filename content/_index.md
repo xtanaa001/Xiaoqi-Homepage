@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 80px 55px 20px 45px" alt="Xiaoqi Tan" />
+<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 80px 55px 40px 45px" alt="Xiaoqi Tan" />
 
 >
 ## <span style="color:#00204E"> XIAOQI TAN </span>
