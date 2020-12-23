@@ -1,20 +1,20 @@
 var papers_full = new Array (
 
     {
-        id : "mk_search2020",
+        id : "mk_search2021",
         name : "Competitive $(m,k)$-Searching under Generalized Budget Constraints",
         coauthors : new Array(authorList.XQTan, authorList.RBoutaba, authorList.Garcia),
         journal : "Preprint",
         //arxiv: "",
         highlight : "yes",
         topic: "O",
-        year: "2020",
+        year: "2021",
         note: "Full version is available upon request",
         //paperAbstract : "<p></p>",
     },
 
     {
-        id : "knapsack_2020",
+        id : "knapsack_2021",
         name : "Online Knapsack Problems with Convex Packing Costs: Variants and Algorithms",
         coauthors : new Array(authorList.XQTan, authorList.RBoutaba, authorList.Garcia),
         type : "journal",
@@ -22,14 +22,23 @@ var papers_full = new Array (
         //arxiv: "",
         highlight : "yes",
         topic: "O",
-        year: "2020",
+        year: "2021",
         note: "Full version is available upon request",
         //paperAbstract : "<p></p>",
     },
 
-    /* ----------------------- 2020 --------------------------*/
-    /* ----------------------- 2020 --------------------------*/
-    /* ----------------------- 2020 --------------------------*/
+    {
+        id : "EVBSS_TTE_2020",
+        name : "Inventory Planning and Real-time Routing for Network of Electric Vehicle Battery Swapping Stations",
+        coauthors : new Array(authorList.LNi, authorList.BSun, authorList.XQTan, authorList.DHKTsang),
+        journal : "IEEE Transactions on Transportation Electrification",
+        highlight : "no",
+        topic: "E",
+        year: "2021",
+        note: "in press",
+        paperAbstract : "<p>Battery swapping stations (BSSs) are one of the main types of electric vehicle (EV) refueling facilities. By battery swapping, EVs first replace their depleted batteries (DBs) with fully-charged ones, and then the demounted DBs can be recharged in charging facilities in a stand-alone mode, leading to a decouple between batteries and EVs during refueling. This paper targets the planning and operation of a network of geographically-distributed BSSs, termed as BSS-Net. In particular, we focus on two important decisions being made within two different timescales, namely a long-term decision on planning the initial inventory in each individual BSS, and a short-term decision on real-time vehicle-to-station (V2S) routing of EVs. We formulate a two-stage optimization problem and propose a two-step solution scheme. Specifically, in the first step, we determine the long-term initial inventory by sample average approximation, and the resulting planning decision leads to a maximized total expected revenue for the BSS-Net. Based on the optimal initial inventory, we design a randomized online algorithm in the second step to perform real-time V2S routing, without assuming any future EV arrival information. We rigorously prove that the worst-case performance of the randomized online algorithm is theoretically bounded by a closed-form competitive ratio.</p>",
+    },
+
 
     {
         id : "market_tsg_2020",
@@ -44,18 +53,9 @@ var papers_full = new Array (
         paperAbstract : "<p> Aggregation of demand-side flexibility plays a crucial role in helping improve the system-wide performance of power grids. However, less known is the potential negative impact of self-interested flexibility aggregators being strategic for their own benefits at the cost of other market participants and even system-wide performance. This paper aims to theoretically analyze this negative impact, as well as the corresponding mitigation method. Specifically, we consider a strategic aggregator derives the optimal bidding strategy of the flexibility bounds (for cumulative energy and instantaneous power consumption) and trades electricity in a pool. A multi-period bi-level program with a DC network setup is considered. The upper-level problem represents the aggregator’s cost minimization, and the lower-level problem represents the market clearing process. Based on this bi-level formulation, our theoretical analysis shows that the potential negative impacts of the strategic behavior on the system generation cost, the payments of the fixed loads and non-strategic aggregators depend on the bus locations of both the strategic and non-strategic aggregators. We propose to additionally charge the strategic aggregator for the newly introduced congestion so as to avoid the system performance degradation. The analytical results are validated via simulations.</p>",
     },
 
-
-    {
-        id : "EVBSS_TTE_2020",
-        name : "Inventory Planning and Real-time Routing for Network of Electric Vehicle Battery Swapping Stations",
-        coauthors : new Array(authorList.LNi, authorList.BSun, authorList.XQTan, authorList.DHKTsang),
-        journal : "IEEE Transactions on Transportation Electrification",
-        highlight : "no",
-        topic: "E",
-        year: "2020",
-        note: "in press",
-        paperAbstract : "<p>Battery swapping stations (BSSs) are one of the main types of electric vehicle (EV) refueling facilities. By battery swapping, EVs first replace their depleted batteries (DBs) with fully-charged ones, and then the demounted DBs can be recharged in charging facilities in a stand-alone mode, leading to a decouple between batteries and EVs during refueling. This paper targets the planning and operation of a network of geographically-distributed BSSs, termed as BSS-Net. In particular, we focus on two important decisions being made within two different timescales, namely a long-term decision on planning the initial inventory in each individual BSS, and a short-term decision on real-time vehicle-to-station (V2S) routing of EVs. We formulate a two-stage optimization problem and propose a two-step solution scheme. Specifically, in the first step, we determine the long-term initial inventory by sample average approximation, and the resulting planning decision leads to a maximized total expected revenue for the BSS-Net. Based on the optimal initial inventory, we design a randomized online algorithm in the second step to perform real-time V2S routing, without assuming any future EV arrival information. We rigorously prove that the worst-case performance of the randomized online algorithm is theoretically bounded by a closed-form competitive ratio.</p>",
-    },
+    /* ----------------------- 2020 --------------------------*/
+    /* ----------------------- 2020 --------------------------*/
+    /* ----------------------- 2020 --------------------------*/
 
 
     {

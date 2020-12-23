@@ -9,8 +9,7 @@ title: PUBLICATIONS (By Type)
 
 > <span style="color:#00204E">**By-type quick links**</span>: [Preprints](/publications_type/#preprints) | [Journal Papers](/publications_type/#journal) | [Conference Papers](/publications_type/#conference)
 
-> <span style="color:#00204E">**By-year quick links**</span>: [2020+](/publications_year/#2020) | [2019](/publications_year/#2019) | [2018](/publications_year/#2018) | [2017](/publications_year/#2017) | [2016](/publications_year/#2016) | [2015](/publications_year/#2015) | [2014](/publications_year/#2014) | [2013](/publications_year/#2013)
-
+> <span style="color:#00204E">**By-year quick links**</span>: [2021+](/publications_year/#2021) | [2020](/publications_year/#2020) | [2019](/publications_year/#2019) | [2018](/publications_year/#2018) | [2017](/publications_year/#2017) | [2016](/publications_year/#2016) | [2015](/publications_year/#2015) | [2014](/publications_year/#2014) | [2013](/publications_year/#2013)
 
 
 ### <a id="preprints"></a> <span style="color:#E78100">`PREPRINTS`</span>
