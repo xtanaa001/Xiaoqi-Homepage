@@ -36,11 +36,11 @@ var papers_full = new Array (
         name : "Aggregation of Demand-Side Flexibility in Electricity Markets: Negative Impact Analysis and Mitigation Method",
         coauthors : new Array(authorList.SWang, authorList.XQTan, authorList.TLiu, authorList.DHKTsang),
         journal : "IEEE Transactions on Smart Grid",
+        pubinfo: "vol. 12, no. 1, pp. 774-786, January 2021",
         //arxiv: "",
         highlight : "no",
         topic: "E",
-        year: "2020",
-        note: "in press",
+        year: "2021",
         paperAbstract : "<p> Aggregation of demand-side flexibility plays a crucial role in helping improve the system-wide performance of power grids. However, less known is the potential negative impact of self-interested flexibility aggregators being strategic for their own benefits at the cost of other market participants and even system-wide performance. This paper aims to theoretically analyze this negative impact, as well as the corresponding mitigation method. Specifically, we consider a strategic aggregator derives the optimal bidding strategy of the flexibility bounds (for cumulative energy and instantaneous power consumption) and trades electricity in a pool. A multi-period bi-level program with a DC network setup is considered. The upper-level problem represents the aggregator’s cost minimization, and the lower-level problem represents the market clearing process. Based on this bi-level formulation, our theoretical analysis shows that the potential negative impacts of the strategic behavior on the system generation cost, the payments of the fixed loads and non-strategic aggregators depend on the bus locations of both the strategic and non-strategic aggregators. We propose to additionally charge the strategic aggregator for the newly introduced congestion so as to avoid the system performance degradation. The analytical results are validated via simulations.</p>",
     },
 
