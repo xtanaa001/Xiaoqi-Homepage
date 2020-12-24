@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 80px 55px 30px 45px" alt="Xiaoqi Tan" />
+<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 80px 55px 70px 45px" alt="Xiaoqi Tan" />
 
 >
 ## <span style="color:#00204E"> XIAOQI TAN </span>
@@ -12,7 +12,7 @@ I am a Postdoctoral Fellow at [University of Toronto](https://utoronto.ca), work
 
 
 > 
-My research strives to navigate fundamental relationships between <span style="color:#00204e">algorithms</span>, <span style="color:#00204e">incentives</span>, and <span style="color:#00204e">uncertainty</span> in the design and management of networked systems. I develop new theory and methodologies in <span style="color:#00204E">**_online algorithms_**</span>, <span style="color:#00204E">**_mechanism design_**</span>, and **_stochastic models_**, and focus on applying these methodologies to advance the design of networked systems, markets, and platforms in various domains, ranging from <span style="color:#00204E">**_computer systems and networks_**</span>  to <span style="color:#00204E">**_energy systems_**</span>. My research features interdisciplinarity and mathematical rigor, utilizing and contributing to algorithms and complexity, economics and computation, artificial intelligence/multi-agent systems, and machine learning.  For more details, click [here](/publications_year) to check out my publications.
+My research strives to navigate fundamental relationships between <span style="color:#00204e">algorithms</span>, <span style="color:#00204e">incentives</span>, and <span style="color:#00204e">uncertainty</span> in the design and management of networked systems. I develop new theory and methodologies in <span style="color:#00204E">**_online algorithms_**</span>, <span style="color:#00204E">**_mechanism design_**</span>, and **_stochastic models_**, and focus on applying these methodologies to advance the design of networked systems, markets, and platforms in various domains, ranging from <span style="color:#00204E">**_computer systems and networks_**</span>  to <span style="color:#00204E">**_energy systems_**</span>. My research features interdisciplinarity and mathematical rigor, utilizing and contributing to algorithms and complexity, economics and computation, artificial intelligence (esp. multi-agent systems), and machine learning.  For more details, click [here](/publications_year) to see my publications.
 
 >
 <span style="color:#00204E">**Email**</span>: xiaoqi.tan [at] utoronto.ca\\
