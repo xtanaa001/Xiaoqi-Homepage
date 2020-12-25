@@ -6,7 +6,7 @@ author:
 [comment]: # (> On the practical side, my research is particulary driven by systems that can be modeled as networks of interacting and possibly self-interested agents, sharing and competing limited resources in the presence of stochastic dynamics. My goal is to understand fundamental performance limits of such networked systems, and develop rigorous models, algorithms, and markets, with provable guarantees, that can navigate key design tradeoffs in these systems.  algorithm design for optimization and machine learning problems having no or incomplete knowledge of the future; which concerns how to design incentive-aware algorithms when there exist strategic interactions between self-interested agents..... I study the interplay between online algorithms, mechanism design, and machine learning, with applications to computing and networked systems in various domains, ranging from cloud computing to energy and transportation systems. Broadly, my research strives to  address systems challenges at the intersection of computation and sustainability. For more details, see my publications below [[by type]](/publications_type) or [[by year]](/publications_year). (i.e., algorithm design for optimization/learning problems without having the entire input/data available from the start) (i.e., design of incentive-aware algorithms in settings when there exist strategic interactions between self-interested agents))
 
 
-## <span style="color:#00204E"> PUBLICATIONS </span>
+## <span style="color:#00204E"> [PUBLICATIONS](/publications_year) </span>
 
 Sort [[by type]](/publications_type) or [[by year]](/publications_year)
 

@@ -4,7 +4,7 @@ title: Home
 
 
 
-## <span style="color:#00204E"> XIAOQI TAN </span>
+## <span style="color:#00204E"> [XIAOQI TAN](/) </span>
 
 
 <img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%; min-width:248px; float:right; margin: 5px 55px 20px 45px" alt="Xiaoqi Tan" />
