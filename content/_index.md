@@ -7,14 +7,14 @@ title: Home
 ## <span style="color:#00204E"> XIAOQI TAN </span>
 
 >
-<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%;min-width:248px;float:right; margin: 5px 55px 20px 45px" alt="Xiaoqi Tan" />
+<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%; min-width:248px; float:right; margin: 5px 55px 20px 45px" alt="Xiaoqi Tan" />
 
 >
 I am a Postdoctoral Fellow at [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.ece.utoronto.ca/people/leon-garcia-a/).  I received my Ph.D. from [HKUST](https://hkust.edu.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). At HKUST, I was affiliated with the [C2E Group](http://c2e.ece.ust.hk/main/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu). 
 
 
 > 
-My research strives to navigate fundamental relationships between <span style="color:#00204e">algorithms</span>, <span style="color:#00204e">incentives</span>, and <span style="color:#00204e">performance</span> in the design and management of networked systems. I study  <span style="color:#00204e">_Online Algorithms_</span>, <span style="color:#00204e">_Mechanism Design_</span>, and <span style="color:#00204e">_Stochastic Models_</span>, and focus on developing new mathematical models, algorithms, and markets, with provable performance guarantees, that can be applied to <span style="color:#00204e">_Computer Systems and Networks_</span> and <span style="color:#00204e">_Energy Systems_</span>. My research features interdisciplinarity and mathematical rigor, utilizing and contributing to algorithms and complexity, economics and computation, artificial intelligence (esp. multi-agent systems), and machine learning.  For more details, click [here](/publications_year) to see my publications.
+My research strives to navigate fundamental relationships between <span style="color:#00204e">algorithms</span>, <span style="color:#00204e">incentives</span>, and <span style="color:#00204e">performance</span> in the design and management of networked systems. I study  <span style="color:#00204e">_Online Algorithms_</span>, <span style="color:#00204e">_Mechanism Design_</span>, and <span style="color:#00204e">_Stochastic Models_</span>, and focus on developing new mathematical models, algorithms, and markets, with theoretical guarantees, that can be applied to improve the performance of <span style="color:#00204e">_Computer Systems and Networks_</span> and <span style="color:#00204e">_Energy Systems_</span>. My research features interdisciplinarity and mathematical rigor, utilizing and contributing to algorithms and complexity, economics and computation, artificial intelligence (esp. multi-agent systems), and machine learning.  For more details, click [here](/publications_year) to see my publications.
 
 >
 <span style="color:#00204E">**Email**</span>: xiaoqi.tan [at] utoronto.ca\\
