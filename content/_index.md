@@ -3,18 +3,17 @@ title: Home
 ---
 
 
+## <span style="color:#00204E"> [XIAOQI TAN](/) </span>
+
+
 <figure style="float:right;">
-  <img alt="Hannibal Regional Medical Building" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%; min-width:248px; float:right; margin: 60px 55px 25px 45px" width="250"/>
+  <img alt="Hannibal Regional Medical Building" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%; min-width:248px; float:right; margin: 0px 55px 25px 45px" width="250"/>
   <figcaption> <b>Xiaoqi Tan</b>, Ph.D.<br>
   Postdoctoral Fellow <br>
   University of Toronto, ON, Canada<br>
   <b>Email</b>: xiaoqi.tan@utoronto.ca
   </figcaption>
 </figure>
-
-
-## <span style="color:#00204E"> [XIAOQI TAN](/) </span>
-
 
 I am a Postdoctoral Fellow at [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.ece.utoronto.ca/people/leon-garcia-a/).  I received my Ph.D. from [HKUST](https://hkust.edu.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). At HKUST, I was affiliated with the [C2E Group](http://c2e.ece.ust.hk/main/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu). 
 
