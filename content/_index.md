@@ -3,7 +3,7 @@ title: Home
 ---
 
 <figure style="float:right;">
-  <img alt="Hannibal Regional Medical Building" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%; min-width:248px; float:right; margin: 65px 55px 20px 45px" width="250"/>
+  <img alt="Hannibal Regional Medical Building" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%; min-width:248px; float:right; margin: 70px 55px 20px 55px" width="250"/>
   <figcaption> <b>Xiaoqi Tan</b>, Ph.D.<br>
   Postdoctoral Fellow <br>
   University of Toronto, ON, Canada<br>
