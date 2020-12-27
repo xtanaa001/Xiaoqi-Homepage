@@ -3,21 +3,23 @@ title: Home
 ---
 
 
+<figure style="float:right;">
+  <img alt="Hannibal Regional Medical Building" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%; min-width:248px; float:right; margin: 60px 55px 25px 45px" width="250"/>
+  <figcaption> <b>Xiaoqi Tan</b>, Ph.D.<br>
+  Postdoctoral Fellow <br>
+  University of Toronto, ON, Canada<br>
+  <b>Email</b>: xiaoqi.tan@utoronto.ca
+  </figcaption>
+</figure>
+
 
 ## <span style="color:#00204E"> [XIAOQI TAN](/) </span>
-
-<img src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%; min-width:248px; float:right; margin: 5px 55px 40px 55px" alt="Xiaoqi Tan">
 
 
 I am a Postdoctoral Fellow at [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.ece.utoronto.ca/people/leon-garcia-a/).  I received my Ph.D. from [HKUST](https://hkust.edu.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). At HKUST, I was affiliated with the [C2E Group](http://c2e.ece.ust.hk/main/). From October 2015 to April 2016, I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu). 
 
 
 My research strives to navigate fundamental relationships between <span style="color:#00204e">algorithms</span>, <span style="color:#00204e">incentives</span>, and <span style="color:#00204e">uncertainty</span> in the design and management of networked systems. I study the interplay between <span style="color:#00204e">online algorithms</span>, <span style="color:#00204e">mechanism design</span>, and <span style="color:#00204e">stochastic models</span>, and focus on developing new theory and methodologies, with provable guarantees, that can be applied to <span style="color:#00204e">computer systems and networks (e.g., cloud computing, Internet of Things, and wireless networking)</span> and <span style="color:#00204e">energy systems (e.g., smart grid and the urban energy-transport nexus)</span>. My research features interdisciplinarity and mathematical rigor, utilizing and contributing to algorithms and complexity, economics and computation, artificial intelligence (esp. multi-agent systems), and machine learning.  For more details, click [here](/publications_year) to check out my publications.
-
-<span style="color:#00204E">**Email**</span>: xiaoqi.tan [at] utoronto.ca\\
-<span style="color:#00204E">**Office**</span>: Room 7137, Bahen Centre for Information Technology\\
-<span style="color:#00204E">**Links**</span>: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html)
-
 
 
 [comment]: # (For more details, see my publications [by type](/publications_type) or [by year](/publications_year). Here is my [resume](/resume) Click [here](/publications_year) for more details.)

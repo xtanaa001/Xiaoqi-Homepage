@@ -136,3 +136,19 @@ table {
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee; }
+
+
+/* figure and image */
+figure {
+  display: inline-block;
+  text-align: center;
+  border: 0px dotted gray;
+  margin: 0px; /* adjust as needed */
+}
+figure img {
+  vertical-align: top;
+}
+
+figure figcaption {
+  border: 0px dotted blue;
+}
