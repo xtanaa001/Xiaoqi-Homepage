@@ -3,7 +3,7 @@ title: Home
 ---
 
 <figure style="float:right;">
-  <img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%; min-width:248px; float:right; margin: 70px 55px 20px 60px" width="250"/>
+  <img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%; min-width:248px; float:right; margin: 60px 55px 20px 60px" width="250"/>
   <figcaption> <b>Xiaoqi Tan</b>, Ph.D.<br>
   Postdoctoral Fellow <br>
   University of Toronto, ON, Canada<br>
