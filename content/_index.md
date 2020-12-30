@@ -3,7 +3,7 @@ title: Home
 ---
 
 <figure style="float:right;">
-  <img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%; min-width:248px; float:right; margin: 63px 55px 20px 60px" width="250"/>
+  <img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%; min-width:248px; float:right; margin: 70px 55px 20px 60px" width="250"/>
   <figcaption> <b>Xiaoqi Tan</b>, Ph.D.<br>
   Postdoctoral Fellow <br>
   University of Toronto, ON, Canada<br>
@@ -16,7 +16,7 @@ title: Home
 I am a Postdoctoral Fellow at [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.ece.utoronto.ca/people/leon-garcia-a/). Prior to my current position, I received my Ph.D. from [HKUST](https://hkust.edu.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). At HKUST, I was affiliated with the [C2E Group](http://c2e.ece.ust.hk/main/). During my Ph.D., I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu). 
 
 
-My research strives to navigate fundamental relationships between <span style="color:#00204e">algorithms</span>, <span style="color:#00204e">incentives</span>, and <span style="color:#00204e">uncertainty</span> in the design and management of networked systems. I study the interplay between <span style="color:#00204e">Online Algorithms</span>, <span style="color:#00204e">Mechanism Design</span>, and <span style="color:#00204e">Stochastic Models</span>, and focus on developing new theory and methodologies, with provable gurantees, that can be applied to <span style="color:#00204e">Computing, Communication, and Energy Systems</span>. My research features interdisciplinarity and mathematical rigor, utilizing and contributing to algorithms and complexity, economics and computation, and artificial intelligence (esp. multi-agent systems and learning).  For more details, click [here](/publications_year) to check out my publications.
+My research strives to navigate fundamental relationships between <span style="color:#00204e">algorithms</span>, <span style="color:#00204e">incentives</span>, and <span style="color:#00204e">uncertainty</span> in the design and management of networked systems. I study the interplay between <span style="color:#00204e">Online Algorithms</span>, <span style="color:#00204e">Mechanism Design</span>, and <span style="color:#00204e">Stochastic Models</span>, and focus on developing new theory and methodologies, with provable gurantees, that can gain insights into  fundamental performance limits and key design principles of <span style="color:#00204e">Computing, Communication, and Energy Systems</span>. My research features interdisciplinarity and mathematical rigor, utilizing and contributing to algorithms and optimization, economics and computation, and artificial intelligence (esp. multi-agent systems and learning).  For more details, click [here](/publications_year) to check out my publications.
 
 
 [comment]: # (For more details, see my publications [by type](/publications_type) or [by year](/publications_year). Here is my [resume](/resume) Click [here](/publications_year) for more details.)
