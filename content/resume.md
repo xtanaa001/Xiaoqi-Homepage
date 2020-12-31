@@ -2,6 +2,7 @@
 title: RESUME
 ---
 
+
 > ### <span style="color:#00204E"> EMPLOYMENT </span>
 - Postdoctoral Fellow in ECE, University of Toronto, Toronto, ON, Canada, `07/2018` - Present.
 - Postdoctoral Fellow in ECE, HKUST, Clear Water Bay, Hong Kong SAR, China, `02/2018 - 06/2018`.
@@ -10,7 +11,7 @@ title: RESUME
 
 > ### <span style="color:#00204E"> EDUCATION </span>
 - Ph.D. in ECE, HKUST, Clear Water Bay, Kowloon, Hong Kong SAR, China, `09/2012 – 01/2018`.
-- Visiting Research Fellow in EE@SEAS, Harvard University, Cambridge, MA, USA, `10/2015 - 05/2016`.
+- Visiting Research Fellow in SEAS, Harvard University, Cambridge, MA, USA, `10/2015 - 05/2016`.
 - B.Eng. in Information Engineering, Xi'an Jiaotong University (XJTU), Xi'an, China, `09/2008 - 06/2012`.
 
 ---
@@ -31,44 +32,9 @@ title: RESUME
   - Current and Emerging Technologies in Telecommunications (EESM5900F), Spring 2017.
 
 > #### <span style="color:#E78100">`Teaching Assistant at HKUST` </span>
-  - Computer Communication Networks (ELEC4120), Spring 2012, Fall 2013.
+  - Computer Communication Networks (ELEC4120), Fall 2013, Fall 2014.
+  - Multimedia Networks (ELEC 5300), Spring 2014. 
   - A System View of Communications: from Signals to Packets (ELEC1200), Spring 2013.
-
----
-
-> ### <span style="color:#00204E"> SELECTED TALKS </span>
->
-- [Online Knapsack Problems with Convex Packing Costs: Algorithms and Applications](https://events.vtools.ieee.org/m/233311)
-  - Dept. of Computer Science, University of Waterloo, ON, Canada, June 2020.
->
-- <span style="color:darkblue">Online Mechanism Design for Multi-Agent Resource Allocation</span>
-  - Central South University, Changsha, China, January 2020.
->
-- <span style="color:darkblue">Posted Price Retailing of Transactive Energy: An Optimal Online Mechanism</span>
-  - Southest University, Nanjing, China, January 2020. 
->
-- <span style="color:darkblue">Online Resource Allocation with Supply Costs and Capacity Limits: A Unified Approach</span>
-  - Nanjing University of Aeronautics and Astronautics, Nanjing, China, January 2020. 
-  - Zhejiang University of Technology, Hangzhou, China, January 2020.  
->
-- <span style="color:darkblue">Enabling Intelligent Decision-Making in Smart Cities: When IoT Meets Multi-Agent Systems</span>
-  - The 10th CASCON Workshop on Cloud Computing, Toronto, 30 October 2018.
->
-- <span style="color:darkblue">Value-Lifetime Tradeoff Analysis for Battery Energy Storage in Dynamic Electricity Market</span> 
-  - Zhejiang University of Technology, Hangzhou, China, 2015.
->
-- <span style="color:darkblue">Model Predictive Control of Integrated Room Automation Considering Occupants Preference</span>
-  - IEEE SmartGridComm, Miami, USA, 2015.
->
-- <span style="color:darkblue">Optimal Energy Trading with Battery Energy Storage under Dynamic Pricing</span>
-  - IEEE SmartGridComm, Venice, Italy, 2014.
->
-- <span style="color:darkblue">Queueing Network Models for Electric Vehicle Charging Station with Battery Swapping</span>
-  - IEEE SmartGridComm, Venice, Italy, 2014.
-  - Green Computing Seminar Series, HKUST, Hong Kong, 2014.
->
-- <span style="color:darkblue">Economic Analysis of Lifetime-Constrained Battery Energy Storage under Dynamic Pricing</span>
-  - IEEE SmartGridComm, Vancouver, Canada, 2013.
 
 ---
 
@@ -101,7 +67,7 @@ title: RESUME
   - IEEE Global Communications Conference (Globecom)
   - International Teletraffic Congress (ITC)
 
-  ---
+---
 
 > ### <span style="color:#00204E"> MEMBERSHIP </span>
 - IEEE Member (2018-Present).
