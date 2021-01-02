@@ -7,7 +7,6 @@ title: RESUME
 - Postdoctoral Fellow in ECE, University of Toronto, `07/2018` - Present.
 - Postdoctoral Fellow in ECE, HKUST, `02/2018 - 06/2018`.
 
----
 
 ### <span style="color:#00204E"> EDUCATION </span>
 >
@@ -15,7 +14,6 @@ title: RESUME
 - Visiting Research Fellow in SEAS@Harvard University, `10/2015 - 05/2016`.
 - B.Eng. in Information Engineering@Xi'an Jiaotong University, `09/2008 - 06/2012`.
 
----
 
 ### <span style="color:#00204E"> SELECTED AWARDS </span>
 >
@@ -26,7 +24,6 @@ title: RESUME
 - National Scholarship (approximately top 1%), Ministry of Education of P.R.China, 2010
 - National Scholarship (approximately top 1%), Ministry of Education of P.R.China, 2009
 
----
 
 ### <span style="color:#00204E"> TEACHING </span>
 >
@@ -38,7 +35,6 @@ title: RESUME
   - Multimedia Networks (ELEC 5300), Spring 2014. 
   - A System View of Communications: from Signals to Packets (ELEC1200), Spring 2013.
 
----
 
 ### <span style="color:#00204E"> PROFESSIONAL SERVICES </span>
 >
