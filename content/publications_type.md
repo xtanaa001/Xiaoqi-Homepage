@@ -50,7 +50,6 @@ Sort [[by type]](/publications_type) or [[by year]](/publications_year)
 </ol>
 
 
-
 ### <a id="conference"></a> <span style="color:#E78100">`CONFERENCE PAPERS`</span>
 >
 <ol reversed>
