@@ -5,7 +5,7 @@ title: Home
 
 
 <figure style="float:right;">
-  <img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%; min-width:248px; float:right; margin: 65px 55px 20px 65px" width="250"/>
+  <img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%; min-width:248px; float:right; margin: 65px 40px 20px 65px" width="250"/>
   <figcaption> <b>Xiaoqi Tan</b>, Ph.D.<br>
   Postdoctoral Fellow, ECE <br>
   University of Toronto, Canada<br>
@@ -17,7 +17,7 @@ title: Home
 
 I am a Postdoctoral Fellow at [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.ece.utoronto.ca/people/leon-garcia-a/). Prior to my current position, I received my Ph.D. from [HKUST](https://hkust.edu.hk/) under Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/) in 2018. At HKUST, I was affiliated with the [C2E Group](http://c2e.ece.ust.hk/main/). During my Ph.D., I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu). 
 
-My research strives to design rigorous algorithms and mechanisms, with theoretical performance guarantees, for large-scale networked systems in the presence of stochastic dynamics and multi-agent interactions. In particular, most of my research focuses on problems at the intersection of decision-making under uncertainty (e.g., online optimization, online learning, and reinforcement learning) and  algorithmic mechanism design (e.g., pricing, auctions, and markets), with applications to computer systems \& networks (e.g., resource allocation and scheduling, energy efficiency, and network economics) and cyber-physical systems (e.g., smart grid and electric vehicle networks). Click [here](/publications_year) for more details.
+My research strives to design rigorous algorithms and mechanisms, with theoretical performance guarantees, for large-scale networked systems in the presence of stochastic dynamics and multi-agent interactions. In particular, most of my research focuses on problems at the intersection of Decision-Making under Uncertainty (e.g., online optimization, online learning, and reinforcement learning) and  Algorithmic Mechanism Design (e.g., pricing, auctions, and markets), with applications to Computer Systems \& Networking (e.g., resource allocation and scheduling, energy efficiency, and network economics) and Cyber-Physical Systems (e.g., smart grid and electric vehicle networks). Click [here](/publications_year) for more details.
 
 
 [comment]: # (For more details, see my publications [by type](/publications_type) or [by year](/publications_year). Here is my [resume](/resume) Click [here](/publications_year) for more details. I study the interplay between <span style="color:#00204e">online algorithms</span>, <span style="color:#00204e">mechanism design</span>, and <span style="color:#00204e">stochastic models</span>, and focus on developing new theory and methodologies that can gain insights into fundamental performance limits of existing systems and key design trade-offs in new systems.)
