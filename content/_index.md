@@ -8,7 +8,7 @@ title: Home
   <img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%; min-width:248px; float:right; margin: 70px 50px 30px 50px" width="250"/>
   <figcaption> 
   <b>Email</b>: xiaoqi.tan@utoronto.ca <br>
-  <b>Office</b>: Bahen Center - Room 3117 <br>
+  <b>Office</b>: Bahen Center - Room 7137 <br>
   </figcaption>
 </figure>
 
