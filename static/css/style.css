@@ -152,4 +152,5 @@ figure img {
 figure figcaption {
   border: 0px dotted blue;
   margin-bottom: 60px;
+  text-align: center;
 }
