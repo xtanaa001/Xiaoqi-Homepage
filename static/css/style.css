@@ -1,12 +1,11 @@
 body {
-  max-width: 999px;
+  max-width: 70%;
   margin: auto;
   padding: 1em;
   line-height: 1.6em;
-  color: #00204E;
+  color: #00204e;
   background: #fff;
 }
-
 
 /* header and footer areas */
 .menu { 
@@ -19,9 +18,26 @@ body {
   padding: 5px;
   border-radius: 5px;
 }
-.menu, .article-meta, footer { 
+.menu, .article-meta { 
+  text-align: left;
+  font-size: 1.05em;
+  /*font-weight: bold;*/
+}
+
+/* Add darker background color to highlight current active menu */
+/* This should be used in conjunction with header.html */
+.menu a.active {
+  background: #fff; /* #ddd */
+  color: #004250;
+  border: 1px solid #eee;
+  font-weight: bold;
+}
+
+footer { 
   text-align: center;
 }
+
+
 .title { font-size: 1.1em; }
 footer a { text-decoration: none; }
 hr {
@@ -80,31 +96,31 @@ div.abstract    {
 
 /* unvisited link */
 a:link {
-  color: #BB133E;
+  color: #007C41;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: #BB133E;
+  color: #007C41;
   text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-  color: #00204E;
+  color: #A8B400;
   text-decoration: none;
 }
 
 /* selected link */
 a:active {
-  color: blue;
+  color: #00204e;
   text-decoration: underline;
 }
 
 /* code */
 pre {
-  border: 1px solid #ddd;
+  border: 1px solid #ddd; 
   box-shadow: 5px 5px 5px #eee;
   padding: 1em;
   overflow-x: auto;
@@ -129,13 +145,20 @@ blockquote {
 }
 
 table {
-  margin: auto;
-  border-top: 1px solid #666;
-  border-bottom: 1px solid #666;
+  width: auto;
+  margin-right: auto;
+  margin-left: 0px;
+  border-top: 0px solid #666;
+  border-bottom: 0px solid #666;
 }
-table thead th { border-bottom: 1px solid #ddd; }
-th, td { padding: 5px; }
-thead, tfoot, tr:nth-child(even) { background: #eee; }
+table thead th { 
+  border-bottom: 0px solid #ddd; 
+}
+th, td { 
+  padding: 2px; 
+  width: auto;
+}
+/*thead, tfoot, tr:nth-child(even) { background: #eee; } */
 
 
 /* figure and image */

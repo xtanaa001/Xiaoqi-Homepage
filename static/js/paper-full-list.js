@@ -28,20 +28,21 @@ var papers_full = new Array (
     },
 
     {
-        id : "EVBSS_TTE_2020",
+        id : "EVBSS_TTE_2021",
         name : "Inventory Planning and Real-time Routing for Network of Electric Vehicle Battery Swapping Stations",
         coauthors : new Array(authorList.LNi, authorList.BSun, authorList.XQTan, authorList.DHKTsang),
         journal : "IEEE Transactions on Transportation Electrification",
+        pubinfo: "vol. 7, no. 2, pp. 542-553, June 2021",
         highlight : "no",
         topic: "E",
         year: "2021",
-        note: "in press",
+        //note: "in press",
         paperAbstract : "<p>Battery swapping stations (BSSs) are one of the main types of electric vehicle (EV) refueling facilities. By battery swapping, EVs first replace their depleted batteries (DBs) with fully-charged ones, and then the demounted DBs can be recharged in charging facilities in a stand-alone mode, leading to a decouple between batteries and EVs during refueling. This paper targets the planning and operation of a network of geographically-distributed BSSs, termed as BSS-Net. In particular, we focus on two important decisions being made within two different timescales, namely a long-term decision on planning the initial inventory in each individual BSS, and a short-term decision on real-time vehicle-to-station (V2S) routing of EVs. We formulate a two-stage optimization problem and propose a two-step solution scheme. Specifically, in the first step, we determine the long-term initial inventory by sample average approximation, and the resulting planning decision leads to a maximized total expected revenue for the BSS-Net. Based on the optimal initial inventory, we design a randomized online algorithm in the second step to perform real-time V2S routing, without assuming any future EV arrival information. We rigorously prove that the worst-case performance of the randomized online algorithm is theoretically bounded by a closed-form competitive ratio.</p>",
     },
 
 
     {
-        id : "market_tsg_2020",
+        id : "market_tsg_2021",
         name : "Aggregation of Demand-Side Flexibility in Electricity Markets: Negative Impact Analysis and Mitigation Method",
         coauthors : new Array(authorList.SWang, authorList.XQTan, authorList.TLiu, authorList.DHKTsang),
         journal : "IEEE Transactions on Smart Grid",

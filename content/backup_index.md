@@ -3,56 +3,44 @@ title: Home
 ---
 
 
+<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:210px; min-width:210px; float:left; margin: -1px 50px 0px 1px" width="250"/>
 
-<figure style="float:right;">
-  <img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:25%; min-width:248px; float:right; margin: 65px 40px 20px 65px" width="250"/>
-  <figcaption> 
-  <b>Xiaoqi Tan</b>, Ph.D.<br>
-  Postdoctoral Fellow, ECE <br>
-  University of Toronto, Canada<br>
-  <b>Email</b>: xiaoqi.tan@utoronto.ca <br>
-  </figcaption>
-</figure>
+## <span style="color:#004250"> Xiaoqi Tan </span>
+Assistant Professor\\
+[Department of Computing Science](https://www.ualberta.ca/computing-science/index.html)\\
+[University of Alberta](https://www.ualberta.ca/index.html)
 
-## <span style="color:#00204E"> [XIAOQI TAN](/) </span>
+[comment]: # (**Research**: My research strives to build a rigorous foundation for the modeling, analysis, and design of computing and networked systems, especially in settings where multiple agents come together, interact and compete in the presence of uncertainty and self-interest. To deal with such challenging settings, my research spans various topics in Online Algorithms, Economics and Computation, and Stochastic Modeling. The main theme is to develop novel algorithms for decision-making under uncertainty, with provable performance guarantee (e.g., efficiency, truthfulness, fairness, and privacy), using mathematical tools from computer science, economics, and control. Click [here](/publications_year) to see my publications for more details. )
 
-I am a Postdoctoral Fellow at the [University of Toronto](https://utoronto.ca), working with Prof. [Alberto Leon-Garcia](https://www.ece.utoronto.ca/people/leon-garcia-a/). Prior to my current position, I received my Ph.D. from [HKUST](https://hkust.edu.hk/) under Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/) in 2018. At HKUST, I was affiliated with the [C2E Group](http://c2e.ece.ust.hk/main/). During my Ph.D., I was hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/) as a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu). 
+**Office**: ATH 3-04 \\
+**Email**: xiaoqi.tan`@`ualberta.ca
 
-
-My research focuses on problems at the intersection of _Decision-Making under Uncertainty_ (e.g., online and stochastic optimization; online and reinforcement learning) and _Algorithmic Mechanism Design_ (i.e., incentive-aware algorithm design in settings where agents are strategic), with applications to _Computer Systems_ \& _Networks_ (e.g., resource allocation and scheduing; energy efficiency; network economics) and _Cyber-Physical Systems_ (e.g., smart grid; transportation systems). Click [here](/publications_year) for more details.
+[CV](/cv.pdf) | [Bio](/bio)
 
 
-[comment]: # ((i.e., incentive-aware algorithm design in settings where agents are self-interested). For more details, see my publications [by type](/publications_type) or [by year](/publications_year). Here is my [resume](/resume) Click [here](/publications_year) for more details. I study the interplay between <span style="color:#00204e">online algorithms</span>, <span style="color:#00204e">mechanism design</span>, and <span style="color:#00204e">stochastic models</span>, and focus on developing new theory and methodologies that can gain insights into fundamental performance limits of existing systems and key design trade-offs in new systems.)
-
-
-[comment]: # (My research strives to understand fundamental properties and design principles of large-scale networked systems in the presence of uncertainty. In particular, most of m. My research strives to _understand fundamental performance limits and design principles of large-scale networked systems in the presence of stochastic dynamics and  multi-agent interactions_. In particular, my recent research focuses primarily on _Online Decision Making under Uncertainty_, and the _Intersection between Algorithms, Mechanism Design, and Game Theory_. On the practical side, I am passionate about applying these techniques to address key societal challenges (e.g., energy sustainability) in a variety of application areas, including _Computer Systems_ \& _Networks_ (e.g., cloud computing, energy-efficient networking, and Internet of Things) and _Cyber-Physical Systems_ (e.g., smart grid and the urban energy-transport nexus). Click [here](/publications_year) for more details.)
-
-[comment]: # (### <span style="color:#BB133E">`RESEARCH INTERESTS`</span> Design of online algorithms and mechanisms, and the interplay between mechanism design and machine learning, with applications to networked systems ranging from cloud computing to Internet of Things, energy systems, and urban transportation systems. Click [here](/publications_year) for more details.)
-
-
-<a id="recent"></a>
-
-### <span style="color:#E78100"> `RECENT TALKS` </span> 
+---
 >
-<ul class=circle>
-        <script>
-            var i;
-            for (i = 0; i < talks_full.length; i++) {
-            if (talks_full[i].highlight.search("yes") >= 0) {
-                document.write("<li class=paper>");
-                printPaper(talks_full[i], "O");
-                document.write("</li>");
-            }
-        }
-        </script>
-</ul>
+**I will be joining [CS](https://www.ualberta.ca/computing-science/index.html)@[UAlberta](https://www.ualberta.ca/index.html) as an Assistant Professor in Fall 2021. If you are interested in working with me as an undergraduate, graduate, or postdoc, click [here](/join) for more information**.
 
+---
+
+### <span style="color:#00204e">`Research Interests`</span> 
+
+Xiaoqi's research strives to advance the general field of decision intelligence. The main theme is to develop foundational theory and algorithms for decision-making problems in highly dynamic,  networked systems where multiple agents come together, interact and possibly pursue competing objectives. To deal with such challenging settings, Xiaoqi's research features mathematical rigor and interdiscipinarity, utiliting and contributing to computer science, economics,  operations research, and control. Some major research topics include:
+
+>
+- **Online Algorithms**: algorithm design in settings with no or incomplete knowledge of the future.
+- **Algorithmic Mechansism Design**: algorithm design in strategic settings where participants have their own incentives.
+- **Stochastic Modeling and Control**: system modeling, analysis, and optimization under uncertainty.
+- **Sequential Decision Making**: algorithm design in dynamic settings where decisions are made in a sequential manner so as to optimize some objective.
+
+Xiaoqi is also passionate about applying these techniques to address societal challenges in a wide range of application areas, including but not limited to networking, energy, transportation, and online platforms. Click [here](/research) for more details.
+
+---
 
 <a id="recentpapers"></a> 
 
-
-### <span style="color:#E78100">`RECENT PAPERS`</span> 
->
+### <span style="color:#00204e">`Recent Publications`</span> 
 <ul class=circle>
         <script>
             var i;
@@ -68,11 +56,5 @@ My research focuses on problems at the intersection of _Decision-Making under Un
 
 [comment]: # (For my  full publication list,  click [here](/publications_year) or see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=OIDN4i8AAAAJ&view_op=list_works&sortby=pubdate) profile.)
 
-
-
-### <span style="color:#E78100">`MISC` </span> 
-> 
-- My first name "Xiaoqi" is pronounced as "Shiao-Chee".
-- I am into jogging. This is my favorite place to run in Toronto, weather permitting: [Kay Gardner Beltline Trail](https://www.tripadvisor.ca/Attraction_Review-g155019-d7070406-Reviews-Kay_Gardner_Beltline_Trail-Toronto_Ontario.html).
-
-[comment]: # (- I am big fun of [Chinese caligraphy](https://en.wikipedia.org/wiki/Chinese_calligraphy). My favorite calligraphers are  [Ouyang Xun](https://en.wikipedia.org/wiki/Ouyang_Xun) and  [Wang Xizhi](https://en.wikipedia.org/wiki/Wang_Xizhi).)
+>
+**Pronunciation**: My first name "Xiao-qi" is pronounced as "Shiao-Chee", where "qi" sounds like  "Cheese".

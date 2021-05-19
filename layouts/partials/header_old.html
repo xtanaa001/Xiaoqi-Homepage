@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
     <link rel="stylesheet" href="{{ "/css/fonts.css" | relURL }}" />
     {{ partial "head_custom.html" . }}
-    <link rel="shortcut icon" href="/img/favicon.ico">
+    <link rel="shortcut icon" href="/img/favicon_UofA.png">
     {{ partial "mathjax_support.html" . }}
     {{ partial "google_analytics.html" . }}
   </head>
@@ -28,17 +28,15 @@
   <body>
     
 
-<nav>
-  <ul class="menu">
-
-    
-      {{ $currentNode := . }}
-      <!-- apply active class to the current tab -->
-      {{- $firstUrlElement := print "/" (index (split .URL "/") 1) -}}
-      {{ range .Site.Menus.main }}              
-          <!-- Single level menus -->
-          <li><a href="{{.URL}}" class="{{if or ($.IsMenuCurrent "main" .) (eq ($firstUrlElement|lower) (.URL|lower)) }}active{{end}}">{{ .Name }}</a></li>
+  
+  <nav>
+    <ul class="menu">
+      <header>
+        <img src="/img/UA_Logo.png" style="max-width:14%;min-width:120px; margin: -0px 0px; float:right;" />
+      </header>  
+      {{ range .Site.Menus.main }}
+      <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
       {{ end }}
-  </ul>
-  <hr/>
-</nav>
+    </ul>
+    <hr/>
+  </nav>
