@@ -20,7 +20,7 @@ body {
 }
 .menu, .article-meta { 
   text-align: left;
-  font-size: 1.05em;
+  font-size: 1.1em;
   /*font-weight: bold;*/
 }
 
@@ -29,12 +29,13 @@ body {
 .menu a.active {
   background: #fff; /* #ddd */
   color: #004250;
-  border: 1px solid #eee;
+  border: 0px solid #ddd;
   font-weight: bold;
 }
 
 footer { 
-  text-align: center;
+  text-align: left;
+  font-size: 0.85em;
 }
 
 

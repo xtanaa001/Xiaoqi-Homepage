@@ -28,6 +28,19 @@ var papers_full = new Array (
     },
 
     {
+        id : "NBS_2021",
+        name : "Real-time Coordination of Transmission and Distribution Networks via Nash Bargaining Solution",
+        coauthors : new Array(authorList.SWang, authorList.BSun, authorList.XQTan, authorList.TLiu, authorList.DHKTsang),
+        journal : "IEEE Transactions on Sustainable Energy",
+        //pubinfo: "vol. 7, no. 2, pp. 542-553, June 2021",
+        highlight : "no",
+        topic: "E",
+        year: "2021",
+        note: "in press",
+        paperAbstract : "<p> The two-settlement electricity markets are widely accepted. In current practice, the markets are cleared based on locational marginal prices. However, this market clearing scheme leaves arbitrage opportunities between day-ahead and real-time markets for strategic distribution system operators (DSOs). They can submit biased bids from their actual load forecasts in the dayahead market for additional benefits. Worse still, due to the high penetration of distributed energy resources, the impact of such strategic behaviors becomes increasingly severe as the uncertainties in DSOs’ load forecasts increase. In this paper, we first identify the profitable arbitrage opportunities of DSOs and the impact of uncertainties by a simplified analytical model. We then propose a Nash bargaining solution based market clearing scheme for real-time coordination between the transmission system operator and the DSOs. This scheme guarantees the fairness of net-benefit allocation among all the operators, prevents the strategic behaviors of DSOs, and helps the consistency between day-ahead commitment and real-time operation. Finally, we validate the effectiveness of the proposed scheme on both a simplified system and a practical power system testbed. </p>",
+    },
+
+    {
         id : "EVBSS_TTE_2021",
         name : "Inventory Planning and Real-time Routing for Network of Electric Vehicle Battery Swapping Stations",
         coauthors : new Array(authorList.LNi, authorList.BSun, authorList.XQTan, authorList.DHKTsang),

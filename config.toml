@@ -19,8 +19,13 @@ footnotereturnlinkcontents = "↩"
 
 [[menu.main]]
     name = "Publications"
-    url = "/publications_year"
+    url = "/publications_type"
     weight = 4
+
+[[menu.main]]
+    name = "Join"
+    url = "/join"
+    weight = 6
 
 [params]
     description = "A website built through Hugo and blogdown."

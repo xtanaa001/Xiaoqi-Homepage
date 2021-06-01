@@ -28,11 +28,12 @@ Assistant Professor\\
 
 Xiaoqi's research strives to advance the general field of decision intelligence. The main theme is to develop foundational theory and algorithms for decision-making problems in highly dynamic,  networked systems where multiple agents come together, interact and possibly pursue competing objectives. To deal with such challenging settings, Xiaoqi's research features mathematical rigor and interdiscipinarity, utiliting and contributing to computer science, economics,  operations research, and control. Some major research topics include:
 
->
-- **Online Algorithms**: algorithm design in settings with no or incomplete knowledge of the future.
-- **Algorithmic Mechansism Design**: algorithm design in strategic settings where participants have their own incentives.
-- **Stochastic Modeling and Control**: system modeling, analysis, and optimization under uncertainty.
-- **Sequential Decision Making**: algorithm design in dynamic settings where decisions are made in a sequential manner so as to optimize some objective.
+Some current topics of interest include: 
+
+- **Decision-Making under Uncertainty**: online/stochastic optimization; online/reinforcement learning.
+- **Algorithmic Mechanism Design**: algorithm design in settings where participants have their own incentives.
+
+I am also passionate about applying these techniques to address societal challenges (e.g., sustainability and fairness) in specific domains such as networking, energy, transportation, and beyond. 
 
 Xiaoqi is also passionate about applying these techniques to address societal challenges in a wide range of application areas, including but not limited to networking, energy, transportation, and online platforms. Click [here](/research) for more details.
 
