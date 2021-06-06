@@ -14,7 +14,7 @@ We are a group of computer scientists, mathematicians, and systems engineers bas
 ---
 
 ### <span style="color:#00204e">`Prospective Undergraduate Researchers`</span> 
-Undergraduate research positions are available in the broad area of computing science (e.g., algorithms/theory, AI/ML, data science, and systems/networking). UAlberta undergraduates can join my group either for summer intership, or for long-term projects during the academic year. Email me if you are interested.
+Undergraduate research positions are available in the broad area of computing science (e.g., algorithms/theory, AI/ML, data science, and systems/networking). UAlberta undergraduates can join my group either for summer internship, or for long-term projects during the academic year. Email me if you are interested.
 
 ### <span style="color:#00204e">`Prospective Graduate Researchers (M.Sc. and Ph.D.)`</span> 
 My
