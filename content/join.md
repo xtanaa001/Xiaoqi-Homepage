@@ -3,7 +3,7 @@ title: Join
 ---
 
 <span style="color:#00204e">
-We are a group of computer scientists, mathematicians, and systems engineers based at [CS](https://www.ualberta.ca/computing-science/index.html)@[UAlberta](https://www.ualberta.ca/index.html).  The group is engaged in multi-disciplinary cutting-edge research with projects ranging from theoretical research in  optimization, machine learning, and economics, to applied research driven by societal challenges (e.g., sustainability and fairness) in networking, energy,  transportation, and beyond. For information on joining the group, see the description below. 
+We are a group of computer scientists, mathematicians, and systems engineers based at [CS](https://www.ualberta.ca/computing-science/index.html)@[UAlberta](https://www.ualberta.ca/index.html).  The group is engaged in multi-disciplinary cutting-edge research with projects ranging from theoretical research in  optimization, machine learning, and economics, to applied research driven by societal challenges (e.g., sustainability and fairness) in networks, energy,  transportation, and beyond. For information on joining the group, see the description below. 
 </span> 
 
 <p align="center">
