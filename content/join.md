@@ -14,7 +14,7 @@ We are a group of computer scientists, mathematicians, and systems engineers bas
 ---
 
 ### <span style="color:#00204e">`Prospective Undergraduate Researchers`</span> 
-Undergraduate research positions are available in the broad area of computing science (e.g., algorithms/theory, AI/ML, data science, and systems/networking). UAlberta undergraduates can join my group either for summer internship, or for long-term projects during the academic year. Email me if you are interested.
+Undergraduate research positions are available in the broad area of computing science (e.g., algorithms/theory, AI/ML, data science, and systems/networking). UAlberta undergraduates can join the group either for summer internship, or for long-term projects during the academic year. Email me if you are interested.
 
 ### <span style="color:#00204e">`Prospective Graduate Researchers (M.Sc. and Ph.D.)`</span> 
 My
@@ -22,4 +22,4 @@ My
 
 
 ### <span style="color:#00204e">`Prospective Postdoctoral Fellows`</span>
-I am looking for postdocs in a variety of areas, including but not limited to: i) sequential decision making under uncertainty (esp. online/stochastic optimization and online/reinforcement learning), and ii) economics and computation of networked systems (esp. resource allocation, pricing, incentives, fairness, markets, and mechanism design). Interested candidates please email your detailed CV and one representative publication to $\textsf{xiaoqi.tan}$`@`$\textsf{ualberta.ca}$. I might approach you if i) there is a match in background and research interests (this is very important) and ii) funding is available (sadly, this is also very important). 
+I am looking for postdocs (subject to funding availability) in a variety of areas, including but not limited to: i) sequential decisions under uncertainty (esp. online optimization, online learning, and reinforcement learning), and ii) economics of networks and computation (esp. resource allocation, pricing, fairness, markets, and mechanism design). Interested candidates please email your detailed CV and one representative publication to $\textsf{xiaoqi.tan}$`@`$\textsf{ualberta.ca}$. I might approach you if there is a match in background and research interests. 
