@@ -1,7 +1,7 @@
 var authorList = {
 
     XQTan : {
-        name : "<b>Xiaoqi Tan</b>",
+        name : "Xiaoqi Tan",
         web : "#",
     },
 

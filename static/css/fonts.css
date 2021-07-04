@@ -1,8 +1,10 @@
 body {
-  font-family: Palatino, Candara, Calibri, Arial, sans-serif;
-  font-size: 115%;
+  font-family: Arial;
+  color: #00204e;
+  font-size: 120%;
+  line-height: 1.6;
 }
 code {
-  font-family: Optima;
-  font-size: 105%;
+  font-family: Georgia,Times,"Times New Roman",serif;
+  font-size: 90%;
 }

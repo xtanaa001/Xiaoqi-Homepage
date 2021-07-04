@@ -2,10 +2,15 @@
 title: Teaching
 ---
 
-## TEACHING
+
+### Winter 2022
+
+- [CMPUT 204: Algorithms I](/courses) 
 
 
-### <span style="color:#00204e">`CMPUT 666: Decision Making under Uncertainty`</span> 
-|                |                |                  |
-| :------------- |:-------------  |:-------------    |
-| Fall 2021      | [Syllabus](https://xiaoqitan.org) | [Course Website](/courses/dmu) |
+
+### Fall 2021 (Current)
+
+- [CMPUT XXX: Optimization and Decision-Making under Uncertainty](/courses/cmput646-opt)
+
+
