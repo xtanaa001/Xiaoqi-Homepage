@@ -4,7 +4,7 @@ body {
   padding: 1em;
   line-height: 1.6em;
   color: #00204e;
-  background: #fff;
+  background: #fff1e5;
 }
 
 /* header and footer areas */
@@ -14,7 +14,7 @@ body {
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   text-decoration: none;
-  background: #f9f9f9; /* #ddd */
+  background: #F2DFCE; /* #ddd */
   padding: 5px;
   border-radius: 5px;
 }
@@ -27,7 +27,7 @@ body {
 /* Add darker background color to highlight current active menu */
 /* This should be used in conjunction with header.html */
 .menu a.active {
-  background: #fff; /* #ddd */
+  background: #fff1e5; /* #ddd */
   color: #007C41;
   border: 0px solid #ddd;
   font-weight: bold;
@@ -81,14 +81,14 @@ li.paper        {
 div.abstract    {   
   display:        none;
   font-size:      90%;
-  color:        black;
+  color:        #00204e;
   padding:        20px;
   margin:         10px;
   margin-right:   20px;
   margin-bottom:  10px;
   line-height:    1.4em; 
   /*border: 2px solid #eee;*/
-  background:   #eee; /* rgb(250, 250, 231); f9f9f0*/
+  background:   #FFF1E0; /* rgb(250, 250, 231); f9f9f0*/
 }
 
 
@@ -141,8 +141,8 @@ img, iframe, video {max-width: 100%; }
 main { hyphens: auto; }
 blockquote {
   margin: auto;
-  background: #f9f9f9;
-  border-left: 3px solid #ddd;
+  background: #F2DFCE; /*#f9f9f9*/
+  border-left: 0px solid #ddd;
   padding: 0.02px 25px 0.02px 20px;
 }
 
