@@ -23,7 +23,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 ---
 
 ### <a id="2021"></a> <span style="color:#00204e"> 2021+ </span>
->
+
 <ul class=circle>
         <script>
             var i;
@@ -41,7 +41,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 
 
 ### <a id="2020"></a> <span style="color:#00204e"> 2020 </span>
->
+
 <ul class=circle>
         <script>
             var i;
@@ -59,7 +59,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 \
 
 ### <a id="2019"></a> <span style="color:#00204e"> 2019 </span>
->
+
 <ul class=circle>
         <script>
             var i;
