@@ -1,7 +1,9 @@
 body {
-  max-width: 850px;
+  max-width: 900px;
   margin: auto;
-  padding: 1.6em;
+  padding: 2.6em;
+  padding-top: 20px;
+  padding-bottom: 20px;
   line-height: 1.6em;
   color: #00204e;
   background: #fff1e5;
