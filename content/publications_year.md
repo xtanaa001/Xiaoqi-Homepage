@@ -5,7 +5,7 @@ author:
 
 [comment]: # (> My research strives to develop rigorous models, algorithms, and mechanisms for large-scale networked systems in situations where data becomes available in an online and sequential manner, and  possibly in the presence of multi-agent interactions and strategic behaviors. In particular, most of my research focuses on developing new mathematical tools in online optimization, online/reinforcement learning, and algorithmic mechanism design. On the practical side, my research is primarily driven by challenges related to the sustainability of computing, networked, and cyber-physical systems, which includes: i) the sustainability of computing/networking (a.k.a. sustainable ICT); ii) the sustainability of the electric power grid (a.k.a. the development of smart grid); and iii) the sustainability of cities (a.k.a. the development of smart cities).)
 
-# `Publications`
+# Publications
 
 
 Sort [[by year]](/publications_year) or [[by type]](/publications_type)
@@ -22,7 +22,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 
 ---
 
-## <a id="2021"></a> <span style="color:#00204e"> `2021+` </span>
+## <a id="2021"></a> <span style="color:#00204e"> 2021+ </span>
 
 <ul class=circle>
         <script>
@@ -40,7 +40,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 \
 
 
-## <a id="2020"></a> <span style="color:#00204e"> `2020` </span>
+## <a id="2020"></a> <span style="color:#00204e"> 2020 </span>
 
 <ul class=circle>
         <script>
@@ -58,7 +58,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 
 \
 
-## <a id="2019"></a> <span style="color:#00204e"> `2019` </span>
+## <a id="2019"></a> <span style="color:#00204e"> 2019 </span>
 
 <ul class=circle>
         <script>
@@ -77,7 +77,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 \
 
 
-## <a id="2018"></a> <span style="color:#00204e"> `2018` </span>
+## <a id="2018"></a> <span style="color:#00204e"> 2018 </span>
 
 <ul class=circle>
         <script>
@@ -96,7 +96,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 \
 
 
-## <a id="2017"></a> <span style="color:#00204e"> `2017` </span>
+## <a id="2017"></a> <span style="color:#00204e"> 2017 </span>
 
 <ul class=circle>
         <script>
@@ -115,7 +115,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 \
 
 
-## <a id="2016"></a> <span style="color:#00204e"> `2016` </span>
+## <a id="2016"></a> <span style="color:#00204e"> 2016 </span>
 
 <ul class=circle>
         <script>
@@ -134,7 +134,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 \
 
 
-## <a id="2015"></a> <span style="color:#00204e"> `2015` </span>
+## <a id="2015"></a> <span style="color:#00204e"> 2015 </span>
 
 <ul class=circle>
         <script>
@@ -154,7 +154,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 \
 
 
-## <a id="2014"></a> <span style="color:#00204e"> `2014` </span>
+## <a id="2014"></a> <span style="color:#00204e"> 2014 </span>
 
 <ul class=circle>
         <script>
@@ -173,7 +173,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 \
 
 
-## <a id="2013"></a> <span style="color:#00204e"> `2013` </span>
+## <a id="2013"></a> <span style="color:#00204e"> 2013 </span>
 
 <ul class=circle>
         <script>
