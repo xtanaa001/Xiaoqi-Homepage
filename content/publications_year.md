@@ -11,18 +11,18 @@ author:
 Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 
 
-<span style="color:#00204e">**`By-type quick links`**</span>: [Preprints](/publications_type/#preprints) | [Conference Papers](/publications_type/#conference) | [Journal Papers](/publications_type/#journal)
+<span style="color:#00204e">**By-type quick links**</span>: [Preprints](/publications_type/#preprints) | [Conference Papers](/publications_type/#conference) | [Journal Papers](/publications_type/#journal)
 
 
-<span style="color:#00204e">**`By-year quick links`**</span>: [2021+](/publications_year/#2021) | [2020](/publications_year/#2020) | [2019](/publications_year/#2019) | [2018](/publications_year/#2018) | [2017](/publications_year/#2017) | [2016](/publications_year/#2016) | [2015](/publications_year/#2015) | [2014](/publications_year/#2014) | [2013](/publications_year/#2013)
+<span style="color:#00204e">**By-year quick links**</span>: [2021+](/publications_year/#2021) | [2020](/publications_year/#2020) | [2019](/publications_year/#2019) | [2018](/publications_year/#2018) | [2017](/publications_year/#2017) | [2016](/publications_year/#2016) | [2015](/publications_year/#2015) | [2014](/publications_year/#2014) | [2013](/publications_year/#2013)
 
 
-<span style="color:#00204e">**`External links`**</span>: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html)
+<span style="color:#00204e">**External links**</span>: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html)
 
 
 ---
 
-## <a id="2021"></a> <span style="color:#00204e"> 2021+ </span>
+## <a id="2021"></a> <span style="color:#00204e"> `2021+` </span>
 
 <ul class=circle>
         <script>
@@ -40,7 +40,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 \
 
 
-## <a id="2020"></a> <span style="color:#00204e"> 2020 </span>
+## <a id="2020"></a> <span style="color:#00204e"> `2020` </span>
 
 <ul class=circle>
         <script>
@@ -58,7 +58,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 
 \
 
-## <a id="2019"></a> <span style="color:#00204e"> 2019 </span>
+## <a id="2019"></a> <span style="color:#00204e"> `2019` </span>
 
 <ul class=circle>
         <script>
@@ -77,7 +77,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 \
 
 
-## <a id="2018"></a> <span style="color:#00204e"> 2018 </span>
+## <a id="2018"></a> <span style="color:#00204e"> `2018` </span>
 
 <ul class=circle>
         <script>
@@ -96,7 +96,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 \
 
 
-## <a id="2017"></a> <span style="color:#00204e"> 2017 </span>
+## <a id="2017"></a> <span style="color:#00204e"> `2017` </span>
 
 <ul class=circle>
         <script>
@@ -115,7 +115,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 \
 
 
-## <a id="2016"></a> <span style="color:#00204e"> 2016 </span>
+## <a id="2016"></a> <span style="color:#00204e"> `2016` </span>
 
 <ul class=circle>
         <script>
@@ -134,7 +134,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 \
 
 
-## <a id="2015"></a> <span style="color:#00204e"> 2015 </span>
+## <a id="2015"></a> <span style="color:#00204e"> `2015` </span>
 
 <ul class=circle>
         <script>
@@ -154,7 +154,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 \
 
 
-## <a id="2014"></a> <span style="color:#00204e"> 2014 </span>
+## <a id="2014"></a> <span style="color:#00204e"> `2014` </span>
 
 <ul class=circle>
         <script>
@@ -173,7 +173,7 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 \
 
 
-## <a id="2013"></a> <span style="color:#00204e"> 2013 </span>
+## <a id="2013"></a> <span style="color:#00204e"> `2013` </span>
 
 <ul class=circle>
         <script>
