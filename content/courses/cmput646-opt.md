@@ -10,7 +10,6 @@ title: Decision-Making under Uncertainty
 **`Instructor`**: [Xiaoqi Tan](/)\\
 **`Office Hour`**: TBD
 
----
 
 
 ### <span style="color:#00204e"> Annoucement </span> 

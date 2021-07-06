@@ -28,7 +28,7 @@ body {
 /* This should be used in conjunction with header.html */
 .menu a.active {
   background: #fff1e5; /* #ddd */
-  color: #007C41;
+  color: #8F223A;
   border: 0px solid #ddd;
   font-weight: bold;
 }
@@ -65,7 +65,7 @@ ul.decimal       {
 }
 
 div.title       {
-  color:   #007C41;   
+  color:   #8F223A;   
   font-size: 1.1em;
 }
 
@@ -98,13 +98,13 @@ div.abstract    {
 
 /* unvisited link */
 a:link {
-  color: #007C41;
+  color: #8F223A;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: #007C41;
+  color: #8F223A;
   text-decoration: none;
 }
 
