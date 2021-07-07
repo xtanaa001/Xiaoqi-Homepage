@@ -5,7 +5,7 @@ author:
 
 [comment]: # (> My research strives to develop rigorous models, algorithms, and mechanisms for large-scale networked systems in situations where data becomes available in an online and sequential manner, and  possibly in the presence of multi-agent interactions and strategic behaviors. In particular, most of my research focuses on developing new mathematical tools in online optimization, online/reinforcement learning, and algorithmic mechanism design. On the practical side, my research is primarily driven by challenges related to the sustainability of computing, networked, and cyber-physical systems, which includes: i) the sustainability of computing/networking (a.k.a. sustainable ICT); ii) the sustainability of the electric power grid (a.k.a. the development of smart grid); and iii) the sustainability of cities (a.k.a. the development of smart cities).)
 
-# Publications
+# `Publications`
 
 
 Sort [[by year]](/publications_year) or [[by type]](/publications_type)

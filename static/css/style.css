@@ -31,7 +31,7 @@ body {
 /* This should be used in conjunction with header.html */
 .menu a.active {
   background: white; /* #ddd */
-  color: #007C41;
+  color: tan;
   border: 0px solid #ddd;
   font-weight: bold;
 }

@@ -6,7 +6,7 @@ title: Publications (By Type)
 [comment]: # (> I study the interplay between online algorithms, mechanism design, and machine learning, with applications to computing and networked systems in various domains, ranging from cloud computing to energy and transportation systems. Broadly, my research strives to  address systems challenges at the intersection of computation and sustainability. For more details, see my publications below [[by type]](/publications_type) or [[by year]](/publications_year).)
 
 
-# Publications
+# `Publications`
 
 
 Sort [[by year]](/publications_year) or [[by type]](/publications_type) 

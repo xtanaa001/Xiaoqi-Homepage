@@ -3,8 +3,7 @@ title: Decision-Making under Uncertainty
 ---
 
 
-# CMPUT 675 (Fall 2021):
-# Optimization and Decision-Making under Uncertainty
+# `CMPUT 675: Optimization and Decision-Making under Uncertainty (Fall 2021)`
 
 **Instructor**: [Xiaoqi Tan](/)\\
 **Class Times**: Monday and Wednesday 2:00–3:20pm\\
