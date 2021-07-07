@@ -78,7 +78,7 @@ li.paper        {
   padding-bottom: 1px;
   margin-bottom: 20px;
   /*background: #fffaff;*/
-  border-left: 1px solid tan;     
+  border-left: 1px solid #F2DFCE;     
 }
 
 div.abstract    {   
@@ -145,7 +145,7 @@ main { hyphens: auto; }
 blockquote {
   margin: auto;
   background: #fff1e5; /*#f9f9f9*/
-  border-left: 0px solid #d9c5b4;
+  border-left: 4px solid #F2DFCE;
   padding: 0.02px 25px 0.02px 20px;
 }
 
