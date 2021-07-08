@@ -2,9 +2,9 @@
 title: Decision-Making under Uncertainty
 ---
 
->
+
 # CMPUT 675 (Fall 2021):
-## Optimization and Decision-Making under Uncertainty
+# Optimization and Decision-Making under Uncertainty
 
 **Instructor**: [Xiaoqi Tan](/)\\
 **Class Times**: Monday and Wednesday 2:00–3:20pm\\
@@ -35,7 +35,7 @@ Many real-world problems involves making decisions in the presence of different 
 
 
 ## <span style="color:tan"> `Tentative Topics` </span> 
->
+
 - **Online algorithms and competitive analysis**
   - Online matching
   - Online covering and packing

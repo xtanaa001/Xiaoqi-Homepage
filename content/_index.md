@@ -26,7 +26,7 @@ Email: xiaoqi.tan@ualberta.ca
 
 My research strives to advance the general field of decision intelligence -- by developing foundational decision-making tools and algorithms in highly dynamic, networked systems where multiple agents come together, interact and possibly pursue divergent or even conflicting objectives. To deal with systems challenges in such complex settings, my research spans various topics in online algorithms, economics and computation (e.g., resource allocation, pricing, markets, and mechanism design), and stochastic modeling, optimization, and learning,  with applications in networking, energy, transportation, and beyond. 
 
-For more details, see my recent publications below. If you are interested in working with me as an undergraduate, graduate, or postdoc, see [here](/join).
+For more details, see my recent publications below.  If you are interested in working with me as an undergraduate, graduate, or postdoc, see [here](/join).
 
 [comment]: # (My research strives to advance the general field of decision intelligence -- by developing foundational decision-making tools and algorithms in highly dynamic, networked systems where multiple agents come together, interact and possibly pursue divergent or even conflicting objectives.  To deal with systems challenges in such complex settings, my research features the design of new algorithms and markets with provable performance guarantees, using mathematical tools from computer science and economics. Some current topics of interest include: <span style="color:#007C41">online algorithms; algorithmic mechanism design; stochastic modeling and control; market design in smart grid, urban mobility, and cloud computing systems</span>. For more details, see my recent publications below.  )
 
@@ -34,7 +34,8 @@ For more details, see my recent publications below. If you are interested in wor
 
 [comment]: # (Some current topics of interest include: online algorithms, reinforcement learning, and algorithmic mechanism design, with applications in networking, energy, transportation, and beyond. Some current topics of interest include: online algorithms, algorithmic mechanism design, and decision-making under uncertainty, with applications in networking, energy, transportation, and beyond. For my  full publication list,  click [here](/publications_year) or see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=OIDN4i8AAAAJ&view_op=list_works&sortby=pubdate) profile.)
 
->
+## <span style="color:tan"> `Recent and Selected Publications` </span>
+
 <ul class=circle>
         <script>
             var i;

@@ -3,6 +3,7 @@ body {
   margin: auto;
   padding: 2.2em;
   padding-top: 20px;
+  padding-right: 60px;
   padding-bottom: 20px;
   line-height: 1.6em;
   background: white;
@@ -95,7 +96,7 @@ div.abstract    {
   margin-bottom:  10px;
   line-height:    1.4em; 
   /*border: 2px solid #eee;*/
-  background:   #F2DFCE; /* rgb(250, 250, 231); f9f9f0*/
+  background:   #fff1e5; /* rgb(250, 250, 231); f9f9f0*/
 }
 
 
