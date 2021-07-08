@@ -19,7 +19,6 @@ Sort [[by year]](/publications_year) or [[by type]](/publications_type)
 <span style="color:#00204e">**External links**</span>: [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html)
 
 
----
 
 ## <a id="2021"></a> <span style="color:#00204e"> `2021+` </span>
 >

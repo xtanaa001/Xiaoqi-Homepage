@@ -2,9 +2,9 @@
 title: Join
 ---
 
+
 We are a group of computer scientists, mathematicians, and systems engineers based at UofA, striving to advance the general field of decision intelligence for networked systems.  The group is engaged in multi-disciplinary cutting-edge research with projects ranging from theoretical research in optimization, economics and computation, and machine learning, to applied research driven by societal challenges such as energy and urban sustainability.  If you are interested in joining the group as an undergraduate, graduate, or postdoc, see the description below. 
 
----
 
 ## <span style="color:#00204e"> `Prospective Undergraduate Researchers` </span> 
 

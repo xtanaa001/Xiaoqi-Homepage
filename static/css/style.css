@@ -16,7 +16,7 @@ body {
 }
 .menu li { 
   display: inline-block; 
-  margin-right: 10px;
+  margin-right: 6px;
 }
 .article-meta, .menu a {
   text-decoration: none;
