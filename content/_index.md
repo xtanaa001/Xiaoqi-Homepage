@@ -3,10 +3,10 @@ title: Home
 ---
 
 
-<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:200px; min-width:200px; float:left; margin: 10px 60px 15px 1px" width="250"/>
+<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:210px; min-width:210px; float:left; margin: 12px 60px 15px 1px" width="250"/>
 
 
-## <span style="color:#00204e"> Xiaoqi Tan </span> 
+#  `Xiaoqi Tan` 
 
 
 Assistant Professor \\
