@@ -1,19 +1,23 @@
 body {
   max-width: 800px;
   margin: auto;
-  padding: 1.6em;
+  padding: 2.0em;
   padding-top: 20px;
   padding-bottom: 20px;
   line-height: 1.6em;
   background: white;
-  box-shadow: 0px -10px 0px #BBB;
+  box-shadow: 0px -10px 0px #F2DFCE;
 }
 
 /* header and footer areas */
 .menu { 
   padding: 0; 
+  background-color: white; 
 }
-.menu li { display: inline-block; }
+.menu li { 
+  display: inline-block; 
+  margin-right: 10px;
+}
 .article-meta, .menu a {
   text-decoration: none;
   background: #fff1e5; /* #ddd */
@@ -144,7 +148,7 @@ main { hyphens: auto; }
 blockquote {
   margin: auto;
   background: #fff1e5; /*#f9f9f9*/
-  border-left: 3px solid #F2DFCE;
+  border-left: 0px solid #F2DFCE;
   padding: 0.02px 25px 0.02px 20px;
 }
 

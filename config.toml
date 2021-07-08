@@ -22,7 +22,6 @@ footnotereturnlinkcontents = "↩"
     url = "/publications_type"
     weight = 4
 
-
 [[menu.main]]
     name = "Join"
     url = "/join"
