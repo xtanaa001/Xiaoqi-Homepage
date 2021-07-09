@@ -3,10 +3,10 @@ title: Home
 ---
 
 
-<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:200px; min-width:200px; float:left; margin: 5px 40px 15px 1px" width="250"/>
+<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:220px; min-width:220px; float:left; margin: 5px 40px 10px 1px" width="250"/>
 
 
-##  Xiaoqi Tan
+# Xiaoqi Tan
 
 
 Assistant Professor \\
@@ -22,7 +22,8 @@ Email: xiaoqi.tan@ualberta.ca
 
 ---
 
-## <span style="color:tan"> `Research Interests` </span>
+# <span style="color:tan"> `Research Interests` </span>
+
 
 My research strives to advance the general field of decision intelligence -- by developing foundational decision-making tools and algorithms in highly dynamic, networked systems where multiple agents come together, interact and possibly pursue divergent or even conflicting objectives. To deal with systems challenges in such complex settings, my research spans various topics in online algorithms, economics and computation (e.g., resource allocation, pricing, markets, and mechanism design), and stochastic modeling, optimization, and learning,  with applications in networking, energy, transportation, and beyond. 
 
@@ -34,7 +35,7 @@ For more details, see my recent publications below.  If you are interested in wo
 
 [comment]: # (Some current topics of interest include: online algorithms, reinforcement learning, and algorithmic mechanism design, with applications in networking, energy, transportation, and beyond. Some current topics of interest include: online algorithms, algorithmic mechanism design, and decision-making under uncertainty, with applications in networking, energy, transportation, and beyond. For my  full publication list,  click [here](/publications_year) or see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=OIDN4i8AAAAJ&view_op=list_works&sortby=pubdate) profile.)
 
-## <span style="color:tan"> `Recent and Selected Publications` </span>
+# <span style="color:tan"> `Recent Publications` </span>
 
 <ul class=circle>
         <script>
