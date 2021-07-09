@@ -15,7 +15,7 @@ title: Decision-Making under Uncertainty
 
 # `Course Overview`
 
-Many real-world problems involves making decisions in the presence of different forms of uncertainty. These challenges arise in Internet advertising, energy sustainability, transportation, financial trading, health, and a wide range of problems in artificial intelligence and machine learning. In different application scenarios, the specific decision problems might look different at first glance; however, the models and algorithms needed to address them are often similar. In this research-oriented course, we will review recent developments and discuss open directions in the general field of algorithmic decision-making under uncertainty via several modern optimization lenses. Major topics to be covered in this course include: i) online algorithms, competitive analysis, and beyond worst-case analysis; ii) stochastic optimization, approximation, and learning; iii) algorithmic game theory and mechanism design. These topics are highly interdisciplinary - they have strong ties to various disciplines such as theoretical computer science, operations research, statistics, control, decision theory, and economics. The course is theoretical in nature, but most problems considered will be motivated and illustrated by practical examples.
+Many real-world problems involves making decisions in the presence of different forms of uncertainty. These challenges arise in Internet advertising, energy sustainability, transportation, financial trading, health, and a wide range of problems in artificial intelligence and machine learning. In different application scenarios, the specific decision problems might look different at first glance; however, the models and algorithms needed to address them are often similar.  In this research-oriented course, we will review recent developments and discuss open directions in the general field of algorithmic decision-making under uncertainty via several modern optimization lenses. Major topics to be covered in this course include: i) online algorithms, competitive analysis, and beyond worst-case analysis; ii) stochastic optimization, approximation, and learning; iii) algorithmic game theory and mechanism design. These topics are highly interdisciplinary - they have strong ties to various disciplines such as theoretical computer science, operations research, statistics, control, decision theory, and economics. The course is theoretical in nature, but most problems considered will be motivated and illustrated by practical examples.
 
 
 # `Grade Distribution`
@@ -42,7 +42,7 @@ The exact topics and reading list are still being finalized and **subject to cha
 | Date (#)        | Topic                 |  Readings                 |
 |:-------------   | :-----                |  :-----                   |
 | Sept. 1 (L1)    | Logistics <br> Course introduction <br> Warm-up examples      | KVV (1990) <br>  KVV (1990) <br>  KVV (1990) |
-| Sept. 6         | <mark>No Class (Labour Day)</mark>                      |                          |
+| Sept. 6         | ~~No Class~~  <mark> (Labour Day)</mark>                      |                          |
 | Sept. 8 (L2)    | Linear programming <br> Convex optimization <br> Duality and KKT conditions <br> Example:  |   KVV (1990) <br>  KVV (1990) <br>  KVV (1990) |
 |                 | **Part 1 : Online Algorithms (9 lectures)**     |       |
 | Sept. 13 (L3)   | Online algorithms <br> Competitive ratio vs. regret <br> Example: Chasing convex bodies    |     KVV (1990) <br>  KVV (1990) <br>  KVV (1990) |
@@ -53,14 +53,14 @@ The exact topics and reading list are still being finalized and **subject to cha
 | Sept. 29 (L8)   | Online packing <br> Primal-dual algorithms <br> XXX   |    $1 |
 | Oct. 4  (L9)   | Online algorithms, ratio vs. regret <br> Ski Rental, packing    |    $1 |
 | Oct. 6  (L10)   | Online algorithms, ratio vs. regret <br> Ski Rental, packing    |    $1 |
-| Oct. 11         |  <mark> No Class (Thanksgiving Day) </mark>   |    $1 |
+| Oct. 11         |  ~~No Class~~  <mark> (Thanksgiving Day) </mark>   |    $1 |
 | Oct. 13  (L11)  | Prophet inequalities <br> Optimal stopping problems   |    $1 |
 |                 | **Part 2 : Stochastic Optimization (5 lectures)** |     |
 | Oct. 18  (L12)  | Prophet inequalities <br> Optimal stopping problems   |    $1 |
-| Oct. 20  (L13)  | Stochastic optimization <br> Stochastic gradient descent   |    $1 |
-| Oct. 25  (L14)  | Markov decision process <br> Approximate dynamic programming <br> Example: Stochastic shortest path   |    $1 |
-| Oct. 27  (L15)  | Reinforcement learning <br> Policy gradient algorithms   |    $1 |
-| Nov. 1  (L16)  | Online learning <br> Multi-armed bandits   |    $1 |
+| Oct. 20  (L13)  | Stochastic optimization <br> Stochastic gradient descent <br> Stochastic approximation  |    $1 |
+| Oct. 25  (L14)  | Markov decision process <br> Dynamic programming (DP) <br> Approximate DP <br> Example: Stochastic shortest path   |    $1 |
+| Oct. 27  (L15)  | Reinforcement learning <br> Temporal-difference learning <br> Policy gradient algorithms   |    $1 |
+| Nov. 1  (L16)  | Online learning and bandits <br> Thompson sampling <br> Example: Spam clusttering  |    $1 |
 |                 | **Part 3 : Algorithmic Game Theory (6 lectures)**    |  |
 | Nov. 3  (L17)  | Game theory <br> Nash equilibrium <br> Examples:   |    $1 |
 | Nov. 8  (L18)  | Network congestion games <br> Price of anachy <br> Examples:  |    $1 |
