@@ -5,12 +5,12 @@ title: People
 [comment]: # (## <span style="color:#452325"> PEOPLE </span>)
 
 
-## `Current Research Team`
 
-**Joe Sun** (Master), co-advised with [Raouf Boutaba](http://rboutaba.cs.uwaterloo.ca) at the University of Waterloo
+# `Current Research Team`
 
-**Siyuan Yu** (Undergradudate), hornoral program of Computing Science the University of Alberta
-
-**Meredith Cheng** (Undergraduate), co-advised with [Raouf Boutaba](http://rboutaba.cs.uwaterloo.ca) at the University of Waterloo
+|       Name        |        Role           |                   |
+|:-------------    | :-----                 |  :-----                   |
+| Zhenyu Sun           | Master                |  Co-advised with [Raouf Boutaba](http://rboutaba.cs.uwaterloo.ca) at UWaterloo |
+| Meredith Cheng  | Undergradudate          |  Co-advised with [Raouf Boutaba](http://rboutaba.cs.uwaterloo.ca) at UWaterloo |
+| Siyuan Yu        | Undergradudate         |  Hornoral program of Computing Science at Uof A                       |
  
-
