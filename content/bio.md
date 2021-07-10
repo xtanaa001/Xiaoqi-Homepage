@@ -2,7 +2,7 @@
 title: Biography
 ---
 
-# `Biography`
+# Biography
 
 
 Xiaoqi Tan is an Assistant Professor of [Computing Science](https://www.ualberta.ca/computing-science/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html). Before that, he was a Postdoctoral Fellow at the [University of Toronto](https://www.utoronto.ca/) and a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu). He received his Ph.D.  from [HKUST](https://hkust.edu.hk/) in 2018.

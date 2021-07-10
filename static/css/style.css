@@ -6,7 +6,7 @@ body {
   padding-right: 2.6em;
   padding-bottom: 20px;
   line-height: 1.6em;
-  box-shadow: 0px 0px 20px tan;
+  box-shadow: 0px 0px 30px tan;
 }
 
 
@@ -170,7 +170,6 @@ table thead th {
 th, td { 
   padding: 8px; 
   width: auto;
-  border: 2px solid white;
   border: 2px solid white;
 }
 
