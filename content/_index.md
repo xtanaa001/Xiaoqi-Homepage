@@ -14,11 +14,11 @@ Assistant Professor \\
 
 [comment]: # (**Research**: My research strives to build a rigorous foundation for the modeling, analysis, and design of computing and networked systems, especially in settings where multiple agents come together, interact and compete in the presence of uncertainty and self-interest. To deal with such challenging settings, my research spans various topics in Online Algorithms, Economics and Computation, and Stochastic Modeling. The main theme is to develop novel algorithms for decision-making under uncertainty, with provable performance guarantee (e.g., efficiency, truthfulness, fairness, and privacy), using mathematical tools from computer science, economics, and control. Click [here](/publications_year) to see my publications for more details. )
 
+
 Email: xiaoqi.tan@ualberta.ca
 
 
 [Bio](/bio) | [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate)
-
 
 
 ---

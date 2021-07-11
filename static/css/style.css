@@ -10,7 +10,6 @@ body {
 }
 
 
-
 /* header and footer areas */
 .menu { 
   padding: 0; 
@@ -150,7 +149,7 @@ main { hyphens: auto; }
 blockquote {
   margin: auto;
   background: #fff1e5; /*#f9f9f9*/
-  border-left: 0px solid #F2DFCE;
+  border-left: 4px solid #F2DFCE;
   padding: 0.02px 25px 0.02px 20px;
 }
 
@@ -169,6 +168,8 @@ table thead th {
 }
 th, td { 
   padding: 8px; 
+  padding-top: 15px;
+  padding-bottom: 15px;
   width: auto;
   border: 2px solid white;
 }

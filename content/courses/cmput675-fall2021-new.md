@@ -40,16 +40,46 @@ Many real-world problems involves making decisions in the presence of different 
 **Prerequisites**: You should know material in standard UG courses in algorithms, probability, and linear algebra very well. Having some basic knowledge of optimization will help understand most material in this course.
 
 
+<style>
+table {
+    background-color: white;
+    }
+table thead th { 
+  border-bottom: 0px solid #ddd; 
+  background-color: white;
+}
+th{
+    display: none;
+}
+th, td { 
+  padding: 0px;
+  padding-right: 10px; 
+  padding-top: 0px;
+  padding-bottom: 20px;
+  width: auto;
+  vertical-align: top;
+}
+tr:hover {background-color: white;}
+</style>
+
+
 ## `Course Schedule` 
 
 We will slant towards learning the design and analysis of algorithms for online decision making in settings where the uncertain information is completely unknown. Estimation or prediction of uncertain parameters is not the major focus of this course. 
 
 The exact topics and reading list are still being finalized and **subject to change**. 
 
+|                       |                                  
+| :-------------        | :-----                 |  
+| **Lecture 1** <br> (Sept 1)        | Master, 2021~ present  <br> Co-advised with Prof. [Raouf Boutaba](http://rboutaba.cs.uwaterloo.ca) at UWaterloo <br> BSc in Mathematics and Computer Science, UWaterloo 
+| **Lecture 2**    | Undergradudate, 2021~ present  <br> Co-advised with Prof. [Raouf Boutaba](http://rboutaba.cs.uwaterloo.ca) at UWaterloo  <br> BSc in Computer Science, Faculty of Mathematics, UWaterloo 
+| **Lecture 3**         | Undergradudate, 2021~ present <br> BSc Honors in Computing Science at UofA 
+
+
 
 | Date            | Topic                 |  Readings                 |
 |:-------------   | :-----                |  :-----                   |
-| Sept. 1 `(L1)`  | Logistics <br> Course introduction <br> Warm-up examples      | KVV (1990) <br>  KVV (1990) <br>  KVV (1990) |
+| Sept. 1 `(L1)`   | Logistics <br> Course introduction <br> Warm-up examples      | KVV (1990) <br>  KVV (1990) <br>  KVV (1990) |
 | Sept. 6         | ~~No Class~~  <mark> (Labour Day)</mark>                      |                          |
 | Sept. 8 `(L2)`    | Linear programming <br> Convex optimization <br> Duality and KKT conditions <br> Example:  |   KVV (1990) <br>  KVV (1990) <br>  KVV (1990) |
 |                 | **Part 1 : Online Algorithms (9 lectures)**     |       |
