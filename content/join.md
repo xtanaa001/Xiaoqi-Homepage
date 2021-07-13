@@ -13,6 +13,7 @@ Undergraduate research positions are available in the broad area of computing sc
 
 ## <span style="color:#00204e"> `Prospective Graduate Researchers (M.Sc. and Ph.D.)` </span> 
 
+
 I am constantly looking for graduate students at both the M.Sc. level and the Ph.D. level. You can get a good sense of my research from this website. Interested candidates should [apply here](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/index.html) and indicate me as your potential supervisor. If already a UofA student, please email me a short description of interests and CV. 
 
 

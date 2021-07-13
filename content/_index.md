@@ -36,8 +36,8 @@ For more details, see my recent publications below.  If you are interested in wo
 
 [comment]: # (Some current topics of interest include: online algorithms, reinforcement learning, and algorithmic mechanism design, with applications in networking, energy, transportation, and beyond. Some current topics of interest include: online algorithms, algorithmic mechanism design, and decision-making under uncertainty, with applications in networking, energy, transportation, and beyond. For my  full publication list,  click [here](/publications_year) or see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=OIDN4i8AAAAJ&view_op=list_works&sortby=pubdate) profile.)
 
-## `Recent Publications`
 
+>
 <ul class=circle>
         <script>
             var i;

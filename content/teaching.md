@@ -2,6 +2,8 @@
 title: Teaching
 ---
 
+
+
 ## `Fall 2022`
 - CMPUT 204: Algorithms
 

@@ -27,9 +27,7 @@ tr:hover {background-color: white;}
 </style>
 
 
-
 ## `Current Research Team`
-
 
 |                       |                                  
 | :-------------        | :-----                 |  
