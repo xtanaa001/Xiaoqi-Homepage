@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:210px; min-width:210px; float:right; margin: 10px 60px 10px 1px" width="250"/>
+<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:210px; min-width:210px; float:right; margin: 20px 60px 10px 1px" width="250"/>
 
 
 # Xiaoqi Tan
@@ -24,7 +24,6 @@ Email: xiaoqi.tan@ualberta.ca
 ---
 
 ## `Research Interests`
-
 
 My research strives to advance the general field of decision intelligence -- by developing foundational decision-making tools and algorithms in highly dynamic, networked systems where multiple agents come together, interact and possibly pursue divergent or even conflicting objectives. To deal with systems challenges in such complex settings, my research spans various topics in online algorithms, economics and computation (e.g., resource allocation, pricing, markets, and mechanism design), and stochastic modeling, optimization, and learning,  with applications in networking, energy, transportation, and beyond. 
 

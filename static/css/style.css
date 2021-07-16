@@ -6,7 +6,7 @@ body {
   padding-right: 2.6em;
   padding-bottom: 20px;
   line-height: 1.6em;
-  box-shadow: 0px 0px 30px tan;
+  box-shadow: 0px 0px 0px tan;
 }
 
 
@@ -95,7 +95,7 @@ div.abstract    {
   margin-bottom:  10px;
   line-height:    1.4em; 
   /*border: 2px solid #eee;*/
-  background:   #F2DFCE; /* rgb(250, 250, 231); f9f9f0*/
+  background:   #fff1e5; /* rgb(250, 250, 231); f9f9f0*/
 }
 
 
@@ -148,9 +148,9 @@ img, iframe, video {max-width: 100%; }
 main { hyphens: auto; }
 blockquote {
   margin: auto;
-  background: #fff1e5; /*#f9f9f9*/
-  border-left: 0px solid #F2DFCE;
-  padding: 0.02px 20px 0.02px 20px;
+  background: white; /* #fff1e5; /*#f9f9f9*/
+  border-left: 5px solid #F2DFCE;
+  padding: 0.02px 30px 0.02px 30px;
   box-shadow: 0px 0px 5px tan;
 }
 

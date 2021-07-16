@@ -32,6 +32,6 @@ tr:hover {background-color: white;}
 |                       |                                  
 | :-------------        | :-----                 |  
 | **Zhenyu Sun**        | Master, 2021~ present  <br> Co-advised with Prof. [Raouf Boutaba](http://rboutaba.cs.uwaterloo.ca) at UWaterloo <br> BSc in Mathematics and Computer Science, UWaterloo 
-| **Meredith Cheng**    | Undergradudate, 2021~ present  <br> Co-advised with Prof. [Raouf Boutaba](http://rboutaba.cs.uwaterloo.ca) at UWaterloo  <br> BSc in Computer Science, Faculty of Mathematics, UWaterloo 
-| **Siyuan Yu**         | Undergradudate, 2021~ present <br> BSc Honors in Computing Science at UofA 
+| **Meredith Cheng**    | Undergradudate, 2021~ present  <br> Co-advised with Prof. [Raouf Boutaba](http://rboutaba.cs.uwaterloo.ca) at UWaterloo 
+| **Siyuan Yu**         | Undergradudate, 2021~ present <br> Honors in Computing Science at UofA
  
