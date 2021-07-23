@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:210px; min-width:210px; float:right; margin: 20px 60px 10px 1px" width="250"/>
+<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:210px; min-width:210px; float:right; margin: 20px 40px 10px 1px" width="250"/>
 
 
 # Xiaoqi Tan

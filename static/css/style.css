@@ -149,9 +149,10 @@ main { hyphens: auto; }
 blockquote {
   margin: auto;
   background: white; /* #fff1e5; /*#f9f9f9*/
-  border-left: 5px solid #F2DFCE;
+  border: 0px solid #F2DFCE;    
+  border-left: 0px solid #F2DFCE;
   padding: 0.02px 30px 0.02px 30px;
-  box-shadow: 0px 0px 5px tan;
+  box-shadow: 0px 0px 3px tan;
 }
 
 table {
