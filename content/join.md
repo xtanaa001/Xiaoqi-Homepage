@@ -3,12 +3,12 @@ title: Join
 ---
 
 
-We are a group of computer scientists, mathematicians, and systems engineers based at UofA, striving to advance the general field of decision intelligence for networked systems.  The group is engaged in multi-disciplinary cutting-edge research with projects ranging from theoretical research in optimization, economics and computation, and machine learning, to applied research driven by societal challenges such as energy and urban sustainability.  If you are interested in joining the group as an undergraduate, graduate, or postdoc, see the description below. 
+We are a group of computer scientists, mathematicians, and systems engineers based at UofA, striving to advance the general field of decision intelligence for networked systems.  The group is engaged in multi-disciplinary cutting-edge research with projects ranging from theoretical research in online algorithms, economics and computation, and stochastic modeling, optimization, and learning, to applied research driven by societal challenges such as energy and urban sustainability.  If you are interested in joining the group as an undergraduate, graduate, or postdoc, see the description below. 
 
 
 ## <span style="color:#00204e"> `Prospective Undergraduate Researchers` </span> 
 
-Undergraduate research positions are available in the broad area of computing science (e.g., algorithms; optimization and machine learning; data science; decision science; systems and networking, etc). UofA undergraduates can join the group either for summer internship, or for projects during the academic year (which is better if you want to pursue some long-term research objectives). Email me if you are interested.
+Undergraduate research positions are available in the broad area of computing science (e.g., algorithms; optimization; machine learning; data science; systems,  networks, and sustainability). UofA undergraduates can join the group either for summer internship, or for projects during the academic year (which is better if you want to pursue some long-term research objectives). Email me if you are interested.
 
 
 ## <span style="color:#00204e"> `Prospective Graduate Researchers (M.Sc. and Ph.D.)` </span> 
