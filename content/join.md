@@ -3,7 +3,7 @@ title: Join
 ---
 
 
-We are a group of computer scientists, mathematicians, and systems engineers based at UofA, striving to advance the general field of decision intelligence for networked systems.  The group is engaged in multi-disciplinary cutting-edge research with projects ranging from theoretical research in online algorithms, economics and computation, and stochastic modeling, optimization, and learning, to applied research driven by societal challenges such as energy and urban sustainability.  If you are interested in joining the group as an undergraduate, graduate, or postdoc, see the description below. 
+We are a group of computer scientists, mathematicians, and systems engineers based at UofA, striving to advance the general field of decision intelligence for networked systems.  The group is engaged in multi-disciplinary cutting-edge research with projects ranging from theoretical research in online algorithms, economics and computation, and stochastic modeling, optimization, and learning, to applied research driven by societal challenges in energy, transportation,  sustainability, and beyond.  If you are interested in joining the group as an undergraduate, graduate, or postdoc, see the description below. 
 
 
 ## <span style="color:#00204e"> `Prospective Undergraduate Researchers` </span> 
@@ -19,4 +19,4 @@ I am constantly looking for graduate students at both the M.Sc. level and the Ph
 
 ## <span style="color:#00204e"> `Prospective Postdoctoral Fellows` </span>
 
-I am interested in hosting postdocs in a variety of areas, including but not limited to: i) online algorithms, ii) stochastic modeling, optimization, and learning, iii) algorithmic game theory and mechanism design, and iv) market design in energy systems and urban systems. Interested candidates please email me your detailed CV and one representative publication. I might approach you if there is a match in background and research interests. 
+I am interested in hosting postdocs in a variety of areas, including but not limited to: i) online algorithms, ii) stochastic modeling, optimization, and learning, iii) algorithmic game theory and mechanism design, and iv) market design in energy systems and urban energy-transport nexus. Interested candidates please email me your detailed CV and one representative publication. I might approach you if there is a match in background and research interests. 

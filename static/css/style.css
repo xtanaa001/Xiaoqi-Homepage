@@ -1,12 +1,12 @@
 body {
   max-width: 850px;
   margin: auto;
-  padding: 1.6em;
-  padding-top: 20px;
-  padding-right: 1.6em;
+  padding: 70px !important;
+  padding-top: 20px !important;
+  /*padding-right: 1.6em;*/
   padding-bottom: 20px;
   line-height: 1.6em;
-  box-shadow: 0px 0px 0px tan;
+  box-shadow: 0px -10px 10px tan;
 }
 
 
@@ -150,16 +150,16 @@ blockquote {
   margin: auto;
   background: white; /* #fff1e5; /*#f9f9f9*/
   border: 0px solid #F2DFCE;    
-  border-left: 0px solid #F2DFCE;
+  border-left: 1px solid #F2DFCE;
   padding: 0.02px 30px 0.02px 30px;
-  box-shadow: 0px 0px 3px tan;
+  box-shadow: 0px 0px 0px tan;
 }
 
 table {
   width: 100%;
   margin-right: 0px;
   margin-left: 0px;
-  border: 2px solid #F2DFCE;
+  border: 3px solid #F2DFCE;
   background: #fff1e5;
   padding: 0px 0em 0px 0px;
   border-collapse: collapse;
@@ -169,7 +169,7 @@ table thead th {
   background: #F2DFCE;
 }
 th, td { 
-  padding: 8px; 
+  padding: 15px; 
   padding-top: 15px;
   padding-bottom: 15px;
   width: auto;

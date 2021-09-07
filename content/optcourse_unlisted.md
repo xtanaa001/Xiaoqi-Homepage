@@ -45,32 +45,32 @@ The exact topics and reading list are still being finalized and **subject to cha
 | Sept. 1 `(L1)`  | Overview <br> Course topics <br> Logistics    |                           |
 | Sept. 6         | ~~No Class~~  <mark> (Labour Day)</mark>                      |                          |
 | Sept. 8 `(L2)`    | Linear programming <br> Convex optimization <br> Duality and optimality conditions  |   KVV (1990) <br>  KVV (1990) <br>  KVV (1990) |
-|                 | **Part 1 : Online Algorithms (9 lectures)**     |       |
-| Sept. 13 `(L3)`   | Online algorithms <br> Competitive ratio vs. regret <br> Example: Chasing convex bodies    |     KVV (1990) <br>  KVV (1990) <br>  KVV (1990) |
-| Sept. 15 `(L4)`   | Online search <br> One-way trading problem <br> Example: Option pricing    |     |
-| Sept. 20 `(L5)`   | Online matching <br> Deterministic vs. Randomized   <br> RANKING    |     |
-| Sept. 22 `(L6)`   | Online convex optimization <br> Online Gradient descent <br> Example: Online load balancing   |     |
-| Sept. 27 `(L7)`   | Smoothed online convex optimization <br> Mirror descent  <br> Example: Data center sustainability    |     |
-| Sept. 29 `(L8)`   | Online packing <br> Primal-dual algorithms <br> XXX   |     |
-| Oct. 4   `(L9)`   | Online algorithms, ratio vs. regret <br> Ski Rental, packing    |     |
-| Oct. 6  `(L10)`   | Online algorithms, ratio vs. regret <br> Ski Rental, packing    |     |
+|                 | **Part 1 : Online Settings (6 lectures)**     |       |
+| Sept. 13 `(L3)`   | Time series search <br> Online $k$-search <br> One-way trading    |     [KVV (1990)](/) <br>  KVV (1990) <br>  KVV (1990) |
+| Sept. 15 `(L4)`   | Online packing and covering <br> Online knapsack problems <br> Variants    |     |
+| Sept. 20 `(L5)`   | Online bipartite matching <br> Deterministic vs. Randomized; RANKING   <br> Fully online matching |     |
+| Sept. 22 `(L6)`   | Online convex optimization <br> Example: Online load balancing   |     |
+| Sept. 27 `(L7)`   | Smoothed online convex optimization <br> Chasing convex body  <br> Example: Data center sustainability    |     |
+| Sept. 29 `(L8)`   | Beyond worst-case analysis <br> Random-order models <br> Secatary problems   |     |
+|                 | **Part 2 : Stochastic Settings (6 lectures)** |     |
+| Oct. 4   `(L9)`   | Stochastic modeling <br> Queueing theory <br> Markov chain    |     |
+| Oct. 6  `(L10)`   | Markov decision process  <br> Stochastic shortest path <br> Dynamic programming   |     |
 | Oct. 11         |  ~~No Class~~  <mark> (Thanksgiving Day) </mark>   |     |
-| Oct. 13  `(L11)`  | Prophet inequalities <br> Optimal stopping problems   |     |
-|                 | **Part 2 : Stochastic Optimization (5 lectures)** |     |
-| Oct. 18  `(L12)`  | Prophet inequalities <br> Optimal stopping problems   |     |
-| Oct. 20  `(L13)`  | Stochastic optimization <br> Stochastic gradient descent <br> Stochastic approximation  |      |
-| Oct. 25  `(L14)`  | Markov decision process <br> Dynamic programming (DP) <br> Approximate DP <br> Example: Stochastic shortest path   |     |
-| Oct. 27  `(L15)`  | Reinforcement learning <br> Temporal-difference learning <br> Policy gradient algorithms   |      |
-| Nov. 1  `(L16)`  | Online learning <br> Multi-armed bandits <br> Thompson sampling <br> Example: Spam clusttering  |      |
-|                 | **Part 3 : Algorithmic Game Theory (6 lectures)**    |  |
-| Nov. 3  `(L17)`  | Game theory <br> Nash equilibrium <br> Examples:   |     |
-| Nov. 8  `(L18)`  | Network congestion games <br> Price of anachy <br> Examples:  |     |
-| Nov. 10 `(L19)`  | Mechanism design <br> Auctions <br> Incentive compatibility <br> Examples: Myerson auction   |      |
-| Nov. 15  `(L20)`  | Combinatorial auctions <br> Examples:   |       |
-| Nov. 17  `(L21)`  | Posted price mechanisms <br> Examples:  |       |
-| Nov. 22  `(L22)`  | Online mechansim design <br> Examples:  |       |
-|                 | **Project Presentations (4 lectures)** |               |
+| Oct. 13  `(L11)`  | Reinforcement learning <br> Online learning <br> Multi-armed bandits  |     |
+| Oct. 18  `(L12)`  | Stochastic control   |      |
+| Oct. 20  `(L13)`  | Prophet inequality (Part 1) <br>  |      |
+| Oct. 25  `(L14)`  | Prophet inequality (Part 2)  |     |
+|                 | **Part 3 : Strategic Settings (6 lectures)**    |  |
+| Oct. 27  `(L15)`  | Game theory <br> Nash equilibrium             |     |
+| Nov. 1  `(L16)`  | Network congestion games <br> Price of anachy  |      |
+| Nov. 3  `(L17)`  | Mechanism design <br> Auctions   |     |
+| Nov. 8  `(L18)`  | Combinatorial auctions   |     |
+| Nov. 10 `(L19)`  | Online mechanism design  |      |
+|                 | **Project Presentations (6-7 lectures)** |               |
+| Nov. 15  `(L20)`  |                 |       |
+| Nov. 17  `(L21)`  |                 |       |
+| Nov. 22  `(L22)`  |                 |       |
 | Nov. 24  `(L23)`  |                 |       |
 | Nov. 29  `(L24)`  |                 |       |
 | Dec. 1  `(L25)`   |                 |       |
-| Dec. 6  `(L26)`  |                 |       |
+| Dec. 6  `(L26)`   |                 |       |

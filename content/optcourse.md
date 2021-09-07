@@ -1,16 +1,16 @@
 ---
-title: CMPUT675(Fall 2021)
+title: CMPUT675 - Fall 2021
 ---
 
+# `CMPUT 675 (Fall 2021)`:
+# `Optimization and Decision Making under Uncertainty`
 
-# CMPUT 675 (Fall 2021): 
-# Optimization and Decision Making under Uncertainty
-
-**Instructor**: [Xiaoqi Tan](/)\\
-**Location**:  VCC 2-227, MW 2:00pm – 3:20pm\\
+**Instructor**: [Xiaoqi Tan](/) (`xiaoqi.tan@ualberta.ca`)\\
+**Location and Time**:  VCC 2-227, MW 2:00pm – 3:20pm\\
 **Office Hour**: After class or by appointment
 
 ---
+
 
 ## `Course Overview`
 
@@ -27,21 +27,29 @@ These topics are highly interdisciplinary - they have strong ties to various dis
 
 ## `Course Policies`
 
-**Textbook**: This course does not require any textbook. There will be a reading list (e.g., papers, slides, and/or book chapters) suggested for each lecture.
+**Textbook**: This course does not require any textbook. There will be a reading list (e.g., papers, slides, and/or book chapters) suggested for most lectures.
 
 **Prerequisites**: You should know material in standard UG courses in calculus, linear algebra, probability, and algorithms very well. Having some optimization background will be a bonus. 
 
 **Grading**: Participation (10%); Assignments (20%); Project: Proposal (20%) + Presentation (20%) + Report (30%).
 
-**Homeworks**: There are three research-oriented questions, and you are free to pick any one from the list. Solving these questions will need some mathematical derivations, and you may also ﬁnd it necessary to write some code to show some numerical results. (_Tips: treat it as a mini-project_)
+**Homeworks**: There are three research-oriented questions, and you are free to pick any one from the list. Solving these questions will need some mathematical derivations, and you may also ﬁnd it necessary to write some code to demonstrate some numerical results. There is no designated programming language, but you are recommended to use Python if you can. The submission of your solution includes a written report and a link to the code (e.g., a repository in GitHub). 
+
+**Project**: You are expected to complete a research-flavoured project  which includes a proposal, an in-class presentation, and a written report. 
+
+- `Proposal`: You need to selected two papers that are related to this course, and prepare a one-page review of the main idea, methodologies, and key results of the papers selected, and another one-page proposal of what could be improved, what could be done differently, and/or other new discoveries. Your paper review and proposal will be evaluated by using a scoring grid relative to the following criteria: i) depth, rigor, and thoroughness of the review, ii) clarity and merit of the proposal, and iii) coherence between the review and the proposal. Please note that the one-page proposal is proportionally more important, and hence the name "Proposal" rather than "Paper Review".
+- `Presentation`: You will give a presentation in class -- based on your paper review and proposal.  Your presentation will be evaluated by using a scoring grid relative to the following criteria: i) clarity of the content (e.g., structure of the slides), ii) clarity of the presentation, and iii) effectiveness of addressing possible questions. These three criteria are equally important in evaluating your presentation.
+- `Report`: This is a research-oriented graduate course, and thus it is up to you to decide what your final report is about -- proof of a new theorem, a new implementation, or even a new survey -- but it must be related to your proposal, your presentation, and of course, the topics covered by this course. Your final report will be evaluated by using a scoring grid relative to the following criteria: i) novelty, ii) consistency to the proposal and presentation, and iii) relevance to this course. Please note that **Novelty** does not necessarily mean novel research results: you will be awarded bonus marks if you make novel research discoveries that are relevant to this course, but they are not necessary to get full marks in the project.
+
+For each evaluation criteria, a score will be assigned between 1 and 5 (i.e., 1: very low, 2: low, 3: medium, 4: high, 5: very high). When preparing your proposal and report, you are highly recommended to use Latex (templates will be provided). More details about the project (e.g., timeline and presentation schedule) will be announced in late September.
+
 
 ## `Course Schedule` 
 
-The exact topics and reading list are still being finalized and **subject to change**. 
 
 
-| Date            | Topic                                         |  Readings                 |
+| Date            | Topic                                         |  References                 |
 |:-------------   | :-----                                        |  :-----                   |
-| Sept. 1 `(L1)`  | Overview <br> Course topics <br> Logistics    |                           |
+| Sept. 1 (L1)  | Overview <br> Course topics <br> Logistics    |     [L1-slides](https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing)                     |
 | Sept. 6         | ~~No Class~~  <mark> (Labour Day)</mark>                      |                          |
-| Sept. 8 `(L2)`    | Linear programming <br> Convex optimization <br> Duality and optimality conditions <br> Examples  |    |
+| Sept. 8 (L2)    | Introduction <br> Convex optimization <br> Lagrange multipliers  and duality <br> KKT conditions          |   |
