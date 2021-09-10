@@ -27,7 +27,7 @@ These topics are highly interdisciplinary - they have strong ties to various dis
 
 ## `Course Policies`
 
-**Textbook**: This course does not require any textbook. There will be a reading list (e.g., papers, slides, and/or book chapters) suggested for most lectures.
+**Textbook**: This course does not require any textbook. There will be references (e.g., lecture slides, notes, papers, and/or book chapters) suggested for each lecture.
 
 **Prerequisites**: You should know material in standard UG courses in calculus, linear algebra, probability, and algorithms very well. Having some optimization background will be a bonus. 
 
@@ -35,7 +35,7 @@ These topics are highly interdisciplinary - they have strong ties to various dis
 
 **Homeworks**: There are three research-oriented questions, and you are free to pick any one from the list. Solving these questions will need some mathematical derivations, and you may also ﬁnd it necessary to write some code to demonstrate some numerical results. There is no designated programming language, but you are recommended to use Python if you can. The submission of your solution includes a written report and a link to the code (e.g., a repository in GitHub). 
 
-**Project**: You are expected to complete a research-flavoured project  which includes a proposal, an in-class presentation, and a written report. 
+**Project**: You are expected to complete a research-flavored project  which includes a proposal, an in-class presentation, and a written report. 
 
 - `Proposal`: You need to selected two papers that are related to this course, and prepare a one-page review of the main idea, methodologies, and key results of the papers selected, and another one-page proposal of what could be improved, what could be done differently, and/or other new discoveries. Your paper review and proposal will be evaluated by using a scoring grid relative to the following criteria: i) depth, rigor, and thoroughness of the review, ii) clarity and merit of the proposal, and iii) coherence between the review and the proposal. Please note that the one-page proposal is proportionally more important, and hence the name "Proposal" rather than "Paper Review".
 - `Presentation`: You will give a presentation in class -- based on your paper review and proposal.  Your presentation will be evaluated by using a scoring grid relative to the following criteria: i) clarity of the content (e.g., structure of the slides), ii) clarity of the presentation, and iii) effectiveness of addressing possible questions. These three criteria are equally important in evaluating your presentation.
