@@ -52,4 +52,9 @@ For each evaluation criteria, a score will be assigned between 1 and 5 (i.e., 1:
 |:-------------   | :-----                                        |  :-----                   |
 | Sept. 1 (L1)  | Overview <br> Course topics <br> Logistics    |     [L1-slides](https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing)                     |
 | Sept. 6         | ~~No Class~~  <mark> (Labour Day)</mark>                      |                          |
-| Sept. 8 (L2)    | Introduction <br> Convex optimization <br> Lagrange multipliers  and duality <br> KKT conditions          |   |
+|                 | **Introduction of Convex Optimization**     |       |
+| Sept. 8 (L2)    | Introduction <br> Convex sets; Convex functions <br> Convexity & Optimization          |  [L2-slides](https://drive.google.com/file/d/1nc5oBnOj3WK6muK2MlY782t5zKWyM36s/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)  |
+| Sept. 13 `(L3)`   | Lagrange multipliers <br> Duality theory <br> Optimality conditions    |  L3-slides <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) <br> [DB Book](http://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf) <br>   |
+| Sept. 15 `(L4)`   | Algorithms <br> Applications <br> Advanced topics    |     |
+|                 | **Online Algorithms and Competitive Analysis**     |       |
+| Sept. 20 `(L5)`   | TBD |     |
