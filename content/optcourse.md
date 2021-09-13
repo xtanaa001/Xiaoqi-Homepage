@@ -6,8 +6,9 @@ title: CMPUT675 - Fall 2021
 # `Optimization and Decision Making under Uncertainty`
 
 **Instructor**: [Xiaoqi Tan](/) (`xiaoqi.tan@ualberta.ca`)\\
-**Location and Time**:  VVC 2-227, MW 2:00pm – 3:20pm\\
-**Office Hour**: After class or by appointment
+**Location & Time**:  VVC 2-227, MW 2:00pm – 3:20pm\\
+**Office hour**: After class or by appointment\\
+**Slack workspace**: Join the [optcourse Slack workspace](https://join.slack.com/t/optcourse/signup) with your `@ualberta.ca` email
 
 ---
 
