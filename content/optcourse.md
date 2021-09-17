@@ -53,9 +53,14 @@ For each evaluation criteria, a score will be assigned between 1 and 5 (i.e., 1:
 |:-------------   | :-----                                        |  :-----                   |
 | Sept. 1 (L1)  | Overview <br> Course topics <br> Logistics    |     [L1-slides](https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing)                     |
 | Sept. 6         | ~~No Class~~  <mark> (Labour Day)</mark>                      |                          |
-|                 | **Introduction of Convex Optimization**     |       |
-| Sept. 8 (L2)    | Introduction <br> Convex sets; Convex functions <br> Convexity & Optimization          |  [L2-slides](https://drive.google.com/file/d/1nc5oBnOj3WK6muK2MlY782t5zKWyM36s/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)  |
-| Sept. 13 `(L3)`   | Lagrange multipliers <br> Duality theory <br> Optimality conditions    |  L3-slides <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) <br> [DB Book](http://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf) <br>   |
-| Sept. 15 `(L4)`   | Algorithms <br> Applications <br> Advanced topics    |     |
-|                 | **Online Algorithms and Competitive Analysis**     |       |
-| Sept. 20 `(L5)`   | TBD |     |
+|                 | **`Convex Optimization: A Brief Introduction`**     |       |
+| Sept. 8 (L2)    | _`Concepts`_: <br> Convex sets <br> Convex functions <br> Convex problems         |  [L2-slides](https://drive.google.com/file/d/1nc5oBnOj3WK6muK2MlY782t5zKWyM36s/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch1-Ch4  |
+| Sept. 13 `(L3)`   | _`Theory`_: <br> Lagrange multipliers <br> Duality theory <br> Optimality conditions    |  [L3-slides](https://drive.google.com/file/d/1GAs-2lPzp2Nfx-ReF2fgO7Tm8I4MfUTA/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch5 <br> [DB Book](http://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf) <br>   |
+| Sept. 15 `(L4)`   | _`Algorithms`_: <br> Gradient descent <br> Newton's methods <br> Barrier methods <br> Dual ascent     |  [L4-slides](https://drive.google.com/file/d/1Ge51lp3AOqY8KBeZSyc4ck5HU5kG_qrG/view?usp=sharing) <br> [L4-notes](https://drive.google.com/file/d/1GbP9Okh5hP34sAi9iAR0JxBp7OCunSPD/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch9-Ch11   |
+|                 | **`Online Algorithms and Online Optimization`**     |       |
+| Sept. 20 `(L5)`   |    |     |
+| Sept. 22 `(L6)`   |    |     |
+| Sept. 27 `(L7)`   |    |     |
+| Sept. 29 `(L8)`   |    |     |
+| Oct. 4 `(L9)`     |    |     |
+| Oct. 6 `(L10)`    |    |     |
