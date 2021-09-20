@@ -47,6 +47,7 @@ For each evaluation criteria, a score will be assigned between 1 and 5 (i.e., 1:
 
 ## `Course Schedule` 
 
+We will slant towards learning the design and analysis of algorithms for sequential decision problems where the uncertain information is either completely unknown, or characterized by some statistical models. Estimation or prediction of uncertain parameters is not the major focus of this course. The exact topics are subject to change.
 
 
 | Date            | Topic                                         |  References                 |
@@ -58,9 +59,29 @@ For each evaluation criteria, a score will be assigned between 1 and 5 (i.e., 1:
 | Sept. 13 `(L3)`   | _`Theory`_: <br> Lagrange multipliers <br> Duality theory <br> Optimality conditions    |  [L3-slides](https://drive.google.com/file/d/1GAs-2lPzp2Nfx-ReF2fgO7Tm8I4MfUTA/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch5 <br> [DB Book](http://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf) <br>   |
 | Sept. 15 `(L4)`   | _`Algorithms`_: <br> Gradient descent <br> Newton's methods <br> Barrier methods <br> Dual ascent     |  [L4-slides](https://drive.google.com/file/d/1Ge51lp3AOqY8KBeZSyc4ck5HU5kG_qrG/view?usp=sharing) <br> [L4-notes](https://drive.google.com/file/d/1GbP9Okh5hP34sAi9iAR0JxBp7OCunSPD/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch9-Ch11   |
 |                 | **`Online Algorithms and Online Optimization`**     |       |
-| Sept. 20 `(L5)`   |    |     |
-| Sept. 22 `(L6)`   |    |     |
-| Sept. 27 `(L7)`   |    |     |
-| Sept. 29 `(L8)`   |    |     |
-| Oct. 4 `(L9)`     |    |     |
-| Oct. 6 `(L10)`    |    |     |
+| Sept. 20 `(L5)`   |  Online algorithms <br> Ski rental problem <br> Deterministic vs Randomized <br> Yao's principle  |     |
+| Sept. 22 `(L6)`   |  Time series search <br> $k$-max and $k$-min search <br> One-way trading   |     |
+| Sept. 27 `(L7)`   |  Online knapsack problems                |     |
+| Sept. 29 `(L8)`   |  Online matching  |     |
+| Oct. 4 `(L9)`     |  Online convex optimization: Basics  |     |
+| Oct. 6 `(L10)`    |  Online convex optimization: Advanced topics  |     |
+| Oct. 11         |  ~~No Class~~  <mark> (Thanksgiving Day) </mark>   |     |
+|                 | **Stochastic Modeling, Optimization, and Learning** |     |
+| Oct. 13  `(L11)`   | Stochastic models <br> Markov decision process <br> Dynamic programming  |     |
+| Oct. 18  `(L12)`  | Reinforcement learning <br> Multi-armed bandits  |      |
+| Oct. 20  `(L13)`  | Prophet inequalities (Part 1) <br>  |      |
+| Oct. 25  `(L14)`  | Prophet inequalities (Part 2)  |     |
+|                 | **Algorithmic Game Theory and Mechanism Design**    |  |
+| Oct. 27  `(L15)`  | Game theory <br> Nash equilibrium <br> Economics and Computation            |     |
+| Nov. 1  `(L16)`  | Network congestion games <br> Price of anachy  |      |
+| Nov. 3  `(L17)`  | Mechanism design <br> Revelation principle  <br> Optimal auctions <br> Vickrey–Clarke–Groves auctions  |     |
+| Nov. 8  `(L18)`  | Combinatorial auctions   |     |
+| Nov. 10 `(L19)`  | Online mechanism design <br> Course summary  |      |
+|                 | **Project - Presentations** |               |
+| Nov. 15  `(L20)`  |                 |       |
+| Nov. 17  `(L21)`  |                 |       |
+| Nov. 22  `(L22)`  |                 |       |
+| Nov. 24  `(L23)`  |                 |       |
+| Nov. 29  `(L24)`  |                 |       |
+| Dec. 1  `(L25)`   |                 |       |
+| Dec. 6  `(L26)`   |                 |       |
