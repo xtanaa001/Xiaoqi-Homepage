@@ -59,8 +59,8 @@ We will slant towards learning the design and analysis of algorithms for sequent
 | Sept. 13 `(L3)`   | _`Theory`_: <br> Lagrange multipliers <br> Duality theory <br> Optimality conditions    |  [L3-slides](https://drive.google.com/file/d/1GAs-2lPzp2Nfx-ReF2fgO7Tm8I4MfUTA/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch5 <br> [DB Book](http://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf) <br>   |
 | Sept. 15 `(L4)`   | _`Algorithms`_: <br> Gradient descent <br> Newton's methods <br> Barrier methods <br> Dual ascent     |  [L4-slides](https://drive.google.com/file/d/1Ge51lp3AOqY8KBeZSyc4ck5HU5kG_qrG/view?usp=sharing) <br> [L4-notes](https://drive.google.com/file/d/1GbP9Okh5hP34sAi9iAR0JxBp7OCunSPD/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch9-Ch11   |
 |                 | **`Online Algorithms and Online Optimization`**     |       |
-| Sept. 20 `(L5)`   |  Online algorithms <br> Ski rental problem <br> Deterministic vs Randomized <br> Yao's principle  |     |
-| Sept. 22 `(L6)`   |  Time series search <br> $k$-max and $k$-min search <br> One-way trading   |     |
+| Sept. 20 `(L5)`   |  Online algorithms <br> Ski rental problem <br> Deterministic vs Randomized <br> Yao's principle  |  [L5-slides](https://drive.google.com/file/d/1HAZC97jAVHDfgyKrU28NlJYj3LZny08o/view?usp=sharing)  |
+| Sept. 22 `(L6)`   |  Online primal-dual  <br> Time series search <br> $k$-search; One-way trading |  [L6-slides](https://drive.google.com/file/d/1Hg8W9MVm-FAPa4SQLZCkqRFztHXHiEiZ/view?usp=sharing) <br> [L6-notes](https://drive.google.com/file/d/1Hni4WBgcRXk-d7z2gu0RSga9-FijA3V8/view?usp=sharing)  <br>  [EI-Yaniv et al (2001)](https://drive.google.com/file/d/1HFVPGuBhrQZ2lD8xLUt1ChIY3vU9NIPa/view?usp=sharing) <br> [Lorenz et al (2009)](https://drive.google.com/file/d/1HG2D0slxIeFwSjArIi_UcdMixKwcVRE3/view?usp=sharing)  |
 | Sept. 27 `(L7)`   |  Online knapsack problems                |     |
 | Sept. 29 `(L8)`   |  Online matching  |     |
 | Oct. 4 `(L9)`     |  Online convex optimization: Basics  |     |
