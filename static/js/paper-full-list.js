@@ -1,19 +1,6 @@
 var papers_full = new Array (
 
-    {
-        id : "mk_search2021",
-        name : "Online Search under Generalized Budget Constraints",
-        coauthors : new Array(authorList.XQTan, authorList.RBoutaba, authorList.Garcia),
-        journal : "Preprint",
-        //arxiv: "",
-        highlight : "yes",
-        topic: "O",
-        year: "2021",
-        note: "Full version is available upon request",
-        //paperAbstract : "<p></p>",
-    },
-
-    
+    /*
     {
         id : "knapsack_2021",
         name : "Competitive Online Algorithms for Packing with Convex Costs",
@@ -27,6 +14,20 @@ var papers_full = new Array (
         note: "Full version is available upon request",
         //paperAbstract : "<p></p>",
     }, 
+    */
+   
+    {
+        id : "mk_search2021",
+        name : "Online Search under Generalized Budget Constraints",
+        coauthors : new Array(authorList.XQTan, authorList.RBoutaba, authorList.Garcia),
+        journal : "Preprint",
+        //arxiv: "",
+        highlight : "yes",
+        topic: "O",
+        year: "2021",
+        note: "Full version is available upon request",
+        //paperAbstract : "<p></p>",
+    },
 
     {
         id : "NBS_2021",
