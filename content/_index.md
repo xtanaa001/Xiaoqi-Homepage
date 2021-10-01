@@ -25,7 +25,7 @@ Email: xiaoqi.tan@ualberta.ca
 
 ## `Research Interests`
 
-My research  focuses on developing foundational decision-making tools and algorithms in highly dynamic and strategic environments  - settings where multiple agents come together, interact and possibly pursue divergent or even conflicting objectives. To deal with algorithmic challenges in such complex settings, my research spans various topics at the intersection of online algorithms, algorithmic game theory, stochastic modeling, optimization, and learning.  On the practical side, my research is primarily driven by applications in energy and transportation systems, and the nexus between them in particular. 
+My research focuses on developing  decision-making tools and algorithms in networked systems, especially in highly dynamic and strategic settings where multiple agents come together, interact and possibly pursue divergent or even conflicting objectives. To deal with algorithmic challenges in such complex settings, my research spans various topics at the intersection of online algorithms, algorithmic game theory, stochastic modeling, optimization, and learning.  On the practical side, my research is primarily driven by applications in energy and transportation systems, and the nexus between them in particular. 
 
 For more details, see my recent publications below; or check out my full publications [here](/publications_type).  
 
