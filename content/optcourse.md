@@ -64,7 +64,7 @@ We will slant towards learning the design and analysis of algorithms for sequent
 | Sept. 27 `(L7)`   |  Online knapsack problems <br> Threshold algorithms   |  [L7-slides](https://drive.google.com/file/d/1GBLRLQYiizLoJV3912mdHKBo2oUmQOBS/view?usp=sharing)  <br> [L7-notes](https://drive.google.com/file/d/1GB-ouKSbQHz6Qo6xIaFPD2VmdLXKy4js/view?usp=sharing)  <br> [MSV (1995)](https://drive.google.com/file/d/1GcUC8A_RZlii6qJzpxmDzEWxkt9if0n_/view?usp=sharing) <br> [CZL (2008)](https://drive.google.com/file/d/1Gcba3OZdXHXuZzDB2zJPa9ZuajkQYPRy/view?usp=sharing) <br> [Tan et al (2020)](https://drive.google.com/file/d/1GdX3IdS_QNmnClz3De5Uu-GCOACFG6h-/view?usp=sharing)  |
 | Sept. 29 `(L8)`   |  Online matching <br> RANKING algorithm |   [L8-slides](https://drive.google.com/file/d/1GVwXHC8-h_Y6LVdCPnC6yieXOZSEyvd3/view)  <br> [KVV (1990)](https://drive.google.com/file/d/1GdcpjJ5oyxH-YKu8UZ90EI7_1RVBdRAA/view?usp=sharing) <br> [BM (2008)](https://drive.google.com/file/d/1Gdze-GoycfIby2zAnjonAH8zmOOSc8HP/view?usp=sharing) <br> [Eden et al (2020)](https://drive.google.com/file/d/1GerA-cIPKJ0Q5NsP45H9Wt-go-rrxJVO/view?usp=sharing) <br> [DJK (2013)](https://drive.google.com/file/d/1GexjPTNUeyYDjIWG7CI5bIMj3awZGUyt/view?usp=sharing) |
 | Oct. 4 `(L9)`     |  Online convex optimization  |     |
-| Oct. 6 `(L10)`    |  Online optimization: Advanced topics + Trends  |     |
+| Oct. 6 `(L10)`    |  Advanced topics + Trends + Summary |     |
 | Oct. 11         |  ~~No Class~~  <mark> (Thanksgiving Day) </mark>   |     |
 |                 | **Stochastic Modeling, Optimization, and Learning** |     |
 | Oct. 13  `(L11)`   | Stochastic models <br> Markov decision process <br> Dynamic programming  |     |
