@@ -25,9 +25,11 @@ Email: xiaoqi.tan@ualberta.ca
 
 ## `Research Interests`
 
-My research strives to advance the general field of decision intelligence in networked systems - especially in settings where multiple agents come together, interact and possibly pursue divergent or even conflicting objectives. To deal with algorithmic challenges in such complex settings, my research spans various topics in online algorithms, algorithmic game theory, stochastic modeling, optimization, and learning.  On the practical side, my research is primarily driven by applications in energy and transportation, and the intersection between them in particular.  
+My research spans various topics in online algorithms, algorithmic game theory, stochastic modeling, optimization, and learning. The main theme is to develop algorithms and decisions under uncertainty, with provable performance guarantees, using mathematical tools from computer science, optimization, economics, and control.  
 
-For more details, see my recent publications below; or check out my full publications [here](/publications_type).  
+On the practical side, my research is primarily driven by systems challenges arising from energy, transportation, and cloud computing. I am particularly interested in understanding fundamental performance tradeoffs between robustness, effectiveness, and fairness in the design and operation of dynamic multi-agent systems - settings where multiple participants come together sequentially, interact and possibly pursue divergent or even conflicting objectives.
+
+For more details, see my selected recent publications below ([full publications](/publications_type)).  
 
 [comment]: # (My research strives to advance the general field of decision intelligence -- by developing foundational decision-making tools and algorithms in highly dynamic, networked systems where multiple agents come together, interact and possibly pursue divergent or even conflicting objectives.  To deal with systems challenges in such complex settings, my research features the design of new algorithms and markets with provable performance guarantees, using mathematical tools from computer science and economics. Some current topics of interest include: <span style="color:#007C41">online algorithms; algorithmic mechanism design; stochastic modeling and control; market design in smart grid, urban mobility, and cloud computing systems</span>. For more details, see my recent publications below.  )
 
