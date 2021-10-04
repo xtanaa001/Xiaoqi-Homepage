@@ -25,7 +25,7 @@ Email: xiaoqi.tan@ualberta.ca
 
 ## `Research Interests`
 
-My research interests span various topics in online algorithms, algorithmic game theory, stochastic modeling, optimization, and learning, with a focus on applications in energy and transportation, and the intersection between them in particular.  The main theme of my research is to develop algorithms and decisions under uncertainty, with provable performance guarantees, using mathematical tools from computer science, economics, and control. 
+My research spans various topics in online algorithms, algorithmic game theory, stochastic modeling, optimization, and learning, with a focus on applications in energy, transportation, and resource allocation.  The main theme of my research is to develop algorithms and decisions under uncertainty, with provable performance guarantees, using mathematical tools from computer science, economics, and control. 
 
 For more details, see my selected recent publications below ([full publications](/publications_type)).  
 
