@@ -6,7 +6,7 @@ body {
   /*padding-right: 1.6em;*/
   padding-bottom: 20px;
   line-height: 1.6em;
-  box-shadow: 0px -10px 10px tan;
+  box-shadow: 0px -10px 10px #275D38;
 }
 
 
@@ -27,7 +27,7 @@ body {
 }
 .menu, .article-meta { 
   text-align: left;
-  /*font-size: 1.0em;*/
+  font-size: 1.15em;
   /*font-weight: bold;*/
 }
 
@@ -35,7 +35,7 @@ body {
 /* This should be used in conjunction with header.html */
 .menu a.active {
   background: white; /* #ddd */
-  color: tan;
+  color: #275D38;
   border: 0px solid #ddd;
   /*font-weight: bold;*/
 }
@@ -105,19 +105,19 @@ div.abstract    {
 
 /* unvisited link */
 a:link {
-  color: #007C41;
+  color: #275D38;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: #007C41;
+  color: #275D38;
   text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-  color:#A8B400;
+  color:#F2CD00;
   text-decoration: none;
 }
 
@@ -159,7 +159,7 @@ table {
   width: 100%;
   margin-right: 0px;
   margin-left: 0px;
-  border: 3px solid #F2DFCE;
+  /*border: 3px solid #F2DFCE;*/
   background: #fff1e5;
   padding: 0px 0em 0px 0px;
   border-collapse: collapse;

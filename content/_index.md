@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uoft_beam.jpg" style="max-width:220px; min-width:220px; float:right; margin: 30px 40px 15px 1px" width="250"/>
+<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uofa_small.jpg" style="max-width:230px; min-width:230px; float:right; box-shadow: 10px 10px 5px #ccc; margin: 20px 40px 15px 1px" width="250"/>
 
 
 # `Xiaoqi Tan`
@@ -14,8 +14,8 @@ Assistant Professor \\
 
 [comment]: # (**Research**: My research strives to build a rigorous foundation for the modeling, analysis, and design of computing and networked systems, especially in settings where multiple agents come together, interact and compete in the presence of uncertainty and self-interest. To deal with such challenging settings, my research spans various topics in Online Algorithms, Economics and Computation, and Stochastic Modeling. The main theme is to develop novel algorithms for decision-making under uncertainty, with provable performance guarantee (e.g., efficiency, truthfulness, fairness, and privacy), using mathematical tools from computer science, economics, and control. Click [here](/publications_year) to see my publications for more details. )
 
-Office: Athabasca Hall 3-03\\
-Email: xiaoqi.tan@ualberta.ca
+`Office`: Athabasca Hall 3-03\\
+`Email`: xiaoqi.tan@ualberta.ca
 
 
 [Bio](/bio) | [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate)
@@ -25,7 +25,8 @@ Email: xiaoqi.tan@ualberta.ca
 
 ## `Research Interests`
 
-I study the interplay between algorithms, decisions, and uncertainty in networked  systems - especially in highly dynamic, strategic settings where multiple agents come together, interact and possibly pursue divergent or even conflicting objectives. The goal is to develop new decision-making tools and algorithms (e.g., online algorithms) that can provide provable performance guarantees (e.g., competitive analysis) under different forms of uncertainty, using mathematical tools from computer science, optimization, economics, and control. 
+I study the interplay between algorithms, decisions, and uncertainty in networked  systems - especially in highly dynamic, strategic settings where multiple agents come together, interact and possibly pursue divergent or even conflicting objectives. The goal is to develop new decision-making tools and algorithms (e.g., online algorithms) that can provide provable performance guarantees (e.g., competitive analysis) under different forms of uncertainty, using mathematical tools from computer science, optimization, economics, and control. On the practical side, my recent research has been focused on applications in energy,  transportation, and networks, and the intersection between them in particular. 
+
 
 For more details, see my selected recent publications below ([full publications](/publications_type)).  
 
