@@ -53,10 +53,10 @@ We will slant towards learning the design and analysis of algorithms for sequent
 
 | Date            | Topic                                         |  References                 |
 |:-------------   | :-----                                        |  :-----                   |
-| Sept. 1 (L1)  | Overview <br> Course topics <br> Logistics    |     [L1-slides](https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing)                     |
+| Sept. 1 (`L1`)  | Overview <br> Course topics <br> Logistics    |     [L1-slides](https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing)                     |
 | Sept. 6         | ~~No Class~~  <mark> (Labour Day)</mark>                      |                          |
 |                 | **`Convex Optimization: A Brief Introduction`**     |       |
-| Sept. 8 (L2)    | CONCEPTS: <br> Convex sets <br> Convex functions <br> Convex problems         |  [L2-slides](https://drive.google.com/file/d/1nc5oBnOj3WK6muK2MlY782t5zKWyM36s/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch1-Ch4  |
+| Sept. 8 (`L2`)    | CONCEPTS: <br> Convex sets <br> Convex functions <br> Convex problems         |  [L2-slides](https://drive.google.com/file/d/1nc5oBnOj3WK6muK2MlY782t5zKWyM36s/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch1-Ch4  |
 | Sept. 13 `(L3)`   | THEORY: <br> Lagrange multipliers <br> Duality theory <br> Optimality conditions    |  [L3-slides](https://drive.google.com/file/d/1GAs-2lPzp2Nfx-ReF2fgO7Tm8I4MfUTA/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch5 <br> [DB Book](http://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf) <br>   |
 | Sept. 15 `(L4)`   | ALGORITHMS: <br> Gradient descent <br> Newton's methods <br> Barrier methods <br> Dual ascent     |  [L4-slides](https://drive.google.com/file/d/1Ge51lp3AOqY8KBeZSyc4ck5HU5kG_qrG/view?usp=sharing) <br> [L4-notes](https://drive.google.com/file/d/1GbP9Okh5hP34sAi9iAR0JxBp7OCunSPD/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch9-Ch11   |
 |                 | **`Online Algorithms and Online Optimization`**     |       |
@@ -68,21 +68,21 @@ We will slant towards learning the design and analysis of algorithms for sequent
 | Oct. 6 `(L10)`    |  Beyond worst case analysis <br> Online algorithms with predictions | [L10-slides](https://drive.google.com/file/d/1K9cv8Vqz3Aw5RzJtdqZT79TmAX_dzvRm/view?usp=sharing)  <br> [Roughgarden 2018](https://drive.google.com/file/d/1KVWPUB8Os28LdfkloXzSkVX9X3n3mu7Q/view?usp=sharing) <br> [Purohit et al 2018](https://drive.google.com/file/d/1KW22Jw21vpK1S0Kv3rgcHhkrZpyxdzkK/view?usp=sharing) <br> [Bamas et al 2020](https://drive.google.com/file/d/1KXJ6mI0MP4er38nlLMDPj2byzY9iPJv2/view?usp=sharing)  |
 | Oct. 11         |  ~~No Class~~  <mark> (Thanksgiving Day) </mark>   |     |
 |                 | **`Stochastic Modeling, Optimization, and Learning`** |     |
-| Oct. 13  `(L11)`   | Markov decision process <br> Dynamic programming  |     |
-| Oct. 18  `(L12)`  | Reinforcement learning <br> Multi-armed bandits  |      |
-| Oct. 20  `(L13)`  | Prophet inequalities (Part 1) <br>  |      |
-| Oct. 25  `(L14)`  | Prophet inequalities (Part 2)  |     |
+| Oct. 13  `(L11)`   | Markov decision process  |  [L11-slides](https://drive.google.com/file/d/1ReDm-WyLhJX-mPB6vBAEjSoJF8HeE7tr/view?usp=sharing)    |
+| Oct. 18  `(L12)`  | Reinforcement learning |      |
+| Oct. 20  `(L13)`  | Multi-armed bandit                     |      |
+| Oct. 25  `(L14)`  | Stochastic approximation (_tentative_)  |     |
 |                 | **`Algorithmic Game Theory and Mechanism Design`**    |  |
-| Oct. 27  `(L15)`  | Game theory <br> Nash equilibrium <br> Economics and Computation            |     |
-| Nov. 1  `(L16)`  | Network congestion games <br> Price of anachy  |      |
-| Nov. 3  `(L17)`  | Mechanism design <br> Revelation principle  <br> Optimal auctions <br> Vickrey–Clarke–Groves auctions  |     |
-| Nov. 8  `(L18)`  | Combinatorial auctions   |     |
-| Nov. 10 `(L19)`  | Online mechanism design <br> Course summary  |      |
+| Oct. 27  `(L15)`  | Game theory <br> Network congestion games <br> Price of anachy             |     |
+| Nov. 1  `(L16)`  |  Mechanism design; Auctions  |      |
+| Nov. 3 `(L17)`   |  Online mechanism design <br> Prophet inequalities     | **Assignment** <br> **Released**    |
+| Nov. 8           |  ~~No Class~~  <mark> (Reading Week Break)</mark>      |      |
+| Nov. 10          |  ~~No Class~~  <mark> (Reading Week Break)</mark>      |   **Proposal Due**    |
 |                 | **`Project - Presentations`** |               |
-| Nov. 15  `(L20)`  |                 |       |
-| Nov. 17  `(L21)`  |                 |       |
-| Nov. 22  `(L22)`  |                 |       |
-| Nov. 24  `(L23)`  |                 |       |
-| Nov. 29  `(L24)`  |                 |       |
-| Dec. 1  `(L25)`   |                 |       |
-| Dec. 6  `(L26)`   |                 |       |
+| Nov. 15  `(L18)` |                  |       |
+| Nov. 17  `(L19)`  |                 |       |
+| Nov. 22  `(L20)`  |                 |       |
+| Nov. 24  `(L21)`  |                 |       |
+| Nov. 29  `(L22)`  |                 |       |
+| Dec. 1  `(L23)`   |                 |       |
+| Dec. 6    |  ~~No Class~~               |  **Project Due** <br> **Assignment Due**    |

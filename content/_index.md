@@ -25,8 +25,7 @@ Assistant Professor \\
 
 ## `Research Interests`
 
-I study the interplay between algorithms, decisions, and uncertainty in networked  systems - especially in highly dynamic, strategic settings where multiple agents come together, interact and possibly pursue divergent or even conflicting objectives. The goal is to develop new decision-making tools and algorithms (e.g., online algorithms) that can provide provable performance guarantees (e.g., competitive analysis) under different forms of uncertainty, using mathematical tools from computer science, optimization, economics, and control. On the practical side, my recent research has been focused on applications in energy,  transportation, and networks, and the intersection between them in particular. 
-
+I study the interplay between algorithms, decisions, and uncertainty in networked  systems - especially in highly dynamic, strategic settings where multiple agents come together, interact and possibly pursue divergent or even conflicting objectives. The goal is to develop new decision-making tools and algorithms (e.g., online algorithms and mechanisms) that can provide provable performance guarantees under different forms of uncertainty, using mathematical tools from computer science, optimization, economics, and control. On the practical side, my recent research has been focused on applications in energy,  transportation, and networks, and the intersection between them in particular. 
 
 For more details, see my selected recent publications below ([full publications](/publications_type)).  
 
