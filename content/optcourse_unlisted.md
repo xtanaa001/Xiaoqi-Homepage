@@ -37,7 +37,7 @@ These topics are highly interdisciplinary - they have strong ties to various dis
 
 ## `Course Schedule` 
 
-The exact topics and reading list are still being finalized and **subject to change**. 
+We will slant towards learning the design and analysis of algorithms for sequential decision problems where the uncertain information is either completely unknown, or characterized by some statistical models. Estimation or prediction of uncertain parameters is not the major focus of this course. The exact topics are subject to change.
 
 
 | Date            | Topic                                         |  Readings                 |
