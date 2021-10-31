@@ -28,7 +28,7 @@ I study the interplay between algorithms, decisions, and uncertainty in networke
 
 `Keywords`: Online algorithms; Online optimization; Algorithmic game theory; Mechanism design; Stochastic modeling and optimization;  Smart grid; Transportation; Sustainability
 
-For more details, see my selected recent publications below ([full publications](/publications_type)).  
+For more details, see my selected recent publications below ([full publications](/publications)).  
 
 
 [comment]: # (My research strives to advance the general field of decision intelligence -- by developing foundational decision-making tools and algorithms in highly dynamic, networked systems where multiple agents come together, interact and possibly pursue divergent or even conflicting objectives.  To deal with systems challenges in such complex settings, my research features the design of new algorithms and markets with provable performance guarantees, using mathematical tools from computer science and economics. Some current topics of interest include: <span style="color:#007C41">online algorithms; algorithmic mechanism design; stochastic modeling and control; market design in smart grid, urban mobility, and cloud computing systems</span>. For more details, see my recent publications below.  )
