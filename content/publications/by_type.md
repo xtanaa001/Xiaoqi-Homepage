@@ -7,7 +7,7 @@ title: Publications (By Type)
 
 
 
-Sort [[by year]](/publications_year) or [[by type]](/publications_type) 
+Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type) 
 
 
 <span style="color:#00204e">By-type quick links</span>: [Preprints](/publications_type/#preprints) | [Conference Papers](/publications_type/#conference) | [Journal Papers](/publications_type/#journal) 

@@ -2,13 +2,11 @@
 title: CMPUT675 - Fall 2021
 ---
 
+
+
 <style>
 body {
   max-width: 850px;
-  padding: 60px !important;
-  padding-top: 20px !important;
-  /*padding-right: 1.6em;*/
-  padding-bottom: 20px;
   background-color: white;
   box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 3px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
 }
@@ -37,7 +35,7 @@ In this research-oriented course, we will review recent developments and discuss
 
 - Understand the basics of optimization theory, methods, and applications.
 - Understand how to build rigorous mathematical models and develop efficient algorithms, with provable performance guarantees, for sequential decision-making problems under different forms of uncertainty.
-- Be well prepared to conduct research in areas such as online algorithms, online optimization, stochastic optimization and approximation, algorithmic game theory, and mechanism design.
+- Be well prepared to conduct research in areas such as online algorithms, stochastic optimization and approximation, algorithmic game theory, and mechanism design.
 
 ## `Course Policies`
 
@@ -55,7 +53,7 @@ In this research-oriented course, we will review recent developments and discuss
 - _Presentation_: You will give a presentation in class -- based on your paper review and proposal.  Your presentation will be evaluated by using a scoring grid relative to the following criteria: i) clarity of the content (e.g., structure of the slides), ii) clarity of the presentation, and iii) effectiveness of addressing possible questions. These three criteria are equally important in evaluating your presentation.
 - _Report_: This is a research-oriented graduate course, and it is up to you to decide what your final report is about -- proof of a new theorem, a new implementation, or a new survey -- but it must be related to your proposal, your presentation, and of course, the topics covered by this course. Your final report will be evaluated by using a scoring grid relative to the following criteria: i) novelty, ii) consistency to the proposal and presentation, and iii) relevance to this course. Please note that **`Novelty`** does not necessarily mean novel research results: you will be awarded bonus marks if you make novel research discoveries that are relevant to this course, but they are not necessary to get full marks in the project. For more details, please refer to our [project guidlines](https://drive.google.com/file/d/1KaYzXP7_rg-533yhI2kpgRfUBskqThR8/view?usp=sharing). 
 
-For each evaluation criteria, a score will be assigned between 1 and 5 (i.e., 1: very low, 2: low, 3: medium, 4: high, 5: very high). When preparing your proposal and report, you are highly recommended to use Latex ([template](https://drive.google.com/file/d/1NqvkR7PexEccX87sLd18IwojEuv8HuVP/view?usp=sharing)). 
+For each evaluation criteria, a score will be assigned between 1 and 5 (i.e., 1: very low, 2: low, 3: medium, 4: high, 5: very high). When preparing your proposal and report, you are highly recommended to use Latex (templates will be provided). 
 
 
 ## `Course Schedule` 
@@ -80,11 +78,11 @@ For each evaluation criteria, a score will be assigned between 1 and 5 (i.e., 1:
 | Oct. 13  `(L11)`   | `Markov decision process` <br> Value iteration <br> Policy iteration <br> LP approach  |  [L11-slides](https://drive.google.com/file/d/1ReDm-WyLhJX-mPB6vBAEjSoJF8HeE7tr/view?usp=sharing)    |
 | Oct. 18  `(L12)`  | `Reinforcement learning` <br> Q-learning <br> Policy gradients <br> Actor-Critic |  [L12-slides](https://drive.google.com/file/d/1KrC3WWTnfpwapMF3aMdpHG7KVqIiD_LS/view?usp=sharing) <br> [CMPUT 609](https://drive.google.com/drive/folders/0B3w765rOKuKANmxNbXdwaE1YU1k?resourcekey=0-JZz-noRuJgogNsg1ljgV8w) <br> [CMPUT 653](https://rltheory.github.io/)   |
 | Oct. 20  `(L13)`  | `Multi-armed bandit` <br> Stochatic bandits <br> $\varepsilon$-Greedy algorithms <br> Upper Confidence Bounds                    |    [L13-slides](https://drive.google.com/file/d/1KrOg0ZR0gj2_cZlEwCHSfOYSU7VAm2dZ/view?usp=sharing) <br> [BCB Book (2012)](http://sbubeck.com/SurveyBCB12.pdf) <br> [Slivkins Book (2019)](https://arxiv.org/pdf/1904.07272.pdf) <br> [LS Book (2020)](https://tor-lattimore.com/downloads/book/book.pdf)  |
-| Oct. 25  `(L14)`  | `Stochastic approximation` <br> The Robbins-Monro algorithm <br> Stochastic gradient descent (SGD) <br> Adaptive SGD methods  |  [L14-slides](https://drive.google.com/file/d/1MeTWaZEPlUnlZOikQlIQVDjrKaD3ub0K/view?usp=sharing) <br> [RM (1951)](https://drive.google.com/file/d/1MhJ39a2igEW9UFVvhIOVC_E4ebtmXFjF/view?usp=sharing) <br>   [AdapGrad (2011)](https://jmlr.org/papers/volume12/duchi11a/duchi11a.pdf) <br> [Adam (2015)](https://arxiv.org/pdf/1412.6980.pdf) |
+| Oct. 25  `(L14)`  | `Stochastic approximation` <br> The Robbins-Monro algorithm <br> Stochastic gradient descent (SGD) <br> Adaptive SGD methods  |  [L14-slides](d)   |
 |                 | **`Algorithmic Game Theory and Mechanism Design`**    |  |
-| Oct. 27  `(L15)`  | `Game theory` <br> Pure-strategy Nash equilibrium   <br>  Mixed-strategy Nash equilibrium | [L15-slides](https://drive.google.com/file/d/1Meybd5xEvY6ASPsHYL4HxvegyTJWhgA9/view?usp=sharing) <br> [Nash (1951)](https://drive.google.com/file/d/1MhkH4Tk7sFWP9Fz4VteFz0ResAsh7aVm/view?usp=sharing) <br> [Proof of Existence](https://drive.google.com/file/d/1LFuR1blQuSWnoNYBZQ3GtWlImmGhZw9j/view?usp=sharing) |
-| Nov. 1  `(L16)`  |  `Mechanism design` <br> Auctions  |     |
-| Nov. 3 `(L17)`   |  `Online mechanism design` <br> Prophet inequalities     |   |
+| Oct. 27  `(L15)`  | `Game theory` <br> Nash equilibrium   <br> Price of Anarchy   | [L15-slides](d)    |
+| Nov. 1  `(L16)`  |  `Mechanism design` <br> Auctions  |   [L16-slides](d)   |
+| Nov. 3 `(L17)`   |  `Online mechanism design` <br> Prophet inequalities     | [L17-slides](d)   |
 | Nov. 8           |  ~~No Class~~  <mark> (Reading Week Break)</mark>      |   **Assignment** <br> **Released**    |
 | Nov. 10          |  ~~No Class~~  <mark> (Reading Week Break)</mark>      |   **Proposal Due**    |
 |                 | **`Project - Presentations`** |               |

@@ -2,11 +2,10 @@
 title: Home
 ---
 
-<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uofa_small.jpg" style="max-width:230px; min-width:230px; float:right; box-shadow: 10px 10px 5px #ccc; margin: 20px 40px 15px 1px" width="250"/>
+<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uofa_small.jpg" style="max-width:230px; min-width:230px; float:right; box-shadow: 10px 10px 3px #ccc; margin: 20px 40px 15px 1px" width="250"/>
 
 
 # `Xiaoqi Tan`
-
 
 Assistant Professor \\
 [Department of Computing Science](https://www.ualberta.ca/computing-science/index.html)\\
@@ -20,14 +19,17 @@ Assistant Professor \\
 
 [Bio](/bio) | [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate)
 
-
 ---
+
 
 ## `Research Interests`
 
-I study the interplay between algorithms, decisions, and uncertainty in networked  systems - especially in highly dynamic, strategic settings where multiple agents come together, interact and possibly pursue divergent or even conflicting objectives. The goal is to develop new decision-making tools and algorithms (e.g., online algorithms and mechanisms) that can provide provable performance guarantees under different forms of uncertainty, using mathematical tools from computer science, optimization, economics, and control. On the practical side, my recent research has been focused on applications in energy,  transportation, and networks, and the intersection between them in particular. 
+I study the interplay between algorithms, decisions, and uncertainty in networked  systems -- especially in highly dynamic, strategic settings where multiple agents come together, interact and possibly pursue divergent or even conflicting objectives. The goal is to develop new decision-making tools and algorithms that can provide provable performance guarantees under different forms of uncertainty, using mathematical tools from computer science, optimization, economics, and control. On the practical side, my research is primarily driven by applications in energy,  transportation, and networks, and the intersection between them in particular.  
+
+`Keywords`: Online algorithms; Online optimization; Algorithmic game theory; Mechanism design; Stochastic modeling and optimization;  Smart grid; Transportation; Sustainability
 
 For more details, see my selected recent publications below ([full publications](/publications_type)).  
+
 
 [comment]: # (My research strives to advance the general field of decision intelligence -- by developing foundational decision-making tools and algorithms in highly dynamic, networked systems where multiple agents come together, interact and possibly pursue divergent or even conflicting objectives.  To deal with systems challenges in such complex settings, my research features the design of new algorithms and markets with provable performance guarantees, using mathematical tools from computer science and economics. Some current topics of interest include: <span style="color:#007C41">online algorithms; algorithmic mechanism design; stochastic modeling and control; market design in smart grid, urban mobility, and cloud computing systems</span>. For more details, see my recent publications below.  )
 
