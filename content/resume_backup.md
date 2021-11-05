@@ -4,6 +4,7 @@ title: RESUME
 
 ### <span style="color:#00204E"> EMPLOYMENT </span>
 >
+- Assistant Professor, Department of Computing Science, University of Alberta, `07/2020` - Present.
 - Postdoctoral Fellow in ECE, University of Toronto, `07/2018` - Present.
 - Postdoctoral Fellow in ECE, HKUST, `02/2018 - 06/2018`.
 

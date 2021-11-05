@@ -6,11 +6,12 @@ title: People
 
 <style>
 table {
-    background-color: white;
+    background-color: #fff1e5;
+    box-shadow: 0px 0px 0px inset;
     }
 table thead th { 
-  border-bottom: 0px solid #ddd; 
-  background-color: white;
+  border-bottom: 0px solid #fff1e5; 
+  background-color: #fff1e5;
 }
 th{
     display: none;
@@ -22,8 +23,9 @@ th, td {
   padding-bottom: 20px;
   width: auto;
   vertical-align: top;
+  border: 2px solid #fff1e5;
 }
-tr:hover {background-color: white;}
+tr:hover {background-color: #F2DFCE;}
 </style>
 
 
