@@ -83,15 +83,15 @@ For each evaluation criteria, a score will be assigned between 1 and 5 (i.e., 1:
 | Oct. 25  `(L14)`  | `Stochastic approximation` <br> The Robbins-Monro algorithm <br> Stochastic gradient descent (SGD) <br> Adaptive SGD methods  |  [L14-slides](https://drive.google.com/file/d/1MeTWaZEPlUnlZOikQlIQVDjrKaD3ub0K/view?usp=sharing) <br> [RM (1951)](https://drive.google.com/file/d/1MhJ39a2igEW9UFVvhIOVC_E4ebtmXFjF/view?usp=sharing) <br>   [AdapGrad (2011)](https://jmlr.org/papers/volume12/duchi11a/duchi11a.pdf) <br> [Adam (2015)](https://arxiv.org/pdf/1412.6980.pdf) |
 |                 | **`Algorithmic Game Theory and Mechanism Design`**    |  |
 | Oct. 27  `(L15)`  | `Game theory` <br> Pure-strategy Nash equilibrium   <br>  Mixed-strategy Nash equilibrium | [L15-slides](https://drive.google.com/file/d/1Meybd5xEvY6ASPsHYL4HxvegyTJWhgA9/view?usp=sharing) <br> [Nash (1951)](https://drive.google.com/file/d/1MhkH4Tk7sFWP9Fz4VteFz0ResAsh7aVm/view?usp=sharing) <br> [Proof of Existence](https://drive.google.com/file/d/1LFuR1blQuSWnoNYBZQ3GtWlImmGhZw9j/view?usp=sharing) |
-| Nov. 1  `(L16)`  |  `Mechanism design` <br> Auctions  |     |
-| Nov. 3 `(L17)`   |  `Online mechanism design` <br> Prophet inequalities     |   |
+| Nov. 1  `(L16)`  |  `Mechanism design` <br> Revelation principle <br> Vickrey-Clarke-Groves mechanisms <br> Optimal auctions  |  [L16-slides](https://drive.google.com/file/d/1O6sGL9lvt0pbsUIdGyZr9nZLLc8boJ72/view?usp=sharing) <br> [MD Background](https://drive.google.com/file/d/1Rf6zzbrzkFV2LuKwYzjpeZKQd8-CfebG/view?usp=sharing)  <br> [Myerson (1983)](https://drive.google.com/file/d/1NicGM2myQAf2fBNVNUX6fUVC6l6J84WH/view?usp=sharing)  |
+| Nov. 3 `(L17)`   |  `Online mechanism design` <br> Online auctions <br> Posted price mechanisms <br> Prophet inequalities   | [L17-slides](https://drive.google.com/file/d/1N_Hdd7Vx72-DNpqM2yRm_pmilxbM-5XC/view?usp=sharing) <br> [OMD (2003)](https://drive.google.com/file/d/1Nh3RKvhStaN7FUrhS3ChIRK4jhFvElsK/view?usp=sharing) <br> [OCAs (2021)](https://drive.google.com/file/d/1Jh-dT38rdaLZyvMT6me3FSPjdZidbmrk/view?usp=sharing) <br>[More readings](https://drive.google.com/file/d/1_-8t9VnKlvuRTQ0MZYwk59GN2shDq_Az/view?usp=sharing) <br>  |
 | Nov. 8           |  ~~No Class~~  <mark> (Reading Week Break)</mark>      |   **Assignment** <br> **Released**    |
 | Nov. 10          |  ~~No Class~~  <mark> (Reading Week Break)</mark>      |   **Proposal Due**    |
 |                 | **`Project - Presentations`** |               |
-| Nov. 15  `(L18)` |                  |       |
-| Nov. 17  `(L19)`  |                 |       |
-| Nov. 22  `(L20)`  |                 |       |
-| Nov. 24  `(L21)`  |                 |       |
-| Nov. 29  `(L22)`  |                 |       |
-| Dec. 1  `(L23)`   |                 |       |
+| Nov. 15  `(L18)`  | A - Topic:  <br> B - Topic:  <br> C - Topic:   <br> D - Topic:      |       |
+| Nov. 17  `(L19)`  | A - Topic:  <br> B - Topic:  <br> C - Topic:   <br> D - Topic:                |       |
+| Nov. 22  `(L20)`  | A - Topic:  <br> B - Topic:  <br> C - Topic:   <br> D - Topic:                |       |
+| Nov. 24  `(L21)`  | A - Topic:  <br> B - Topic:  <br> C - Topic:   <br> D - Topic:                |       |
+| Nov. 29  `(L22)`  | A - Topic:  <br> B - Topic:  <br> C - Topic:   <br> D - Topic:                |       |
+| Dec. 1  `(L23)`   | A - Topic:  <br> B - Topic:  <br> C - Topic:   <br> D - Topic:                |       |
 | Dec. 6    |  ~~No Class~~               |  **Project Due** <br> **Assignment Due**    |
