@@ -3,7 +3,11 @@ title: Join
 ---
 
 
-We are a group of computer scientists, mathematicians, and systems engineers based at UofA, striving to advance the theory and practice of "algorithms and decisions under uncertainty".  Our research interests span various topics in online algorithms, algorithmic game theory, and  stochastic modeling and optimization, with applications to energy systems, transportation systems, cloud computing, resource allocation, and beyond.  If you are interested in joining the group as an undergraduate, graduate, or postdoc, see the description below. Apologoies for not being able to reply your email about the application.
+
+
+We are a group of computer scientists and mathematicians based at UofA, striving to advance the theory and practice of "algorithms and decisions under uncertainty".  Our research interests span various topics in online algorithms, online optimization, algorithmic game theory, mechanism design, and  stochastic modeling and optimization, with applications to energy systems, transportation systems, cloud computing, resource allocation, and beyond.  
+
+If you are interested in joining the group as an undergraduate, graduate, or postdoc, see the description below. 
 
 
 ## <span style="color:#00204e"> `Prospective Undergraduate Researchers` </span> 
@@ -13,9 +17,9 @@ Undergraduate research positions are available in the broad area of computing sc
 
 ## <span style="color:#00204e"> `Prospective Graduate Researchers (M.Sc. and Ph.D.)` </span> 
 
-I am constantly looking for graduate students at both the M.Sc. level and the Ph.D. level. You can get a good sense of my research from this website. Interested candidates should [apply here](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/index.html) and indicate me as your potential supervisor. If already a UofA student, please email me a short description of interests and CV. 
+I am constantly looking for graduate students at both the M.Sc. level and the Ph.D. level.  Check out <mark>[**here**](/prospectivephds)</mark> for what I am looking for in a prospective student.  Interested candidates should [apply here](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/index.html) and indicate me as your potential supervisor. 
 
 
 ## <span style="color:#00204e"> `Prospective Postdoctoral Fellows` </span>
 
-I am interested in hosting postdocs (subject to funding availability) in a variety of areas, including but not limited to: i) online algorithms; online optimization, ii)  algorithmic game theory; mechanism design, iii) stochastic modeling, optimization, and approximation, and iv) energy systems and the urban energy-transport nexus. Interested candidates please email me your detailed CV and one representative publication. I might approach you if there is a match in background and research interests. 
+I am interested in hosting postdocs (subject to funding availability) in a variety of areas, including but not limited to: i) online algorithms; online optimization, ii)  algorithmic game theory; mechanism design, iii) stochastic modeling, optimization, and approximation, and iv) energy systems and the urban energy-transport nexus. Interested candidates please email me your CV and one representative publication. I might approach you if there is a match in background and research interests. 
