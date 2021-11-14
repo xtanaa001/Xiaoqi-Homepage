@@ -4,7 +4,7 @@ title: Prospective Ph.D. Students
 
 My work lies in the general field of "**algorithms and decisions under uncertainty**". 
 
-The core theoretical question my research strives to answer is: **What are the best possible algorithms we can design when facing uncertain inputs**? On the practical side, I develop new decision-making tools and algorithms under different forms of uncertainty, and apply them to solve real-world problems in energy, transportation, networks, resource allocation, and beyond. 
+The core theoretical question my research strives to answer is: **What are the best possible algorithms we can design when facing uncertain inputs**? On the practical side, I develop new decision-making tools and algorithms under different forms of uncertainty, and apply them to solve real-world problems in energy, transportation, cloud computing, resource allocation, and beyond. 
 
 I enjoy the beauty of mathematics, and consider a **technically-sound and aesthetically-elegant theorem** the core of publication-worthy results. I admire good applied research, but also believe that not all research needs to have practical use -- good theory sustains over time, and may unexpectedly unleash its power. I am most excited about **connecting theory to practice with interesting intuitions and insights**. To do so, I believe it is important, and also necessary, to sacrifice a certain details of the problem.  `“I want to know how God created this world. I am not interested in this or that phenomenon. I want to know His thoughts, the rest are details.” - Albert Einstein`
 
