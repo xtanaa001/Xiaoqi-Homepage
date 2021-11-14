@@ -47,7 +47,8 @@ In this research-oriented course, we will review recent developments and discuss
 
 **`Grading`**: Participation (10%); Assignments (20%); Project: Proposal (20%) + Presentation (20%) + Report (30%).
 
-**`Homeworks`**: There are three research-oriented questions, and you are free to pick any one from the list. Solving these questions will need some mathematical derivations, and you may also ﬁnd it necessary to write some code to demonstrate some numerical results. There is no designated programming language, but you are recommended to use Python if you can. The submission of your solution includes a written report and a link to the code (e.g., a repository in GitHub). 
+**`Homeworks`**: The assignment includes two parts. Part I consists of three questions that
+everyone must answer with rigorous proofs (no programming required). In Part II, there are three open-ended questions. You are free to pick any one from the list. Solving these questions will need some mathematical derivations, and you may also ﬁnd it necessary to write some code to demonstrate some numerical results. There is no designated programming language, but you are recommended to use Python if you can. The submission of your solution includes a written report and a link to the code (e.g., a repository in GitHub). 
 
 **`Project`**: You are expected to complete a research-flavored project  which includes a proposal, an in-class presentation, and a written report. 
 
