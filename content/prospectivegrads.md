@@ -2,7 +2,7 @@
 title: Prospective Ph.D. Students
 ---
 
-My work lies in the general field of "**algorithms and decisions under uncertainty**". 
+My work lies in the general field of "**algorithms and decisions under uncertainty**." 
 
 The core theoretical question my research strives to answer is: **What are the best possible algorithms we can design when facing uncertain inputs**? On the practical side, I develop new decision-making tools and algorithms under different forms of uncertainty, and apply them to solve real-world problems in energy, transportation, cloud computing, resource allocation, and beyond. 
 
@@ -10,7 +10,7 @@ I enjoy the beauty of mathematics, and consider a **technically-sound and aesthe
 
 I often receive emails from prospective graduate students with descriptions like "we've applied machine learning to ...,"  --- this, unfortunantely, is not what I care about (at least not high in the priority list). I care about whether you can convert a descriptive problem into **rigorous** mathematical models, and then develop algorithms to solve the problem with **provable** performance guarantee --- in the form of mathematical theorems and lemmas. In short, I look for prospective students who are excited about creating new knowledge --- to explain "**how and why things work**," rather than just "**make things work**" (without interpretability and explainability).
 
-I respect scholarship and love research, like most academics do. I consider getting a graduate degree takes initiative and commitment --- it requires  **strong motivation to excel**, **long-lasting enthusiasm in research**, and probably most importantly, a **good advisor-advisee match** --- based on mutual trust and respect,  effortless communication, and sometimes, a bit of luck. While it is complex to define what is exactly a "good match", a simple rule of thumb is: if you feel this is the person you are willing to "**work with**", not to "**work for**", then it is usually a good sign.
+I respect scholarship and love research, like most academics do. I consider getting a graduate degree takes initiative and commitment --- it requires  **strong motivation to excel**, **long-lasting enthusiasm in research**, and probably most importantly, a **good advisor-advisee match** --- based on mutual trust and respect,  effortless communication, and sometimes, a bit of luck. While it is complex to define what is exactly a "good match," a simple rule of thumb is: if you feel this is the person you are willing to "**work with**," not to "**work for**," then it is usually a good sign.
 
 ## `How to Contact Me`
 
