@@ -5,9 +5,7 @@ title: Join
 
 
 
-We are a group of computer scientists and mathematicians based at UofA, striving to advance the theory and practice of "algorithms and decisions under uncertainty."  Our research interests span various topics in online algorithms, online optimization, algorithmic game theory, mechanism design, and  stochastic modeling and optimization, with applications to energy systems, transportation systems, cloud computing, resource allocation, and beyond.  
-
-If you are interested in joining the group as an undergraduate, graduate, or postdoc, see the description below. 
+We are a group of computer scientists and mathematicians based at UofA, striving to advance the theory and practice of "algorithms and decisions under uncertainty."  Our research interests span various topics in online algorithms, online optimization, algorithmic game theory, mechanism design, and  stochastic modeling and optimization, with applications to energy systems, transportation systems, communication networks, resource allocation, and beyond.  If you are interested in joining the group as an undergraduate, graduate, or postdoc, see the description below. 
 
 
 ## <span style="color:#00204e"> `Prospective Undergraduate Researchers` </span> 
@@ -17,7 +15,7 @@ Undergraduate research positions are available in the broad area of computing sc
 
 ## <span style="color:#00204e"> `Prospective Graduate Researchers (M.Sc. and Ph.D.)` </span> 
 
-I am constantly looking for graduate students at both the M.Sc. level and the Ph.D. level.  Check out <mark>[**here**](/prospectivegrads)</mark> for what I am looking for in a prospective student.  Interested candidates should [apply here](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/index.html) and indicate me as your potential supervisor. 
+I am constantly looking for graduate students at both the M.Sc. level and the Ph.D. level. Check out <mark>[**here**](/prospectivegrads)</mark> for what I am looking for in a prospective student. 
 
 
 ## <span style="color:#00204e"> `Prospective Postdoctoral Fellows` </span>

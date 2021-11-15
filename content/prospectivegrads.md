@@ -2,9 +2,11 @@
 title: Prospective Ph.D. Students
 ---
 
+## `What I Am Looking for in A Prospective Student`
+
 My work lies in the general field of "**algorithms and decisions under uncertainty**." 
 
-The core theoretical question my research strives to answer is: **What are the best possible algorithms we can design when facing uncertain inputs**? On the practical side, I develop new decision-making tools and algorithms under different forms of uncertainty, and apply them to solve real-world problems in energy, transportation, cloud computing, resource allocation, and beyond. 
+The core theoretical question my research strives to answer is: **What are the best possible algorithms we can design when facing uncertain inputs**? On the practical side, I develop new decision-making tools and algorithms under different forms of uncertainty, and apply them to solve real-world problems in energy, transportation, networks, resource allocation, and beyond. 
 
 I enjoy the beauty of mathematics, and consider a **technically-sound and aesthetically-elegant theorem** the core of publication-worthy results. I admire good applied research, but also believe that not all research needs to have practical use -- good theory sustains over time, and may unexpectedly unleash its power. I am most excited about **connecting theory to practice with interesting intuitions and insights**. To do so, I believe it is important, and also necessary, to sacrifice a certain details of the problem.  `“I want to know how God created this world. I am not interested in this or that phenomenon. I want to know His thoughts, the rest are details.” - Albert Einstein`
 
@@ -14,12 +16,12 @@ I respect scholarship and love research, like most academics do. I consider gett
 
 ## `How to Contact Me`
 
-If you are interested in working with me, please email me your latest **CV** (in PDF) along with:
+**I am constantly looking for graduate students at both the M.Sc. level and the Ph.D. level**.  
+
+Interested candidates should [apply here](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/index.html) and indicate me as your potential supervisor.  There is no need to send me an enquiry email regarding your application. But if you do want to make personal contact with me, please attach in the email your latest **CV** (in PDF) along with:
 
 - **Statement of Interest** (one page in PDF). In your statement, please briefly summarize your previous research exprience (if any), your research interest, and justify why you are a good fit for my group. If you have any publication, please pick the one you feel the most proud of and summarize the major contribution in the statement. If you want, you can also discuss what do you see yourself after obtaining your graduate degree (e.g., pursue an academic career or work in industry). 
 
 - **Course Experience** (full transcript in PDF). We may come from different backgrounds, e.g., Computer Science, Mathematics, Operations Research, or Control, etc. I do NOT expect you to be a straight-A student in your major, but I care about your experience in math/theory courses such as calculus, linear algebra, probability, and  algorithms, etc. If you like these courses, you should be comfortable  with, and hopefully confident in, taking my [graduate course](/teaching/optcourse) --  which is a good indication. If you have done some interesting projects in these courses, it is also good to highlight them in your email.
-
-Please **attach all PDF docs in your email** (no link to external websites).  
 
 **I apologize for not being able to reply every enquiry email**. If you are already at UofA, please feel free to let me know if you want to have a chat.
