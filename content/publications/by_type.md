@@ -3,9 +3,6 @@ title: Publications (By Type)
 --- 
 
 
-[comment]: # (> I study the interplay between online algorithms, mechanism design, and machine learning, with applications to computing and networked systems in various domains, ranging from cloud computing to energy and transportation systems. Broadly, my research strives to  address systems challenges at the intersection of computation and sustainability. For more details, see my publications below [[by type]](/publications_type) or [[by year]](/publications_year).)
-
-
 
 Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type) 
 
@@ -23,7 +20,7 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
 
 ## <a id="preprints"></a> `Preprints`
 
->
+<blockquote>
 <ul class=circle>
         <script>
             var i;
@@ -36,14 +33,13 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
             }
         </script>
 </ul>
+</blockquote>
 
-
-\
 
 
 ## <a id="conference"></a> `Conference Papers`
 
->
+<blockquote>
 <ol reversed>
         <script>
             var i;
@@ -57,13 +53,12 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
             }
         </script>
 </ol>
-
-\
+</blockquote>
 
 
 ## <a id="journal"></a> `Journal Papers`
 
->
+<blockquote>
 <ol reversed>
         <script>
             var i;
@@ -77,3 +72,4 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
             }
         </script>
 </ol>
+</blockquote>

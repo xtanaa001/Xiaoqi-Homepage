@@ -18,13 +18,8 @@ footnotereturnlinkcontents = "↩"
     weight = 1
 
 [[menu.main]]
-    name = "Research"
-    url = "/research"
-    weight = 2
-
-[[menu.main]]
     name = "Publications"
-    url = "/publications_year"
+    url = "/publications"
     weight = 4
 
 [[menu.main]]
@@ -39,7 +34,7 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "Copyright &copy; 2021  [Xiaoqi Tan](https://xiaoqitan.org)"
+    footer = "Copyright &copy; 2021  [Xiaoqi Tan](/)"
 
 [blackfriday]
 hrefTargetBlank = true

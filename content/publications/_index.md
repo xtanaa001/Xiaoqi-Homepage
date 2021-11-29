@@ -15,7 +15,7 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
 
 ## <a id="preprints"></a> `Preprints`
 
->
+<blockquote>
 <ul class=circle>
         <script>
             var i;
@@ -28,14 +28,13 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
             }
         </script>
 </ul>
+</blockquote>
 
-
-\
 
 
 ## <a id="conference"></a> `Conference Papers`
 
->
+<blockquote>
 <ol reversed>
         <script>
             var i;
@@ -49,13 +48,12 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
             }
         </script>
 </ol>
-
-\
+</blockquote>
 
 
 ## <a id="journal"></a> `Journal Papers`
 
->
+<blockquote>
 <ol reversed>
         <script>
             var i;
@@ -69,3 +67,4 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
             }
         </script>
 </ol>
+</blockquote>
