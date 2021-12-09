@@ -23,7 +23,7 @@ Assistant Professor \
 I study the interplay between algorithms, decisions, and uncertainty in networked systems -- especially in highly dynamic, strategic settings where multiple agents come together, interact and possibly pursue divergent or even conflicting objectives. The goal is to develop new decision-making tools and algorithms, with provable performance guarantees, under different forms of uncertainty, using mathematical tools from computer science, optimization, economics, and control. On the practical side, my research is driven by real-world applications in energy,  transportation, networks, and resource allocation.  
 
 
-`Topics`: Online algorithms; Online optimization; Algorithmic game theory; Mechanism design; Stochastic modeling and optimization;  Smart grid; Networks; Resource allocation
+`Topics`: Online optimization; Stochastic modeling and optimization; Algorithmic game theory;   Netwoked systems; Multi-agent systems; Smart grid; Resource allocation
 
 
 For more details, see my selected recent publications below ([full publications](/publications)).  
