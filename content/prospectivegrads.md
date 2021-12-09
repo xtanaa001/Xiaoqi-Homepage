@@ -6,7 +6,7 @@ title: Prospective Ph.D. Students
 
 My research lies in the general field of "**optimization and decision-making under uncertainty**," with aplications to **networked and multi-agent systems** of various types, ranging from energy systems to transportation systems,  communication networks, and beyond. 
 
-The core question my research strives to answer is: **What are the best possible algorithms and systems we can design when facing uncertain inputs**? Depending on different types of "uncertain inputs"  (e.g., online, stochastic, or strategic settings), my research spans various topics in online optimization, stochastic modeling and optimization, and algorithmic game theory.  
+The core question my research strives to answer is: **What are the best possible algorithms and systems we can design when facing uncertain inputs**? To deal with different forms of "uncertain inputs" in algorithm and system design, my research spans various topics in online optimization, stochastic modeling and optimization, and algorithmic game theory.  
 
 I enjoy the beauty of mathematics, and consider a technically-sound and aesthetically-elegant theorem the core of publication-worthy results. I admire good applied research, but also believe that not all research needs to have practical use -- good theory sustains over time, and may unexpectedly unleash its power. I am most excited about **connecting theory to practice with interesting intuitions and insights**. To do so, I believe it is important, and also necessary, to sacrifice a certain details of the problem.  `“I want to know how God created this world. I am not interested in this or that phenomenon. I want to know His thoughts, the rest are details.” - Albert Einstein`
 
