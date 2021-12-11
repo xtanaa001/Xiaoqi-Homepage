@@ -5,7 +5,7 @@ title: Join
 
 
 
-We are a group of computer scientists, mathematicians, and systems engineers based at UofA, striving to advance the theory and practice of "optimization and decision-making under uncertainty."  Our research interests span various topics in online optimization, stochastic modeling and optimization, and algorithmic game theory, with applications to networked and multi-agent systems of various types, ranging from energy systems to transportation systems, communication networks, and beyond.  If you are interested in joining the group as an undergraduate, graduate, or postdoc, see the description below. 
+We are a group of computer scientists, mathematicians, and systems engineers based at UofA, striving to advance the theory and practice of "optimization and decision-making under uncertainty."  Our research interests span various topics in online algorithms, stochastic modeling and optimization, and algorithmic game theory, with applications to networked and multi-agent systems of various types, ranging from energy systems to transportation systems, communication networks, and beyond.  If you are interested in joining the group as an undergraduate, graduate, or postdoc, see the description below. 
 
 
 ## <span style="color:#00204e"> `Prospective Undergraduate Researchers` </span> 
