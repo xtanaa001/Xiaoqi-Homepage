@@ -16,6 +16,6 @@ title: Teaching
 ## `Fall 2021`
 
 - [CMPUT 675: Optimization and Decision Making under Uncertainty](/teaching/optcourse)
-    - Course rating: $\textsf{4.6/5}$ 
-    - Instructor rating: $\textsf{4.7/5}$ 
-    - USRI response rate: $\textsf{92\% (22/24)}$ 
+    - Course rating: `4.6/5` 
+    - Instructor rating: `4.7/5` 
+    - USRI response rate: `92% (22/24)` 
