@@ -3,13 +3,6 @@ title: Join
 ---
 
 
-<blockquote>
-<span style="color:tan">
-"As an educator and researcher, I strongly believe that when an institution accepts the registration of a student -- regardless of races, genders, religions, and classes, we are, in effect, entering a moral, ethical, and legal contract with the student to do whatever we can to help that student succeed."
-</span> 
-</blockquote>
-
-
 We are a group of computer scientists, mathematicians, and systems engineers based at UofA, striving to advance the theory and practice of "decisions under uncertainty."  Our research interests span various topics in optimization, machine learning, and algorithmic game theory, with applications to energy systems, transportation systems, communication networks, and beyond.  If you are interested in joining the group as an undergraduate, graduate, or postdoc, see the description below. 
 
 

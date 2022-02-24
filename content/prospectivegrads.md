@@ -2,6 +2,13 @@
 title: Prospective Ph.D. Students
 ---
 
+<blockquote>
+<span style="color:tan">
+As an educator and researcher, I strongly believe that when an institution accepts the registration of a student -- regardless of races, genders, religions, and classes, we are, in effect, entering a moral, ethical, and legal contract with the student to do whatever we can to help that student succeed.
+</span> 
+</blockquote>
+
+
 ## `What I Am Looking for in A Prospective Student`
 
 My research lies in the general field of "**decisions under uncertainty**," with applications to networked and multi-agent systems of various types, ranging from energy systems to transportation systems,  communication networks, and beyond. 
