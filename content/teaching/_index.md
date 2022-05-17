@@ -10,5 +10,5 @@ title: Teaching
 ## `Fall 2021`
 
 - [CMPUT 675: Optimization and Decision Making under Uncertainty](/teaching/optimization)
-  - Course rating: 4.6/5
-  - Instructor rating: 4.7/5
+  - Course rating: 4.6 / 5
+  - Instructor rating: 4.7 / 5

@@ -117,7 +117,7 @@ var papers_full = new Array (
         id : "unified_POMACS",
         name : "Mechanism Design for Online Resource Allocation: A Unified Approach",
         coauthors : new Array(authorList.XQTan, authorList.BSun, authorList.Garcia, authorList.YWu, authorList.DHKTsang),
-        journal : "ACM SIGMETRICS 2020/Proceedings of the ACM on Measurement and Analysis of Computing Systems",
+        journal : "Proceedings of the ACM on Measurement and Analysis of Computing Systems",
         pubinfo: "vol. 4, no. 2, June 2020",
         pdf: "/documents/pomacs20_mdora.pdf",
         arxiv: "https://arxiv.org/abs/2004.09640",
@@ -142,7 +142,7 @@ var papers_full = new Array (
         highlight : "yes",
         topic: "",
         //year: "2020",
-        note: "Journal version appeared in Proceedings of the ACM on Measurement and Analysis of Computing Systems, vol. 4, no. 2, June 2020",
+        //note: "Journal version appeared in Proceedings of the ACM on Measurement and Analysis of Computing Systems, vol. 4, no. 2, June 2020",
         paperAbstract : "<p>This paper concerns the mechanism design for online resource allocation in a strategic setting.  In this setting, a single supplier allocates capacity-limited resources to requests that arrive in a sequential and arbitrary manner. Each request is associated with an agent who may act selfishly to misreport the requirement and valuation of her request. The supplier charges payment from agents whose requests are satisfied, but incurs a load-dependent supply cost. The goal is to design an incentive compatible  online mechanism, which determines not only the resource allocation of each request, but also the payment of each agent,  so as to (approximately) maximize  the social welfare (i.e., aggregate valuations minus supply cost). We study this problem under the framework of competitive analysis. The major contribution of this paper is the development of a unified approach that achieves the best-possible competitive ratios for setups with different supply costs. Specifically, we show that when there is no supply cost or the supply cost function is linear, our model is essentially a standard 0-1 knapsack problem, for which our approach achieves logarithmic competitive ratios that match the state-of-the-art (which is optimal). For the more challenging setup when the supply cost is  strictly-convex, we provide online mechanisms, for the first time, that lead to the optimal competitive ratios as well.  To the best of our knowledge, this is the first approach that unifies the characterization of optimal competitive ratios in online resource allocation for different setups including zero, linear and strictly-convex supply costs.</p>",
     },
 
