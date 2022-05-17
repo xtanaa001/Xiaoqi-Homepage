@@ -4,19 +4,22 @@ title: CMPUT675 - Fall 2021
 
 <style>
 body {
-  max-width: 850px;
+  max-width: 860px;
   padding: 60px !important;
   padding-top: 20px !important;
   /*padding-right: 1.6em;*/
   padding-bottom: 20px;
   background-color: white;
   box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 3px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  box-shadow: 0px -10px 10px #275D38;
 }
 </style>
 
 
-# `CMPUT 675 (Fall 2021):`
-# `Optimization and Decision Making under Uncertainty`
+
+
+# `CMPUT 675: Optimization and Decision Making under Uncertainty`
+## Fall 2021
 
 **`Instructor`**: [Xiaoqi Tan](/) (xiaoqi.tan@ualberta.ca)\
 **`Location & Time`**:  VVC 2-227, MW 2:00pm – 3:20pm\

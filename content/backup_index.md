@@ -26,6 +26,10 @@ Assistant Professor\\
 
 ### <span style="color:#00204e">`Research Interests`</span> 
 
+I am broadly interested in optimization and decision-making under uncertainty, with applications to networked systems of various types, ranging from energy systems to transportation, communication networks, and beyond. Lately, I am particularly interested in online optimization and mechanism design, and the interplay between algorithms, incentives, and learning in real-time operation and control of networked and multi-agent systems. 
+
+
+
 Xiaoqi's research strives to advance the general field of decision intelligence. The main theme is to develop foundational theory and algorithms for decision-making problems in highly dynamic,  networked systems where multiple agents come together, interact and possibly pursue competing objectives. To deal with such challenging settings, Xiaoqi's research features mathematical rigor and interdiscipinarity, utiliting and contributing to computer science, economics,  operations research, and control. Some major research topics include:
 
 Some current topics of interest include: 

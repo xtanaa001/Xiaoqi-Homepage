@@ -21,6 +21,7 @@ My research strives to _navigate fundamental relationships between <span style="
 
 ### <span style="color:darkred">`Online Algorithms/Mechanisms`</span>
 
+<blockquote>
 <ul class=circle>
         <script>
             var i;
@@ -33,7 +34,7 @@ My research strives to _navigate fundamental relationships between <span style="
             }
         </script>
 </ul>
-
+</blockquote>
 
 <a id="networks"></a> 
 

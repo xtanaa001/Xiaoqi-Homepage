@@ -2,13 +2,13 @@
 title: Teaching
 ---
 
-## `Winter 2022 (Current)`
+## `Winter 2022`
 
-- [CMPUT 204: Algorithms I](https://eclass.srv.ualberta.ca/course/view.php?id=74981)
+- [CMPUT 204: Introduction to Algorithms](https://eclass.srv.ualberta.ca/course/view.php?id=74981) 
 
 
 ## `Fall 2021`
 
-- [CMPUT 675: Optimization and Decision Making under Uncertainty](/teaching/optcourse)
-    - Course rating: `4.6/5` 
-    - Instructor rating: `4.7/5`
+- [CMPUT 675: Optimization and Decision Making under Uncertainty](/teaching/optimization)
+  - Course rating: 4.6/5
+  - Instructor rating: 4.7/5

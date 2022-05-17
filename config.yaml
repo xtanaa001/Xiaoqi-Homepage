@@ -16,19 +16,20 @@ menu:
     - name: Home
       url: "/"
       weight: 1
+
     - name: Publications
       url: "/publications"
-      weight: 2
+      weight: 3
     - name: Teaching
       url: "/teaching"
-      weight: 3
+      weight: 4
     - name: Join
       url: "/join"
-      weight: 4
+      weight: 5
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "Copyright &copy; 2021  [Xiaoqi Tan](/)"
+  footer: "Copyright &copy; 2021-2022  [Xiaoqi Tan](/)"
 
 markup:
   highlight:

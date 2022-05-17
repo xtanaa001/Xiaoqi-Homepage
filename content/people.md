@@ -34,8 +34,7 @@ tr:hover {background-color: #F2DFCE;}
 
 |                       |                                  
 | :-------------        | :-----  
-| **Robert Joseph**     | Undergraduate, 2021~ present <br> B.Sc. Hornors in Applied Mathematics and Computing Science <br> University of Alberta                |  
-| **Johnson Wu**        | Undergraduate, 2021~ present <br> B.Sc. Hornors in Computing Science <br> University of Alberta 
-| **Qihe Zhou**         | Undergraduate, 2021~ present <br> B.Eng. Major in Petroleum Engineering and Minor in Mathematics <br> University of Alberta 
+| **Henry Vu**     | Undergraduate, 2022~ present <br> B.Sc. Hornors in Applied Mathematics and Computing Science <br> University of Alberta                |  
+| **Johnson Wu**        | Undergraduate, 2021~ present <br> B.Sc. Hornors in Applied Mathematics and Computing Science <br> University of Alberta  
 | **Siyuan Yu**         | Undergradudate, 2021~ present <br> B.Sc. Honors in Computing Science <br> University of Alberta
  

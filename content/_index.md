@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uofa_small.jpg" style="max-width:230px; min-width:230px; float:right; box-shadow: 10px 10px 3px #ccc; margin: 30px 40px 15px 1px" width="250"/>
+<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uofa_small.jpg" style="max-width:230px; min-width:230px; float:right; box-shadow: 0px 0px 5px #275D38; margin: 40px 40px 15px 1px" width="250"/>
 
 # `Xiaoqi Tan`
 
@@ -10,8 +10,8 @@ Assistant Professor \
 [Department of Computing Science](https://www.ualberta.ca/computing-science/index.html)\
 [University of Alberta](https://www.ualberta.ca/index.html)
 
-`Office`: Athabasca Hall 3-03\
-`Email`: xiaoqi.tan@ualberta.ca
+Office: Athabasca Hall 303\
+Email: xiaoqi.tan@ualberta.ca
 
 
 [Bio](/bio) | [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate)
@@ -20,11 +20,14 @@ Assistant Professor \
 
 ## `Research Interests`
 
-I am broadly interested in algorithms, optimization, and systems theory. The main theme of my research is to advance the general field of “decisions under uncertainty” by developing new mathematical tools in optimization, machine learning, and algorithmic game theory, with applications to networked and multi-agent systems of various types, ranging from energy to transportation, networking, and beyond.   
+Xiaoqi Tan's research strives to optimize the design and operation of networked systems in the presence of uncertainty. The main theme of his research is to develop new mathematical tools in the general field of "decisions under uncertainty" and apply these tools to develop new algorithms and markets with provable guarantees in  energy systems, transportation systems, communication networks, and beyond. 
 
-For more details, see my selected recent publications below ([full publications](/publications)).  
+ Lately, Xiaoqi's research focuses primarily on online optimization and mechanism design, and the interplay between algorithms, incentives, and learning in real-time operation and control of networked and multi-agent systems. 
 
-<blockquote>
+If you are interested in joining the group as an undergraduate, graduate, or postdoc, see [here](/join).
+
+## `Selected Recent Publications`
+
 <ul class=circle>
         <script>
             var i;
@@ -37,4 +40,3 @@ For more details, see my selected recent publications below ([full publications]
         }
         </script>
 </ul>
-</blockquote>

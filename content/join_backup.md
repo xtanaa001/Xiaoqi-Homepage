@@ -2,12 +2,7 @@
 title: Join
 ---
 
-
-<blockquote>
-<span style="color:tan">
-I believe that teaching in computer science should always search for a balance between rigor and intuition. Being rigorous in theory will give students the fearlessness to think critically, to challenge the status quo, and most importantly, to always seek the truth.  An intuitive understanding, on the other hand, will help students better retain important information in the courses, and hence better utilize the knowledge whenever needed -- for years, maybe even decades, to come.
-</span> 
-</blockquote>
+<span style="color:#00204e">
 
 
 ## <span style="color:#00204e"> Openings </span> 

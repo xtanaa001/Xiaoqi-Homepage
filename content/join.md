@@ -2,8 +2,9 @@
 title: Join
 ---
 
+<!-- Our research interests span various topics in optimization, machine learning, and algorithmic game theory, with applications to energy systems, transportation systems, communication networks, and beyond.   -->
 
-We are a group of computer scientists, mathematicians, and systems engineers based at UofA, striving to advance the theory and practice of "decisions under uncertainty."  Our research interests span various topics in optimization, machine learning, and algorithmic game theory, with applications to energy systems, transportation systems, communication networks, and beyond.  If you are interested in joining the group as an undergraduate, graduate, or postdoc, see the description below. 
+We are a research group based at [CS@UAlberta](https://www.ualberta.ca/computing-science/index.html), striving to optimize the design and operation of networked systems in the presence of uncertainty.  If you are interested in joining the group as an undergraduate, graduate, or postdoc, see the description below. 
 
 
 ## <span style="color:#00204e"> `Prospective Undergraduate Researchers` </span> 
@@ -18,4 +19,4 @@ I am constantly looking for graduate students at both the M.Sc. level and the Ph
 
 ## <span style="color:#00204e"> `Prospective Postdoctoral Fellows` </span>
 
-I am interested in hosting postdocs (subject to funding availability) in a variety of areas, including but not limited to: i) online algorithms; online optimization, ii) stochastic modeling, optimization, and approximation, iii) algorithmic game theory; mechanism design, and iv) energy systems and the urban energy-transport nexus. Interested candidates please email me your CV and one representative publication. I might approach you if there is a match in background and research interests. 
+I am interested in hosting postdocs (subject to funding availability) in a variety of areas, including but not limited to: i) online algorithms; online optimization, ii) stochastic modeling, optimization, and learning, iii) algorithmic game theory; mechanism design, and iv) energy systems and the urban energy-transport nexus. Interested candidates please email me your CV and one representative publication. I might approach you if there is a match in background and research interests. 
