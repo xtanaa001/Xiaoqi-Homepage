@@ -26,8 +26,6 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
             }
         </script>
 </ul>
-</blockquote>
-
 
 
 ## <a id="2021"></a> <span style="color:#00204e"> `2021` </span>
@@ -44,7 +42,6 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
             }
         </script>
 </ul>
-</blockquote>
 
 
 

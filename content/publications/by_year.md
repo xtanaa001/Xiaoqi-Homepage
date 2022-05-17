@@ -28,7 +28,6 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
             }
         </script>
 </ul>
-</blockquote>
 
 
 
@@ -46,7 +45,6 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
             }
         </script>
 </ul>
-</blockquote>
 
 
 
