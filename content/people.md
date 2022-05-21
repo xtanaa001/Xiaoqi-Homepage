@@ -34,7 +34,9 @@ tr:hover {background-color: #F2DFCE;}
 
 |                       |                                  
 | :-------------        | :-----  
-| **Henry Vu**     | Undergraduate, 2022~ present <br> B.Sc. Hornors in Applied Mathematics and Computing Science <br> University of Alberta                |  
-| **Johnson Wu**        | Undergraduate, 2021~ present <br> B.Sc. Hornors in Applied Mathematics and Computing Science <br> University of Alberta  
-| **Siyuan Yu**         | Undergradudate, 2021~ present <br> B.Sc. Honors in Computing Science <br> University of Alberta
- 
+| **Yu Wang**           | `Ph.D. Student, Fall 2022 (incoming) ~ present` <br> M.Sc. in Statistics, National University of Singapore <br> B.Sc. in Applied Mathematics, Northewestern Polytechnic University
+| **Yanzhao Wang**      | `M.Sc. Student, Fall 2022 (incoming) ~ present` <br> B.Sc. in Statistics, University of British Columbia
+| **Yanze Song**      | `Undergraduate Researcher, Summer 2022 ~ present` <br> B.Sc. in Mathematics (minor in Computing Science) <br> University of Alberta
+| **Henry Vu**          | `Undergraduate Researcher, Summer 2022 ~ present` <br> B.Sc. in Computing Science (minor in Applied Mathematics) <br> University of Alberta                |  
+| **Johnson Wu**        | `Undergraduate Researcher, Fall 2021 ~ present` <br> B.Sc. in Computing Science (minor in Applied Mathematics) <br> University of Alberta  
+| **Siyuan Yu**         | `Undergradudate Researcher, Fall 2021 ~ present` <br> B.Sc. in Computing Science <br> University of Alberta

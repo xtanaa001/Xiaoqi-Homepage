@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_uofa_small.jpg" style="max-width:230px; min-width:230px; float:right; box-shadow: 0px 0px 5px #275D38; margin: 40px 40px 15px 1px" width="250"/>
+<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_blue.jpg" style="max-width:230px; min-width:230px; float:right; box-shadow: 0px 0px 5px #275D38; margin: 40px 40px 15px 1px" width="250"/>
 
 # `Xiaoqi Tan`
 
@@ -20,7 +20,7 @@ Email: xiaoqi.tan@ualberta.ca
 
 ## `Research Interests`
 
-Xiaoqi Tan's research strives to optimize the design and operation of networked systems in the presence of uncertainty. The main theme of his research is to develop new mathematical tools in the general field of "decisions under uncertainty" and apply these tools to develop new algorithms and markets with provable guarantees in  energy systems, transportation systems, communication networks, and beyond. 
+Xiaoqi Tan's research strives to optimize the design and operation of networked systems in the presence of uncertainty. The main theme of his research is to develop new mathematical tools in the general field of "decisions under uncertainty" and apply these tools to develop new algorithms and markets with provable guarantees (e.g., robustness, effectiveness, and fairness) in  energy systems, transportation systems, communication networks, and beyond. 
 
  Lately, Xiaoqi's research focuses primarily on online optimization and mechanism design, and the interplay between algorithms, incentives, and learning in real-time operation and control of networked and multi-agent systems. 
 

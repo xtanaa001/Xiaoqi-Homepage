@@ -29,7 +29,7 @@ var papers_full = new Array (
     {
         id : "OSCC_Full_2022",
         name : "Optimal Algorithms and Lower Bounds for Online Selection with Convex Costs",
-        coauthors : new Array(authorList.XQTan, authorList.SYu, authorList.RBoutaba),
+        coauthors : new Array(authorList.XQTan, authorList.SYu, authorList.RBoutaba, authorList.Garcia),
         journal : "Preprint",
         //pubinfo: "",
         //arxiv: "",
