@@ -16,7 +16,7 @@ body {
 </style>
 
 
-# `CMPUT 204: Algorithms I`
+# `CMPUT 204: Introduction to Algorithms`
 
 ## Section B2 - Winter 2022
 
@@ -29,7 +29,7 @@ body {
 
 ## `Course Topics`
 
-1. **`Foundations.`** Concepts; Model of computation; Loop invariants and inductions; Asymptotic notations; Recurrence relations  
+1. **`Foundations.`** Concepts; Model of computation; Loop invariants and inductions; Asymptotic growth of functions; Recurrence relations  
 2. **`Data Structures.`** Heaps; Priority queue; Binary search tree; AVL tree; Hash table 
 3. **`Algorithm Design Paradigms`** 
    - **Divide and conquer**: Merge Sort; QuickSort and random quicksort; Large integer multiplication; Matrix multiplication; Advanced topics

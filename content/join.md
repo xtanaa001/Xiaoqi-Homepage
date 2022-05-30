@@ -4,7 +4,7 @@ title: Join
 
 <!-- Our research interests span various topics in optimization, machine learning, and algorithmic game theory, with applications to energy systems, transportation systems, communication networks, and beyond.   -->
 
-We are a research group based at [CS@UAlberta](https://www.ualberta.ca/computing-science/index.html), striving to optimize the design and operation of networked systems in the presence of uncertainty.  If you are interested in joining the group as an undergraduate, graduate, or postdoc, see the description below. 
+We are a research group based at [CS@UAlberta](https://www.ualberta.ca/computing-science/index.html), striving to optimize the design and operation of networked systems in dynamic, complex environments. Our mission is to conduct impactful interdisciplineary research in the general field of "decisions under uncertainty," using mathematical tools from computer science, economics, and control.  If you are interested in joining the group as an undergraduate, graduate, or postdoc, see the description below. 
 
 
 ## <span style="color:#00204e"> `Prospective Undergraduate Researchers` </span> 
