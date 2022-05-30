@@ -6,12 +6,11 @@ title: Prospective Ph.D. Students
 As an educator and researcher, I strongly believe that when an institution accepts the registration of a student - regardless of races, genders, religions, and classes, we are, in effect, entering a moral, ethical, and legal contract with the student to do whatever we can to help that student succeed.
 </span>  -->
 
+<!-- My research lies in the general field of "**decisions under uncertainty**," with applications to networked systems of various types, ranging from energy systems to transportation systems,  communication networks, and beyond.  -->
 
 ## `What I Am Looking for in A Prospective Student`
 
-My research lies in the general field of "**decisions under uncertainty**," with applications to **networked systems** of various types, ranging from energy systems to transportation systems,  communication networks, and beyond. 
-
-The core question my research strives to answer is: What are the best possible algorithms and systems we can design when facing uncertain inputs? To deal with different forms of "uncertain inputs" in algorithm and system design, my research uses mathematical tools from **optimization**, **machine learning**, **economics**, and **control**.  
+My research primarily focuses on developing algorithmic solutions to decision making problems in dynamical, networked systems. The core question my research strives to answer is: **What are the best possible algorithms and systems we can design to deal with uncertainty**? To answer this question, my research uses mathematical tools from computer science, economics, and control.  
 
 I enjoy the beauty of mathematics, and consider a technically-sound and aesthetically-elegant theorem the core of publication-worthy results. I admire good applied research, but also believe that not all research needs to have practical use -- good theory sustains over time, and may unexpectedly unleash its power. I am most excited about **connecting theory to practice with interesting intuitions and insights**. To do so, I believe it is important, and also necessary, to sacrifice certain details of the problem.  `“I want to know how God created this world. I am not interested in this or that phenomenon. I want to know His thoughts, the rest are details.” - Albert Einstein`
 
