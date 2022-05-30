@@ -23,7 +23,7 @@ Xiaoqi Tan's research strives to optimize the design and operation of networked 
 
 Lately, Xiaoqi's research focuses primarily on online optimization and mechanism design, and the interplay between algorithms, incentives, and learning in real-time operation and control of networked and multi-agent systems. 
 
-If you are interested in joining the group as an undergraduate, graduate, or postdoc, see [here](/join).
+If you are interested in working with Xiaoqi as an undergraduate, graduate, or postdoc, see [here](/join).
 
 ## `Selected Recent Publications`
 
