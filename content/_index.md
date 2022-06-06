@@ -26,7 +26,7 @@ Lately, Xiaoqi's research has been focusing on online algorithms and mechanism d
 If you are interested in joining his group as an undergraduate, graduate, or postdoc, see [Systems Optimization & Decision Analytics (SODA) Lab](https://sodalab.ca) page.
 
 
-## `Selected Recent Publications`
+<!-- ## `Selected Recent Publications`
 
 <ul class=circle>
         <script>
@@ -39,4 +39,4 @@ If you are interested in joining his group as an undergraduate, graduate, or pos
             }
         }
         </script>
-</ul>
+</ul> -->
