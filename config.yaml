@@ -18,7 +18,7 @@ menu:
       weight: 1
 
     - name: Publications
-      url: "/publications"
+      url: "https://sodalab.ca/publications"
       weight: 3
     - name: Teaching
       url: "/teaching"
