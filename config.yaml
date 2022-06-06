@@ -24,7 +24,7 @@ menu:
       url: "/teaching"
       weight: 4
     - name: Join
-      url: "/join"
+      url: "https://sodalab.ca"
       weight: 5
 
 params:
@@ -37,3 +37,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+  defaultMarkdownHandler: 'blackFriday'
+
+blackfriday:
+  hrefTargetBlank: true

@@ -19,11 +19,12 @@ Email: xiaoqi.tan@ualberta.ca
 
 ## `Research Interests`
 
-Xiaoqi Tan's research strives to optimize the design and operation of networked systems in dynamic, complex environments. The main theme of his research is to develop new mathematical tools in the general field of "`decisions under uncertainty`" and apply these tools to develop new algorithms and markets with provable guarantees (e.g., robustness, effectiveness, and fairness) in  energy systems, transportation systems, communication networks, and beyond. 
+Xiaoqi Tan's research strives to develop analytical, computational solutions to decision making problems in dynamical, networked systems. The main theme of his research is to develop new mathematical tools in the general field of "decisions under uncertainty" and apply these tools to develop new algorithms and markets with provable guarantees in  energy, transportation, and networking & distributed systems. 
 
-Lately, Xiaoqi's research focuses primarily on online optimization and mechanism design, and the interplay between algorithms, incentives, and learning in real-time operation and control of networked and multi-agent systems. 
+Lately, Xiaoqi's research focuses primarily on online algorithms and mechanism design, and the interplay between algorithms, incentives, and learning in real-time operational management of dynamical, multi-agent systems. 
 
-If you are interested in working with Xiaoqi as an undergraduate, graduate, or postdoc, see [here](/join).
+If you are interested in joining his group as an undergraduate, graduate, or postdoc, see [Systems Optimization & Decision Analytics (SODA) Lab](https://sodalab.ca) page.
+
 
 ## `Selected Recent Publications`
 

@@ -2,9 +2,10 @@
 title: Join
 ---
 
-<!-- Our research interests span various topics in optimization, machine learning, and algorithmic game theory, with applications to energy systems, transportation systems, communication networks, and beyond.   -->
 
-We are a research lab based at CS@UAlberta, striving to conduct impactful interdisciplineary research in  `Systems Optimization & Decision Analytics.`  If you are interested in joining the lab as an undergraduate, graduate, or postdoc, see the description below. 
+# <span style="color:#452325">`The SODA Lab @ UofA` </span>
+
+We are a research lab based at CS@UAlberta, striving to conduct impactful interdisciplineary research in Systems Optimization & Decision Analytics. If you are interested in joining the lab as an undergraduate, graduate, or postdoc, see the description below.
 
 
 ## <span style="color:#00204e"> `Prospective Undergraduate Researchers` </span> 
@@ -14,9 +15,9 @@ Undergraduate research positions are available in the broad area of computing sc
 
 ## <span style="color:#00204e"> `Prospective Graduate Researchers (M.Sc. and Ph.D.)` </span> 
 
-I am constantly looking for graduate students at both the M.Sc. level and the Ph.D. level. Check out [**here**](/prospectivegrads) for what I am looking for in a prospective student. 
+I am constantly looking for graduate students at both the M.Sc. level and the Ph.D. level. Check out [**here**](/prospectivegrads) for more details. 
 
 
 ## <span style="color:#00204e"> `Prospective Postdoctoral Fellows` </span>
 
-I am interested in hosting postdocs (subject to funding availability) in a variety of areas, including but not limited to: i) online algorithms; online optimization, ii) stochastic modeling, optimization, and learning, iii) algorithmic game theory; mechanism design, and iv) energy systems and the urban energy-transport nexus. Interested candidates please email me your CV and one representative publication. I might approach you if there is a match in background and research interests. 
+If you are interested in joining the lab as a postdoc, please email to xiaoqi.tan@ualberta.ca your CV and one representative publication. We might approach you if there is a match in background and research interests (subject to funding availability). 
