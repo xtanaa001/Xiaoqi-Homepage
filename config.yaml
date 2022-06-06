@@ -24,7 +24,7 @@ menu:
       url: "/teaching"
       weight: 4
     - name: Join
-      url: "https://sodalab.ca"
+      url: "https://sodalab.ca/openings"
       weight: 5
 
 params:
