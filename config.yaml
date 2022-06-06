@@ -18,13 +18,13 @@ menu:
       weight: 1
 
     - name: Publications
-      url: "https://sodalab.ca/publications"
+      url: "/publications"
       weight: 3
     - name: Teaching
       url: "/teaching"
       weight: 4
     - name: Join
-      url: "https://sodalab.ca/openings"
+      url: "/join"
       weight: 5
 
 params:
