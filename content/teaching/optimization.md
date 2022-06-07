@@ -5,7 +5,7 @@ title: CMPUT675 - Fall 2021
 <style>
 body {
   max-width: 1080px;
-  padding: 60px !important;
+  padding: 80px !important;
   padding-top: 20px !important;
   /*padding-right: 1.6em;*/
   padding-bottom: 20px;
