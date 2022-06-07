@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_blue.jpg" style="max-width:220px; min-width:220px; float:right; box-shadow: 0px 0px 5px #275D38; margin: 40px 40px 15px 1px" width="250"/>
+<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_blue.jpg" style="max-width:240px; min-width:220px; float:right; box-shadow: 0px 0px 5px #275D38; margin: 30px 40px 10px 1px" width="250"/>
 
 # `Xiaoqi Tan`
 
@@ -13,7 +13,7 @@ Assistant Professor \
 Office: Athabasca Hall 303\
 Email: $\textsf{xiaoqi.tan@ualberta.ca}$
 
-[Bio](/bio) | [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate)
+[Biography](/bio) | [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate)
 
 ---
 
