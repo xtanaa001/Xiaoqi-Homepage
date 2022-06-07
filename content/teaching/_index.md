@@ -18,6 +18,6 @@ Teaching & learning in computer science - probably in many other disciplines as 
 >
 ### CMPUT 675: Optimization and Decision Making under Uncertainty
 - Course website: [link](/teaching/optimization)
-- Course enrollment: 25-30
+- Course enrollment: 20-30
 - USRI course rating: 4.6 / 5
 - USRI instructor rating: 4.7 / 5
