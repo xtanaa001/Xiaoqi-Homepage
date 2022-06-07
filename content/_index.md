@@ -4,6 +4,7 @@ title: Home
 
 <img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_blue.jpg" style="max-width:240px; min-width:220px; float:right; box-shadow: 0px 0px 5px #275D38; margin: 30px 40px 10px 1px" width="250"/>
 
+
 # `Xiaoqi Tan`
 
 Assistant Professor \
@@ -23,8 +24,7 @@ Xiaoqi Tan's research strives to develop analytical, computational solutions to 
 
 Lately, Xiaoqi's research focuses primarily on online algorithms and mechanism design, and the interplay between algorithms, incentives (for modeling strategic behaviors), and learning (data) in real-time operational management of dynamical, multi-agent systems. 
 
-If you are interested in joining his group as an undergraduate, graduate, or postdoc, see [**Systems Optimization & Decision Analytics (SODA) Lab**](https://sodalab.ca) page.
-
+For more details, visit his research group - [**Systems Optimization & Decision Analytics Lab**](https://sodalab.ca).
 
 <!-- ## `Selected Recent Publications`
 
