@@ -5,63 +5,77 @@ title: CMPUT675 - Fall 2021
 <style>
 body {
   max-width: 1080px;
-  padding: 60px !important;
+  padding: 80px !important;
   padding-top: 20px !important;
   /*padding-right: 1.6em;*/
   padding-bottom: 20px;
-  background-color: #fff1e5;
+  /* background-color: #fff1e5; */
   box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 3px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
   box-shadow: 0px -10px 10px #275D38;
 }
 </style>
 
 
+# `CMPUT 675 - Fall 2022:`
+# `Optimization and Decision Making under Uncertainty`
 
-
-# `CMPUT 675: Optimization and Decision Making under Uncertainty`
-
-# Fall 2021
-
+>
 **`Instructor`**: [Xiaoqi Tan](/) ($ \textsf{xiaoqi.tan@ualberta.ca} $)\
 **`Location & Time`**:  VVC 2-227, MW 2:00pm – 3:20pm\
 **`Office hour`**: After class or by appointment\
-**`Slack workspace`**: Join our [Slack workspace](https://join.slack.com/t/optcourse/signup) with your $\textsf{@ualberta.ca}$ email
+<!-- **`Slack workspace`**: Join our [Slack workspace](https://join.slack.com/t/optcourse/signup) with your $\textsf{@ualberta.ca}$ email -->
 
 ---
 
 
 ## `Course Overview`
 
+>
 Many real-world problems involves making decisions, over a period of time, in the presence of different forms of uncertainty. These challenges arise in Internet advertising, energy sustainability, transportation, financial trading, healthcare, and a wide range of problems in artificial intelligence and machine learning. In different application scenarios, these speciﬁc decision problems might look different at first glance; however, the models and algorithms needed to address them are often similar. 
 
+>
 In this research-oriented course, we will review recent developments and discuss open directions in the general field of algorithmic decision-making under uncertainty via several modern optimization lenses. We will start by giving an introduction to **convex optimization**, topics in this part include basic concepts of convex sets and convex functions, canonical convex problems, Lagrange multipliers, duality theory, and KKT optimality conditions. After that, we will discuss models and algorithms to handle different forms of uncertainty in algorithmic decision-making. Some major topics to be covered include: i) **Online algorithms and online optimization**; ii) **Stochastic  optimization, learning, and approximation**; and iii) **Algorithmic game theory and mechanism design**. These topics are highly interdisciplinary -- they have strong ties to various disciplines such as theoretical computer science, artificial intelligence, machine learning,  economics, operations research, statistics, and control. The course is theoretical in nature, but most problems considered will be motivated and illustrated by practical examples.
 
 
+---
+
 ## `Course Objectives`
 
-- Understand the basics of optimization theory, methods, and applications.
-- Understand how to build rigorous mathematical models and develop efficient algorithms, with provable performance guarantees, for sequential decision-making problems under different forms of uncertainty.
-- Be well prepared to conduct research in areas such as online algorithms, online optimization, stochastic optimization and approximation, algorithmic game theory, and mechanism design.
+>
+1. Understand the basics of optimization theory, algorithms, and applications.
+>
+2. Understand how to build rigorous mathematical models and develop efficient algorithms, with provable performance guarantees, for decision-making under different forms of uncertainty.
+- Be well prepared to conduct research in areas such as online optimization, stochastic optimization, algorithmic game theory, and mechanism design.
+
+---
 
 ## `Course Policies`
 
+>
 **`Textbook`**: This course does not require any textbook. There will be references (e.g., lecture slides, notes, papers, and/or book chapters) suggested for each lecture.
 
+>
 **`Prerequisites`**: You should know material in standard UG courses in calculus, linear algebra, probability, and algorithms very well. Having some optimization background will be a bonus. 
 
+>
 **`Grading`**: Participation (10%); Assignments (20%); Project: Proposal (20%) + Presentation (20%) + Report (30%).
 
+>
 **`Homeworks`**: The assignment includes two parts. Part I consists of three questions that
 everyone must answer with rigorous proofs (no programming required). In Part II, there are three open-ended questions. You are free to pick any one from the list. Solving these questions will need some mathematical derivations, and you may also ﬁnd it necessary to write some code to demonstrate some numerical results. There is no designated programming language, but you are recommended to use Python if you can. The submission of your solution includes a written report and a link to the code (e.g., a repository in GitHub). 
 
+>
 **`Project`**: You are expected to complete a research-flavored project  which includes a proposal, an in-class presentation, and a written report. 
 
-- _Proposal_: You need to selected two papers that are related to this course, and prepare a one-page review of the main idea, methodologies, and key results of the papers selected, and another one-page proposal of what could be improved, what could be done differently, and/or other new discoveries. Your paper review and proposal will be evaluated by using a scoring grid relative to the following criteria: i) depth, rigor, and thoroughness of the review, ii) clarity and merit of the proposal, and iii) coherence between the review and the proposal. Please note that the one-page proposal is proportionally more important, and hence the name "Proposal" rather than "Paper Review".
-- _Presentation_: You will give a presentation in class -- based on your paper review and proposal.  Your presentation will be evaluated by using a scoring grid relative to the following criteria: i) clarity of the content (e.g., structure of the slides), ii) clarity of the presentation, and iii) effectiveness of addressing possible questions. These three criteria are equally important in evaluating your presentation.
-- _Report_: This is a research-oriented graduate course, and it is up to you to decide what your final report is about -- proof of a new theorem, a new implementation, or a new survey -- but it must be related to your proposal, your presentation, and of course, the topics covered by this course. Your final report will be evaluated by using a scoring grid relative to the following criteria: i) novelty, ii) consistency to the proposal and presentation, and iii) relevance to this course. Please note that **novelty** does not necessarily mean novel research results: you will be awarded bonus marks if you make novel research discoveries that are relevant to this course, but they are not necessary to get full marks in the project. For more details, please refer to our [project guidlines](https://drive.google.com/file/d/1KaYzXP7_rg-533yhI2kpgRfUBskqThR8/view?usp=sharing). 
+>
+- `Proposal`: You need to selected two papers that are related to this course, and prepare a one-page review of the main idea, methodologies, and key results of the papers selected, and another one-page proposal of what could be improved, what could be done differently, and/or other new discoveries. Your paper review and proposal will be evaluated by using a scoring grid relative to the following criteria: i) depth, rigor, and thoroughness of the review, ii) clarity and merit of the proposal, and iii) coherence between the review and the proposal. Please note that the one-page proposal is proportionally more important, and hence the name "Proposal" rather than "Paper Review".
+- `Presentation`: You will give a presentation in class -- based on your paper review and proposal.  Your presentation will be evaluated by using a scoring grid relative to the following criteria: i) clarity of the content (e.g., structure of the slides), ii) clarity of the presentation, and iii) effectiveness of addressing possible questions. These three criteria are equally important in evaluating your presentation.
+- `Report`: This is a research-oriented graduate course, and it is up to you to decide what your final report is about -- proof of a new theorem, a new implementation, or a new survey -- but it must be related to your proposal, your presentation, and of course, the topics covered by this course. Your final report will be evaluated by using a scoring grid relative to the following criteria: i) novelty, ii) consistency to the proposal and presentation, and iii) relevance to this course. Please note that **novelty** does not necessarily mean novel research results: you will be awarded bonus marks if you make novel research discoveries that are relevant to this course, but they are not necessary to get full marks in the project. For more details, please refer to our [project guidlines](https://drive.google.com/file/d/1KaYzXP7_rg-533yhI2kpgRfUBskqThR8/view?usp=sharing). 
 
+>
 For each evaluation criteria, a score will be assigned between 1 and 5 (i.e., 1: very low, 2: low, 3: medium, 4: high, 5: very high). When preparing your proposal and report, you are highly recommended to use Latex ([template](https://drive.google.com/file/d/1NqvkR7PexEccX87sLd18IwojEuv8HuVP/view?usp=sharing)). 
 
+---
 
 ## `Course Schedule` 
 
