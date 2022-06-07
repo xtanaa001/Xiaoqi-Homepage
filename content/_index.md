@@ -14,7 +14,7 @@ Assistant Professor \
 Office: Athabasca Hall 303\
 Email: $\textsf{xiaoqi.tan@ualberta.ca}$
 
-[Biography](/bio) | [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate)
+[Bio](/bio) | [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate)
 
 ---
 
