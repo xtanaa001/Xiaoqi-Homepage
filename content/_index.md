@@ -24,7 +24,7 @@ Xiaoqi Tan's research strives to develop analytical, computational solutions to 
 
 Lately, Xiaoqi's research focuses primarily on online algorithms and mechanism design, and the interplay between algorithms, incentives (for modeling strategic behaviors), and learning (data) in real-time operational management of dynamical, multi-agent systems. 
 
-For more details, visit his research group - [**Systems Optimization & Decision Analytics Lab**](https://sodalab.ca).
+For more details, visit [**Systems Optimization & Decision Analytics Lab @ UofA**](https://sodalab.ca).
 
 <!-- ## `Selected Recent Publications`
 

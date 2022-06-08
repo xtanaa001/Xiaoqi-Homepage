@@ -11,7 +11,7 @@ title: Join
 Undergraduate research positions are available in the broad area of computer science (e.g., algorithms, data science, machine learning, and systems & networks, etc.). UofA undergraduates can join the group either for summer internship, or for projects during the academic year (which is better if you want to pursue some long-term research objectives). Send your email to Dr. [Xiaoqi Tan](https://xiaoqitan.org) ($ \textsf{xiaoqi.tan@ualberta.ca} $) if you are interested. 
 
 
-## `Prospective Graduate Researchers (M.Sc. and Ph.D.)`  
+## `Prospective Graduate Researchers`  
 
 We are constantly looking for highly motivated graduate students (both M.Sc. and Ph.D.) who are interested in algorithms, optimization, machine learning, stochastic modeling and analysis, algorithmic game theory, and system implementation. Check out [**here**](https://xiaoqitan.org/prospectivegrads) for more details. 
 
