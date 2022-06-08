@@ -10,7 +10,6 @@ As an educator and researcher, I strongly believe that when an institution accep
 
 # `For Prospective Graduate Students`
 
-### `(Please read this page carefully before sending out your email)`
 
 My research focuses on developing analytical, computational solutions to decision making problems in dynamical, networked systems. The core question my research strives to answer is: What are the best possible **algorithms** and **systems** we can design to enable better **decision-making under uncertainty**? To answer this question, my research integrates various mathematical and computational tools from computer science, economics, operations research, and  control. 
 

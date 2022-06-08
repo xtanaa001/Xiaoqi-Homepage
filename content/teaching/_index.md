@@ -18,7 +18,6 @@ title: Teaching
 
 >
 ### CMPUT 675: Optimization and Decision Making under Uncertainty 
->
 - [Course website](/teaching/optimization)
 - Course enrollment: 20-30
 - USRI course rating: 4.6 / 5
