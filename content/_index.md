@@ -26,6 +26,7 @@ Lately, Xiaoqi's research focuses primarily on online algorithms and mechanism d
 
 For more details, visit [**Systems Optimization & Decision Analytics Lab @ UofA**](https://sodalab.ca).
 
+
 <!-- ## `Selected Recent Publications`
 
 <ul class=circle>
