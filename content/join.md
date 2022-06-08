@@ -22,4 +22,4 @@ If you are interested in joining the lab as a postdoc, please send your latest C
 
 ## `Prospective Visiting Researchers`
 
-We welcome visitors from a range of disciplines such as computer science, mathematics, statistics, electrical engineering, operations research, and economics. If you believe we share some common research interest and want to visit the lab, feel free to reach out.
+We welcome visitors from a range of disciplines such as computer science, applied mathematics, statistics, electrical engineering, operations research, and economics. If you believe we share some common research interest and want to visit the lab, feel free to reach out.
