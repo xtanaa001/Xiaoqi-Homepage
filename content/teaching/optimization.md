@@ -11,7 +11,7 @@ body {
   padding-bottom: 20px;
   /* background-color: #fff1e5; */
   box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 3px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
-  box-shadow: 0px -10px 10px #275D38;
+  box-shadow: 0px 0px 20px #275D38;
 }
 </style>
 
