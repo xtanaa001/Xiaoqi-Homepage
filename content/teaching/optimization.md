@@ -2,7 +2,7 @@
 title: CMPUT675 - Fall 2021
 ---
 
-<style>
+<!-- <style>
 body {
   max-width: 900px;
   padding: 60px !important;
@@ -13,7 +13,7 @@ body {
   box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 3px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
   box-shadow: 0px -32px 30px #275D38;
 }
-</style>
+</style> -->
 
 
 

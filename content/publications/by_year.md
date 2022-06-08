@@ -14,7 +14,7 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
 
 
 ## <a id="2022"></a> <span style="color:#00204e"> `2022+` </span>
->
+
 <ul class=circle>
         <script>
             var i;
@@ -31,7 +31,7 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
 
 
 ## <a id="2021"></a> <span style="color:#00204e"> `2021` </span>
->
+
 <ul class=circle>
         <script>
             var i;
@@ -48,7 +48,7 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
 
 
 ## <a id="2020"></a> <span style="color:#00204e"> `2020` </span>
->
+
 <ul class=circle>
         <script>
             var i;
@@ -64,7 +64,7 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
 
 
 ## <a id="2019"></a> <span style="color:#00204e"> `2019` </span>
->
+
 <ul class=circle>
         <script>
             var i;
@@ -80,7 +80,7 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
 
 
 ## <a id="2018"></a> <span style="color:#00204e"> `2018` </span>
->
+
 <ul class=circle>
         <script>
             var i;
@@ -97,7 +97,7 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
 
 
 ## <a id="2017"></a> <span style="color:#00204e"> `2017` </span>
->
+
 <ul class=circle>
         <script>
             var i;
@@ -115,7 +115,7 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
 
 
 ## <a id="2016"></a> <span style="color:#00204e"> `2016` </span>
->
+
 <ul class=circle>
         <script>
             var i;
@@ -148,7 +148,7 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
 
 
 ## <a id="2014"></a> <span style="color:#00204e"> `2014` </span>
->
+
 <ul class=circle>
         <script>
             var i;
@@ -164,7 +164,7 @@ Sort [[by year]](/publications/by_year) or [[by type]](/publications/by_type)
 
 
 ## <a id="2013"></a> <span style="color:#00204e"> `2013` </span>
->
+
 <ul class=circle>
         <script>
             var i;
