@@ -24,12 +24,10 @@ Xiaoqi Tan's research strives to develop efficient, robust, and explainable solu
 
 Lately, Xiaoqi's research focuses primarily on online optimization and mechanism design, and the interplay between algorithms, incentives (for modeling strategic behaviors), and data (for learning) in design and analysis of large-scale dynamical, multi-agent systems. 
 
-If you are interested in joining his research group as an undergraduate, graduate, or postdoc, visit the [**Systems Optimization & Decision Analytics (SODA) Lab @ UofA**](https://sodalab.ca).
+For more details about Xiaoqi's research, or if you are interested in working with him as an undergraduate, graduate, or postdoc, visit the [**Systems Optimization & Decision Analytics (SODA) Lab @ UofA**](https://sodalab.ca).
 
-\
 
->
-<mark>**`Openings`**</mark>: The [SODA Lab @ UofA](https://sodalab.ca) is currently seeking a Postdoctoral Research Fellow for a range of (algorithms + systems)-related research projects on: i) online / stochastic optimization, ii) mechanism / market design, and iii) dynamical / multi-agent systems. Experience in power systems, electricity markets, and network economics is a plus but not required. Interested candidates should email their CV + one representative publication to Dr. [Xiaoqi Tan](https://xiaoqitan.org) ($ \textsf{xiaoqi.tan@ualberta.ca} $).
+<!-- <mark>**`Openings`**</mark>: The [SODA Lab @ UofA](https://sodalab.ca) is currently seeking a Postdoctoral Research Fellow for a range of (algorithms + systems)-related research projects on: i) online / stochastic optimization, ii) mechanism / market design, and iii) dynamical / multi-agent systems. Experience in power systems, electricity markets, and network economics is a plus but not required. Interested candidates should email their CV + one representative publication to Dr. [Xiaoqi Tan](https://xiaoqitan.org) ($ \textsf{xiaoqi.tan@ualberta.ca} $). -->
 
 
 ## `Selected Recent Publications`
