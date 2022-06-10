@@ -20,11 +20,13 @@ Email: $\textsf{xiaoqi.tan@ualberta.ca}$
 
 ## `Research Interests`
 
-Xiaoqi Tan's research strives to develop efficient, robust, and explainable solutions to decision making problems in dynamical, networked systems. The main theme of his research is to develop new mathematical tools in the general field of "_decisions under uncertainty_" and apply these tools to develop new algorithms and markets with provable guarantees in  energy systems, transportation systems, networking and distributed systems, and beyond. 
+Xiaoqi Tan's research strives to develop efficient, robust, and explainable solutions to decision making problems in dynamical, networked systems. The main theme of his research is to develop new mathematical tools in the general field of "decisions under uncertainty" and apply these tools to develop new algorithms and markets with provable guarantees in  energy systems, transportation systems, networking and distributed systems, and beyond. 
 
-Lately, Xiaoqi's research focuses primarily on _online optimization_ and _mechanism design_, and the interplay between _algorithms_, _incentives_ (for modeling strategic behaviors), and _data_ (for learning) in design and analysis of large-scale dynamical, multi-agent systems. 
+Lately, Xiaoqi's research focuses primarily on online optimization and mechanism design, and the interplay between algorithms, incentives (for modeling strategic behaviors), and data (for learning) in design and analysis of large-scale dynamical, multi-agent systems. 
 
 If you are interested in joining his research group as an undergraduate, graduate, or postdoc, visit the [**Systems Optimization & Decision Analytics (SODA) Lab @ UofA**](https://sodalab.ca).
+
+\
 
 >
 <mark>**`Openings`**</mark>: The [SODA Lab @ UofA](https://sodalab.ca) is currently seeking a Postdoctoral Research Fellow for a range of (algorithms + systems)-related research projects on: i) online / stochastic optimization, ii) mechanism / market design, and iii) dynamical / multi-agent systems. Experience in power systems, electricity markets, and network economics is a plus but not required. Interested candidates should email their CV + one representative publication to Dr. [Xiaoqi Tan](https://xiaoqitan.org) ($ \textsf{xiaoqi.tan@ualberta.ca} $).
