@@ -10,6 +10,9 @@ As an educator and researcher, I strongly believe that when an institution accep
 
 # `For Prospective Graduate Students`
 
+First of all, thank you very much for visiting this page!! 
+
+My name is [Xiaoqi Tan](https://xiaoqitan.org), an Assistant Professor of Computing Science at the University of Alberta. 
 
 My research focuses on developing efficient, robust, and explainable solutions to decision making problems in dynamical, networked systems. The core question my research strives to answer is: What are the best possible **algorithms** and/or **systems** we can design to enable better **decision-making under uncertainty**? To answer this question, my research integrates various mathematical and computational tools from computer science, economics, operations research, and  control. 
 
