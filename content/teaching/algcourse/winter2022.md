@@ -1,24 +1,11 @@
 ---
-title: CMPUT675 - Fall 2021
+title: CMPUT 204 - Winter 2022
 ---
-
-<style>
-body {
-  max-width: 860px;
-  padding: 60px !important;
-  padding-top: 20px !important;
-  /*padding-right: 1.6em;*/
-  padding-bottom: 20px;
-  background-color: white;
-  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 3px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
-  box-shadow: 0px -10px 10px #275D38;
-}
-</style>
 
 
 # `CMPUT 204: Introduction to Algorithms`
 
-## Section B2 - Winter 2022
+# Section B2 - Winter 2022
 
 **`Instructor`**: [Xiaoqi Tan](/) (xiaoqi.tan@ualberta.ca)\
 **`Location & Time`**:  C E1-60; MWF 11:00–11:50am\
@@ -28,7 +15,7 @@ body {
 
 
 ## `Course Topics`
-
+>
 1. **`Foundations.`** Concepts; Model of computation; Loop invariants and inductions; Asymptotic growth of functions; Recurrence relations  
 2. **`Data Structures.`** Heaps; Priority queue; Binary search tree; AVL tree; Hash table 
 3. **`Algorithm Design Paradigms`** 
@@ -98,6 +85,7 @@ body {
 
 ## `Some Advices`
 
+>
 1. **`How to use the course material`** 
     - **Pre-lectures**: Go through the lecture notes and slides before each lecture. Failure to do so will make it very hard to follow the lectures in class. This session is recommended for every student with at least 30 minutes.
     - **Post-lectures**:  Review the lecture notes and slides after each lecture. This is recommended for every student, especially when you are confused about some topics discussed in class. at least 30 minutes.

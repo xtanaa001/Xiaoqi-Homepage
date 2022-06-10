@@ -26,20 +26,20 @@ var papers_full = new Array (
     //     //paperAbstract : "<p></p>",
     // },
 
-    {
-        id : "OSCC_Full_2022",
-        name : "Optimal Algorithms and Lower Bounds for Online Selection with Convex Costs",
-        coauthors : new Array(authorList.XQTan, authorList.SYu, authorList.RBoutaba, authorList.Garcia),
-        journal : "Preprint",
-        //pubinfo: "",
-        //arxiv: "",
-        //pdf: "/documents/.pdf",
-        highlight : "yes",
-        topic: "O",
-        year: "2022",
-        note: "Full version is available upon request",
-        //paperAbstract : "<p>We study a novel online optimization problem, termed online selection with convex costs (OSCC). In OSCC, there is a sequence of items, each with a value that remains unknown before its arrival. At each step when there is a new arrival, we need to make an irrevocable decision in terms of whether to accept this item and take its value, or to reject it. The crux of OSCC is that we must pay for an increasing and convex cost associated with the number of items accepted, namely, it is increasingly more difficult to accommodate additional items. The goal is to develop an online algorithm that ac- cepts/selects a subset of items, without any prior statistical knowledge of future arrival information, to maximize the so- cial surplus, namely, the sum of the accepted items’ values minus the total cost. Our main result is the development of a threshold policy that is logistically-simple and easy to im- plement, but has provable optimality guarantees among all deterministic online algorithms.</p>",
-    },
+    // {
+    //     id : "OSCC_Full_2022",
+    //     name : "Optimal Algorithms and Lower Bounds for Online Selection with Convex Costs",
+    //     coauthors : new Array(authorList.XQTan, authorList.SYu, authorList.RBoutaba, authorList.Garcia),
+    //     journal : "Preprint",
+    //     //pubinfo: "",
+    //     //arxiv: "",
+    //     //pdf: "/documents/.pdf",
+    //     highlight : "yes",
+    //     topic: "O",
+    //     year: "2022",
+    //     note: "Full version is available upon request",
+    //     //paperAbstract : "<p>We study a novel online optimization problem, termed online selection with convex costs (OSCC). In OSCC, there is a sequence of items, each with a value that remains unknown before its arrival. At each step when there is a new arrival, we need to make an irrevocable decision in terms of whether to accept this item and take its value, or to reject it. The crux of OSCC is that we must pay for an increasing and convex cost associated with the number of items accepted, namely, it is increasingly more difficult to accommodate additional items. The goal is to develop an online algorithm that ac- cepts/selects a subset of items, without any prior statistical knowledge of future arrival information, to maximize the so- cial surplus, namely, the sum of the accepted items’ values minus the total cost. Our main result is the development of a threshold policy that is logistically-simple and easy to im- plement, but has provable optimality guarantees among all deterministic online algorithms.</p>",
+    // },
 
     {
         id : "OSCC_2022",
@@ -52,7 +52,7 @@ var papers_full = new Array (
         highlight : "yes",
         topic: "O",
         year: "2022",
-        //note: "Full version is available upon request",
+        note: "Full version is available upon request",
         paperAbstract : "<p>We study a novel online optimization problem, termed online selection with convex costs (OSCC). In OSCC, there is a sequence of items, each with a value that remains unknown before its arrival. At each step when there is a new arrival, we need to make an irrevocable decision in terms of whether to accept this item and take its value, or to reject it. The crux of OSCC is that we must pay for an increasing and convex cost associated with the number of items accepted, namely, it is increasingly more difficult to accommodate additional items. The goal is to develop an online algorithm that accepts/selects a subset of items, without any prior statistical knowledge of future arrival information, to maximize the social surplus, namely, the sum of the accepted items’ values minus the total cost. Our main result is the development of a threshold policy that is logistically-simple and easy to implement, but has provable optimality guarantees among all deterministic online algorithms.</p>",
     },
 
