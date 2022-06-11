@@ -117,7 +117,7 @@ var papers_full = new Array (
         id : "unified_POMACS",
         name : "Mechanism Design for Online Resource Allocation: A Unified Approach",
         coauthors : new Array(authorList.XQTan, authorList.BSun, authorList.Garcia, authorList.YWu, authorList.DHKTsang),
-        journal : "Proceedings of the ACM on Measurement and Analysis of Computing Systems",
+        journal : "Proceedings of the ACM on Measurement and Analysis of Computing Systems (SIGMETRICS)",
         pubinfo: "vol. 4, no. 2, June 2020",
         pdf: "/documents/pomacs20_mdora.pdf",
         arxiv: "https://arxiv.org/abs/2004.09640",
