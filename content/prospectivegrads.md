@@ -25,7 +25,7 @@ I respect scholarship and love research, like most academics do. I consider gett
 ## `How to Contact Me`
 
 >
-I am directing the [**Systems Optimization & Decision Analytics (SODA) Lab @ UofA**](https://sodalab.ca). We are constantly looking for graduate students at both the M.Sc. and Ph.D. level. Interested candidates should <mark>[**apply here**](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/index.html)</mark> and indicate me as your potential supervisor.  There is no need to send me an enquiry email regarding your application. But if you do want to make personal contact with me, please attach in the email your latest **CV** (in PDF) along with:
+I am directing the [**SODALab @ UofA**](https://sodalab.ca). We are constantly looking for graduate students at both the M.Sc. and Ph.D. level. Interested candidates should <mark>[**apply here**](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/index.html)</mark> and indicate me as your potential supervisor.  There is no need to send me an enquiry email regarding your application. But if you do want to make personal contact with me, please attach in the email your latest **CV** (in PDF) along with:
 
 >
 - **Statement of Interest** (one page in PDF). Your statement should briefly summarize your previous research experience (if any), your research interest, and justify why you are a good fit for my group (see [SODA Lab](https://sodalab.ca) page for more details). If you have any publication, pick the one you feel the most proud of and summarize the major contribution in the statement. If you wish, you can also discuss what you see yourself after obtaining your graduate degree (e.g., pursue an academic career or work in industry). 
