@@ -20,7 +20,7 @@ Email: $\textsf{xiaoqi.tan@ualberta.ca}$
 
 ## `Research Interests`
 
-Xiaoqi Tan's research strives to develop efficient, robust, and explainable solutions to decision making problems in dynamical, networked systems. The main theme of his research is to develop new mathematical tools in the general field of "decisions under uncertainty" and apply these tools to develop new algorithms and markets with provable guarantees in  energy systems, transportation systems, networking and distributed systems, and beyond. 
+Xiaoqi Tan's research strives to develop efficient, robust, and explainable solutions to decision making problems in dynamical, networked systems. The main theme of his research is to develop new mathematical tools in the general field of "optimization and decision-making under uncertainty" and apply these tools to develop new algorithms and markets with provable guarantees in  energy systems, transportation systems, networking and distributed systems, and beyond. 
 
 Lately, Xiaoqi's research focuses primarily on online optimization and mechanism design, and the interplay between algorithms, incentives (for modeling strategic behaviors), and data (for learning) in design and analysis of large-scale dynamical, multi-agent systems. 
 
