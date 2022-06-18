@@ -59,7 +59,7 @@ var papers_full = new Array (
     {
         id : "NOMA_MEC_2022",
         name : "Energy-Efficient Resource Allocation and Subchannel Assignment for NOMA-Enabled Multiaccess Edge Computing",
-        coauthors : new Array(authorList.LLiu, authorList.BSun, authorList.XQTan, authorList.YSXiao, authorList.DHKTsang),
+        coauthors : new Array(authorList.LLiu, authorList.BSun, authorList.XQTan, authorList.DHKTsang),
         journal : "IEEE Systems Journal",
         pubinfo: "vol. 16, no. 1, pp. 1558-1569, March 2022",
         pdf: "/documents/NOMA_MEC_2022.pdf",
