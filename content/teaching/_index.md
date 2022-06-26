@@ -2,7 +2,8 @@
 title: Teaching
 ---
 
-<!-- I enjoy searching for a balance between rigor and intuition in teaching and learning. I believe that being rigorous in theory will give us the fearlessness to think critically, to challenge the status quo, and most importantly, to always pursue the truth without ambiguity. An intuitive understanding, on the other hand, will help us better retain important information in our learning, and hence better utilize the knowledge whenever needed - in years or even decades to come. -->
+<!-- I enjoy searching for a balance between rigor and intuition in teaching (and in my research as well). I believe that being rigorous in theory will give us the fearlessness to think critically, to challenge the status quo, and most importantly, to always pursue the truth without ambiguity. An intuitive understanding, on the other hand, will help us better retain important information in our learning, and hence better utilize the knowledge whenever needed - in years or even decades to come. -->
+
 
 ## `Winter 2022`
 >
