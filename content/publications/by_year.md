@@ -1,6 +1,5 @@
 ---
 title: Publications (By Year)
-author:
 --- 
 
 
