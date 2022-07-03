@@ -13,7 +13,7 @@ Undergraduate research positions are available in the broad area of computer sci
 
 ## `Prospective Graduate Researchers`  
 >
-We are constantly looking for highly motivated graduate students (both M.Sc. and Ph.D.) who are interested in algorithms, optimization, machine learning, stochastic modeling and control, economics and computation, and system implementation. Check out [**here**](https://xiaoqitan.org/prospectivegrads) for more details. 
+We are constantly looking for highly motivated graduate students (both M.Sc. and Ph.D.) who are interested in algorithms, optimization, machine learning, economics, and control. Check out [**here**](https://xiaoqitan.org/prospectivegrads) for more details. 
 
 
 ## `Prospective Postdoctoral Research Fellows`
