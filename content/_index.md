@@ -21,7 +21,7 @@ Email: $\textsf{xiaoqi.tan@ualberta.ca}$
 ---
 
 >
-Xiaoqi Tan's research strives to develop effective, robust, and explainable solutions to decision-making problems in dynamical, networked systems. The main theme is to develop  analytical and computational tools in the general field of "_optimization and decision-making under uncertainty_" and apply these tools to develop new algorithms and markets with provable guarantees in  energy systems, transportation systems, networking and distributed systems, and beyond. 
+Xiaoqi Tan's research strives to develop effective, robust, and explainable solutions to decision-making problems in dynamical, networked systems. The main theme is to develop  analytical and computational tools in the general field of "optimization and decision-making under uncertainty" and apply these tools to develop new algorithms and markets with provable guarantees in  energy systems, transportation systems, networking and distributed systems, and beyond. 
 
 >
 Xiaoqi is constantly looking for highly motivated students (undergraduate + graduate) who are interested in algorithms, optimization, machine learning, economics, and control. If you are already at UofA and want to join his lab, feel free to send your CV + transcript to $\textsf{𝗑𝗂𝖺𝗈𝗊𝗂.𝗍𝖺𝗇@𝗎𝖺𝗅𝖻𝖾𝗋𝗍𝖺.𝖼𝖺}$. For prospective students who are not currently enrolled at UofA, see [here](/prospectivegrads). 

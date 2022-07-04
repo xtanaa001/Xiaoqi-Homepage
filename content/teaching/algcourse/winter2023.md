@@ -5,9 +5,9 @@ title: CMPUT 204 - Winter 2022
 
 # `CMPUT 204: Introduction to Algorithms`
 
-# Section B2 - Winter 2022
+# Section B2 - Winter 2023
 
-**`Instructor`**: [Xiaoqi Tan](/) (xiaoqi.tan@ualberta.ca)\
+**`Instructor`**: [Xiaoqi Tan](/) ($\textsf{xiaoqi.tan@ualberta.ca}$)\
 **`Location & Time`**:  C E1-60; MWF 11:00–11:50am\
 **`Office hour`**: Wednesday 2-3pm
 
@@ -26,7 +26,7 @@ title: CMPUT 204 - Winter 2022
 
 ## `Course Schedule` 
 
-| DATE     | TOPICS                           |  REFERENCES             |
+| Date     | Topics                           |  References             |
 |:-------------   | :-----                    |  :-----                 |
 |          |   **`Week 1: Introduction; Insertion Sort`**                               |   [CLRS](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch1-Ch4    |
 | Jan 5 | Course overview     |    [Lecture 1-slides](https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing)<br> [Lecture 1-video](https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing)                    |
