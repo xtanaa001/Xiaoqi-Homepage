@@ -36,7 +36,7 @@ tr:hover {background-color: #F2DFCE;}
 
 I am directing the [**Systems Optimization & Decision Analytics Lab (SODALab)**](https://sodalab.ca) at the University of Alberta, striving to develop effective, robust, and explainable solutions to decision-making problems in dynamical, networked systems. The research mission in my lab is twofold: to develop new analytical and computational tools in the general field of “optimization and decision-making under uncertainty,” and to apply these tools to develop new algorithms and markets with provable guarantees in energy systems, transportation systems, networking and distributed systems, and beyond. 
 
-Lately, research in my lab focuses primarily on online optimization and mechanism design, with particular emphasis on exploring the interplay between algorithms, incentives (for modeling strategic behaviors), and data for online decision-making in the presence of uncertainty and self-interested agents. 
+Lately, research in my lab focuses primarily on online optimization and mechanism design, with particular emphasis on exploring the interplay between _algorithms_, _incentives_ (for modeling strategic behaviors), and _data_ for online decision-making in the presence of uncertainty and self-interested agents. 
 
 
 <!-- Some current research topics include ():
