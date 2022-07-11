@@ -15,16 +15,19 @@ Assistant Professor \
 Office: Athabasca Hall 303\
 Email: $\textsf{xiaoqi.tan@ualberta.ca}$
 
-[Bio](/bio) | [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate)
+[Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate)
 
 
 ---
 
->
-Xiaoqi Tan's research strives to develop effective, robust, and explainable solutions to decision-making problems in dynamical, networked systems. The main theme is to develop  analytical and computational tools in the general field of "optimization and decision-making under uncertainty" and apply these tools to develop new algorithms and markets with provable guarantees in  energy systems, transportation systems, networking and distributed systems, and beyond. 
+Xiaoqi Tan is an Assistant Professor in the [Dept. of Computing Science](https://www.ualberta.ca/computing-science/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html). Prior to July 2021, he was a Postdoctoral Fellow at the [University of Toronto](https://www.utoronto.ca/). He received his Ph.D.  from [HKUST](https://hkust.edu.hk/) in 2018. During his Ph.D.,  he was also a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).  
 
->
-Xiaoqi is constantly looking for highly motivated students (undergraduate + graduate) who are interested in algorithms, optimization, machine learning, economics, and control. If you are already at UofA and want to join his lab, feel free to send your CV + transcript to $\textsf{𝗑𝗂𝖺𝗈𝗊𝗂.𝗍𝖺𝗇@𝗎𝖺𝗅𝖻𝖾𝗋𝗍𝖺.𝖼𝖺}$. For prospective students who are not currently enrolled at UofA, see [here](/prospectivegrads). 
+Xiaoqi's current research interests lie broadly in algorithms, optimization, and decision-making under uncertainty, with  applications to dynamical, networked systems of various types, such as electrical grid, transportation systems, cloud/edge computing, Internet of Things, and beyond. See [here](/research) for more details.
+
+**Prospective Students/Postdocs**: If you are interested in working with Xiaoqi as an undergraduate, graduate, or postdoc, click [here](https://sodalab.ca) for current openings in his lab.
+
+<!-- >
+My research focuses on developing algorithms with provable guarantees in the general field of “optimization and decision-making under uncertainty,” especially in online decision-making settings. On the practical side, my research is motivated by applications in networked systems that have a profound impact on sustainability, such as energy systems, transportation systems, networking and distributed systems, and beyond. For more details, see [here](/research). -->
 
 
 <!-- If you are interested in working with Xiaoqi as an undergraduate, graduate, or postdoc, click [here](https://sodalab.ca) for current openings in his lab. -->

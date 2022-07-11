@@ -34,10 +34,9 @@ tr:hover {background-color: #F2DFCE;}
 <img alt="SODALab @ UofA (May 2022)" src="/img/SODALab_research.png" style="min-width:220px; float:center; margin: 40px 1px 10px 1px" width="1000"/>
 </div>
 
-I am directing the [**Systems Optimization & Decision Analytics Lab (SODALab)**](https://sodalab.ca) at the University of Alberta, striving to develop effective, robust, and explainable solutions to decision-making problems in dynamical, networked systems. The research mission in my lab is twofold: to develop new analytical and computational tools in the general field of “optimization and decision-making under uncertainty,” and to apply these tools to develop new algorithms and markets with provable guarantees in energy systems, transportation systems, networking and distributed systems, and beyond. 
+I am directing the [**Systems Optimization & Decision Analytics Lab (SODALab)**](https://sodalab.ca) at the University of Alberta, striving to develop effective, robust, and explainable solutions to decision-making problems in dynamical, networked systems. Specifically, the research mission in my lab is twofold: i) to develop new algorithms with provable guarantees in the general field of “optimization and decision-making under uncertainty,” especially in online decision-making settings,  and ii) to apply these algorithms to address real-world challenges in dynamical, networked systems that have a profound impact on sustainability, such as electrical grid, transportation systems, cloud/edge computing, Internet of Things, and beyond. 
 
-Lately, research in my lab focuses primarily on online optimization and mechanism design, with particular emphasis on exploring the interplay between _algorithms_, _incentives_ (for modeling strategic behaviors), and _data_ for online decision-making in the presence of uncertainty and self-interested agents. 
-
+Lately, research in my lab focuses primarily on online optimization and multi-agent decision-making, with particular emphasis on exploring the interplay between algorithms, incentives (for modeling strategic behaviors), and data for online decision-making in the presence of uncertainty and self-interested agents.
 
 <!-- Some current research topics include ():
 
@@ -57,13 +56,11 @@ Lately, research in my lab focuses primarily on online optimization and mechanis
 
 ## `Research Topics`
 >
-- Online algorithms; Online optimization 
-- Mechanism design; Multi-agent decision-making
-- Data-driven optimization/decision-making under uncertainty
+- Online optimization, learning, and decision-making 
+- Mechanism design; Auctions; Multi-agent decision-making
 - Network economics; Online resource allocation and pricing
-- Smart grid; Transactive energy; Electricity markets
-- Energy and mobility management of electric vehicles
-- Energy-efficient networking; Sustainable computing
+- Smart grid; Electricity markets; Electric vehicle charging
+- Sustainable computing; Energy-efficient networking
 
 ## `Recent Publications (`[**Full List**](https://sodalab.ca/publications)`)`
 >
