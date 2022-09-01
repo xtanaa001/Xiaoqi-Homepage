@@ -20,9 +20,13 @@ Email: $\textsf{xiaoqi.tan@ualberta.ca}$
 
 ---
 
-Xiaoqi Tan is an Assistant Professor in the [Dept. of Computing Science](https://www.ualberta.ca/computing-science/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html). Prior to July 2021, he was a Postdoctoral Fellow at the [University of Toronto](https://www.utoronto.ca/). He received his Ph.D.  from [HKUST](https://hkust.edu.hk/) in 2018. During his Ph.D.,  he was also a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).  
+<!-- and a Fellow of the [Alberta Machine Intelligence Institute (Amii)](https://amii.ca) -->
 
-Xiaoqi's current research interests lie broadly in algorithms, optimization, and decision-making under uncertainty, with  applications to dynamical, networked systems of various types, such as electrical grid, transportation systems, cloud/edge computing, Internet of Things, and beyond. See [here](/research) for more details.
+>
+Xiaoqi Tan is an Assistant Professor of [Computing Science](https://www.ualberta.ca/computing-science/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html). Prior to July 2021, he was a Postdoctoral Fellow at the [University of Toronto](https://www.utoronto.ca/). He received his Ph.D.  from [HKUST](https://hkust.edu.hk/) in 2018. During his Ph.D.,  he was also a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).  
+
+>
+Xiaoqi’s research interests span various topics in optimization and decision-making under uncertainty, with a particular focus on exploring the interplay between algorithms, incentives (for modeling strategic behaviors), and data (for learning and prediction) in online/multi-agent decision-making. Specific topics from his recent focus include [online optimization](https://en.wikipedia.org/wiki/Online_optimization), [learning-augmented algorithms](https://en.wikipedia.org/wiki/Learning_augmented_algorithm), and [algorithmic mechanism design](https://en.wikipedia.org/wiki/Algorithmic_mechanism_design). On the practical side, his research is primarily driven by applications such as smart grid, urban transportation-energy nexus, and cloud computing, etc. 
 
 **Prospective Students/Postdocs**: If you are interested in working with Xiaoqi as an undergraduate, graduate, or postdoc, click [here](https://sodalab.ca) for current openings in his lab.
 

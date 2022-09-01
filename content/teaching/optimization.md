@@ -1,102 +1,109 @@
 ---
-title: CMPUT675 - Fall 2021
+title: CMPUT675 - Fall 2022
 ---
 
-<!-- <style>
-body {
-  max-width: 900px;
-  padding: 60px !important;
-  padding-top: 20px !important;
-  /*padding-right: 1.6em;*/
-  padding-bottom: 20px;
-  /* background-color: #fff1e5; */
-  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 3px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
-  box-shadow: 0px -32px 30px #275D38;
+<style>
+
+blockquote {
+  margin: auto;
+  background: #fff1e5; /* #fff1e5; /*#f9f9f9*/
+  /*border: 0px solid #F2DFCE;*/    
+  border-left: 10px solid #F2DFCE;
+  padding: 0.02px 1em 0.02px 1em;
+  /* 
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 4px, rgba(0, 0, 0, 0.3) 0px 0px 0px -3px, rgba(0, 0, 0, 0.2) 0px 0px 0px inset;
+  */
 }
-</style> -->
 
+</style>
 
-
-
-# `CMPUT 675: Optimization and Decision Making under Uncertainty`
-
-# Fall 2021
+# `CMPUT 676: Optimization and Decision-Making under Uncertainty`
+#  Fall 2022
 
 **`Instructor`**: [Xiaoqi Tan](/) ($ \textsf{xiaoqi.tan@ualberta.ca} $)\
-**`Location & Time`**:  VVC 2-227, MW 2:00pm – 3:20pm\
+**`Location & Time`**:  CAB 369, MW 2:00pm – 3:20pm\
 **`Office hour`**: After class or by appointment\
-**`Slack workspace`**: Join our [Slack workspace](https://join.slack.com/t/optcourse/signup) with your $\textsf{@ualberta.ca}$ email
+<!-- **`Slack workspace`**: Join our [Slack workspace](https://join.slack.com/t/optcourse/signup) with your $\textsf{@ualberta.ca}$ email -->
 
 ---
 
-
 ## `Course Overview`
-
+>
 Many real-world problems involves making decisions, over a period of time, in the presence of different forms of uncertainty. These challenges arise in Internet advertising, energy sustainability, transportation, financial trading, healthcare, and a wide range of problems in artificial intelligence and machine learning. In different application scenarios, these speciﬁc decision problems might look different at first glance; however, the models and algorithms needed to address them are often similar. 
 
-In this research-oriented course, we will review recent developments and discuss open directions in the general field of algorithmic decision-making under uncertainty via several modern optimization lenses. We will start by giving an introduction to **convex optimization**, topics in this part include basic concepts of convex sets and convex functions, canonical convex problems, Lagrange multipliers, duality theory, and KKT optimality conditions. After that, we will discuss models and algorithms to handle different forms of uncertainty in algorithmic decision-making. Some major topics to be covered include: i) **Online algorithms and online optimization**; ii) **Stochastic  optimization, learning, and approximation**; and iii) **Algorithmic game theory and mechanism design**. These topics are highly interdisciplinary -- they have strong ties to various disciplines such as theoretical computer science, artificial intelligence, machine learning,  economics, operations research, statistics, and control. The course is theoretical in nature, but most problems considered will be motivated and illustrated by practical examples.
+>
+In this research-oriented course, we will review recent developments and discuss open directions in the general field of decision-making under uncertainty via several modern optimization lenses. We will start by giving a brief introduction to **convex optimization**. Topics in this part include basic concepts of convex sets and convex functions, canonical convex problems, Lagrange multipliers, duality theory, KKT optimality conditions, and standard convex optimization algorithms. After that, we will discuss models and algorithms to handle different forms of uncertainty in optimization and decision-making. Major topics to be covered include: i) **Online algorithms and Online optimization**; ii) **Stochastic  optimization, learning, and approximation**; and iii) **Algorithmic game theory + Mechanism design**. These topics are highly interdisciplinary -- they have strong ties to various disciplines such as theoretical computer science, artificial intelligence, machine learning,  economics, operations research, statistics, and control. The course is theoretical in nature, but most problems considered will be motivated and illustrated by practical examples.
 
 
 ## `Course Objectives`
+>
+1. Understand the basics of optimization theory, algorithms, and applications.
+>
+2. Understand how to build rigorous mathematical models and develop efficient algorithms, with provable guarantees, for optimization and decision-making under different forms of uncertainty.
+- Be well prepared to conduct research in areas such as i) online optimization, learning, and decision-making; ii) stochastic optimization, learning, and approximation; and iii) algorithmic game theory, mechanism design, and auctions.
 
-- Understand the basics of optimization theory, methods, and applications.
-- Understand how to build rigorous mathematical models and develop efficient algorithms, with provable performance guarantees, for sequential decision-making problems under different forms of uncertainty.
-- Be well prepared to conduct research in areas such as online algorithms, online optimization, stochastic optimization and approximation, algorithmic game theory, and mechanism design.
 
 ## `Course Policies`
 
+>
 **`Textbook`**: This course does not require any textbook. There will be references (e.g., lecture slides, notes, papers, and/or book chapters) suggested for each lecture.
-
+>
 **`Prerequisites`**: You should know material in standard UG courses in calculus, linear algebra, probability, and algorithms very well. Having some optimization background will be a bonus. 
+>
+**`Grading`**: Participation (10%); Assignment (20%); Project: Proposal (20%) + Presentation (20%) + Report (30%).
+>
+**`Assignment`**: The assignment includes two parts. Part I consists of questions that
+everyone must answer with rigorous proofs (no programming required). In Part II, there are some open-ended questions. You are free to pick any one from the list. Solving these questions will need some mathematical derivations, and you may also ﬁnd it necessary to write some code to demonstrate some numerical results. There is no designated programming language, but you are recommended to use Python if you can. The submission of your solution includes a written report and a link to the code (e.g., a repository in GitHub). 
+>
+**`Project`**: You are expected to complete a research-flavored project  which includes a proposal, an in-class presentation, and a written report.
+>
+- `Proposal`: You need to selected two papers that are related to this course, and prepare a one-page review of the main idea, methodologies, and key results of the papers selected, and another one-page proposal of what could be improved, what could be done differently, and/or other new discoveries. Your paper review and proposal will be evaluated by using a scoring grid relative to the following criteria: i) depth, rigor, and thoroughness of the review, ii) clarity and merit of the proposal, and iii) coherence between the review and the proposal. Please note that the one-page proposal is proportionally more important, and hence the name "Proposal" rather than "Paper Review".
+- `Presentation`: You will give a presentation in class -- based on your paper review and proposal.  Your presentation will be evaluated by using a scoring grid relative to the following criteria: i) clarity of the content (e.g., structure of the slides), ii) clarity of the presentation, and iii) effectiveness of addressing possible questions. These three criteria are equally important in evaluating your presentation.
+- `Report`: This is a research-oriented graduate course, and it is up to you to decide what your final report is about -- proof of a new theorem, a new implementation, or a new survey -- but it must be related to your proposal, your presentation, and of course, the topics covered by this course. Your final report will be evaluated by using a scoring grid relative to the following criteria: i) novelty, ii) consistency to the proposal and presentation, and iii) relevance to this course. Please note that **novelty** does not necessarily mean novel research results: you will be awarded bonus marks if you make novel research discoveries that are relevant to this course, but they are not necessary to get full marks in the project. 
+<!-- For more details, please refer to our [project guidlines](https://drive.google.com/file/d/1KaYzXP7_rg-533yhI2kpgRfUBskqThR8/view?usp=sharing).  -->
 
-**`Grading`**: Participation (10%); Assignments (20%); Project: Proposal (20%) + Presentation (20%) + Report (30%).
+>
+For each evaluation criteria, a score will be assigned between 1 and 5 (i.e., 1: very low, 2: low, 3: medium, 4: high, 5: very high). When preparing your proposal and report, you are highly recommended to use Latex.
+<!-- ([template](https://drive.google.com/file/d/1NqvkR7PexEccX87sLd18IwojEuv8HuVP/view?usp=sharing)) -->
 
-**`Homeworks`**: The assignment includes two parts. Part I consists of three questions that
-everyone must answer with rigorous proofs (no programming required). In Part II, there are three open-ended questions. You are free to pick any one from the list. Solving these questions will need some mathematical derivations, and you may also ﬁnd it necessary to write some code to demonstrate some numerical results. There is no designated programming language, but you are recommended to use Python if you can. The submission of your solution includes a written report and a link to the code (e.g., a repository in GitHub). 
-
-**`Project`**: You are expected to complete a research-flavored project  which includes a proposal, an in-class presentation, and a written report. 
-
-- _Proposal_: You need to selected two papers that are related to this course, and prepare a one-page review of the main idea, methodologies, and key results of the papers selected, and another one-page proposal of what could be improved, what could be done differently, and/or other new discoveries. Your paper review and proposal will be evaluated by using a scoring grid relative to the following criteria: i) depth, rigor, and thoroughness of the review, ii) clarity and merit of the proposal, and iii) coherence between the review and the proposal. Please note that the one-page proposal is proportionally more important, and hence the name "Proposal" rather than "Paper Review".
-- _Presentation_: You will give a presentation in class -- based on your paper review and proposal.  Your presentation will be evaluated by using a scoring grid relative to the following criteria: i) clarity of the content (e.g., structure of the slides), ii) clarity of the presentation, and iii) effectiveness of addressing possible questions. These three criteria are equally important in evaluating your presentation.
-- _Report_: This is a research-oriented graduate course, and it is up to you to decide what your final report is about -- proof of a new theorem, a new implementation, or a new survey -- but it must be related to your proposal, your presentation, and of course, the topics covered by this course. Your final report will be evaluated by using a scoring grid relative to the following criteria: i) novelty, ii) consistency to the proposal and presentation, and iii) relevance to this course. Please note that **novelty** does not necessarily mean novel research results: you will be awarded bonus marks if you make novel research discoveries that are relevant to this course, but they are not necessary to get full marks in the project. For more details, please refer to our [project guidlines](https://drive.google.com/file/d/1KaYzXP7_rg-533yhI2kpgRfUBskqThR8/view?usp=sharing). 
-
-For each evaluation criteria, a score will be assigned between 1 and 5 (i.e., 1: very low, 2: low, 3: medium, 4: high, 5: very high). When preparing your proposal and report, you are highly recommended to use Latex ([template](https://drive.google.com/file/d/1NqvkR7PexEccX87sLd18IwojEuv8HuVP/view?usp=sharing)). 
 
 
 ## `Course Schedule` 
 
 | Date            | Topic                                         |  References                 |
 |:-------------   | :-----                                        |  :-----                   |
-| Sept. 1 (`L1`)  | `Overview` <br> Course topics <br> Logistics    |     [L1-slides](https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing)                     |
-| Sept. 6         | ~~No Class~~  <mark> (Labour Day)</mark>                      |                          |
+| Sept. 5         |  ~~No Class~~  <mark> (Labour Day) </mark>   |     |
+| Sept. 7          | `Lec 1: Overview` <br> Course topics; Logistics    |                     |
 |                 | **`Convex Optimization: A Brief Introduction`**     |       |
-| Sept. 8 (`L2`)    | `Concepts` <br> Convex sets <br> Convex functions <br> Convex problems         |  [L2-slides](https://drive.google.com/file/d/1nc5oBnOj3WK6muK2MlY782t5zKWyM36s/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch1-Ch4  |
-| Sept. 13 `(L3)`   | `Theory` <br> Lagrange multipliers <br> Duality theory <br> Optimality conditions    |  [L3-slides](https://drive.google.com/file/d/1GAs-2lPzp2Nfx-ReF2fgO7Tm8I4MfUTA/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch5 <br> [DB Book](http://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf) <br>   |
-| Sept. 15 `(L4)`   | `Algorithms` <br> Gradient descent <br> Newton's methods <br> Barrier methods <br> Dual ascent     |  [L4-slides](https://drive.google.com/file/d/1Ge51lp3AOqY8KBeZSyc4ck5HU5kG_qrG/view?usp=sharing) <br> [L4-notes](https://drive.google.com/file/d/1GbP9Okh5hP34sAi9iAR0JxBp7OCunSPD/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch9-Ch11   |
-|                 | **`Online Algorithms and Online Optimization`**     |       |
-| Sept. 20 `(L5)`   |  `Online algorithms` <br> Ski rental problem <br> Deterministic vs Randomized <br> Yao's principle  |  [L5-slides](https://drive.google.com/file/d/1HAZC97jAVHDfgyKrU28NlJYj3LZny08o/view?usp=sharing)  |
-| Sept. 22 `(L6)`   |  `Online primal-dual`  <br> Time series search; $k$-search <br> One-way trading |  [L6-slides](https://drive.google.com/file/d/1Hg8W9MVm-FAPa4SQLZCkqRFztHXHiEiZ/view?usp=sharing) <br> [L6-notes](https://drive.google.com/file/d/1Hni4WBgcRXk-d7z2gu0RSga9-FijA3V8/view?usp=sharing)  <br>  [EI-Yaniv et al. (2001)](https://drive.google.com/file/d/1HFVPGuBhrQZ2lD8xLUt1ChIY3vU9NIPa/view?usp=sharing) <br> [Lorenz et al. (2009)](https://drive.google.com/file/d/1HG2D0slxIeFwSjArIi_UcdMixKwcVRE3/view?usp=sharing)  |
-| Sept. 27 `(L7)`   |  `Online knapsack problems` <br> Threshold algorithms   |  [L7-slides](https://drive.google.com/file/d/1GBLRLQYiizLoJV3912mdHKBo2oUmQOBS/view?usp=sharing)  <br> [L7-notes](https://drive.google.com/file/d/1GB-ouKSbQHz6Qo6xIaFPD2VmdLXKy4js/view?usp=sharing)  <br> [MSV (1995)](https://drive.google.com/file/d/1GcUC8A_RZlii6qJzpxmDzEWxkt9if0n_/view?usp=sharing) <br> [CZL (2008)](https://drive.google.com/file/d/1Gcba3OZdXHXuZzDB2zJPa9ZuajkQYPRy/view?usp=sharing) <br> [Tan et al. (2020)](https://drive.google.com/file/d/1GdX3IdS_QNmnClz3De5Uu-GCOACFG6h-/view?usp=sharing)  |
-| Sept. 29 `(L8)`   |  `Online matching` <br> RANKING algorithm |   [L8-slides](https://drive.google.com/file/d/1GVwXHC8-h_Y6LVdCPnC6yieXOZSEyvd3/view)  <br> [KVV (1990)](https://drive.google.com/file/d/1GdcpjJ5oyxH-YKu8UZ90EI7_1RVBdRAA/view?usp=sharing) <br> [BM (2008)](https://drive.google.com/file/d/1Gdze-GoycfIby2zAnjonAH8zmOOSc8HP/view?usp=sharing) <br> [Eden et al. (2020)](https://drive.google.com/file/d/1GerA-cIPKJ0Q5NsP45H9Wt-go-rrxJVO/view?usp=sharing) <br> [DJK (2013)](https://drive.google.com/file/d/1GexjPTNUeyYDjIWG7CI5bIMj3awZGUyt/view?usp=sharing) |
-| Oct. 4 `(L9)`     |  `Online convex optimization` <br> Smoothed online convex optimization <br> Convex body chasing  |  [L9-slides](https://drive.google.com/file/d/1HiCilIlOU2IPqR3iXQOiaNGsjzQO747D/view?usp=sharing) <br> [Hazan Book](https://drive.google.com/file/d/1GQh_MEXG_KAl24CQ7nkIg2iL4NsEC4zf/view?usp=sharing) <br> [Lin et al. (2011)](https://drive.google.com/file/d/1KSTpBEY7MpkyxY6aSKSTIJmBdxGFou3K/view?usp=sharing) <br> [Bansal et al. (2015)](https://drive.google.com/file/d/1KUL0a8XUM7g0_UV1HalQAW_2xC_kazv8/view?usp=sharing) <br> [Sellke 2019](https://drive.google.com/file/d/1KUkdeghs0bt1s3NH3JkwgQfSBvJ_RpUd/view?usp=sharing)  |
-| Oct. 6 `(L10)`    |  `Beyond worst case analysis` <br> Online algorithms with predictions | [L10-slides](https://drive.google.com/file/d/1K9cv8Vqz3Aw5RzJtdqZT79TmAX_dzvRm/view?usp=sharing)  <br> [Roughgarden (2018)](https://drive.google.com/file/d/1KVWPUB8Os28LdfkloXzSkVX9X3n3mu7Q/view?usp=sharing) <br> [Purohit et al. (2018)](https://drive.google.com/file/d/1KW22Jw21vpK1S0Kv3rgcHhkrZpyxdzkK/view?usp=sharing) <br> [Bamas et al. (2020)](https://drive.google.com/file/d/1KXJ6mI0MP4er38nlLMDPj2byzY9iPJv2/view?usp=sharing)  |
-| Oct. 11         |  ~~No Class~~  <mark> (Thanksgiving Day) </mark>   |     |
-|                 | **`Stochastic Optimization, Learning, and Approximation`** |     |
-| Oct. 13  `(L11)`   | `Markov decision process` <br> Value iteration <br> Policy iteration <br> LP approach  |  [L11-slides](https://drive.google.com/file/d/1ReDm-WyLhJX-mPB6vBAEjSoJF8HeE7tr/view?usp=sharing)    |
-| Oct. 18  `(L12)`  | `Reinforcement learning` <br> Q-learning <br> Policy gradients <br> Actor-Critic |  [L12-slides](https://drive.google.com/file/d/1KrC3WWTnfpwapMF3aMdpHG7KVqIiD_LS/view?usp=sharing) <br> [CMPUT 609](https://drive.google.com/drive/folders/0B3w765rOKuKANmxNbXdwaE1YU1k?resourcekey=0-JZz-noRuJgogNsg1ljgV8w) <br> [CMPUT 653](https://rltheory.github.io/)   |
-| Oct. 20  `(L13)`  | `Multi-armed bandit` <br> Stochatic bandits <br> $\varepsilon$-Greedy algorithms <br> Upper Confidence Bounds                    |    [L13-slides](https://drive.google.com/file/d/1KrOg0ZR0gj2_cZlEwCHSfOYSU7VAm2dZ/view?usp=sharing) <br> [BCB Book (2012)](http://sbubeck.com/SurveyBCB12.pdf) <br> [Slivkins Book (2019)](https://arxiv.org/pdf/1904.07272.pdf) <br> [LS Book (2020)](https://tor-lattimore.com/downloads/book/book.pdf)  |
-| Oct. 25  `(L14)`  | `Stochastic approximation` <br> The Robbins-Monro algorithm <br> Stochastic gradient descent (SGD) <br> Adaptive SGD methods  |  [L14-slides](https://drive.google.com/file/d/1MeTWaZEPlUnlZOikQlIQVDjrKaD3ub0K/view?usp=sharing) <br> [RM (1951)](https://drive.google.com/file/d/1MhJ39a2igEW9UFVvhIOVC_E4ebtmXFjF/view?usp=sharing) <br>   [AdapGrad (2011)](https://jmlr.org/papers/volume12/duchi11a/duchi11a.pdf) <br> [Adam (2015)](https://arxiv.org/pdf/1412.6980.pdf) |
-|                 | **`Algorithmic Game Theory and Mechanism Design`**    |  |
-| Oct. 27  `(L15)`  | `Game theory` <br> Pure-strategy Nash equilibrium   <br>  Mixed-strategy Nash equilibrium | [L15-slides](https://drive.google.com/file/d/1Meybd5xEvY6ASPsHYL4HxvegyTJWhgA9/view?usp=sharing) <br> [Nash (1951)](https://drive.google.com/file/d/1MhkH4Tk7sFWP9Fz4VteFz0ResAsh7aVm/view?usp=sharing) <br> [Proof of Existence](https://drive.google.com/file/d/1LFuR1blQuSWnoNYBZQ3GtWlImmGhZw9j/view?usp=sharing) |
-| Nov. 1  `(L16)`  |  `Mechanism design` <br> Revelation principle <br> Vickrey-Clarke-Groves mechanisms <br> Optimal auctions  |  [L16-slides](https://drive.google.com/file/d/1O6sGL9lvt0pbsUIdGyZr9nZLLc8boJ72/view?usp=sharing) <br> [MD Background](https://drive.google.com/file/d/1Rf6zzbrzkFV2LuKwYzjpeZKQd8-CfebG/view?usp=sharing)  <br> [Myerson (1983)](https://drive.google.com/file/d/1NicGM2myQAf2fBNVNUX6fUVC6l6J84WH/view?usp=sharing)  |
-| Nov. 3 `(L17)`   |  `Online mechanism design` <br> Online auctions <br> Posted price mechanisms <br> Prophet inequalities   | [L17-slides](https://drive.google.com/file/d/1N_Hdd7Vx72-DNpqM2yRm_pmilxbM-5XC/view?usp=sharing) <br> [OMD (2003)](https://drive.google.com/file/d/1Nh3RKvhStaN7FUrhS3ChIRK4jhFvElsK/view?usp=sharing) <br> [OCAs (2021)](https://drive.google.com/file/d/1Jh-dT38rdaLZyvMT6me3FSPjdZidbmrk/view?usp=sharing) <br>[More readings](https://drive.google.com/file/d/1_-8t9VnKlvuRTQ0MZYwk59GN2shDq_Az/view?usp=sharing) <br>  |
-| Nov. 8           |  ~~No Class~~  <mark> (Reading Week Break)</mark>      |   **Assignment**  <br>  [PDF](https://drive.google.com/file/d/170DRIkB8ojgn0JqVOy4dHUT6SQaoKlCd/view?usp=sharing), [Latex](https://drive.google.com/file/d/172QqjQyeGjOODeTVva7FHoFK8zvlDN4U/view?usp=sharing) |
-| Nov. 10          |  ~~No Class~~  <mark> (Reading Week Break)</mark>      |   **Proposal Due**    |
+| Sept. 12         | `Lec 2: Concepts` <br> Convex sets <br> Convex functions <br> Convex problems         |    |
+| Sept. 14       | `Lec 3: Theory` <br> Lagrange multipliers <br> Duality theory <br> Optimality conditions    |    |
+| Sept. 19       | `Lec 4: Algorithms` <br> Gradient descent <br> Newton's methods <br> Barrier methods <br> Dual ascent     |   |
+
+<!-- 
+|                 | **`Online Optimization`**     |       |
+| Sept. 21       |  `Lec 5: Online algorithms` <br> Ski rental problem <br> Deterministic vs Randomized <br> Yao's principle  |  [L5-slides](https://drive.google.com/file/d/1HAZC97jAVHDfgyKrU28NlJYj3LZny08o/view?usp=sharing)  |
+| Sept. 26      |  `Lec 6: Online primal-dual`  <br> Time series search; $k$-search <br> One-way trading |  [L6-slides](https://drive.google.com/file/d/1Hg8W9MVm-FAPa4SQLZCkqRFztHXHiEiZ/view?usp=sharing) <br> [L6-notes](https://drive.google.com/file/d/1Hni4WBgcRXk-d7z2gu0RSga9-FijA3V8/view?usp=sharing)  <br>  [EI-Yaniv et al. (2001)](https://drive.google.com/file/d/1HFVPGuBhrQZ2lD8xLUt1ChIY3vU9NIPa/view?usp=sharing) <br> [Lorenz et al. (2009)](https://drive.google.com/file/d/1HG2D0slxIeFwSjArIi_UcdMixKwcVRE3/view?usp=sharing)  |
+| Sept. 28    |  `Lec 7: Online knapsack problems` <br> Threshold algorithms   |  [L7-slides](https://drive.google.com/file/d/1GBLRLQYiizLoJV3912mdHKBo2oUmQOBS/view?usp=sharing)  <br> [L7-notes](https://drive.google.com/file/d/1GB-ouKSbQHz6Qo6xIaFPD2VmdLXKy4js/view?usp=sharing)  <br> [MSV (1995)](https://drive.google.com/file/d/1GcUC8A_RZlii6qJzpxmDzEWxkt9if0n_/view?usp=sharing) <br> [CZL (2008)](https://drive.google.com/file/d/1Gcba3OZdXHXuZzDB2zJPa9ZuajkQYPRy/view?usp=sharing) <br> [Tan et al. (2020)](https://drive.google.com/file/d/1GdX3IdS_QNmnClz3De5Uu-GCOACFG6h-/view?usp=sharing)  |
+| Oct. 3    |  `Lec 8: Online matching` <br> RANKING algorithm |   [L8-slides](https://drive.google.com/file/d/1GVwXHC8-h_Y6LVdCPnC6yieXOZSEyvd3/view)  <br> [KVV (1990)](https://drive.google.com/file/d/1GdcpjJ5oyxH-YKu8UZ90EI7_1RVBdRAA/view?usp=sharing) <br> [BM (2008)](https://drive.google.com/file/d/1Gdze-GoycfIby2zAnjonAH8zmOOSc8HP/view?usp=sharing) <br> [Eden et al. (2020)](https://drive.google.com/file/d/1GerA-cIPKJ0Q5NsP45H9Wt-go-rrxJVO/view?usp=sharing) <br> [DJK (2013)](https://drive.google.com/file/d/1GexjPTNUeyYDjIWG7CI5bIMj3awZGUyt/view?usp=sharing) |
+| Oct. 5    |  `Lec 9: Online convex optimization` <br> Smoothed online convex optimization <br> Convex body chasing  |  [L9-slides](https://drive.google.com/file/d/1HiCilIlOU2IPqR3iXQOiaNGsjzQO747D/view?usp=sharing) <br> [Hazan Book](https://drive.google.com/file/d/1GQh_MEXG_KAl24CQ7nkIg2iL4NsEC4zf/view?usp=sharing) <br> [Lin et al. (2011)](https://drive.google.com/file/d/1KSTpBEY7MpkyxY6aSKSTIJmBdxGFou3K/view?usp=sharing) <br> [Bansal et al. (2015)](https://drive.google.com/file/d/1KUL0a8XUM7g0_UV1HalQAW_2xC_kazv8/view?usp=sharing) <br> [Sellke 2019](https://drive.google.com/file/d/1KUkdeghs0bt1s3NH3JkwgQfSBvJ_RpUd/view?usp=sharing)  |
+| Oct. 10         |  ~~No Class~~  <mark> (Thanksgiving Day) </mark>   |     |
+| Oct. 12      |  `Lec 10: Beyond worst case analysis` <br> Online algorithms with predictions | [L10-slides](https://drive.google.com/file/d/1K9cv8Vqz3Aw5RzJtdqZT79TmAX_dzvRm/view?usp=sharing)  <br> [Roughgarden (2018)](https://drive.google.com/file/d/1KVWPUB8Os28LdfkloXzSkVX9X3n3mu7Q/view?usp=sharing) <br> [Purohit et al. (2018)](https://drive.google.com/file/d/1KW22Jw21vpK1S0Kv3rgcHhkrZpyxdzkK/view?usp=sharing) <br> [Bamas et al. (2020)](https://drive.google.com/file/d/1KXJ6mI0MP4er38nlLMDPj2byzY9iPJv2/view?usp=sharing)  |
+|                 | **`Stochastic Optimization and Learning`** |     |
+| Oct. 17         | `Lec 11: Markov decision process` <br> Value iteration <br> Policy iteration <br> LP approach  |  [L11-slides](https://drive.google.com/file/d/1ReDm-WyLhJX-mPB6vBAEjSoJF8HeE7tr/view?usp=sharing)    |
+| Oct. 19     | `Lec 12: Reinforcement learning` <br> Q-learning <br> Policy gradients <br> Actor-Critic |  [L12-slides](https://drive.google.com/file/d/1KrC3WWTnfpwapMF3aMdpHG7KVqIiD_LS/view?usp=sharing) <br> [CMPUT 609](https://drive.google.com/drive/folders/0B3w765rOKuKANmxNbXdwaE1YU1k?resourcekey=0-JZz-noRuJgogNsg1ljgV8w) <br> [CMPUT 653](https://rltheory.github.io/)   |
+| Oct. 24    | `Lec 13: Multi-armed bandit` <br> Stochatic bandits <br> $\varepsilon$-Greedy algorithms <br> Upper Confidence Bounds                    |    [L13-slides](https://drive.google.com/file/d/1KrOg0ZR0gj2_cZlEwCHSfOYSU7VAm2dZ/view?usp=sharing) <br> [BCB Book (2012)](http://sbubeck.com/SurveyBCB12.pdf) <br> [Slivkins Book (2019)](https://arxiv.org/pdf/1904.07272.pdf) <br> [LS Book (2020)](https://tor-lattimore.com/downloads/book/book.pdf)  |
+| Oct. 26   | `Lec 14: Stochastic approximation` <br> The Robbins-Monro algorithm <br> Stochastic gradient descent (SGD) <br> Adaptive SGD methods  |  [L14-slides](https://drive.google.com/file/d/1MeTWaZEPlUnlZOikQlIQVDjrKaD3ub0K/view?usp=sharing) <br> [RM (1951)](https://drive.google.com/file/d/1MhJ39a2igEW9UFVvhIOVC_E4ebtmXFjF/view?usp=sharing) <br>   [AdapGrad (2011)](https://jmlr.org/papers/volume12/duchi11a/duchi11a.pdf) <br> [Adam (2015)](https://arxiv.org/pdf/1412.6980.pdf) |
+|                 | **`Algorithmic Game Theory`**    |  |
+| Oct. 31     | `Lec 15: Game theory` <br> Pure-strategy Nash equilibrium   <br>  Mixed-strategy Nash equilibrium | [L15-slides](https://drive.google.com/file/d/1Meybd5xEvY6ASPsHYL4HxvegyTJWhgA9/view?usp=sharing) <br> [Nash (1951)](https://drive.google.com/file/d/1MhkH4Tk7sFWP9Fz4VteFz0ResAsh7aVm/view?usp=sharing) <br> [Proof of Existence](https://drive.google.com/file/d/1LFuR1blQuSWnoNYBZQ3GtWlImmGhZw9j/view?usp=sharing) |
+| Nov. 2     |  `Lec 16: Mechanism design` <br> Revelation principle <br> Vickrey-Clarke-Groves mechanisms <br> Optimal auctions  |  [L16-slides](https://drive.google.com/file/d/1O6sGL9lvt0pbsUIdGyZr9nZLLc8boJ72/view?usp=sharing) <br> [MD Background](https://drive.google.com/file/d/1Rf6zzbrzkFV2LuKwYzjpeZKQd8-CfebG/view?usp=sharing)  <br> [Myerson (1983)](https://drive.google.com/file/d/1NicGM2myQAf2fBNVNUX6fUVC6l6J84WH/view?usp=sharing)  |
+| Nov. 7           |  ~~No Class~~  <mark> (Reading Week Break)</mark>      |   **Assignment**  <br>  [PDF](https://drive.google.com/file/d/170DRIkB8ojgn0JqVOy4dHUT6SQaoKlCd/view?usp=sharing), [Latex](https://drive.google.com/file/d/172QqjQyeGjOODeTVva7FHoFK8zvlDN4U/view?usp=sharing) |
+| Nov. 9          |  ~~No Class~~  <mark> (Reading Week Break)</mark>      |   **Proposal Due**    |
+| Nov. 14    |  `Lec 17: Online mechanism design` <br> Online auctions <br> Posted price mechanisms <br> Prophet inequalities   | [L17-slides](https://drive.google.com/file/d/1N_Hdd7Vx72-DNpqM2yRm_pmilxbM-5XC/view?usp=sharing) <br> [OMD (2003)](https://drive.google.com/file/d/1Nh3RKvhStaN7FUrhS3ChIRK4jhFvElsK/view?usp=sharing) <br> [OCAs (2021)](https://drive.google.com/file/d/1Jh-dT38rdaLZyvMT6me3FSPjdZidbmrk/view?usp=sharing) <br>[More readings](https://drive.google.com/file/d/1_-8t9VnKlvuRTQ0MZYwk59GN2shDq_Az/view?usp=sharing) <br>  |
 |                 | **`Project - Presentations`** |               |
-| Nov. 15  `(L18)`  | **Mehran Taghian Jazi** <br> Topic: Optimal $k$-search and deep RL  <br> **Lijiangnan Tian** <br> Topic: Online algs and predictions    <br> **Jiali Chen** <br> Topic: Probabilistic inference  and RL     |  |
-| Nov. 17  `(L19)`  | **Tian Tian** <br> Topic: Adversarial bandit with knapsacks  <br> **Mingyang Gong** <br> Topic: Online scheduling <br> **Calarina Muslimani** <br> Topic: Curriculum learning  <br> **Alex Ayoub** <br> Topic: Randomized algs for logistic bandits               |       |
-| Nov. 22  `(L20)`  | **Vlad Tkachuk** <br> Topic: Function approximation in online RL <br> **Shuai Liu** <br> Topic: Randomized algs for logistic bandits  <br> **Mahi Zakir** <br> Topic: Prediction uncertainty analysis              |       |
-| Nov. 24  `(L21)`  | **Abilmansur Zhumabekov** <br> Topic: Energy trading between microgrids <br> **James Thompson** <br> Topic: Ridesharing and online optimization  <br> **Talgat Omarov** <br> Topic:  One-way trading online algs  <br> **Xin Yang** <br> Topic:   Online participant selection in federated learning            |       |
-| Nov. 29  `(L22)`  | **Yun Xing** <br> Topic: GANs and mixed Nash equilibrium  <br> **Ningyuan Pei** <br> Topic:  Policy gradient landscape <br> **Rohini Das** <br> Topic: OCO, counterfactual regret minimization, and extensive form games  <br> **Kinter Ren** <br> Topic: Non-equilibrium occuring in Follow-the-Regularized-Leader dynamics               |       |
-| Dec. 1  `(L23)`   | **Blanca Miller** <br> Topic: Mini-batch SGD  <br> **Alireza Bakhtiari** and **Ehsan Futuhi** <br> Topic:  Neural contextual bandits <br> **Spencer von der Ohe** <br> Topic:  Online element selection and carpooling  <br> **Kushagra Chandak** <br> Topic: Alternative softmax operator in RL            |       |
-| Dec. 6    |  ~~No Class~~               |  **Project Due**    |
+| Nov. 16    |                 |       |
+| Nov. 21    |                 |       |
+| Nov. 23    |                 |       |
+| Nov. 28    |                 |       |
+| Nov. 30    |                 |       |
+| Dec. 5     |                 |       |
+| Dec. 7    |  ~~No Class~~               |  **Project Due**    | -->
