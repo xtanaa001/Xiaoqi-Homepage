@@ -1,5 +1,5 @@
 ---
-title: CMPUT675 - Fall 2022
+title: CMPUT676 - Fall 2022
 ---
 
 <style>
