@@ -10,13 +10,16 @@ As an educator and researcher, I strongly believe that when an institution accep
 
 # `For Prospective Graduate Students`
 
+
 Thank you for visiting this page!! 
+
+I am [**Xiaoqi Tan**](/), an Assistant Professor of [**Computing Science**](https://www.ualberta.ca/computing-science) at the [**University of Alberta**](https://www.cualberta.ca).
 
 My research interests span various topics in **optimization and decision-making under uncertainty**, with a particular focus on exploring the interplay between algorithms, incentives (for modeling strategic behaviors), and data (for learning and prediction) in online/multi-agent decision-making.
 
 I enjoy the beauty of mathematics, and consider a technically-sound and aesthetically-elegant theorem the core of publication-worthy results. 
 <!-- I admire good applied research, but also believe that not all research needs to have practical use -- good theory sustains over time, and may unexpectedly unleash its power.  -->
-In particular, I am most excited about **connecting theory with practice** to obtain interesting **intuitions/insights** into real-world system design and operation (e.g., how to incorporate more renewable energy into the power grid?). To do so, I believe it is important, and also necessary, to sacrifice certain details of the problem. _"I want to know how God created this world. I am not interested in this or that phenomenon. I want to know His thoughts, the rest are details." - Albert Einstein_
+In particular, I am most excited about **connecting theory with practice** to obtain interesting **intuitions/insights** into real-world system design/operation and decision-making (e.g., how to help the electrical grid and transportation system harness a higher level of clean but intermittent renewable energy?). To do so, I believe it is important, and also necessary, to sacrifice certain details of the problem. `"I want to know how God created this world. I am not interested in this or that phenomenon. I want to know His thoughts, the rest are details." - Albert Einstein`
 
 I often receive emails from prospective students with descriptions like "we've implemented XXX to solve...,"  --- this, unfortunately, is not what I care about the most. I care about whether you can convert a descriptive problem into rigorous mathematical models, and then develop algorithms to solve the problem with provable guarantees --- in the form of mathematical theorems and lemmas. In short, I look for prospective students who are excited about creating new knowledge -- to argue "**how and why things work**" (with interpretability and explainability).
 
