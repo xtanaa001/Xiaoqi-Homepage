@@ -73,7 +73,7 @@ For each evaluation criteria, a score will be assigned between 1 and 5 (i.e., 1:
 | Date            | Topic                                         |  References                 |
 |:-------------   | :-----                                        |  :-----                   |
 | Sept. 5         |  ~~No Class~~  <mark> (Labour Day) </mark>   |     |
-| Sept. 7          | `Lec 1: Overview` <br> Course topics; Logistics    |                     |
+| Sept. 7          | `Lec 1: Overview` <br> Course topics; Logistics    |       [L1-slides](https://drive.google.com/file/d/1g-LbtVXtbCDj_GavkliXJCOK9d3A5hwa/view?usp=sharing)              |
 |                 | **`Convex Optimization: A Brief Introduction`**     |       |
 | Sept. 12         | `Lec 2: Concepts` <br> Convex sets <br> Convex functions <br> Convex problems         |    |
 | Sept. 14       | `Lec 3: Theory` <br> Lagrange multipliers <br> Duality theory <br> Optimality conditions    |    |
