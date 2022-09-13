@@ -76,7 +76,7 @@ For each evaluation criteria, a score will be assigned between 1 and 5 (i.e., 1:
 | Sept. 7          | `Lec 1: Overview` <br> Course topics; Logistics    |       [L1-slides](https://drive.google.com/file/d/1g-LbtVXtbCDj_GavkliXJCOK9d3A5hwa/view?usp=sharing)              |
 |                 | **`Convex Optimization: A Brief Introduction`**     |       |
 | Sept. 12         | `Lec 2: Concepts` <br> Convex sets <br> Convex functions <br> Convex problems         |  [L2-slides](https://drive.google.com/file/d/1o2pw4i2mczxlcmdyuS_5s5b_CAO_erqs/view?usp=sharing)  <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch1-Ch4 |
-| Sept. 14       | `Lec 3: Theory` <br> Lagrange multipliers <br> Duality theory <br> Optimality conditions    |    |
+| Sept. 14       | `Lec 3: Theory` <br> Lagrange multipliers <br> Duality theory <br> Optimality conditions    |  [L3-slides](https://drive.google.com/file/d/1h66_jzkPXbYj3KSozKKOHU9elsF0GNWo/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch5 <br> [DB Book](http://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf)  |
 | Sept. 19       | `Lec 4: Algorithms` <br> Gradient descent <br> Newton's methods <br> Barrier methods <br> Dual ascent     |   |
 
 <!-- 
