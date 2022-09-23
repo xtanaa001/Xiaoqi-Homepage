@@ -13,7 +13,7 @@ As an educator and researcher, I strongly believe that when an institution accep
 
 Thank you for visiting this page!! 
 
-I am [**Xiaoqi Tan**](/), an Assistant Professor of [**Computing Science**](https://www.ualberta.ca/computing-science) at the [**University of Alberta**](https://www.ualberta.ca).
+I am [**Xiaoqi Tan**](/), an Assistant Professor at the [**University of Alberta**](https://www.ualberta.ca) and also a [**Fellow**](https://www.amii.ca/about/our-people/) of the [**Alberta Machine Intelligence Instittue (Amii)**](https://www.amii.ca).
 
 My research interests span various topics in **optimization and decision-making under uncertainty**, with a particular focus on exploring the interplay between algorithms, incentives (for modeling strategic behaviors), and data (for learning and prediction) in online/multi-agent decision-making.
 
