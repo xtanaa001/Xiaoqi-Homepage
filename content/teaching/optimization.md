@@ -7,8 +7,8 @@ title: CMPUT676 - Fall 2022
 blockquote {
   margin: auto;
   background: #fff1e5; /* #fff1e5; /*#f9f9f9*/
-  /*border: 0px solid #F2DFCE;*/    
-  border-left: 10px solid #F2DFCE;
+  border: 2px solid #F2DFCE;
+  border-left: 8px solid #F2DFCE;
   padding: 0.02px 1em 0.02px 1em;
   /* 
   box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 4px, rgba(0, 0, 0, 0.3) 0px 0px 0px -3px, rgba(0, 0, 0, 0.2) 0px 0px 0px inset;

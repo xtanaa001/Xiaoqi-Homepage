@@ -3,8 +3,9 @@ title: Home
 ---
 
 <div>
-<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_blue.jpg" style="max-width:240px; min-width:220px; float:right; box-shadow: 0px 0px 5px #275D38; margin: 25px 60px 10px 5px" width="230"/>
+<img alt="Xiaoqi Tan (Nov 2020)" src="/img/xiaoqi_blue.jpg" style="max-width:240px; min-width:220px; float:right; box-shadow: 0px 0px 5px #275D38; margin: 25px 20px 10px 5px" width="230"/>
 </div>
+
 
 ## `Xiaoqi Tan`
 
@@ -18,7 +19,6 @@ Email: $\textsf{xiaoqi.tan@ualberta.ca}$
 [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate)
 
 
----
 
 >
 Xiaoqi Tan is an Assistant Professor of [Computing Science](https://www.ualberta.ca/computing-science/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html). Prior to July 2021, he was a Postdoctoral Fellow at the [University of Toronto](https://www.utoronto.ca/). He received his Ph.D.  from [HKUST](https://hkust.edu.hk/) in 2018. During his Ph.D.,  he was also a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).  
