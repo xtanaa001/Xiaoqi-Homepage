@@ -2,12 +2,6 @@
 title: Prospective Ph.D. Students
 ---
 
-<!-- <span style="color:tan">
-As an educator and researcher, I strongly believe that when an institution accepts the registration of a student - regardless of races, genders, religions, and classes, we are, in effect, entering a moral, ethical, and legal contract with the student to do whatever we can to help that student succeed.
-</span>  -->
-
-<!-- The core question my research strives to answer is: What are the best possible **algorithms** and/or **systems** we can design to optimize **decision-making under uncertainty** in terms of efficiency, robustness, and explainability? To achieve these goals, my research uses mathematical tools from computer science, economics, operations research, and  control.  -->
-
 # `For Prospective Graduate Students`
 
 
@@ -18,9 +12,7 @@ I am [**Xiaoqi Tan**](/), an Assistant Professor of [**Computing Science**](http
 I am broadly intersted in “**AI + Systems/Decision Science**.” My current research focuses on developing foundational theory and algorithms in the general field of “**optimization and decision-making under uncertainty**.” In particular, I study the interplay between algorithms, incentives (for modeling strategic behaviors), and data (for learning and prediction) in online and multi-agent decision-making, with an emphasis on understanding the fundamental limits and design principles of real-world **dynamical and multi-agent systems** under different forms of uncertainty (e.g., online/stochastic data inputs and strategic agent behaviors).
 
 
-I enjoy the beauty of mathematics, and consider a technically-sound and aesthetically-elegant theorem the core of publication-worthy results. 
-<!-- I admire good applied research, but also believe that not all research needs to have practical use -- good theory sustains over time, and may unexpectedly unleash its power.  -->
-In particular, I am most excited about **connecting theory with practice** to obtain interesting **intuitions/insights** into real-world system design/operation in complex environments (e.g., how to help the electrical grid and transportation system harness a higher level of clean but intermittent renewable energy?). To do so, I believe it is important, and also necessary, to sacrifice certain details of the problem. "`I want to know how God created this world. I am not interested in this or that phenomenon. I want to know His thoughts, the rest are details." - Albert Einstein`
+I enjoy the beauty of mathematics, and consider a technically-sound and aesthetically-elegant theorem the core of publication-worthy results. I admire good applied research, but also believe that not all research needs to have practical use -- good theory sustains over time, and may unexpectedly unleash its power. In particular, I am most excited about **connecting theory with practice** to obtain interesting **intuitions/insights** into real-world system design/operation in complex environments (e.g., how to help the electrical grid harness a higher level of clean but intermittent renewable energy?). To do so, I believe it is important, and also necessary, to sacrifice certain details of the problem. "`I want to know how God created this world. I am not interested in this or that phenomenon. I want to know His thoughts, the rest are details." - Albert Einstein`
 
 I often receive emails from prospective students with descriptions like "I know how to use $X$ and $Y$...," or "I've applied $X$ to solve $Y$...,"  --- this, unfortunately, is not what I care about the most. I care about whether you can convert a descriptive problem into rigorous mathematical models, and then develop algorithms to solve the problem with provable guarantees --- in the form of mathematical theorems and lemmas. In short, I look for prospective students who are excited about creating new knowledge -- to argue "**how and why things work**" (with interpretability and explainability).
 
