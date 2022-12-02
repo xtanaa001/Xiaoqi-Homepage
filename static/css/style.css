@@ -154,7 +154,7 @@ img, iframe, video {max-width: 100%; }
 main { hyphens: auto; }
 blockquote {
   margin: auto;
-  background: white; /* #fff1e5 */
+  background: #fff1e5; /* #fff1e5 */
   border: 2px solid #F2DFCE;    
   border-left: 8px solid #F2DFCE;
   padding: 0.02px 1em 0.02px 1em;

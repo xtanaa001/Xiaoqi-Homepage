@@ -7,8 +7,13 @@ title: Teaching
 <img alt="" src="/img/rigor_intuition_f.png" style="min-width:220px; float:center; margin: 40px 1px 10px 1px" width="720"/>
 </div>
 
-Searching for a good balance between rigor and intuition is of utmost fun (yet important) in teaching and learning (Computer Science in particular). Indeed, being rigorous in theoretical foundations will give us the fearlessness to think critically, to challenge the status quo, and most importantly, to always pursue the truth without ambiguity. An intuitive understanding, on the other hand, will help us better retain important information in learning, and hence better utilize the knowledge whenever/wherever needed - possibly even way beyond the intended scope of a course.
+Searching for a good balance between _rigor_ and _intuition_ is of utmost fun (yet important) in teaching and learning (Computer Science in particular). Indeed, being rigorous in theoretical foundations will give us the fearlessness to think critically, to challenge the status quo, and most importantly, to always pursue the truth without ambiguity. An intuitive understanding, on the other hand, will help us better retain important information in learning, and hence better utilize the knowledge whenever/wherever needed --- possibly even way beyond the intended scope of a course.
 
+---
+
+## `Winter 2023`
+>
+- **CMPUT 204: Introduction to Algorithms**
 
 ## `Fall 2022`
 >
