@@ -40,6 +40,11 @@ var authorList = {
         web : "#",
     }, 
 
+    YCao : {
+        name : "Ying Cao",
+        web : "#",
+    }, 
+
     TLiu : {
         name : "Tian Liu",
         web : "#",
