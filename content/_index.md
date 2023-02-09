@@ -24,7 +24,7 @@ Email: $\textsf{xiaoqi.tan@ualberta.ca}$
 
 Xiaoqi Tan is an Assistant Professor of [Computing Science](https://www.ualberta.ca/computing-science/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html) and a Fellow of [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/). Prior to July 2021, he was a Postdoctoral Fellow at the [University of Toronto](https://www.utoronto.ca/). He received his Ph.D.  from [HKUST](https://hkust.edu.hk/) in 2018. During his Ph.D.,  he was also a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).  
 
-Xiaoqi’s research interests span various topics in optimization and decision-making under uncertainty, with a particular focus on the theory of **online optimization** and its implications for problems at the interface of **multi-agent systems**, **economics** and **computation**  (e.g., incentives, auctions and mechanism design;  algorithmic game theory; resource allocation). For more details, see his research website: [**https://sodalab.ca**](https://sodalab.ca).
+Xiaoqi’s research interests span various topics in optimization and decision-making under uncertainty, with a particular focus on the theory of **online optimization** and its implications for problems at the interface of **multi-agent systems**, **economics** and **computation**  (e.g., auctions; mechanism design;  algorithmic game theory; resource allocation; online markets). For more details, see his research website: [**https://sodalab.ca**](https://sodalab.ca).
 
 
 <!-- - [**Threshold Policies with Tight Guarantees for Online Selection with Convex Costs**](https://arxiv.org/pdf/2004.09640.pdf)\\
