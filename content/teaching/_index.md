@@ -18,21 +18,25 @@ Searching for a good balance between _rigor_ and _intuition_ is of utmost fun (y
 ## `Fall 2022`
 >
 - [**CMPUT 676: Optimization and Decision-Making under Uncertainty**](/teaching/optimization)
-    - Course enrollment: 20-25
-    - USRI course rating: 4.9 / 5
-    - USRI instructor rating: 4.9 / 5
+
+<!-- - Course enrollment: 20-25
+- USRI course rating: 4.9 / 5
+- USRI instructor rating: 4.9 / 5 -->
 
 ## `Winter 2022`
 >
 - **CMPUT 204: Introduction to Algorithms**
-    - Course enrollment: 150-200
-    - USRI course rating: 4.5 / 5
-    - USRI instructor rating: 4.7 / 5
+
+<!-- - Course enrollment: 150-200
+- USRI course rating: 4.5 / 5
+- USRI instructor rating: 4.7 / 5 -->
 
 ## `Fall 2021`
 >
 - **CMPUT 675: Optimization and Decision-Making under Uncertainty**
-    - Course enrollment: 20-25
-    - USRI course rating: 4.6 / 5
-    - USRI instructor rating: 4.7 / 5
+
+<!-- - Course enrollment: 20-25
+- USRI course rating: 4.6 / 5
+- USRI instructor rating: 4.7 / 5 -->
+
 
