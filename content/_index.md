@@ -30,7 +30,7 @@ Xiaoqi’s research interests span various topics in optimization and decision-m
 \
 
 >
-**See the [SODALab](https://sodalab.ca) page for more information. For prospective students/postdocs, see [here](https://sodalab.ca/join)**.
+**See the [SODALab](https://sodalab.ca) page for more information. For prospective students or postdocs, see [here](https://sodalab.ca/join)**.
 
 <!-- - [**Threshold Policies with Tight Guarantees for Online Selection with Convex Costs**](https://arxiv.org/pdf/2004.09640.pdf)\\
 Xiaoqi Tan, Bo Sun, Alberto Leon-Garcia, Yuan Wu, and Danny H.K. Tsang\\
