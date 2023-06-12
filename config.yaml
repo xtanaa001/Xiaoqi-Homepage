@@ -17,17 +17,25 @@ menu:
       url: "/"
       weight: 1
 
-    - name: Teaching
+    - name: Courses
       url: "/teaching"
+      weight: 10
+
+    - name: Group
+      url: "https://sodalab.ca"
       weight: 3
 
     - name: Research
-      url: "https://sodalab.ca"
-      weight: 2
-
-    # - name: Publications
-    #   url: "/publications"
-    #   weight: 3
+      url: "https://sodalab.ca/research"
+      weight: 4
+    
+    - name: Publications
+      url: "https://sodalab.ca/publications"
+      weight: 5
+    
+    - name: Join
+      url: "https://sodalab.ca/join"
+      weight: 6
 
 params:
   description: "A website built through Hugo and blogdown."
