@@ -1,11 +1,11 @@
 body {
-  font-family: Georgia; 
+  font-family: Georgia, 'Times New Roman', Times, serif;
   color: #00204e;
   font-size: 130%;
   line-height: 1.6;
 }
 code {
-  font-family: Georgia;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   color: #275D38;
   font-size: 110%;
   text-shadow: 1px 1px 0 #DDD;

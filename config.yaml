@@ -17,13 +17,13 @@ menu:
       url: "/"
       weight: 1
 
-    - name: Research
-      url: "https://sodalab.ca"
-      weight: 2
-
     - name: Teaching
       url: "/teaching"
       weight: 3
+
+    - name: Research
+      url: "https://sodalab.ca"
+      weight: 2
 
     # - name: Publications
     #   url: "/publications"
@@ -31,7 +31,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "Copyright &copy; 2021-2022 | Xiaoqi Tan"
+  footer: "Copyright &copy; 2021-2023 | Xiaoqi Tan"
 
 markup:
   highlight:
