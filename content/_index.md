@@ -27,6 +27,11 @@ Xiaoqi Tan is an Assistant Professor of [Computing Science](https://www.ualberta
 >
 Xiaoqi’s research interests span various topics in optimization and decision-making under uncertainty, with a particular focus on online algorithms, mechanism design, and learning theory, and their implications for dynamic, multi-agent systems in various fields, ranging from energy and transportation to communication networks. See the [**SODALab**](https://sodalab.ca) page for more information.
 
+\
+
+>
+**If you are interested in working with Xiaoqi as an undergraduate, graduate, or postdoc, see [here](https://sodalab.ca/join)**.
+
 <!-- - [**Threshold Policies with Tight Guarantees for Online Selection with Convex Costs**](https://arxiv.org/pdf/2004.09640.pdf)\\
 Xiaoqi Tan, Bo Sun, Alberto Leon-Garcia, Yuan Wu, and Danny H.K. Tsang\\
 ACM SIGMETRICS 2020
