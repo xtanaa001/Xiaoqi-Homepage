@@ -11,6 +11,10 @@ Searching for a good balance between _rigor_ and _intuition_ is of utmost fun (y
 
 ---
 
+## `Fall 2023 (Current)`
+>
+- [**CMPUT 204: Introduction to Algorithms**](https://eclass.srv.ualberta.ca/course/view.php?id=90520)
+
 ## `Winter 2023`
 >
 - **CMPUT 204: Introduction to Algorithms**

@@ -155,7 +155,7 @@ main { hyphens: auto; }
 blockquote {
   margin: auto;
   background: #fff1e5; /* #fff1e5 */
-  border: 2px solid #F2DFCE;    
+  border: 1px solid #F2DFCE;    
   border-left: 8px solid #F2DFCE;
   padding: 0.02px 1em 0.02px 1em;
   /* 

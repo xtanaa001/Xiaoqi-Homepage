@@ -25,12 +25,11 @@ Email: $\textsf{xiaoqi.tan@ualberta.ca}$
 Xiaoqi Tan is an Assistant Professor of [Computing Science](https://www.ualberta.ca/computing-science/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html) and a Fellow of [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/). Prior to July 2021, he was a Postdoctoral Fellow at the [University of Toronto](https://www.utoronto.ca/). He received his Ph.D.  from [HKUST](https://hkust.edu.hk/) in 2018. During his Ph.D.,  he was also a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).  
 
 >
-Xiaoqi’s research interests lie broadly in the field of optimization and decision-making under uncertainty. In particular, his lab focuses on the theory of online algorithms, mechanism design, and sequential decision-making, and their implications for the design and operation of dynamic, multi-agent systems in various fields, ranging from energy and transportation to communication networks. See the [SODALab](https://sodalab.ca) page for more information.
+Xiaoqi’s research interests span various topics in online algorithms, algorithmic game theory, and sequential decision making. The main theme of his research is to develop algorithms and markets with strong theoretical guarantees to optimize _decision-making under uncertainty_, using mathematical tools from computer science, economics, control, etc. See the [SODALab](https://sodalab.ca) page for more information.
 
 \
 
->
-**Students & Postdocs**: For information on joining the [SODALab](https://sodalab.ca) as an undergraduate, graduate, or postdoc, see [here](https://sodalab.ca/join).
+**For information on joining the [SODALab](https://sodalab.ca) as an undergraduate, graduate, or postdoc, see [here](https://sodalab.ca/join)**.
 
 <!-- - [**Threshold Policies with Tight Guarantees for Online Selection with Convex Costs**](https://arxiv.org/pdf/2004.09640.pdf)\\
 Xiaoqi Tan, Bo Sun, Alberto Leon-Garcia, Yuan Wu, and Danny H.K. Tsang\\
