@@ -25,10 +25,10 @@ Email: $\textsf{xiaoqi.tan@ualberta.ca}$
 Xiaoqi Tan is an Assistant Professor of [Computing Science](https://www.ualberta.ca/computing-science/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html) and a Fellow of [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/). Prior to July 2021, he was a Postdoctoral Fellow at the [University of Toronto](https://www.utoronto.ca/). He received his Ph.D.  from [HKUST](https://hkust.edu.hk/) in 2018. During his Ph.D.,  he was also a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).  
 
 >
-Xiaoqi’s research interests span various topics in online algorithms, algorithmic game theory, mechanism design, and sequential decision and learning theory. The main theme of his research is to develop algorithms/markets with provable guarantees to optimize decision-making in dynamic, uncertain, and possibly strategic environments, using mathematical tools from computer science, economics, statistics, and control. See his [**SODALab**](https://sodalab.ca) page for more information.
+Xiaoqi’s research strives to optimize decision-making in dynamic, uncertain, and possibly strategic environments, using mathematical tools from computer science, economics, statistics, and control. Some major topics of interest include online algorithms, algorithmic game theory, and learning theory. For more details, see his [**SODALab**](https://sodalab.ca) page.
 
 >
-**For information on working with Xiaoqi as an undergraduate, graduate, or postdoc, see [here](https://sodalab.ca/join)**.
+**For information on joining Xiaoqi's [SODALab](https://sodalab.ca) as an undergraduate, graduate, or postdoc, see [here](https://sodalab.ca/join)**.
 
 <!-- - [**Threshold Policies with Tight Guarantees for Online Selection with Convex Costs**](https://arxiv.org/pdf/2004.09640.pdf)\\
 Xiaoqi Tan, Bo Sun, Alberto Leon-Garcia, Yuan Wu, and Danny H.K. Tsang\\
