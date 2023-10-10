@@ -25,7 +25,7 @@ Email: $\textsf{xiaoqi.tan@ualberta.ca}$
 Xiaoqi Tan is an Assistant Professor of [Computing Science](https://www.ualberta.ca/computing-science/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html) and a Fellow of [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/). Prior to July 2021, he was a Postdoctoral Fellow at the [University of Toronto](https://www.utoronto.ca/). He received his Ph.D.  from [HKUST](https://hkust.edu.hk/) in 2018. During his Ph.D.,  he was also a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).  
 
 >
-Xiaoqi’s research strives to optimize decision-making in dynamic, uncertain, and possibly strategic environments, using mathematical tools from computer science, economics, statistics, and control. Specifically, his current research focuses primarily on online algorithms, algorithmic game theory, and learning theory. For more details, see his [**SODALab**](https://sodalab.ca) page.
+Xiaoqi’s research strives to optimize decision-making in dynamic, uncertain, and possibly strategic environments, using mathematical tools from computer science, economics, statistics, and control. Some current topics of interest include online algorithms, algorithmic game theory, mechanism design, auctions, and sequential decision and learning theory. For more details, see his [**SODALab**](https://sodalab.ca) page.
 
 >
 **For information on joining Xiaoqi's [SODALab](https://sodalab.ca) as an undergraduate, graduate, or postdoc, see [here](https://sodalab.ca/join)**.
