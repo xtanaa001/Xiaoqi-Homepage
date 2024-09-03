@@ -15,7 +15,7 @@ Searching for a good balance between _rigor_ and _intuition_ is both enjoyable a
 ## `Fall 2024 (Current)`
 >
 - [**CMPUT 204: Introduction to Algorithms**](https://eclass.srv.ualberta.ca/course/view.php?id=98513)
-- [**CMPUT 676: Optimization and Decision-Making under Uncertainty**](/teaching/optcourse/fall2024)
+- [**CMPUT 676: Optimization and Decision-Making under Uncertainty**](/teaching/optimization)
 
 
 ## `Fall 2023`
