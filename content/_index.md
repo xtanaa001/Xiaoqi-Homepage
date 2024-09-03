@@ -14,7 +14,7 @@ Assistant Professor \
 [University of Alberta](https://www.ualberta.ca/index.html)
 
 Office: Athabasca Hall 303\
-Email: $\textsf{xiaoqi.tan@ualberta.ca}$
+Email: xiaoqi.tan$\textsf{@}$ualberta.ca
 
 [Bio](/bio) | [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate)
 
@@ -25,10 +25,13 @@ Email: $\textsf{xiaoqi.tan@ualberta.ca}$
 Xiaoqi Tan is an Assistant Professor of [Computing Science](https://www.ualberta.ca/computing-science/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html) and a Fellow of [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/). Prior to July 2021, he was a Postdoctoral Fellow at the [University of Toronto](https://www.utoronto.ca/). He received his Ph.D.  from [HKUST](https://hkust.edu.hk/) in 2018. During his Ph.D.,  he was also a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).  
 
 >
-Xiaoqi Tan’s research focuses on optimization and decision-making under uncertainty. He develops new methodologies and applies existing ones from online optimization, algorithmic game theory, and machine learning. On the applied side, his research aims to address environmental and economic sustainability challenges across various domains, including energy, transportation, and communications.
+Xiaoqi Tan’s research lies broadly at the intersection of systems and theory. He develops mathematical models and algorithms with provable guarantees to optimize decision-making under uncertainty, using tools and insights from optimization, machine learning, economics, and operations research. On the applied side, his research aims to address environmental and economic sustainability challenges across various domains, including energy, transportation, and networking.
 
 >
 For more details about Xiaoqi's research, see his [**SODALab**](https://sodalab.ca) page. For information on joining his lab as an undergraduate, graduate, or postdoc, see [here](https://sodalab.ca/join).
+
+<!-- >
+Xiaoqi Tan’s research focuses on optimization and decision-making under uncertainty. He develops new methodologies and applies existing ones from online optimization, algorithmic game theory, and machine learning. On the applied side, his research aims to address environmental and economic sustainability challenges across various domains, including energy, transportation, and communications. -->
 
 <!-- - [**Threshold Policies with Tight Guarantees for Online Selection with Convex Costs**](https://arxiv.org/pdf/2004.09640.pdf)\\
 Xiaoqi Tan, Bo Sun, Alberto Leon-Garcia, Yuan Wu, and Danny H.K. Tsang\\

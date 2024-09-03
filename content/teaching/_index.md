@@ -7,20 +7,20 @@ title: Teaching
 <img alt="" src="/img/rigor_intuition_f.png" style="min-width:220px; float:center; margin: 40px 1px 10px 1px" width="720"/>
 </div>
 
-Searching for a good balance between _rigor_ and _intuition_ is of utmost fun (yet important) in teaching and learning (Computer Science in particular). Indeed, being rigorous in theoretical foundations will give us the fearlessness to think critically, to challenge the status quo, and most importantly, to always pursue the truth without ambiguity. An intuitive understanding, on the other hand, will help us better retain important information in learning, and hence better utilize the knowledge whenever/wherever needed --- possibly even way beyond the intended scope of a course.
+Searching for a good balance between _rigor_ and _intuition_ is both enjoyable and crucial in teaching and learning, especially in Computer Science. Being rigorous in theoretical foundations empowers us to think critically, challenge the status quo, and, most importantly, pursue the truth without ambiguity. On the other hand, an intuitive understanding helps us retain important information more effectively, allowing us to utilize the knowledge whenever and wherever needed—possibly even beyond the intended scope of a course.
 
 ---
 
 
-<!-- ## `Fall 2024`
+## `Fall 2024 (Current)`
 >
-- **CMPUT 204: Introduction to Algorithms**
-- **CMPUT 676: Onine Algorithms, Decisions, and Markets** -->
+- [**CMPUT 204: Introduction to Algorithms**](https://eclass.srv.ualberta.ca/course/view.php?id=98513)
+- [**CMPUT 676: Optimization and Decision-Making under Uncertainty**](/teaching/optcourse/fall2024)
 
 
 ## `Fall 2023`
 >
-- [**CMPUT 204: Introduction to Algorithms**](https://eclass.srv.ualberta.ca/course/view.php?id=90520)
+- **CMPUT 204: Introduction to Algorithms**
 
 
 ## `Winter 2023`
@@ -30,7 +30,7 @@ Searching for a good balance between _rigor_ and _intuition_ is of utmost fun (y
 
 ## `Fall 2022`
 >
-- [**CMPUT 676: Optimization and Decision-Making under Uncertainty**](/teaching/optimization)
+- **CMPUT 676: Optimization and Decision-Making under Uncertainty**
 
 <!-- - Course enrollment: 20-25
 - USRI course rating: 4.9 / 5
