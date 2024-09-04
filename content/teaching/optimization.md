@@ -60,8 +60,8 @@ The main assignment of this course is to complete a course project which include
 
 | Date            | Topics                                         |  References and Readings                 |
 |:-------------   | :-----                                        |  :-----                   |
-| Sept. 4          | `Lec 1: Overview` <br> Course topics; Logistics    |       L1-slides               |      
+| Sept. 4          | `Lec 1: Overview` <br> Course topics; Logistics    |       [L1-slides](https://drive.google.com/open?id=1sY_QFUzIOT1eXjVvEG5sjt00JBY2DwZ9&usp=drive_fs)               |      
 |                 | **`Convex Optimization (A brief intro)`**     |       |
-| Sept. 9         | `Lec 2: Concepts` <br> Convex sets <br> Convex functions <br> Convex problems         |  L2-slides <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch1-Ch4 |
-| Sept. 11       | `Lec 3: Theory` <br> Lagrange multipliers <br> Duality theory <br> Optimality conditions    |  L3-slides  <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch5 <br> [DB Book](http://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf)  |
-| Sept. 16       | `Lec 4: Algorithms` <br> Gradient descent <br> Newton's methods <br> Barrier methods <br> Dual ascent     | L4-slides <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch9-Ch11 | 
+| Sept. 9         | `Lec 2: Concepts` <br> Convex sets <br> Convex functions <br> Convex problems         |  [L2-slides](https://drive.google.com/open?id=1sowdEEi62AGmCLZ1B_aU01KW1Hk0_W2w&usp=drive_fs) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch1-Ch4 |
+| Sept. 11       | `Lec 3: Theory` <br> Lagrange multipliers <br> Duality theory <br> Optimality conditions    |  [L3-slides](https://drive.google.com/open?id=1siPM5shl4b45PatkQHpBnvaLqW5uLAII&usp=drive_fs)  <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch5 <br> [DB Book](http://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf)  |
+| Sept. 16       | `Lec 4: Algorithms` <br> Gradient descent <br> Newton's methods <br> Barrier methods <br> Dual ascent     | [L4-slides](https://drive.google.com/open?id=1soQApib-aBmmb_qh9OAi6bdFKOc55d-J&usp=drive_fs) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch9-Ch11 | 
