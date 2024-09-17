@@ -39,7 +39,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "Copyright &copy; 2021-2023 | Xiaoqi Tan"
+  footer: "Copyright &copy; 2021-2024 | Xiaoqi Tan"
 
 markup:
   highlight:
