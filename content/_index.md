@@ -25,24 +25,8 @@ Email: xiaoqi.tan$\textsf{@}$ualberta.ca
 Xiaoqi Tan is an Assistant Professor of [Computing Science](https://www.ualberta.ca/computing-science/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html) and a Fellow of [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/). Prior to July 2021, he was a Postdoctoral Fellow at the [University of Toronto](https://www.utoronto.ca/). He received his Ph.D.  from [HKUST](https://hkust.edu.hk/) in 2018. During his Ph.D.,  he was also a visiting research fellow at the [School of Engineering and Applied Science](https://www.seas.harvard.edu/), [Harvard University](https://harvard.edu).  
 
 >
-Xiaoqi’s research focuses on developing mathematical models and algorithms for optimization and decision-making under uncertainty. Specifically, his work addresses resource allocation problems characterized by (i) the need to make sequential decisions before the full input is known and (ii) the private and unknown preferences of strategic agents. Real-world examples of such resources include slots in online advertising, distributed energy resources in electrical grids, CPU and memory in cloud computing, and bandwidth in networks.
+Xiaoqi’s research focuses on developing algorithms for decision-making under uncertainty. His current work centers on algorithm design problems, particularly in resource allocation, that involve two key types of uncertainty: (i) the need to make sequential decisions before the full input is revealed, and (ii) the private, unknown preferences of strategic agents. Examples of such resources include slots in online advertising, distributed energy resources in electrical grids, CPU and memory in cloud computing, and bandwidth in networks. 
+ 
 
 >
 For more details about Xiaoqi's research, see his [**SODALab**](https://sodalab.ca) page. For information on joining his lab as an undergraduate, graduate, or postdoc, see [here](https://sodalab.ca/join).
-
-<!-- >
-Xiaoqi Tan’s research focuses on optimization and decision-making under uncertainty. He develops new methodologies and applies existing ones from online optimization, algorithmic game theory, and machine learning. On the applied side, his research aims to address environmental and economic sustainability challenges across various domains, including energy, transportation, and communications. -->
-
-<!-- - [**Threshold Policies with Tight Guarantees for Online Selection with Convex Costs**](https://arxiv.org/pdf/2004.09640.pdf)\\
-Xiaoqi Tan, Bo Sun, Alberto Leon-Garcia, Yuan Wu, and Danny H.K. Tsang\\
-ACM SIGMETRICS 2020
->
-- [**Mechanism Design for Online Resource Allocation: A Unified Approach**](https://arxiv.org/pdf/2004.09640.pdf)\\
-Xiaoqi Tan, Bo Sun, Alberto Leon-Garcia, Yuan Wu, and Danny H.K. Tsang\\
-ACM SIGMETRICS 2020
-- [**Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits**](https://arxiv.org/pdf/2004.09640.pdf)\\
-Xiaoqi Tan, Bo Sun, Alberto Leon-Garcia, Yuan Wu, and Danny H.K. Tsang\\
-ACM SIGMETRICS 2020 -->
-
-<!-- 
-focuses on optimization and decision-making under uncertainty. He develops new methodologies and uses existing ones from online optimization, algorithmic game theory, mechanism design, and machine learning. On the practical side, his research is motivated from and applied to societal challenges across various fields, including energy, transportation, online advertising, financial trading, cloud computing, and network optimization. -->

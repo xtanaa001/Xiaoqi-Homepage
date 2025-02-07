@@ -11,21 +11,25 @@ Searching for a good balance between _rigor_ and _intuition_ is both enjoyable a
 
 ---
 
-
-## `Fall 2024 (Current)`
+## `Winter 2025 (Current)`
 >
-- [**CMPUT 204: Introduction to Algorithms**](https://eclass.srv.ualberta.ca/course/view.php?id=98513)
+- [**CMPUT 204: Algorithms I**](https://eclass.srv.ualberta.ca/course/view.php?id=101164)
+
+
+## `Fall 2024`
+>
+- **CMPUT 204: Algorithms I**
 - [**CMPUT 676: Optimization and Decision-Making under Uncertainty**](/teaching/optimization)
 
 
 ## `Fall 2023`
 >
-- **CMPUT 204: Introduction to Algorithms**
+- **CMPUT 204: Algorithms I**
 
 
 ## `Winter 2023`
 >
-- **CMPUT 204: Introduction to Algorithms**
+- **CMPUT 204: Algorithms I**
 
 
 ## `Fall 2022`
@@ -39,7 +43,7 @@ Searching for a good balance between _rigor_ and _intuition_ is both enjoyable a
 
 ## `Winter 2022`
 >
-- **CMPUT 204: Introduction to Algorithms**
+- **CMPUT 204: Algorithms I**
 
 <!-- - Course enrollment: 150-200
 - USRI course rating: 4.5 / 5
