@@ -1,6 +1,6 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "Xiaoqi Tan"
+title: "Xiaoqi Tan - CS@UAlberta"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
@@ -39,7 +39,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "Copyright &copy; 2021-2024 | Xiaoqi Tan"
+  footer: "Copyright &copy; 2021-2025 | Xiaoqi Tan"
 
 markup:
   highlight:
