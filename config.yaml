@@ -1,6 +1,6 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "Xiaoqi Tan - CS@UAlberta"
+title: "Xiaoqi Tan @UAlberta"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
@@ -17,13 +17,21 @@ menu:
       url: "/"
       weight: 1
 
-    - name: Teaching
-      url: "/teaching"
-      weight: 3
+    - name: Biography
+      url: "/bio"
+      weight: 2
 
     - name: Research
       url: "https://sodalab.ca"
-      weight: 2
+      weight: 3
+
+    - name: Teaching
+      url: "/teaching"
+      weight: 4
+
+    # - name: Services
+    #   url: "/services"
+    #   weight: 5
     
     # - name: Publications
     #   url: "https://sodalab.ca/publications"

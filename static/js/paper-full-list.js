@@ -72,7 +72,7 @@ var papers_full = new Array (
         highlight : "yes",
         topic: "O",
         year: "2023", 
-        note: "Journal version to appear in ACM Transactions on Economics and Computation",
+        note: "Journal version appears in ACM Transactions on Economics and Computation",
         paperAbstract : "<p>This paper provides threshold policies with tight guarantees for online selection with convex cost (OSCC). In OSCC, a seller wants to sell some asset to a sequence of buyers with the goal of maximizing his/her profit. The seller can produce additional units of the asset, but at non-decreasing marginal costs. At each time, a buyer arrives and offers a price, and the seller must make an immediate and irrevocable decision in terms of whether to accept the offer and produce/sell one unit of the asset to this buyer. The goal is to develop an online algorithm that selects a subset of buyers to maximize the seller’s profit, namely, the total selling revenue minus the total production cost. Our main result is the development of a class of simple threshold policies that are logistically-simple and easy to implement, but have provable optimality guarantees among all deterministic algorithms. We also derive a lower bound on competitive ratios of randomized algorithms, and prove that the competitive ratio of our threshold policy asymptotically converges to this lower bound when the total production output is sufficiently large. Our results generalize and unify various online search, pricing, and auction problems, and provide a new perspective on the impact of non-decreasing marginal costs on real-world online resource allocation problems. </p>",
     },
 );

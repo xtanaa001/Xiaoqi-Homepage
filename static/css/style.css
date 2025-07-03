@@ -1,5 +1,5 @@
 body {
-  max-width: 1300px;
+  max-width: 1100px;
   margin: auto;
   padding: 1em !important;
   padding-top: 1em !important;
@@ -154,8 +154,8 @@ img, iframe, video {max-width: 100%; }
 main { hyphens: auto; }
 blockquote {
   margin: auto;
-  background: #fff1e5; /* #fff1e5; /*#f9f9f9*/
-  border: 1px solid #F2DFCE;    
+  background: white; /* #fff1e5; /*#f9f9f9*/
+  border: 2px solid #F2DFCE;    
   border-left: 8px solid #F2DFCE;
   padding: 0.02px 1em 0.02px 1em;
   /* box-shadow: #F2DFCE 1px 1px 1px, rgba(0, 0, 0, 0.3) 0px 0px 0px -3px, rgba(0, 0, 0, 0.2) 0px 0px 0px inset; */

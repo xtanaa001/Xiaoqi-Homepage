@@ -13,22 +13,23 @@ Assistant Professor \
 [Department of Computing Science](https://www.ualberta.ca/computing-science/index.html)\
 [University of Alberta](https://www.ualberta.ca/index.html)
 
-Office: Athabasca Hall 303\
-Email: xiaoqi.tan$\textsf{@}$ualberta.ca
+Email: xiaoqi.tan$\textsf{@}$ualberta.ca\
+Office: University Commons 6-121
 
-[Bio](/bio) | [Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate)
-
+<!-- [Bio](/bio) |  -->
+[Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html)
 
 ---
 
-### `Research Interests`
+#### `Research Interests`
 
 Algorithms and decision-making under uncertainty, especially online algorithms, economic aspects of algorithms, and their role in systems and networks shaped by dynamics and strategic behavior.
 
----
+>
+I am constantly looking for highly motivated students (both undergrad and graduate). For further details, please refer to the [SODALab @UAlberta](https://sodalab.ca) page and my [Letter to Prospective Students](https://sodalab.ca/prospectivegrads/).
 
-### `Selected Recent Publications`    
 
+#### `Recent Publications (selected)`    
 >
 <ul class=circle>
         <script>
@@ -40,5 +41,3 @@ Algorithms and decision-making under uncertainty, especially online algorithms, 
             }
         </script>
 </ul>
-
-For information on joining Xiaoqi Tan's research group as an undergraduate, graduate, or postdoc, see the [**SODALab@UofA**](https://sodalab.ca) page.
