@@ -40,14 +40,14 @@
       {{- $firstUrlElement := print "/" (index (split .URL "/") 1) -}}
       {{ range .Site.Menus.main }}              
           <!-- Single level menus -->
-          <!-- <li><a href="{{.URL}}" class="{{if or ($.IsMenuCurrent "main" .) (eq ($firstUrlElement|lower) (.URL|lower)) }}active{{end}}">{{ .Name }}</a></li> -->
+          <li><a href="{{.URL}}" class="{{if or ($.IsMenuCurrent "main" .) (eq ($firstUrlElement|lower) (.URL|lower)) }}active{{end}}">{{ .Name }}</a></li>
           <!-- Configure each menu entry as needed: external or internal links  -->
-          {{ if .Params.external }}
-            <a href="{{ .URL }}" rel="external" target="_blank">{{ .Name }}</a>
-          {{ else }}
+          <!-- {{ if .Params.external }} -->
+            <!-- <a href="{{ .URL }}" rel="external" target="_blank">{{ .Name }}</a> -->
+          <!-- {{ else }} -->
             <!-- <a href="{{ .URL }}">{{ .Name }}</a> -->
-             <a href="{{.URL}}" class="{{if or ($.IsMenuCurrent "main" .) (eq ($firstUrlElement|lower) (.URL|lower)) }}active{{end}}">{{ .Name }}</a>
-          {{ end }}
+             <!-- <a href="{{.URL}}" class="{{if or ($.IsMenuCurrent "main" .) (eq ($firstUrlElement|lower) (.URL|lower)) }}active{{end}}">{{ .Name }}</a> -->
+          <!-- {{ end }} -->
       {{ end }}
       
   </ul>
