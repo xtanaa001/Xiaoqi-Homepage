@@ -16,11 +16,7 @@ menu:
     - name: Home
       url: "/"
       weight: 1
-
-    # - name: Biography
-    #   url: "/bio"
-    #   weight: 6
-
+      
     - name: Publications
       url: "/publications"
       weight: 2
@@ -40,10 +36,6 @@ menu:
     - name: Join
       url: "/join"
       weight: 6
-
-    # - name: Service
-    #   url: "/service"
-    #   weight: 5
 
     # - name: SODALab
     #   url: "https://sodalab.ca/"
