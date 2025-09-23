@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Xiaoqi Tan @UAlberta</title>
+    <link>//localhost:1313/post/</link>
+    <description>Recent content in Posts on Xiaoqi Tan @UAlberta</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMU</title>
+      <link>//localhost:1313/post/2020/07/03/dmu/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2020/07/03/dmu/</guid>
+      <description>&lt;h2 id=&#34;course-overview&#34;&gt;Course Overview&lt;/h2&gt;&#xA;&lt;p&gt;One of the primary goals of AI is the design, control and analysis of agents or systems that behave appropriately in various circumstances. Such intelligent agents require not only the ability to act but also to decide how to act as circumstances vary. In turn, good decision making requires that the agent have knowledge or beliefs about its environment and its dynamics (including the presence of other agents), about its own abilities to observe and change the environment, and its goals and preferences. In this course, we will examine some of the techniques for modeling decision problems of various types and the computational methods used to solve them. The course will focus on probabilistic models: probabilistic inference, decision making under uncertainty, and game theoretic models of multiagent interaction will be the emphasis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Example</title>
+      <link>//localhost:1313/post/2020/07/03/example/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2020/07/03/example/</guid>
+      <description>&lt;p&gt;&lt;a id=&#34;research_overview&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Many network-based applications and services are carried out by providing resources to systems of interacting and self-interested agents.  Making decisions in managing these systems faces two separate, but interrelated, challenges. First, in any system, a good decision, whether that be defined as an algorithm for computing resource allocation in the clouds, a strategy for  traffic routing in the Internet, or a policy for electricity distribution in smart grid, are often computed by solving some explicit or implicit optimization problems with uncertain future information (e.g., stochastic job arrivals in cloud computing, or fluctuating renewable energy generation in smart grid). Thus, &lt;em&gt;designing algorithms to enable efficient decision-making under uncertainty&lt;/em&gt; (with or without prediction) is, in many cases, not just an advantage, but a necessity. Second, and often more difficult, the performance of a decision-making process, e.g., economic efficiency, often depends on a collective behavior of agents that may act strategically (and thus, cannot be forced to follow the decisions made by the platform). For this reason,  we must &lt;em&gt;design appropriate incentives to encourage agent interactions towards a desired direction&lt;/em&gt;, otherwise the decisions cannot be implemented with a guaranteed efficiency and rationality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Online Knapsack Problems</title>
+      <link>//localhost:1313/post/2020/07/03/online-knapsack-problems/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2020/07/03/online-knapsack-problems/</guid>
+      <description>&lt;p&gt;The knapsack problem, as well as its many variants, has been extensively studied in computer science and operations research communities over the past several decades [1].  As a classic example, the  0-1 knapsack problem considers a combinatorial optimization problem as follows: Given a set of $ N $ items indexed by $ n\in [N] $, each with a value $ v_n $ and a weight $ w_n $, one needs to decide whether  item $ n\in [N] $ is to be included in the knapsack (i.e., $ x_n = 0 $) or not (i.e., $ x_n = 0 $) so that the total weight of accepted items is less than or equal to the maximum weight capacity $ M $, and the aggregate value  of accepted items is as large as possible.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Plain Markdown Post</title>
+      <link>//localhost:1313/post/2016/02/14/a-plain-markdown-post/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2016/02/14/a-plain-markdown-post/</guid>
+      <description>&lt;p&gt;This sample post is mainly for &lt;a href=&#34;https://github.com/rstudio/blogdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; users. If you do not use &lt;strong&gt;blogdown&lt;/strong&gt;, you can skip the first section.&lt;/p&gt;&#xA;&lt;h1 id=&#34;1-markdown-or-r-markdown&#34;&gt;1. Markdown or R Markdown&lt;/h1&gt;&#xA;&lt;p&gt;This is a post written in plain Markdown (&lt;code&gt;*.md&lt;/code&gt;) instead of R Markdown (&lt;code&gt;*.Rmd&lt;/code&gt;). The major differences are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (&lt;code&gt;```{r}&lt;/code&gt;);&lt;/li&gt;&#xA;&lt;li&gt;A plain Markdown post is rendered through &lt;a href=&#34;https://gohugo.io/overview/configuration/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blackfriday&lt;/a&gt;, and an R Markdown document is compiled by &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;rmarkdown&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;http://pandoc.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pandoc&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown. For example, you can write a task list with Blackfriday but not with Pandoc:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

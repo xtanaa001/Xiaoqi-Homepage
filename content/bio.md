@@ -16,9 +16,10 @@ Dr. Tan has served on the program committees of multiple leading conferences, in
 
 ### `Miscellaneous`
 
->
-<!-- - My [Letter to Prospective Students](/letter2students/), which outlines my core values in research and mentoring. -->
+<blockquote>
+
 - I was born and raised in eastern [Hunan](https://www.google.com/maps/place/Hunan,+China), an inland province in central China known for its hot and spicy cuisine. The provincial capital, [Changsha](https://en.wikipedia.org/wiki/Changsha), is a major tourist destination and is consistently ranked among China’s top cities to visit. 
-<!-- - I completed my undergraduate studies at Xi’an Jiaotong University, spent several formative years in Hong Kong as a PhD student at HKUST, and later moved to Toronto before settling in Edmonton. -->
 - I’ve been an long-time admirer of traditional [Chinese calligraphy](https://en.wikipedia.org/wiki/Chinese_calligraphy). As a child, I practiced the [regular script](https://en.wikipedia.org/wiki/Regular_script) styles of [Liu Gongquan](https://en.wikipedia.org/wiki/Liu_Gongquan) and [Ouyang Xun](https://en.wikipedia.org/wiki/Ouyang_Xun). Some of my favorite calligraphers include [Zhao Mengfu](https://en.wikipedia.org/wiki/Zhao_Mengfu) and [Huaisu](https://en.wikipedia.org/wiki/Huaisu).
 - How to pronounce my name: **`Xiaoqi`**? A close approximation is “**`Shee-ow-chee`**.” Start with “shee” (as in “sheep”), quickly glide into a short “ow” (as in “how”) without pausing, and finish with “chee” (as in “cheese” without the “z”).
+
+</blockquote>

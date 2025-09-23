@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CMPUT 204 - Winter 2022 | Xiaoqi Tan @UAlberta</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+    <link href="/img/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+    <link color="#275d38" href="/img/safari-pinned-tab.svg" rel="mask-icon"/>
+    <link href="/img/favicon.svg" rel="icon"/>
+    <link href="/img/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+    <link href="/img/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+    <script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+  });
+  MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+  });
+
+  MathJax.Hub.Config({
+  
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+  });
+
+  
+  (function() {
+  function center_el(tagName) {
+    var tags = document.getElementsByTagName(tagName), i, tag;
+    for (i = 0; i < tags.length; i++) {
+      tag = tags[i];
+      var parent = tag.parentElement;
+      
+      if (parent.childNodes.length === 1) {
+        
+        if (parent.nodeName === 'A') {
+          parent = parent.parentElement;
+          if (parent.childNodes.length != 1) continue;
+          parent.firstChild.style.border = 'none';
+        }
+        if (parent.nodeName === 'P') parent.style.textAlign = 'center';
+      }
+    }
+  }
+  var tagNames = ['img', 'embed', 'object'];
+  for (var i = 0; i < tagNames.length; i++) {
+    center_el(tagNames[i]);
+  }
+})();
+
+</script>
+
+
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153197636-1"></script>
+
+<script>
+  var host = window.location.hostname;
+  if(host != "localhost")
+  {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-153197636-1'); 
+  }
+</script>
+  </head>
+
+    <script src="/js/jquery-latest.js" type="text/javascript"></script>
+    <script src="/js/author-list.js" type="text/javascript"></script>
+    <script src="/js/talk-full-list.js" type="text/javascript"></script>
+    <script src="/js/paper-full-list.js" type="text/javascript"></script>
+    <script src="/js/print-paper.js" type="text/javascript"></script>
+    <script>
+        function toggleAbstract(id) {
+            $("#"+id).slideToggle();
+            return(false);
+        };
+    </script>
+    
+
+  <body>
+    
+
+<body>
+    
+  
+  <nav>
+    <ul class="menu">
+      <a href="https://www.ualberta.ca" target="_blank"> <img src="/img/UA_Logo_Green_RGB.png" style="max-width:13%;min-width:100px; margin: 0px 0px 0px 1px; margin-right: 20px; float:left;" /> </a>
+      
+      <li><a href="/">Home</a></li>
+      <li><a href="/">Home</a>
+        </li>
+      
+      <li><a href="/publications/">Publications</a></li>
+      <li><a href="/publications/">Publications</a>
+        </li>
+      
+      <li><a href="/people/">Students</a></li>
+      <li><a href="/people/">Students</a>
+        </li>
+      
+      <li><a href="/teaching/">Teaching</a></li>
+      <li><a href="/teaching/"class="current">Teaching</a>
+        </li>
+      
+      <li><a href="/bio/">Biography</a></li>
+      <li><a href="/bio/">Biography</a>
+        </li>
+      
+      <li><a href="/join/">Join</a></li>
+      <li><a href="/join/">Join</a>
+        </li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+ 
+
+<main>
+<h1 id="cmput-204-introduction-to-algorithms"><code>CMPUT 204: Introduction to Algorithms</code></h1>
+<h1 id="section-b2---winter-2023">Section B2 - Winter 2023</h1>
+<p><strong><code>Instructor</code></strong>: <a href="/">Xiaoqi Tan</a> ($\textsf{xiaoqi.tan@ualberta.ca}$)<br>
+<strong><code>Location &amp; Time</code></strong>:  C E1-60; MWF 11:00–11:50am<br>
+<strong><code>Office hour</code></strong>: Wednesday 2-3pm</p>
+<hr>
+<h2 id="course-topics"><code>Course Topics</code></h2>
+<blockquote>
+</blockquote>
+<ol>
+<li><strong><code>Foundations.</code></strong> Concepts; Model of computation; Loop invariants and inductions; Asymptotic growth of functions; Recurrence relations</li>
+<li><strong><code>Data Structures.</code></strong> Heaps; Priority queue; Binary search tree; AVL tree; Hash table</li>
+<li><strong><code>Algorithm Design Paradigms</code></strong>
+<ul>
+<li><strong>Divide and conquer</strong>: Merge Sort; QuickSort and random quicksort; Large integer multiplication; Matrix multiplication; Advanced topics</li>
+<li><strong>Greedy algorithms</strong>: Fractional knapsack; Job scheduling; Activity selection; Advanced topics</li>
+<li><strong>Dynamic programming</strong>: Integral knapsack; Rod cutting; Longgest common subsequence; Matrix chain multiplication; Advanced topics</li>
+</ul>
+</li>
+<li><strong><code>Graphs.</code></strong> Graph representation; Graph traversals: BFS/DFS; Directed acyclic graphs and topological sort; Connectivity in directed graphs; Minimum spanning trees; Single-source shortest path; All-pairs shortest path</li>
+</ol>
+<h2 id="course-schedule"><code>Course Schedule</code></h2>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Date</th>
+          <th style="text-align: left">Topics</th>
+          <th style="text-align: left">References</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Week 1: Introduction; Insertion Sort</code></strong></td>
+          <td style="text-align: left"><a href="https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf" target="_blank" rel="noopener">CLRS</a>: Ch1-Ch4</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Jan 5</td>
+          <td style="text-align: left">Course overview</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 1-slides</a><br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 1-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Jan 7</td>
+          <td style="text-align: left">RAM; Insertion Sort (getting started)</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 2-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 2-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Week 2: Loop Invariants; Insertion Sort Analysis</code></strong></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Jan 10</td>
+          <td style="text-align: left">Loop invariants: concepts</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 3-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 3-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Jan 12</td>
+          <td style="text-align: left">Loop invariants: more examples</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 4-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 4-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Jan 14</td>
+          <td style="text-align: left">Loop invariants: Insertion Sort analysis</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 5-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 5-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Week 3: Asymptotic Growth of Functions</code></strong></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Jan 17</td>
+          <td style="text-align: left">Big-O notation: Part 1</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 6-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 6-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Jan 19</td>
+          <td style="text-align: left">Big-O notation: Part 2</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 7-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 7-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Jan 21</td>
+          <td style="text-align: left">Big-O notation: Part 3</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 8-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 8-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Week 4: Divide-and-Conquer I</code></strong> <br> <strong><code>(Merge Sort and Recurrence Relations)</code></strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Jan 24</td>
+          <td style="text-align: left">Merge Sort; Recurrence  relations</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 9-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 9-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Jan 26</td>
+          <td style="text-align: left">Methods for solving recurrence: Subsitution; Recursion tree</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 10-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 10-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Jan 28</td>
+          <td style="text-align: left">Methods for solving recurrence: Master Theorem</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 11-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 11-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Week 5: Heaps; Priority Queue; HeapSort</code></strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Jan 31</td>
+          <td style="text-align: left">Heaps</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 12-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 12-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Feb 2</td>
+          <td style="text-align: left">Heaps; HeapSort</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 13-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 13-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Feb 4</td>
+          <td style="text-align: left">Priority queue</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 14-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 14-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Week 6: QuickSort; SLB; BST; Hash Table</code></strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Feb 7</td>
+          <td style="text-align: left">QuickSort</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 15-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 15-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Feb 9</td>
+          <td style="text-align: left">QuickSort analysis; Random QuickSort <br> Sorting lower bound</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 16-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 16-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Feb 11</td>
+          <td style="text-align: left">BST: binary search tree <br> Balanced BST: AVL tree <br> Hash tables</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 17-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 17-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Week 7: Greedy Algorithms</code></strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Feb 14</td>
+          <td style="text-align: left">Fractional knapsack</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 18-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 18-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Feb 16</td>
+          <td style="text-align: left">Job scheduling</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 19-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 19-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Feb 18</td>
+          <td style="text-align: left">Activity selection</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 20-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 20-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Week 8: Reading Week</code></strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Week 9: Divide-and-Conquer II</code></strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Feb 28</td>
+          <td style="text-align: left"><strong>Test 1</strong> (Coverage: Week 1&ndash;Week 6)</td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Mar  2</td>
+          <td style="text-align: left">Karatsuba&rsquo;s algorithm</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 21-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 21-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Mar  4</td>
+          <td style="text-align: left">Strassen&rsquo;s algorithm</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 22-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 22-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Week 10: Dynamic Programming</code></strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Mar  7</td>
+          <td style="text-align: left">Introduction <br> Getting started: Fibonacci</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 23-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 23-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Mar  9</td>
+          <td style="text-align: left">Integral knapsack <br> Rod cutting</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 24-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 24-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Mar  11</td>
+          <td style="text-align: left">Longest common subsequence <br> Matrix chain multiplication</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 25-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 25-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Week 11: Graphs and BFS/DFS</code></strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Mar  14</td>
+          <td style="text-align: left">Graphs: Introduction</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 26-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 26-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Mar  16</td>
+          <td style="text-align: left">BFS: Breadth-First Search</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 27-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 27-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Mar  18</td>
+          <td style="text-align: left">DFS: Depth-First Search</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 28-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 28-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Week 12: DAGs; TopoSort; SCCs; MST</code></strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Mar  21</td>
+          <td style="text-align: left">DAG: Directed Acyclic Graphs</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 29-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 29-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Mar  23</td>
+          <td style="text-align: left">TopoSort: Topological Sorting in DAGs <br> SCCs: Strongly connected components</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 30-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 30-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Mar  25</td>
+          <td style="text-align: left">MST: Minimum spanning tree <br> Kruskal&rsquo;s algorithm: Introduction</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 31-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 31-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Week 13: Minimum Spanning Tree (Cont'd)</code></strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Mar  28</td>
+          <td style="text-align: left"><strong>Test 2</strong> (Coverage: Week 7&ndash;Week 11)</td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Mar  30</td>
+          <td style="text-align: left">Kruskal&rsquo;s algorithm: Proof <br> Prim&rsquo;s algorithm: Introduction</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 32-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 32-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">April  1</td>
+          <td style="text-align: left">Prim&rsquo;s algorithm: Proof</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 33-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 33-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Week 14: Shortest Path</code></strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">April  4</td>
+          <td style="text-align: left">Dijkstra</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 34-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 34-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">April  6</td>
+          <td style="text-align: left">Bellman-Ford</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 35-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 35-video</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">April  8</td>
+          <td style="text-align: left">Floyd-Warshall <br> Course recap</td>
+          <td style="text-align: left"><a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 36-slides</a> <br> <a href="https://drive.google.com/file/d/1lseXfLxfmbkPr6OKUkGehPhl5CuU1JwR/view?usp=sharing" target="_blank" rel="noopener">Lecture 36-video</a></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="some-advices"><code>Some Advices</code></h2>
+<blockquote>
+</blockquote>
+<ol>
+<li><strong><code>How to use the course material</code></strong>
+<ul>
+<li><strong>Pre-lectures</strong>: Go through the lecture notes and slides before each lecture. Failure to do so will make it very hard to follow the lectures in class. This session is recommended for every student with at least 30 minutes.</li>
+<li><strong>Post-lectures</strong>:  Review the lecture notes and slides after each lecture. This is recommended for every student, especially when you are confused about some topics discussed in class. at least 30 minutes.</li>
+</ul>
+</li>
+<li><strong><code>How to understand the course topics.</code></strong> Heaps; Priority queue; Binary search tree; AVL tree; Hash table</li>
+<li><strong><code>Assignments</code></strong>: Merge Sort; QuickSort and random quicksort; Large integer multiplication; Matrix multiplication; Advanced topics; Fractional knapsack; Job scheduling; Activity selection; Advanced topics; Integral knapsack; Rod cutting; Longgest common subsequence; Matrix chain multiplication; Advanced topics</li>
+<li><strong><code>Term Test 1 + Term Test 2.</code></strong> Graph representation; Graph traversals: BFS/DFS; Directed acyclic graphs and topological sort; Connectivity in directed graphs; Minimum spanning trees; Single-source shortest path; All-pairs shortest path</li>
+<li><strong><code>Final Exam</code></strong>. The final exam will cover all the topics discussed in this course, with an emphasis on algorithm design and analysis. Compared to the two term tests, the final exam is relatively harder in the sense that a considerable amount of questions may look new to you.</li>
+</ol>
+
+</main>
+    
+
+  <footer>
+  
+  
+  <hr/>
+  Copyright © 2021-2025 | Xiaoqi Tan
+  
+  
+  </footer>
+  </body>
+</html>
+

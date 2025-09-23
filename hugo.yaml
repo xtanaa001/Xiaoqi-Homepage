@@ -1,0 +1,63 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "Xiaoqi Tan @UAlberta"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  note: "/note/:year/:month/:day/:slug/"
+  post: "/post/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: Home
+      pageref: "/"
+      weight: 1
+      
+    - name: Publications
+      pageref: "/publications"
+      weight: 2
+
+    - name: Students
+      pageref: "/people"
+      weight: 3
+
+    - name: Teaching
+      pageref: "/teaching"
+      weight: 4
+
+    - name: Biography
+      pageref: "/bio"
+      weight: 5
+
+    - name: Join
+      pageref: "/join"
+      weight: 6
+
+    # - name: SODALab
+    #   url: "https://sodalab.ca/"
+    #   weight: 7
+    #   params:
+    #     external: true
+
+params:
+  description: "A website built through Hugo and blogdown."
+  footer: "Copyright &copy; 2021-2025 | Xiaoqi Tan"
+
+            
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+        title: true
+  # defaultMarkdownHandler: 'blackFriday'
+  # blackfriday:
+  #   hrefTargetBlank: true

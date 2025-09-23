@@ -27,22 +27,23 @@ Vist my lab:
 
 ### `Research Interests`
 
->
-Algorithms and decision-making under uncertainty, especially online algorithms, economic aspects of algorithms, and learning based on different forms of information access, as well as their  broader societal implications in systems and networks shaped by dynamics and strategic behavior.
+
+> Algorithms and decision-making under uncertainty, especially online algorithms, economic aspects of algorithms, and learning based on different forms of information access, as well as their  broader societal implications in systems and networks shaped by dynamics and strategic behavior.
 
 
 ### `Selected Recent Publications`   
->
-<ul class=circle>
-        <script>
-            var i;
-            for (i = 0; i < papers_full.length; i++) {
-                if (papers_full[i].recent == "yes") {
-                    document.write("<li class=paper>");
-                    printPaper(papers_full[i], "g");
-                    document.write("</li>");
-                }
-            }
-        </script>
-</ul>
 
+<blockquote>
+<ul class=circle>
+       <script>
+           var i;
+           for (i = 0; i < papers_full.length; i++) {
+               if (papers_full[i].recent == "yes") {
+                   document.write("<li class=paper>");
+                   printPaper(papers_full[i], "g");
+                   document.write("</li>");
+               }
+           }
+       </script>
+</ul>
+</blockquote>

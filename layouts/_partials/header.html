@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ "/css/fonts.css" | relURL }}" />
+    {{ partial "head_custom.html" . }}
+    <link href="/img/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+    <link color="#275d38" href="/img/safari-pinned-tab.svg" rel="mask-icon"/>
+    <link href="/img/favicon.svg" rel="icon"/>
+    <link href="/img/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+    <link href="/img/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+    {{ partial "mathjax_support.html" . }}
+    {{ partial "google_analytics.html" . }}
+  </head>
+
+    <script src="/js/jquery-latest.js" type="text/javascript"></script>
+    <script src="/js/author-list.js" type="text/javascript"></script>
+    <script src="/js/talk-full-list.js" type="text/javascript"></script>
+    <script src="/js/paper-full-list.js" type="text/javascript"></script>
+    <script src="/js/print-paper.js" type="text/javascript"></script>
+    <script>
+        function toggleAbstract(id) {
+            $("#"+id).slideToggle();
+            return(false);
+        };
+    </script>
+    
+
+  <body>
+    
+
+<body>
+    
+  
+<!-- <nav>
+  <ul class="menu">
+      <a href="https://www.ualberta.ca" target="_blank"> <img src="/img/UA_Logo_Green_RGB.png" style="max-width:13%;min-width:100px; margin: 0px 0px 0px 1px; margin-right: 20px; float:left;" /> </a>
+      
+      {{ range .Site.Menus.main }}
+      <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+  <hr/>
+</nav> -->
+
+{{ with site.Menus.main }}
+  <nav>
+  <ul class="menu">
+    <a href="https://www.ualberta.ca" target="_blank"> <img src="/img/UA_Logo_Green_RGB.png" style="max-width:15%;min-width:150px; margin: -2px 0px; margin-right: 30px; float:left;" /> </a>
+
+    {{ range . }}
+      {{ if $.IsMenuCurrent .Menu . }}
+        <a class="active" aria-current="page" href="{{ .URL }}">{{ .Name }}</a>
+      {{ else }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+    {{ end }}
+  </ul>
+  <hr/>
+  </nav>
+{{ end }}

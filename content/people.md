@@ -52,20 +52,25 @@ tr:hover {
 
 ### <a id="alumni"></a> `Alumni`
 
->
+<blockquote>
+
 - **`SeyedehKimia Alaviyar`** (MSc, 03/2023—04/2025) <br>
   Thesis: Multi-phase Regularized Online Allocation <br>
   Last known position: Machine Learning Resident @Amii
 
->
 - **`Hasti Nourmohammadi`** (MSc, 03/2023—04/2025) <br> 
   Thesis: Value-oblivious Secretaries with Advice <br> Last known position: Research Associate @Amii
+
 - **`Shayan Karimi`** (MSc, 03/2023—04/2025) <br> 
   Thesis: Computational Complexity of Reinforcement Learning under Partial $ q^{\pi}$-realizability
+
 - **`Hossein Nekouyan`** (MSc, 01/2023—04/2025) <br> 
   Thesis: Randomized Posted Pricing and Rounding Schemes for Online Selection and Matching <br> Last known position: Research Assistant @UofA
+
 - **`Yanzhao Wang`**  (MSc, 09/2022—01/2025) <br> 
   Thesis: Online Conversion under Horizon Uncertainty: From Competitive Analysis to Learning-Augmented Algorithms
+
+</blockquote>
 
 <!-- |                    |           |                                
 | :-------------     | :-----:   | :-----   

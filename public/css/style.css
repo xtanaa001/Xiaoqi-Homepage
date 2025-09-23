@@ -1,0 +1,209 @@
+body {
+  max-width: 1100px;
+  margin: auto;
+  padding: 1em !important;
+  padding-top: 1em !important;
+  /*padding-right: 1.6em;*/
+  /* padding-bottom: 20px !important; */
+  line-height: 1.6em;
+  /* background-color: #fff1e5; */
+  /* box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 3px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  box-shadow: 0px -10px 10px #275D38; */
+}
+
+/* header and footer areas */
+.menu { 
+  padding: 0; 
+  /*background-color: white; */
+}
+
+.menu li { 
+  display: inline-block; 
+  margin-right: 6px;
+}
+.article-meta, .menu a {
+  text-decoration: none;
+  /*background: #fff1e5; */
+  padding: 20px;
+  border-radius: 5px;
+}
+.menu, .article-meta { 
+  text-align: center;
+  font-size: 1.1em;
+  /*font-weight: bold;*/
+}
+
+/* Add darker background color to highlight current active menu */
+/* This should be used in conjunction with header.html */
+.menu a.active {
+  /* background: #F2DFCE; #ddd */
+  color: #F2CD00;
+  /* border-top: 2px solid #F2DFCE;    
+  border-left: 2px solid #F2DFCE;
+  border-right: 2px solid #F2DFCE; */
+  /* padding: 2px 2px 2px 2px; */
+  /* font-weight: bold; */
+}
+
+footer { 
+  text-align: left; 
+  font-size: 0.85em; 
+}
+
+
+.title { font-size: 1.1em; }
+footer a { text-decoration: none; }
+hr {
+  border-style: dashed;
+  color: #ddd;
+}
+
+ul.circle       {  
+  list-style-type: circle;     
+  line-height:    1.4em;
+  margin-left:    -20px;      
+}
+
+ol {
+  list-style-type: decimal;     
+  line-height:    1.4em;
+  margin-left:    -20px;  
+}
+
+ul.decimal       {  
+  list-style-type: decimal;     
+  line-height:    1.4em;
+  margin-left:    -20px;      
+}
+
+div.title       {
+  color:   black;   
+  font-size: 1.1em;
+}
+
+li.paper        {   
+  font-size:      90%;
+  padding-left:  10px;
+  padding-bottom: 1px;
+  margin-bottom: 20px;
+  /*background: #fffaff;*/
+  border-left: 0px solid #F2DFCE;     
+}
+
+div.abstract    {   
+  display:        none;
+  font-size:      90%;
+  color:        #00204e;
+  padding:        20px;
+  margin:         10px;
+  margin-left:    0px;
+  margin-right:   20px;
+  margin-bottom:  10px;
+  line-height:    1.4em; 
+  /* border-left: 4px solid #F2DFCE; */
+  background:   #F2DFCE; 
+  /* 
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 4px, rgba(0, 0, 0, 0.3) 0px 0px 0px -3px, rgba(0, 0, 0, 0.2) 0px 0px 0px inset;
+  */
+}
+
+
+.abstract p     {   
+  margin:         0.6px;        
+}
+
+/* unvisited link */
+a:link {
+  color: #275D38;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #275D38;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color:#F2CD00;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: #00204e;
+  text-decoration: underline;
+}
+
+/* code */
+pre {
+  border: 1px solid #ddd; 
+  box-shadow: 5px 5px 5px #eee;
+  padding: 1em;
+  overflow-x: auto;
+}
+
+/* code { background: #f9f9f9; } */
+
+pre code { background: none; }
+
+.img-circular{
+  border-radius: 66px;
+}
+
+/* misc elements */
+img, iframe, video {max-width: 100%; }
+main { hyphens: auto; }
+blockquote {
+  margin: auto;
+  background: white; /* #fff1e5; #F2DFCE*/
+  border: 2px solid #fff1e5;    
+  border-left: 8px solid #fff1e5;
+  padding: 0.02px 1em 0.02px 1em;
+  /* box-shadow: #F2DFCE 1px 1px 1px, rgba(0, 0, 0, 0.3) 0px 0px 0px -3px, rgba(0, 0, 0, 0.2) 0px 0px 0px inset; */
+}
+
+table {
+  width: 100%;
+  margin-right: 0px;
+  margin-left: 0px;
+  /*border: 2px solid #F2DFCE;*/
+  background: #fff1e5;
+  padding: 0px 0em 0px 0px;
+  border-collapse: collapse;
+  /*box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 4px, rgba(0, 0, 0, 0.3) 0px 0px 0px -3px, rgba(0, 0, 0, 0.2) 0px 0px 0px inset;*/
+}
+table thead th { 
+  border-bottom: 0px solid #ddd; 
+  background: #F2DFCE;
+}
+th, td { 
+  padding: 15px; 
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: auto;
+  border: 2px solid #275D38;
+}
+
+tr:hover {background-color: #F2DFCE;}
+
+/*thead, tfoot, tr:nth-child(even) { background: #F2DFCE; }*/
+
+
+/* figure and image */
+figure {
+  display: inline-block;
+  text-align: center;
+  border: 0px dotted gray;
+  margin: 0px; /* adjust as needed */
+}
+figure img {
+  vertical-align: top;
+}
+
+figure figcaption {
+  border: 0px dotted blue;
+  margin-bottom: 60px;
+  text-align: center;
+}

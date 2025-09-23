@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Example | Xiaoqi Tan @UAlberta</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+    <link href="/img/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+    <link color="#275d38" href="/img/safari-pinned-tab.svg" rel="mask-icon"/>
+    <link href="/img/favicon.svg" rel="icon"/>
+    <link href="/img/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+    <link href="/img/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+    <script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+  });
+  MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+  });
+
+  MathJax.Hub.Config({
+  
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+  });
+
+  
+  (function() {
+  function center_el(tagName) {
+    var tags = document.getElementsByTagName(tagName), i, tag;
+    for (i = 0; i < tags.length; i++) {
+      tag = tags[i];
+      var parent = tag.parentElement;
+      
+      if (parent.childNodes.length === 1) {
+        
+        if (parent.nodeName === 'A') {
+          parent = parent.parentElement;
+          if (parent.childNodes.length != 1) continue;
+          parent.firstChild.style.border = 'none';
+        }
+        if (parent.nodeName === 'P') parent.style.textAlign = 'center';
+      }
+    }
+  }
+  var tagNames = ['img', 'embed', 'object'];
+  for (var i = 0; i < tagNames.length; i++) {
+    center_el(tagNames[i]);
+  }
+})();
+
+</script>
+
+
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153197636-1"></script>
+
+<script>
+  var host = window.location.hostname;
+  if(host != "localhost")
+  {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-153197636-1'); 
+  }
+</script>
+  </head>
+
+    <script src="/js/jquery-latest.js" type="text/javascript"></script>
+    <script src="/js/author-list.js" type="text/javascript"></script>
+    <script src="/js/talk-full-list.js" type="text/javascript"></script>
+    <script src="/js/paper-full-list.js" type="text/javascript"></script>
+    <script src="/js/print-paper.js" type="text/javascript"></script>
+    <script>
+        function toggleAbstract(id) {
+            $("#"+id).slideToggle();
+            return(false);
+        };
+    </script>
+    
+
+  <body>
+    
+
+<body>
+    
+  
+  <nav>
+    <ul class="menu">
+      <a href="https://www.ualberta.ca" target="_blank"> <img src="/img/UA_Logo_Green_RGB.png" style="max-width:13%;min-width:100px; margin: 0px 0px 0px 1px; margin-right: 20px; float:left;" /> </a>
+      
+      <li><a href="/">Home</a></li>
+      <li><a href="/">Home</a>
+        </li>
+      
+      <li><a href="/publications/">Publications</a></li>
+      <li><a href="/publications/">Publications</a>
+        </li>
+      
+      <li><a href="/people/">Students</a></li>
+      <li><a href="/people/">Students</a>
+        </li>
+      
+      <li><a href="/teaching/">Teaching</a></li>
+      <li><a href="/teaching/">Teaching</a>
+        </li>
+      
+      <li><a href="/bio/">Biography</a></li>
+      <li><a href="/bio/">Biography</a>
+        </li>
+      
+      <li><a href="/join/">Join</a></li>
+      <li><a href="/join/">Join</a>
+        </li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+ 
+
+<main>
+<p><a id="research_overview"></a></p>
+<p>Many network-based applications and services are carried out by providing resources to systems of interacting and self-interested agents.  Making decisions in managing these systems faces two separate, but interrelated, challenges. First, in any system, a good decision, whether that be defined as an algorithm for computing resource allocation in the clouds, a strategy for  traffic routing in the Internet, or a policy for electricity distribution in smart grid, are often computed by solving some explicit or implicit optimization problems with uncertain future information (e.g., stochastic job arrivals in cloud computing, or fluctuating renewable energy generation in smart grid). Thus, <em>designing algorithms to enable efficient decision-making under uncertainty</em> (with or without prediction) is, in many cases, not just an advantage, but a necessity. Second, and often more difficult, the performance of a decision-making process, e.g., economic efficiency, often depends on a collective behavior of agents that may act strategically (and thus, cannot be forced to follow the decisions made by the platform). For this reason,  we must <em>design appropriate incentives to encourage agent interactions towards a desired direction</em>, otherwise the decisions cannot be implemented with a guaranteed efficiency and rationality.</p>
+<img src="/img/overview.png" style="max-width:33%; min-width:330px; float: right" alt="overview"/>
+<p>Towards this end, my research centers around developing principles to address the following two intriguing questions:</p>
+<p>Q1: <em>How to improve the <strong>energy sustainability</strong> of network-based applications and services by incorporating more renewable energy into their corresponding infrastrucutres, or more generally, the electrical grid?</em></p>
+<p>Q2: <em>How to improve the <strong>economic efficiency</strong> of network-based applications and services in the presence of multiple stakeholders/agents with conflicting objectives?</em></p>
+<p>To answer these two questions, my research centers around  the interplay between  algorithms and  incentives in networking and energy systems. To be more specific, my research focuses both on developing analytical techniques in online algorithms, algorithmic game theory, and mechanism design, and applying these techniques in application domains such as cloud computing, network economics, energy-efficient computing and communication, and smart grid. Though diverse, these areas all play essential roles in the broader goal of my research: achieving a better balance between <em>economic efficiency</em> and <em>energy sustainability</em> for network-based applications and services in networking and energy systems. For more details, please see my research description below by topics.</p>
+<p>[commet]: # (with a focus on applications in <a href="/research/#cloud_computing"><strong>cloud computing</strong></a>, <a href="/research/#networking"><strong>network economics</strong></a>, and <a href="/research/#smart_grid"><strong>smart grid</strong></a>. In particular, a large part of my current research focuses on <a href="/research/#online_algorithms"><strong>online algorithms</strong></a> and <a href="/research/#mechanism_design"><strong>algorithmic game theory</strong></a>. The goal is to develop algorithms and incentives for efficient online decision-making in managing networked systems of interacting and possibly self-interested agents. )</p>
+<p><a id="online_algorithms"></a></p>
+<hr>
+<h2 id="online-algorithms">Online Algorithms</h2>
+<p>I am most excited by problems where theoretic results provide rich insights into the design of real-world platforms. For instance, a large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information.</p>
+<ul>
+<li>
+<p><strong>Online Optimization</strong>. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas.  <em>Online Scheduling with Convex Supply Costs</em>. I am most excited by problems where theoretic results provide rich insights into the design of real-world platforms. For instance, a large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information.</p>
+</li>
+<li>
+<p><strong>Online Learning</strong>. Online decision-making is resource allocation in computer networks. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file <code>layouts/partials/foot_custom.html</code> to support LaTeX math via MathJax and center images automatically. <em>App 2: Vehicle Routing in Transportation Networks</em>. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file <code>layouts/partials/foot_custom.html</code> to support LaTeX math via MathJax and center images automatically:</p>
+</li>
+</ul>
+<p>$$ \psi&rsquo;(p) = \frac{1}{\varphi&rsquo;\left(\varphi^{-1}(p)\right)} = \frac{1}{\varphi&rsquo;(y)}. $$</p>
+<p>This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas. This is how you inject arbitrary HTML code to the head and foot areas.</p>
+<h4 id="related-papers">Related Papers</h4>
+<ul class=circle>
+            <script>
+                var i;
+                for (i = 0; i < papers_journal.length; i++) {
+                    if (papers_journal[i].topic.search("algorithms") >= 0) {
+                        document.write("<li class=paper>");
+                        printPaper(papers_journal[i], "algorithms");
+                        document.write("</li>");
+                    }
+                }
+            </script>
+</ul>
+<p><a id="mechanism_design"></a></p>
+<hr>
+<h2 id="algorithmic-game-theory">Algorithmic Game Theory</h2>
+<p>Research in mechanism design, a subfield of <em>artificial intelligence</em>, <em>economics</em>, and <em>game theory</em>, has led to transformative applications in online marketplaces such as online advertising. In mechainism design, the designer takes an objective-oriented approach to design mechanisms that incentivize self-interested agents/players to follow a certain pattern so as to achieve a desired collective behaivor, assuming that all the agents are rational.</p>
+<p>In this research thrust, we are interested in developing mechanisms that</p>
+<ul>
+<li>
+<p><strong>Posted Price Mechanisms</strong>. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file <code>layouts/partials/foot_custom.html</code> to support LaTeX math via MathJax and center images automatically:</p>
+</li>
+<li>
+<p><strong>Online Combinatorial Auctions</strong>. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file <code>layouts/partials/foot_custom.html</code> to support LaTeX math via MathJax and center images automatically:</p>
+</li>
+<li>
+<p><strong>Data-Driven Mechanism Design</strong>. Online decision-making is resource allocation in computer networks. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file <code>layouts/partials/foot_custom.html</code> to support LaTeX math via MathJax and center images automatically. <em>App 2: Vehicle Routing in Transportation Networks</em>. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file <code>layouts/partials/foot_custom.html</code> to support LaTeX math via MathJax and center images automatically:</p>
+</li>
+</ul>
+<p>I am most excited by problems where theoretic results provide rich insights into the design of real-world platforms. For instance, a large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient  online decision-making for networked systems despite the presence of  strategic user behaviors and incomplete future information.</p>
+<p>In this thrust, our major focus is on the interaction between machine learning  and mechanism design, as well as how learning can help online decision-makings. Two particular topics of interests include</p>
+<h4 id="related-papers-1">Related Papers</h4>
+<ul class=circle>
+            <script>
+                var i;
+                for (i = 0; i < papers_journal.length; i++) {
+                    if (papers_journal[i].topic.search("mechanism") >= 0) {
+                        document.write("<li class=paper>");
+                        printPaper(papers_journal[i], "mechanism");
+                        document.write("</li>");
+                    }
+                }
+            </script>
+</ul>
+<p><a id="cloud_computing"></a></p>
+<hr>
+<h2 id="cloud-computing">Cloud Computing</h2>
+<p>In this thrust, our major focus is on the interaction between machine learning  and mechanism design, as well as how learning can help online decision-makings. Two particular topics of interests include</p>
+<h4 id="related-papers-2">Related Papers</h4>
+<ul class=circle>
+            <script>
+                var i;
+                for (i = 0; i < papers_journal.length; i++) {
+                    if (papers_journal[i].topic.search("cloud") >= 0) {
+                        document.write("<li class=paper>");
+                        printPaper(papers_journal[i], "cloud");
+                        document.write("</li>");
+                    }
+                }
+            </script>
+</ul>
+<p><a id="networking"></a></p>
+<hr>
+<h2 id="network-economics">Network Economics</h2>
+<p><em>Applications</em>. Online decision-making is resource allocation in computer networks. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file <code>layouts/partials/foot_custom.html</code> to support LaTeX math via MathJax and center images automatically. <em>App 2: Vehicle Routing in Transportation Networks</em>. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file <code>layouts/partials/foot_custom.html</code> to support LaTeX math via MathJax and center images automatically:</p>
+<p>In this thrust, our major focus is on the interaction between machine learning  and mechanism design, as well as how learning can help online decision-makings. Two particular topics of interests include</p>
+<h4 id="related-papers-3">Related Papers</h4>
+<ul class=circle>
+            <script>
+                var i;
+                for (i = 0; i < papers_journal.length; i++) {
+                    if (papers_journal[i].topic.search("network") >= 0) {
+                        document.write("<li class=paper>");
+                        printPaper(papers_journal[i], "network");
+                        document.write("</li>");
+                    }
+                }
+            </script>
+</ul>
+<p><a id="smart_grid"></a></p>
+<hr>
+<h2 id="smart-grid">Smart Grid</h2>
+<p>Machine learning has changed the landscape of many areas in both academy and industry in the past decade. In particular, the success of deep learning in applications such as computer vision and natural language processsing has led to transformative impacts on other communities that were traditionally not relavant.</p>
+<p>This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file <code>layouts/partials/foot_custom.html</code> to support LaTeX math via MathJax and center images automatically:</p>
+  <img src="/img/three_layer_smart_cities.png" style="max-width:90%; min-width:330px"/>
+<h4 id="related-papers-4">Related Papers</h4>
+<ul class=circle>
+            <script>
+                var i;
+                for (i = 0; i < papers_journal.length; i++) {
+                    if (papers_journal[i].topic.search("energy") >= 0) {
+                        document.write("<li class=paper>");
+                        printPaper(papers_journal[i], "energy");
+                        document.write("</li>");
+                    }
+                }
+            </script>
+</ul>
+</main>
+    
+
+  <footer>
+  
+  
+  <hr/>
+  Copyright © 2021-2025 | Xiaoqi Tan
+  
+  
+  </footer>
+  </body>
+</html>
+
