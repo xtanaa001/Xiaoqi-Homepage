@@ -3,25 +3,41 @@ title: CMPUT676 - Fall 2024
 ---
 
 <style>
-    
-table th:first-of-type {
-    width: 10%;
+table {
+    background-color: white;
+    box-shadow: 0px 0px 0px inset;
+    }
+th{
+    display: none;
 }
-table th:nth-of-type(2) {
-    width: 50%;
+th, td { 
+  padding: 0px;
+  padding-right: 10px; 
+  padding-top: 20px;
+  padding-left: 20px; 
+  padding-bottom: 20px;
+  width: auto;
+  vertical-align: center;
+  border: 2px solid #fff1e5;
 }
-/*
-table th:nth-of-type(3) {
-    width: 50%;
+
+tr:hover {
+  background-color: #fff1e5;
 }
-table th:nth-of-type(4) {
-    width: 30%;
-} */
+
+thead tr th:first-child,
+tbody tr td:first-child {
+  width: 6em;
+  /* background: white; */
+  font-weight: normal;
+  border-left: 8px solid #fff1e5;
+}
 
 </style>
 
 ## `CMPUT 676: Optimization and Decision-Making under Uncertainty`
-##  Fall 2024
+
+### Fall 2024
 
 **`Instructor`**: [Xiaoqi Tan](/) (xiaoqi.tan$\textsf{@}$ualberta.ca)\
 **`Location & Time`**:  GSB 7-11, MW 12:00 PM – 1:20 PM\
@@ -40,7 +56,6 @@ In this research-oriented course, we will review recent developments and discuss
 >
 **Notes**: We welcome high level undergrads to audit or take the course (subject to administrative approval). 
 
----
 
 ### `Course Project`
 
@@ -54,7 +69,6 @@ The main assignment of this course is to complete a course project which include
 **Final Report** (50%): You are expected to complete this course with an 8-10 page final report. As a research-oriented graduate course, it is up to you to decide the focus of your final report—whether it be a proof of a new theorem, a new implementation, or a new survey—but it must be related to your proposal. Your final report will be evaluated using a scoring grid based on the following criteria: i) novelty, ii) consistency with the proposal and presentation, and iii) relevance to this course. Please note that novelty does not necessarily mean novel research results. While you will receive bonus marks for making novel research discoveries relevant to this course, they are not required to receive full marks on the project.
 <!-- For more details, please refer to our [**project guidlines**](https://drive.google.com/file/d/1BYB-ftB5gIFb6O0F6_jZPY1O6wFscHME/view?usp=sharing). -->
 
----
 
 ### `Course Schedule and Readings` 
 

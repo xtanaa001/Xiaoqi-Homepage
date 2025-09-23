@@ -1,5 +1,6 @@
-function printAuthor(author) { 
-    document.write(""+author.name+"");
+function printAuthor(author) {
+    if (author.web != "#") document.write("<a href=\""+author.web+"\" target=\"_blank\" >"+author.name+"</a>");
+    else document.write(""+author.name+"");
 };
 
 function printPaper(paper, type){
@@ -38,7 +39,7 @@ function printPaper(paper, type){
     //else
 
     if (typeof paper.journal == "string")  
-        document.write("<span style=\"color:SlateBlue;font-style:normal; font-weight: normal; 0deg;font-size: 1.05em\">"+paper.journal+"<\/span>");
+        document.write("<span style=\"color:#7BA4DB;font-family:Optima; font-style:normal; font-weight: bold; 0deg;font-size: 1.1em\">"+paper.journal+"<\/span>");
     
     if (typeof paper.pubinfo == "string") 
         if (typeof paper.conference == "string" || typeof paper.workshop == "string") 
@@ -47,10 +48,10 @@ function printPaper(paper, type){
             document.write(", "+paper.pubinfo+".");
             
     if (typeof paper.conference == "string") 
-        document.write("<span style=\"color:SlateBlue;font-style:normal; font-weight: normal; 0deg;font-size: 1.05em\">"+paper.conference+"<\/span>");
+        document.write("<span style=\"color:#7BA4DB;font-family:Optima; font-style:normal; font-weight: bold; 0deg;font-size: 1.1em\">"+paper.conference+"<\/span>");
     
     if (typeof paper.workshop == "string") 
-        document.write("<span style=\"color:black;font-style:normal; font-weight: normal; 0deg;font-size: 1em\">"+paper.workshop+"<\/span>");
+        document.write("<span style=\"color:black;font-family:Optima; font-style:normal; font-weight: normal; 0deg;font-size: 1.1em\">"+paper.workshop+"<\/span>");
     
     if (typeof paper.pdf == "string") 
         document.write("&emsp;<a href=\" " +paper.pdf+ " \" target=\"_blank\" >[PDF]</a>");
@@ -74,11 +75,11 @@ function printPaper(paper, type){
         document.write("&emsp;<a href=\" " +paper.video+ " \" target=\"_blank\" >[Video]</a>");
 
     if (typeof paper.prize == "string") 
-        document.write("<span style=\"color:red;font-size: 1em\">&emsp;<b>("+paper.prize+")</b><\/span>");
+        document.write("<span style=\"color:red;font-family:Optima;font-size: 1em\">&emsp;<b>("+paper.prize+")</b><\/span>");
         //document.write("&emsp;(<b>"+paper.note+"</b>)");
 
     if (typeof paper.note == "string") 
-        document.write("<span style=\"color:gray;font-size: 1em\">&emsp;("+paper.note+")<\/span>");
+        document.write("<span style=\"color:gray;font-family:Optima;font-size: 1em\">&emsp;("+paper.note+")<\/span>");
         //document.write("&emsp;(<b>"+paper.note+"</b>)");
         
     

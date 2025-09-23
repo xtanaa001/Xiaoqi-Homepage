@@ -17,29 +17,39 @@ menu:
       url: "/"
       weight: 1
 
-    - name: Biography
-      url: "/bio"
+    # - name: Biography
+    #   url: "/bio"
+    #   weight: 6
+
+    - name: Publications
+      url: "/publications"
       weight: 2
 
-    - name: Research
-      url: "https://sodalab.ca"
+    - name: Students
+      url: "/people"
       weight: 3
 
     - name: Teaching
       url: "/teaching"
       weight: 4
 
-    # - name: Services
-    #   url: "/services"
+    - name: Biography
+      url: "/bio"
+      weight: 5
+
+    - name: Join
+      url: "/join"
+      weight: 6
+
+    # - name: Service
+    #   url: "/service"
     #   weight: 5
-    
-    # - name: Publications
-    #   url: "https://sodalab.ca/publications"
-    #   weight: 5
-    
-    # - name: Join
-    #   url: "https://sodalab.ca/join"
-    #   weight: 6
+
+    # - name: SODALab
+    #   url: "https://sodalab.ca/"
+    #   weight: 7
+    #   params:
+    #     external: true
 
 params:
   description: "A website built through Hugo and blogdown."
@@ -52,6 +62,5 @@ markup:
     renderer:
       unsafe: true
   defaultMarkdownHandler: 'blackFriday'
-
-blackfriday:
-  hrefTargetBlank: true
+  blackfriday:
+    hrefTargetBlank: true

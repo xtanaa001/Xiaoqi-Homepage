@@ -1,12 +1,16 @@
 body {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Roboto;
   color: black;
-  font-size: 130%;
+  font-size: 120%;
   line-height: 1.6;
 }
 code {
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  color: #275D38;
-  font-size: 110%;
+  font-family: Optima;
+  /* color: #275D38; */
+  font-size: 100%;
   text-shadow: 1px 1px 0 #DDD;
+}
+
+h1, h2, h3 {
+  color: #275D38;  
 }

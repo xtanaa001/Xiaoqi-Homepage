@@ -2,17 +2,15 @@
 title: Biography
 ---
 
-
-#### `Program Committee`
->
-- ACM SIGMETRICS 2026
-- WINE 2025
-- AAAI 2024
-
 #### `Conference Organization`
-
 >
 - ACM e-Energy 2026 (Finance chair)
+
+#### `Program Committees`
+>
+- ACM SIGMETRICS 2026
+- ACM e-Energy 2026
+- WINE 2025
 
 #### `Reviewer for Conferences`
 >
