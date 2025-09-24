@@ -38,15 +38,15 @@ tr:hover {
 
 ## `Research Group`
 
-- **`Haoxin Sang`** (PhD student, 01/2025-Present)
+- **`Haoxin Sang`** (PhD student, 01/2025—Present)
 
-- **`Faraz Zargari`** (PhD student, Co-supervised with [Ryan Li](https://sites.engineering.ualberta.ca/elitegridlab/), 01/2025-Present)
-- **`Kushagra Chandak`** (PhD student, 09/2023-Present)
-- **`Shuai Liu`** (PhD student, Co-supervised with [Csaba Szepesvári](https://sites.ualberta.ca/~szepesva/), 09/2023-Present)
-- **`Vlad Tkachuk`** (PhD student, Co-supervised with [Csaba Szepesvári](https://sites.ualberta.ca/~szepesva/), 09/2023-Present)
-- **`Lyndon Hallett`** (MSc student, 09/2025-present)
-- **`Siyuan Yu`** (MSc student, 09/2023-present)
-- **`Hossein Nekouyan`** (RA, 05/2025-present)
+- **`Faraz Zargari`** (PhD student, Co-supervised with [Ryan Li](https://sites.engineering.ualberta.ca/elitegridlab/), 01/2025—Present)
+- **`Kushagra Chandak`** (PhD student, 09/2023—Present)
+- **`Shuai Liu`** (PhD student, Co-supervised with [Csaba Szepesvári](https://sites.ualberta.ca/~szepesva/), 09/2023—Present)
+- **`Vlad Tkachuk`** (PhD student, Co-supervised with [Csaba Szepesvári](https://sites.ualberta.ca/~szepesva/), 09/2023—Present)
+- **`Lyndon Hallett`** (MSc student, 09/2025—Present)
+- **`Siyuan Yu`** (MSc student, 09/2023—Present)
+- **`Hossein Nekouyan`** (RA, 05/2025—Present)
 
 --- 
 
