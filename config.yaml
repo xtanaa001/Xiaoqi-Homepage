@@ -33,9 +33,9 @@ menu:
       pageref: "/bio"
       weight: 5
 
-    - name: Join
-      pageref: "/join"
-      weight: 6
+    # - name: Join
+    #   pageref: "/join"
+    #   weight: 6
 
     # - name: SODALab
     #   url: "https://sodalab.ca/"
