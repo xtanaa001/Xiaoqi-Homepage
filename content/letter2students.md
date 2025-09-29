@@ -18,7 +18,7 @@ I am broadly interested in the design and analysis of algorithms, with a primary
 
 - **Online Algorithms** — designing algorithms for sequential decision-making without access to the full input in advance.
 - **Algorithmic Economics (a.k.a. EconCS)** — managing and allocating resources, incentives, and interactions in economic settings while ensuring key guarantees such as efficiency, robustness, fairness, and risk.
-- **Learning Theory** — studying the power and limitations of learning based on different forms of information access, with a particular focus on online and sequential learning problems.
+- **Learning Theory** — studying the power and limitations of learning based on different forms of information access, with a particular focus on sequential learning and decision problems.
 
 Addressing these challenges requires an interdisciplinary approach that integrates techniques from computer science, economics, statistics, and operations research.
 
