@@ -52,9 +52,9 @@ Algorithms and decision-making under uncertainty, especially online algorithms, 
 </blockquote>
 
 
---- 
-
 ### <a id="prospective"></a> `For Prospective Students`
+
+<blockquote>
 
 I am always looking for highly motivated students at all levels (undergraduate, MSc, and PhD). Below are some useful links to learn more about my research:
 
@@ -65,3 +65,5 @@ I am always looking for highly motivated students at all levels (undergraduate, 
 If you’re already at UofA: My group meets weekly at the SODALab Seminar, which is open to anyone interested in attending. [**`Click here`**](https://docs.google.com/spreadsheets/d/1gR2qVvK1fLDB_uvyKxTtVmQCDb6QMwXqIeh3m6HbEkk/edit#gid=1884220804) to view our past and upcoming schedules.
 
 If you've never been to UofA: Here are some links to help you virtually explore [the city of **`Edmonton`**](https://exploreedmonton.com/) and [the province of **`Alberta`**](https://www.travelalberta.com/).
+
+</blockquote>
