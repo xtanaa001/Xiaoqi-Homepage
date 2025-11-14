@@ -1,6 +1,7 @@
 function printAuthor(author) {
-    if (author.web != "#") document.write("<a href=\""+author.web+"\" target=\"_blank\" >"+author.name+"</a>");
-    else document.write(""+author.name+"");
+    // if (author.web != "#") document.write("<a href=\""+author.web+"\" target=\"_blank\" >"+author.name+"</a>");
+    // else 
+    document.write(""+author.name+"");
 };
 
 function printPaper(paper, type){
