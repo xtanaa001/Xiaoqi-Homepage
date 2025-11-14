@@ -17,21 +17,25 @@ menu:
       pageref: "/"
       weight: 1
       
-    - name: Publications
-      pageref: "/publications"
-      weight: 2
+    # - name: Publications
+    #   pageref: "/publications"
+    #   weight: 2
 
-    - name: Students
-      pageref: "/people"
-      weight: 3
+    # - name: Students
+    #   pageref: "/people"
+    #   weight: 3
+
+    - name: Group
+      url: "https://sodalab.ca/"
+      weight: 2
 
     - name: Teaching
       pageref: "/teaching"
-      weight: 4
+      weight: 3
 
     - name: Biography
       pageref: "/bio"
-      weight: 5
+      weight: 4
 
     # - name: Join
     #   pageref: "/join"
