@@ -2,67 +2,67 @@ var authorList = {
 
     JTyler : {
         name : "John Tyler",
-        web : "/people",
+        web : "#",
     },
 
     LHallett : {
         name : "Lyndon Hallett",
-        web : "/people",
+        web : "#",
     },
 
     HSang : {
         name : "Haoxin Sang",
-        web : "/people",
+        web : "#",
     },
 
     FZargari : {
         name : "Faraz Zargari",
-        web : "/people",
+        web : "#",
     },
 
     KChandak : {
         name : "Kushagra Chandak",
-        web : "/people",
+        web : "#",
     },
 
     SLiu : {
         name : "Shuai Liu",
-        web : "/people",
+        web : "#",
     },
 
     VTkachuk : {
         name : "Vlad Tkachuk",
-        web : "/people",
+        web : "#",
     },
 
     SYu : {
         name : "Siyuan Yu",
-        web : "/people",
+        web : "#",
     },
 
     KAlaviyar : {
         name : "SeyedehKimia Alaviyar",
-        web : "/people",
+        web : "#",
     },
     
     HNourmohammadi : {
         name : "Hasti Nourmohammadi",
-        web : "/people",
+        web : "#",
     },
 
     SKarimi : {
         name : "Shayan Karimi",
-        web : "/people",
+        web : "#",
     },
 
     HNekouyan : {
         name : "Hossein Nekouyan",
-        web : "/people",
+        web : "#",
     },
 
     YWang : {
         name : "Yanzhao Wang",
-        web : "/people",
+        web : "#",
     },
 
     XQTan : {
@@ -147,7 +147,7 @@ var authorList = {
 
     YCao: {
         name : "Ying Cao",
-        web : "/people/#visitors",
+        web : "#",
     },
 
     ZHuang : {
