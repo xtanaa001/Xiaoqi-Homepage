@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CMPUT676 - Fall 2024 | Xiaoqi Tan @UAlberta</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+    <link href="/img/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+    <link color="#275d38" href="/img/safari-pinned-tab.svg" rel="mask-icon"/>
+    <link href="/img/favicon.svg" rel="icon"/>
+    <link href="/img/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+    <link href="/img/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+    <script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+  });
+  MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+  });
+
+  MathJax.Hub.Config({
+  
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+  });
+
+  
+  (function() {
+  function center_el(tagName) {
+    var tags = document.getElementsByTagName(tagName), i, tag;
+    for (i = 0; i < tags.length; i++) {
+      tag = tags[i];
+      var parent = tag.parentElement;
+      
+      if (parent.childNodes.length === 1) {
+        
+        if (parent.nodeName === 'A') {
+          parent = parent.parentElement;
+          if (parent.childNodes.length != 1) continue;
+          parent.firstChild.style.border = 'none';
+        }
+        if (parent.nodeName === 'P') parent.style.textAlign = 'center';
+      }
+    }
+  }
+  var tagNames = ['img', 'embed', 'object'];
+  for (var i = 0; i < tagNames.length; i++) {
+    center_el(tagNames[i]);
+  }
+})();
+
+</script>
+
+
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153197636-1"></script>
+
+<script>
+  var host = window.location.hostname;
+  if(host != "localhost")
+  {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-153197636-1'); 
+  }
+</script>
+  </head>
+
+    <script src="/js/jquery-latest.js" type="text/javascript"></script>
+    <script src="/js/author-list.js" type="text/javascript"></script>
+    <script src="/js/paper-full-list.js" type="text/javascript"></script>
+    <script src="/js/print-paper.js" type="text/javascript"></script>
+    <script>
+        function toggleAbstract(id) {
+            $("#"+id).slideToggle();
+            return(false);
+        };
+    </script>
+    
+  <body>
+    
+  
+
+
+
+  <nav>
+  <ul class="menu">
+    <a href="https://www.ualberta.ca" target="_blank"> <img src="/img/UA_Logo_Green_RGB.png" style="max-width:15%;min-width:150px; margin: -2px 0px; margin-right: 30px; float:left;" /> </a>
+
+    
+      
+        <a href="/">Home</a>
+      
+    
+      
+        <a href="https://sodalab.ca/">Group</a>
+      
+    
+      
+        <a href="/teaching/">Teaching</a>
+      
+    
+      
+        <a href="/bio/">Biography</a>
+      
+    
+  </ul>
+  <hr/>
+  </nav>
+
+
+<main>
+<style>
+table {
+    background-color: white;
+    box-shadow: 0px 0px 0px inset;
+    }
+th{
+    display: none;
+}
+th, td { 
+  padding: 0px;
+  padding-right: 10px; 
+  padding-top: 20px;
+  padding-left: 20px; 
+  padding-bottom: 20px;
+  width: auto;
+  vertical-align: center;
+  border: 2px solid #fff1e5;
+}
+
+tr:hover {
+  background-color: #fff1e5;
+}
+
+thead tr th:first-child,
+tbody tr td:first-child {
+  width: 6em;
+  /* background: white; */
+  font-weight: normal;
+  border-left: 8px solid #fff1e5;
+}
+
+</style>
+<h2 id="cmput-67x-online-algorithms-in-optimization-learning-and-games"><code>CMPUT 67x: Online Algorithms in Optimization, Learning, and Games</code></h2>
+<h3 id="fall-2026">Fall 2026</h3>
+<p><strong><code>Instructor</code></strong>: <a href="/">Xiaoqi Tan</a> (xiaoqi.tan$\textsf{@}$ualberta.ca)<br>
+<strong><code>Location &amp; Time</code></strong>:  GSB 7-11, MW 12:00 PM – 1:20 PM<br>
+<strong><code>Office hour</code></strong>: After class or by appointment\</p>
+<!-- **`Slack`**: Join the [**Tan@CS-UofA slack workspace**](https://join.slack.com/t/odmu/signup) with your $\textsf{@ualberta.ca}$ email for online discussions about course-related questions.  -->
+<hr>
+<h3 id="course-schedule-and-readings"><code>Course Schedule and Readings</code></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Date</th>
+          <th style="text-align: left">Topics</th>
+          <th style="text-align: left">References and Readings</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">Sept. 4</td>
+          <td style="text-align: left"><code>Lec 1: Overview</code> <br> Course topics; Logistics</td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=1sY_QFUzIOT1eXjVvEG5sjt00JBY2DwZ9&amp;usp=drive_fs" target="_blank" rel="noopener">L1-slides</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Background: Optimization, Duality, First-order &amp; Second-order Algorithms</code></strong></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Sept. 9</td>
+          <td style="text-align: left"><code>Lec 2: Concepts</code> <br> Convex sets <br> Convex functions <br> Convex problems</td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=1sowdEEi62AGmCLZ1B_aU01KW1Hk0_W2w&amp;usp=drive_fs" target="_blank" rel="noopener">L2-slides</a> <br> <a href="https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf" target="_blank" rel="noopener">BV Book</a>: Ch1-Ch4</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Sept. 11</td>
+          <td style="text-align: left"><code>Lec 3: Theory</code> <br> Lagrange multipliers <br> Duality theory <br> Optimality conditions</td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=1siPM5shl4b45PatkQHpBnvaLqW5uLAII&amp;usp=drive_fs" target="_blank" rel="noopener">L3-slides</a>  <br> <a href="https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf" target="_blank" rel="noopener">BV Book</a>: Ch5 <br> <a href="http://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf" target="_blank" rel="noopener">DB Book</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Sept. 16</td>
+          <td style="text-align: left"><code>Lec 4: Algorithms</code> <br> Gradient descent <br> Newton&rsquo;s methods <br> Barrier methods <br> Dual ascent</td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=1soQApib-aBmmb_qh9OAi6bdFKOc55d-J&amp;usp=drive_fs" target="_blank" rel="noopener">L4-slides</a> <br> <a href="https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf" target="_blank" rel="noopener">BV Book</a>: Ch9-Ch11</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Online Algorithms and Competitive Analysis</code></strong></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Sept. 18</td>
+          <td style="text-align: left"><code>Lec 5: Online Algorithms (Basics)</code> <br> Ski rental problem <br> Deterministic vs Randomized <br> Yao&rsquo;s principle</td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=1ssEw93oq1XltxrkESI3k_aRjWLEfFFHE&amp;usp=drive_fs" target="_blank" rel="noopener">L5-slides</a> <br> <a href="https://drive.google.com/open?id=1x6v_BeCvtGCZycIplfngO0OFHhhJrakv&amp;usp=drive_fs" target="_blank" rel="noopener">BP book: Ch1-Ch3</a> <br> <a href="https://cs.brown.edu/~claire/Talks/skirental.pdf" target="_blank" rel="noopener">Ski rental</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Sept. 23</td>
+          <td style="text-align: left"><code>Lec 6: Online Primal-Dual (OPD)</code>  <br> Time series search <br> $k$-max and $k$-min search<br> One-way trading <br> The OPD approach (1st look)</td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=1t2fijovROq75FF6ROa57IUsebr2DquVN&amp;usp=drive_fs" target="_blank" rel="noopener">L6-slides</a>  <br>  <a href="https://drive.google.com/open?id=1vPkn4GevwQhk3eArkUCzR2dT4WWC_C0X&amp;usp=drive_fs" target="_blank" rel="noopener">Online search and one-way trading</a> <br> <a href="https://drive.google.com/open?id=1wfEqPcnU53IHezDCYC6I4hDBoXHyV-LO&amp;usp=drive_fs" target="_blank" rel="noopener">$k$-max and $k$-min search</a> <br> <a href="https://arxiv.org/pdf/2310.06166" target="_blank" rel="noopener">Online selection with convex costs</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Sept. 25</td>
+          <td style="text-align: left"><code>Lec 7: Online Knapsack</code> <br> Threshold-based algorithms <br> The OPD approach (2nd look)</td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=1yFMKGhkgAyLY0xwQVJe1Phbv1vlz_gk5&amp;usp=drive_fs" target="_blank" rel="noopener">L7-slides</a>, <a href="https://drive.google.com/open?id=1y84oB2ftSoACKfNtxRM9rZycGNsCUYQi&amp;usp=drive_fs" target="_blank" rel="noopener">notes</a> <br> <a href="https://drive.google.com/open?id=1vYY6wyca41rkgNF3xeAis3MAqrPWt6MS&amp;usp=drive_fs" target="_blank" rel="noopener">Online knapsack and variants</a> <br> <a href="https://drive.google.com/open?id=1yKHnFg28Z6Bpkcw3lJNQzqldzmfLaBuh&amp;usp=drive_fs" target="_blank" rel="noopener">Online knapsack with convex costs</a> <br> <a href="https://drive.google.com/open?id=1uPGudwKHBlK0j_ZGA_ELAz05GvjSbEJU&amp;usp=drive_fs" target="_blank" rel="noopener">Generized one-way trading; multiple knapsack</a> <br> <a href="https://drive.google.com/open?id=1tqe0G3umQw5rd19vRjwSC7d6jLktfn30&amp;usp=drive_fs" target="_blank" rel="noopener">Knapsack and advice complexity</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Sept. 30</td>
+          <td style="text-align: left"><del>No Class</del>  <mark> (Statutory Holiday) </mark></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Oct. 2</td>
+          <td style="text-align: left"><code>Lec 8: Online Matching</code>  <br> RANKING algorithm <br> The OPD approach (3rd look)</td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=1yMbtg0rSJMp3kRvXXvWeN_MQdP4HxdL1&amp;usp=drive_fs" target="_blank" rel="noopener">L8-slides</a>  <br> <a href="https://drive.google.com/open?id=1vpQG_eC67pKPqO-iOoZY-n6Nb7R_Dc07&amp;usp=drive_fs" target="_blank" rel="noopener">AM Survey</a>, <a href="https://drive.google.com/open?id=1t_76jd1-fxBE2uZUsC1PHl8LMOxbm9FY&amp;usp=drive_fs" target="_blank" rel="noopener">OPD Survey</a> <br> Readings on RANKING: <a href="https://drive.google.com/open?id=1utyFil16IjYsfIIre-SqFcpIOZ0gpL0d&amp;usp=drive_fs" target="_blank" rel="noopener">KVV</a>; <a href="https://drive.google.com/open?id=1vD9zEJhX2MiGsHuROgNCivz1khlN6F2h&amp;usp=drive_fs" target="_blank" rel="noopener">An elegant proof</a>;  <br><a href="https://drive.google.com/open?id=1upoZci_G1ScL017OxDAAx27BTgi5bH5i&amp;usp=drive_fs" target="_blank" rel="noopener">Economic-based analysis</a>; <a href="https://drive.google.com/open?id=1wdyJ_SaoML1Vtc5DlLM_16PxtC4T_zhm&amp;usp=drive_fs" target="_blank" rel="noopener">Randomized OPD analysis</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Oct. 7</td>
+          <td style="text-align: left"><code>Lec 9: Online Convex Optimization (OCO)</code> <br> The Experts problem <br> OCO: intro + algorithms + variants <br> Competitive ratio vs. Regret (1st look)</td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=18SQFRvdZ90Zs_jsii0wn8Kq9_5Rmhuej&amp;usp=drive_fs" target="_blank" rel="noopener">L9-slides</a> <br> <a href="https://drive.google.com/open?id=1vx2vE4LwAdXi7B4hYxU8IlQY2Czf5utZ&amp;usp=drive_fs" target="_blank" rel="noopener">EH Book</a>, <a href="https://drive.google.com/open?id=1vMX90hBFPsWoY6IadcJJPVxycrqk9MR9&amp;usp=drive_fs" target="_blank" rel="noopener">CBL Book</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Oct. 9</td>
+          <td style="text-align: left"><code>Lec 10: Online Linear Programming (OLP)</code> <br> OLP: intro + variants <br> Adversarial inputs vs. Random inputs <br> Competitive ratio vs. Regret (2nd look)</td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=1xjGcY2xFSHUirMFQWRZ9eLHMu-AT7ppu&amp;usp=drive_fs" target="_blank" rel="noopener">L10-slides</a>   <br>  <a href="https://drive.google.com/open?id=1vWTlJJ7AR4x4jyO4JWZWqiLJSobm8g74&amp;usp=drive_fs" target="_blank" rel="noopener">Random-order models</a> <br> <a href="https://drive.google.com/open?id=1ux9TCN5Raglndyq94M0I70AepvnfalHR&amp;usp=drive_fs" target="_blank" rel="noopener">Online LP under ROM</a> <br> <a href="https://drive.google.com/open?id=1vPPH8KZteaHwUK69R1AzcH8IGsEkX-MK&amp;usp=drive_fs" target="_blank" rel="noopener">Online LP under IID</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Oct. 14</td>
+          <td style="text-align: left"><del>No Class</del>  <mark> (Statutory Holiday) </mark></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Oct. 16</td>
+          <td style="text-align: left"><code>Lec 11: Beyond Worst-Case Analysis (WCA)</code> <br> Beyond WCA: why + how  <br> Learning-augmented algorithms <br> Data-driven algorithms</td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=1MiJtAOkkKrQmc9w3HaaJefDt8-K_b1eg&amp;usp=drive_fs" target="_blank" rel="noopener">L11-slides</a>  <br> <a href="https://arxiv.org/pdf/1806.09817" target="_blank" rel="noopener">Beyond WCA</a> <br> <a href="https://arxiv.org/pdf/2006.09123" target="_blank" rel="noopener">Algorithms with predictions</a> <br> <a href="https://arxiv.org/pdf/2011.07177" target="_blank" rel="noopener">Data-driven algorithm design</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Online Learning in Non-strategic Environments</code></strong></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Oct. 21</td>
+          <td style="text-align: left"><code>Lec 12: Markov Decision Process (MDP)</code> <br> MDPs: A brief intro <br> Algorithms: Value/policy iteration; LP approach <br> Example: energy storage control</td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=1-Ld-gVPaIXuHwcZFImfba_Ocngar3kWk&amp;usp=drive_fs" target="_blank" rel="noopener">L12-slides</a> <br> Courses: <a href="https://drive.google.com/drive/folders/0B3w765rOKuKANmxNbXdwaE1YU1k?resourcekey=0-JZz-noRuJgogNsg1ljgV8w" target="_blank" rel="noopener">CMPUT 609</a>, <a href="https://rltheory.github.io/" target="_blank" rel="noopener">CMPUT 653</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Oct. 23</td>
+          <td style="text-align: left"><code>Lec 13: Multi-Armed Bandits (MABs)</code> <br> MABs: intro + variants <br> Stochatic bandits; Algorithms</td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=1-SpmmpYJttWwLbCxRUNftBULpzxwX_yw&amp;usp=drive_fs" target="_blank" rel="noopener">L13-slides</a> <br> <a href="https://tor-lattimore.com/downloads/book/book.pdf" target="_blank" rel="noopener">LS Book</a>, <a href="http://sbubeck.com/SurveyBCB12.pdf" target="_blank" rel="noopener">BCB Book</a>, <a href="https://arxiv.org/pdf/1904.07272.pdf" target="_blank" rel="noopener">Slivkins Book</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Oct. 28</td>
+          <td style="text-align: left"><code>Lec 14: Stochastic Approximation</code> <br> The Robbins-Monro algorithm <br> Stochastic gradient descent (SGD); Adaptive SGD <br> Summary: Online vs. Stochastic</td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=1-Pb7rw2ygeLCSkYNpQrGpdmNudO0OgHG&amp;usp=drive_fs" target="_blank" rel="noopener">L14-slides</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Online Learning in Strategic Environments</code></strong></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Oct. 30</td>
+          <td style="text-align: left"><code>Lec 15: Game Theory</code> <br> Pure-strategy Nash equilibrium   <br>  Mixed-strategy Nash equilibrium</td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=1-WAhGGUwT7Rm2Va5leVyExW849losX9-&amp;usp=drive_fs" target="_blank" rel="noopener">L15-slides</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Nov. 4</td>
+          <td style="text-align: left"><code>Lec 16: Mechanism Design (MD)</code> <br> Key concepts of MD  <br> Auctions; Vickrey-Clarke-Groves mechanisms <br> Optimal auctions</td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=1-TJtpxKMBgTK9Osi2Xhs24joX5MPYaAF&amp;usp=drive_fs" target="_blank" rel="noopener">L16-slides</a> <br> MD reading: <a href="https://drive.google.com/open?id=1vZPfVwRakZLP1fxdVZ9Qg7p_3yDQM9aB&amp;usp=drive_fs" target="_blank" rel="noopener">Econ</a>, <a href="https://drive.google.com/open?id=1vpcRns0gO2xBaGQOFE_OH-xaW_xKl4sr&amp;usp=drive_fs" target="_blank" rel="noopener">CS</a> <br> Auctions reading: <a href="https://drive.google.com/open?id=1uAInpAixPcRN63D7UnWWXJpfEA7PUIMu&amp;usp=drive_fs" target="_blank" rel="noopener">Survey</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Nov. 6</td>
+          <td style="text-align: left"><code>Lec 17: Online Mechanism Design (OMD)</code> <br> OMD: intro <br> Online auctions <br> Posted price mechanisms <br> Prophet inequalities <br> <strong>Course summary</strong></td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=1-T2FF-d757y5WQbrdUbS2NeUKZcJHPF8&amp;usp=drive_fs" target="_blank" rel="noopener">L17-slides</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Nov. 11</td>
+          <td style="text-align: left"><del>No Class</del>  <mark> (Reading Week Break)</mark></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Nov. 13</td>
+          <td style="text-align: left"><del>No Class</del>  <mark> (Reading Week Break)</mark></td>
+          <td style="text-align: left"><strong>Proposal Due</strong> (<a href="https://eclass.srv.ualberta.ca/course/view.php?id=99355" target="_blank" rel="noopener">eClass link</a>)</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><strong><code>Project   Presentations</code></strong></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Nov. 18</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Nov. 20</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Nov. 25</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Nov. 27</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Dec. 2</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Dec. 4</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Dec. 9</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+  </tbody>
+</table>
+
+</main>
+    
+
+  <footer>
+  
+  
+  <hr/>
+  Copyright © 2021-2025 | Xiaoqi Tan
+  
+  
+  </footer>
+  </body>
+</html>
+

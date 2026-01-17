@@ -47,9 +47,11 @@
     <loc>//localhost:1313/tags/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/bio/</loc>
+    <loc>//localhost:1313/backups/</loc>
   </url><url>
-    <loc>//localhost:1313/service/</loc>
+    <loc>//localhost:1313/backups/service/</loc>
+  </url><url>
+    <loc>//localhost:1313/bio/</loc>
   </url><url>
     <loc>//localhost:1313/teaching/cmput204/</loc>
   </url><url>
@@ -61,7 +63,7 @@
   </url><url>
     <loc>//localhost:1313/teaching/cmput676/</loc>
   </url><url>
-    <loc>//localhost:1313/teaching/cmput677/</loc>
+    <loc>//localhost:1313/teaching/newcourse/cmput677/</loc>
   </url><url>
     <loc>//localhost:1313/teaching/optcourse/fall2024/</loc>
   </url><url>
@@ -69,9 +71,9 @@
   </url><url>
     <loc>//localhost:1313/letter2students/</loc>
   </url><url>
-    <loc>//localhost:1313/publications/</loc>
+    <loc>//localhost:1313/backups/publications/</loc>
   </url><url>
-    <loc>//localhost:1313/people/</loc>
+    <loc>//localhost:1313/backups/people/</loc>
   </url><url>
     <loc>//localhost:1313/teaching/</loc>
   </url>

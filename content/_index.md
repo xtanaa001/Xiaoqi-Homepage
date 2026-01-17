@@ -3,7 +3,8 @@ title: Home
 ---
 
 <div>
-<img alt="Xiaoqi Tan (Nov 2020)" src="/img/AmiiPhoto2l.jpg" style="max-width:240px; min-width:210px; float:right; border-radius: 50%; box-shadow: 0px 0px 5px #275D38; margin: 50px 20px 10px 10px" width="210"/>
+<!-- <img alt="Xiaoqi Tan (Jan 2026)" src="/img/CSPhoto2026.jpeg" style="max-width:260px; min-width:240px; float:right; border-radius: 50%; box-shadow: 0px 0px 5px #275D38; margin: 50px 20px 10px 10px" width="210"/> -->
+<img alt="Xiaoqi Tan (Jan 2026)" src="/img/AmiiPhoto2l.jpg" style="max-width:240px; min-width:210px; float:right; border-radius: 50%; box-shadow: 0px 0px 5px #275D38; margin: 50px 20px 10px 10px" width="210"/>
 </div>
 
 

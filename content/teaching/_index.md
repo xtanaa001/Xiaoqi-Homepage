@@ -16,7 +16,7 @@ Balancing "rigor" and "intuition" is both enjoyable and essential in teaching an
 
 <blockquote>
 
-- [**Fall 2025**](https://canvas.ualberta.ca/courses/27221), Winter 2025, Fall 2024, Fall 2023, Winter 2023, Winter 2022
+- Fall 2025, Winter 2025, Fall 2024, Fall 2023, Winter 2023, Winter 2022
 
 </blockquote>
 
