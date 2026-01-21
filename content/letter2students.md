@@ -14,13 +14,13 @@ I am [**`Xiaoqi Tan`**](https://xiaoqitan.org), an Assistant Professor at the [*
 
 <blockquote>
 
-I am broadly interested in the design and analysis of algorithms, with a primary focus on developing mathematical models and algorithms for decision-making under uncertainty. In particular, my recent research centers on three main directions: 
+My research is situated at the intersection of algorithms, economics, and artificial intelligence, focusing on the design and analysis of algorithms for decision-making under uncertainty. Specifically, my recent work concentrates on three primary directions:
 
-- **Online Algorithms** — designing algorithms for sequential decision-making without access to the full input in advance.
-- **Algorithmic Economics (a.k.a. EconCS)** — managing and allocating resources, incentives, and interactions in economic settings while ensuring key guarantees such as efficiency, robustness, fairness, and risk.
-- **Learning Theory** — studying the power and limitations of learning based on different forms of information access, with a particular focus on sequential learning and decision problems.
+- **`Online Algorithms`** — designing algorithms with provable guarantees for sequential decision-making without access to the full input in advance.
+- **`Algorithmic Economics`** (a.k.a. **`EconCS`**) — managing and allocating resources, incentives, and interactions in economic settings while ensuring key guarantees such as efficiency, fairness, and risk.
+- **`Learning Theory`** — studying the power and limitations of learning based on different forms of information access, with a particular focus on sequential learning and decision problems.
 
-Addressing these challenges requires an interdisciplinary approach that integrates techniques from computer science, economics, statistics, and operations research.
+Collectively, my research across these directions aims to understand how to navigate two major sources of uncertainty in decision-making: (i) _sequential uncertainty_, inherent to all temporal decision processes; and (ii) _strategic uncertainty_, stemming from the behavior and incentives of interacting agents. Addressing these complexities requires an interdisciplinary approach that integrates techniques from (theoretical) computer science, economics, statistics, and operations research.
 
 </blockquote>
 
