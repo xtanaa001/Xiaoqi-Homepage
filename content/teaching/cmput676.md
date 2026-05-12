@@ -30,7 +30,7 @@ tbody tr td:first-child {
   width: 6em;
   /* background: white; */
   font-weight: normal;
-  border-left: 8px solid #fff1e5;
+  border-left: 2px solid #fff1e5;
 }
 
 </style>
@@ -39,14 +39,14 @@ tbody tr td:first-child {
 
 ### Fall 2024
 
-**`Instructor`**: [Xiaoqi Tan](/) (xiaoqi.tan$\textsf{@}$ualberta.ca) \
-**`Location & Time`**:  GSB 7-11, MW 12:00 PM – 1:20 PM \
-**`Office hour`**: After class or by appointment
+**Instructor**: [Xiaoqi Tan](/) (xiaoqi.tan$\textsf{@}$ualberta.ca) \
+**Location & Time**:  GSB 7-11, MW 12:00 PM – 1:20 PM \
+**Office hour**: After class or by appointment
 <!-- **`Slack`**: Join the [**Tan@CS-UofA slack workspace**](https://join.slack.com/t/odmu/signup) with your $\textsf{@ualberta.ca}$ email for online discussions about course-related questions.  -->
 
 ---
 
-### `Course Overview`
+### Course Overview
 
 <blockquote>
 
@@ -58,7 +58,7 @@ In this research-oriented course, we will review recent developments and discuss
 
 </blockquote>
 
-### `Course Project`
+### Course Project
 
 <blockquote>
 
@@ -73,7 +73,7 @@ The main assignment of this course is to complete a course project which include
 
 </blockquote>
 
-### `Course Schedule and Readings` 
+### Course Schedule and Readings 
 
 | Date            | Topics                                         |  References and Readings                 |
 |:-------------   | :-----                                        |  :-----                   |

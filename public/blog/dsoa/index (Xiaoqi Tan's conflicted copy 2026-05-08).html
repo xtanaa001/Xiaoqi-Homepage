@@ -3,7 +3,7 @@
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Teaching | Xiaoqi Tan @UAlberta</title>
+    <title>A Plain Markdown Post | Xiaoqi Tan @UAlberta</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
     
@@ -114,11 +114,15 @@
       
     
       
-        <a class="active" aria-current="page" href="/teaching/">Teaching</a>
+        <a href="/teaching/">Teaching</a>
       
     
       
         <a href="/bio/">Biography</a>
+      
+    
+      
+        <a href="/blog/">Blog</a>
       
     
   </ul>
@@ -126,26 +130,40 @@
   </nav>
 
 
-
-<div>
-<img alt="" src="/img/rigor_intuition_f.png" style="min-width:220px; float:center; margin: 40px 1px 10px 1px" width="720"/>
-</div>
-<p>Balancing &ldquo;rigor&rdquo; and &ldquo;intuition&rdquo; is both enjoyable and essential in teaching and learning, particularly in computer science and mathematics. Rigorous engagement with theoretical foundations enables us to think critically, challenge prevailing assumptions, and, most importantly, pursue truth without ambiguity. Conversely, cultivating intuitive understanding facilitates the retention of key ideas and supports the flexible application of knowledge — often way beyond the intended scope of a course.</p>
-<hr>
-<h3 id="cmput-204-algorithms-i">CMPUT 204: Algorithms I</h3>
-<blockquote>
+<main>
+<h1 id="a-dynamical-systems-perspective-of-online-algorithms">A Dynamical Systems Perspective of Online Algorithms</h1>
+<p>Part 1</p>
+<h2 id="1-markdown-or-r-markdown">1. Markdown or R Markdown</h2>
+<p>This is a post written in plain Markdown (<code>*.md</code>) instead of R Markdown (<code>*.Rmd</code>). The major differences are:</p>
+<ol>
+<li>You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (<code>```{r}</code>);</li>
+<li>A plain Markdown post is rendered through <a href="https://gohugo.io/overview/configuration/" target="_blank" rel="noopener">Blackfriday</a>, and an R Markdown document is compiled by <a href="http://rmarkdown.rstudio.com" target="_blank" rel="noopener"><strong>rmarkdown</strong></a> and <a href="http://pandoc.org" target="_blank" rel="noopener">Pandoc</a>.</li>
+</ol>
+<p>There are many differences in syntax between Blackfriday&rsquo;s Markdown and Pandoc&rsquo;s Markdown. For example, you can write a task list with Blackfriday but not with Pandoc:</p>
 <ul>
-<li>Fall 2025, Winter 2025, Fall 2024, Fall 2023, Winter 2023, Winter 2022</li>
+<li><input checked="" disabled="" type="checkbox"> Write an R package.</li>
+<li><input disabled="" type="checkbox"> Write a book.</li>
+<li><input disabled="" type="checkbox"> &hellip;</li>
+<li><input disabled="" type="checkbox"> Profit!</li>
 </ul>
-</blockquote>
-<h3 id="cmput-676-optimization-and-decision-making-under-uncertainty">CMPUT 676: Optimization and Decision-Making under Uncertainty</h3>
+<p>When creating a new post, you have to decide whether the post format is Markdown or R Markdown, and this can be done via the <code>rmd</code> argument of the function <code>blogdown::new_post()</code>, e.g.</p>
+<pre><code class="language-r">blogdown::new_post(&quot;Post Title&quot;, rmd = FALSE)
+</code></pre>
+<p>Actually I recommend you to use the RStudio addin &ldquo;New Post&rdquo; instead:</p>
+<p><img src="https://bookdown.org/yihui/blogdown/images/new-post.png" alt="RStudio addin New Post"></p>
+<h1 id="2-sample-text">2. Sample Text</h1>
+<h2 id="second-level-header">Second-level header</h2>
+<h3 id="third-level-header">Third-level header</h3>
+<h4 id="fourth-level-header">Fourth-level header</h4>
+<p>A paragraph (with a footnote):</p>
+<p><strong>Lorem ipsum</strong> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore <em>magna aliqua</em>. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.^[I&rsquo;m sure you are bored by the text here.]</p>
+<p>A blockquote (a gray bar at the left and lightgray background):</p>
 <blockquote>
-<ul>
-<li><a href="/teaching/cmput676"><strong>Fall 2024</strong></a>, Fall 2022, Fall 2021</li>
-</ul>
-</blockquote>
+<p>Quisque mattis volutpat lorem vitae feugiat. Praesent porta est quis porta imperdiet. Aenean porta, mi non cursus volutpat, mi est mollis libero, id suscipit orci urna a augue. In fringilla euismod lacus, vitae tristique massa ultricies vitae. Mauris accumsan ligula tristique, viverra nulla sed, porta sapien. Vestibulum facilisis nec nisl blandit convallis. Maecenas venenatis porta malesuada. Ut ac erat tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla sodales quam sit amet tincidunt egestas. In et turpis at orci vestibulum ullamcorper. Aliquam sed ante libero. Sed hendrerit arcu lacus.</p></blockquote>
+<p>Some code (with a drop-shadow effect):</p>
 
-
+</main>
+    
 
   <footer>
   
@@ -157,5 +175,4 @@
   </footer>
   </body>
 </html>
-
 

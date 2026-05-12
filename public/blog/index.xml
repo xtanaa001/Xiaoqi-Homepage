@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DMU on Xiaoqi Tan @UAlberta</title>
+    <link>//localhost:1313/blog/</link>
+    <description>Recent content in DMU on Xiaoqi Tan @UAlberta</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Plain Markdown Post</title>
+      <link>//localhost:1313/blog/dsoa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/dsoa/</guid>
+      <description>&lt;h1 id=&#34;a-dynamical-systems-perspective-of-online-algorithms&#34;&gt;A Dynamical Systems Perspective of Online Algorithms&lt;/h1&gt;&#xA;&lt;p&gt;Modern computational systems make decisions continuously and under uncertainty.&lt;/p&gt;&#xA;&lt;p&gt;Cloud platforms allocate compute resources to incoming jobs. Online marketplaces decide which requests to accept. LLM inference systems dynamically schedule workloads across GPUs. Advertising platforms allocate impressions in real time. In all of these systems, decisions must be made sequentially, without knowing the future.&lt;/p&gt;&#xA;&lt;p&gt;A central challenge in algorithm design is therefore: how should a system allocate limited resources over time while balancing immediate rewards against future uncertainty?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

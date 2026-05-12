@@ -12,7 +12,7 @@ Balancing "rigor" and "intuition" is both enjoyable and essential in teaching an
 ---
 
 
-### `CMPUT 204: Algorithms I`
+### CMPUT 204: Algorithms I
 
 <blockquote>
 
@@ -21,7 +21,7 @@ Balancing "rigor" and "intuition" is both enjoyable and essential in teaching an
 </blockquote>
 
 
-### `CMPUT 676: Optimization and Decision-Making under Uncertainty`
+### CMPUT 676: Optimization and Decision-Making under Uncertainty
 
 <blockquote>
 

@@ -76,11 +76,11 @@ function printPaper(paper, type){
         document.write("&emsp;<a href=\" " +paper.video+ " \" target=\"_blank\" >[Video]</a>");
 
     if (typeof paper.prize == "string") 
-        document.write("<span style=\"color:red;font-family:Optima;font-size: 1em\">&emsp;<b>("+paper.prize+")</b><\/span>");
+        document.write("<span style=\"color:red;font-family:Optima;font-size: 1.1em\">&emsp;<b>("+paper.prize+")</b><\/span>");
         //document.write("&emsp;(<b>"+paper.note+"</b>)");
 
     if (typeof paper.note == "string") 
-        document.write("<span style=\"color:gray;font-family:Optima;font-size: 1em\">&emsp;("+paper.note+")<\/span>");
+        document.write("<span style=\"color:gray;font-family:Optima;font-size: 1.1em\">&emsp;("+paper.note+")<\/span>");
         //document.write("&emsp;(<b>"+paper.note+"</b>)");
         
     
@@ -94,5 +94,7 @@ function printPaper(paper, type){
         document.writeln("</div>");
     };
 };
+
+
 
 

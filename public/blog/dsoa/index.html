@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>A Plain Markdown Post | Xiaoqi Tan @UAlberta</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+    <link href="/img/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+    <link color="#275d38" href="/img/safari-pinned-tab.svg" rel="mask-icon"/>
+    <link href="/img/favicon.svg" rel="icon"/>
+    <link href="/img/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+    <link href="/img/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+    <script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+  });
+  MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+  });
+
+  MathJax.Hub.Config({
+  
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+  });
+
+  
+  (function() {
+  function center_el(tagName) {
+    var tags = document.getElementsByTagName(tagName), i, tag;
+    for (i = 0; i < tags.length; i++) {
+      tag = tags[i];
+      var parent = tag.parentElement;
+      
+      if (parent.childNodes.length === 1) {
+        
+        if (parent.nodeName === 'A') {
+          parent = parent.parentElement;
+          if (parent.childNodes.length != 1) continue;
+          parent.firstChild.style.border = 'none';
+        }
+        if (parent.nodeName === 'P') parent.style.textAlign = 'center';
+      }
+    }
+  }
+  var tagNames = ['img', 'embed', 'object'];
+  for (var i = 0; i < tagNames.length; i++) {
+    center_el(tagNames[i]);
+  }
+})();
+
+</script>
+
+
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153197636-1"></script>
+
+<script>
+  var host = window.location.hostname;
+  if(host != "localhost")
+  {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-153197636-1'); 
+  }
+</script>
+  </head>
+
+    <script src="/js/jquery-latest.js" type="text/javascript"></script>
+    <script src="/js/author-list.js" type="text/javascript"></script>
+    <script src="/js/paper-full-list.js" type="text/javascript"></script>
+    <script src="/js/print-paper.js" type="text/javascript"></script>
+    <script>
+        function toggleAbstract(id) {
+            $("#"+id).slideToggle();
+            return(false);
+        };
+    </script>
+    
+  <body>
+    
+  
+
+
+
+  <nav>
+  <ul class="menu">
+    <a href="https://www.ualberta.ca" target="_blank"> <img src="/img/UA_Logo_Green_RGB.png" style="max-width:15%;min-width:150px; margin: -2px 0px; margin-right: 30px; float:left;" /> </a>
+
+    
+      
+        <a href="/">Home</a>
+      
+    
+      
+        <a href="https://sodalab.ca/">Group</a>
+      
+    
+      
+        <a href="/teaching/">Teaching</a>
+      
+    
+      
+        <a href="/bio/">Biography</a>
+      
+    
+  </ul>
+  <hr/>
+  </nav>
+
+
+<main>
+<h1 id="a-dynamical-systems-perspective-of-online-algorithms">A Dynamical Systems Perspective of Online Algorithms</h1>
+<p>Modern computational systems make decisions continuously and under uncertainty.</p>
+<p>Cloud platforms allocate compute resources to incoming jobs. Online marketplaces decide which requests to accept. LLM inference systems dynamically schedule workloads across GPUs. Advertising platforms allocate impressions in real time. In all of these systems, decisions must be made sequentially, without knowing the future.</p>
+<p>A central challenge in algorithm design is therefore: how should a system allocate limited resources over time while balancing immediate rewards against future uncertainty?</p>
+<p>For decades, online algorithms research has approached this question by searching for a single optimal algorithm — one carefully designed policy that achieves the best possible worst-case guarantee.</p>
+<p>But what if there is not just one optimal design?</p>
+<p>What if optimal online decision-making is better understood as an entire <em>space</em> of possible behaviors?</p>
+<p>This question motivated our recent work on <strong>Online Allocation with Convex Costs (OACC)</strong>, where we develop a dynamical-systems framework that characterizes not merely one optimal online algorithm, but infinitely many.</p>
+<hr>
+<h2 id="from-fixed-capacities-to-convex-costs">From Fixed Capacities to Convex Costs</h2>
+<p>Traditional online allocation models often assume hard capacity constraints: once resources are exhausted, no further allocations can be made.</p>
+<p>However, many real systems are better modeled by <em>soft</em> constraints.</p>
+<p>A data center can provision additional compute resources, but doing so becomes increasingly expensive due to energy usage, cooling costs, or carbon emissions. A cloud provider may scale infrastructure elastically, but the marginal cost rises with utilization. LLM inference systems can admit more requests, but high loads may dramatically increase latency and operational costs.</p>
+<p>These settings are naturally modeled through <strong>convex production costs</strong>.</p>
+<p>Under this framework, the system can continue allocating resources, but the cost of doing so grows nonlinearly with total utilization.</p>
+<p>This leads to the Online Allocation with Convex Costs problem:</p>
+<ul>
+<li>requests arrive sequentially,</li>
+<li>decisions are irrevocable,</li>
+<li>allocations generate rewards,</li>
+<li>and resources incur convex costs as utilization increases.</li>
+</ul>
+<p>The key challenge is deciding <em>how kkaggressively</em> the system should allocate resources now versus reserve them for potentially better future requests.</p>
+<hr>
+<h2 id="online-algorithms-as-dynamic-pricing-rules">Online Algorithms as Dynamic Pricing Rules</h2>
+<p>Many online allocation algorithms can be interpreted as dynamic pricing mechanisms.</p>
+<p>As utilization increases, the algorithm raises an internal “price” for consuming additional resources. Incoming requests are accepted only if their value exceeds this evolving threshold.</p>
+<p>At the heart of our framework is a <strong>reserve function</strong>:</p>
+<ul>
+<li>a rapidly increasing reserve function behaves conservatively,</li>
+<li>while a flatter reserve function behaves more aggressively.</li>
+</ul>
+<p>Traditionally, prior work focused on constructing a <em>single</em> reserve function that achieves the optimal competitive ratio.</p>
+<p>But this perspective hides a deeper structural question:</p>
+<blockquote>
+<p>What is the full set of reserve functions that achieve optimal performance?</p></blockquote>
+<p>Surprisingly, this question turns out to be deeply connected to nonlinear dynamical systems.</p>
+<hr>
+<h2 id="a-dynamical-systems-perspective">A Dynamical Systems Perspective</h2>
+<p>Our main result shows that the design of optimal reserve functions reduces to solving a nonlinear differential equation.</p>
+<p>More precisely, the reserve function evolves according to a nonlinear dynamical system whose trajectories correspond to feasible online algorithms.</p>
+<p>Under this perspective:</p>
+<ul>
+<li>online algorithms become trajectories in a geometric phase space,</li>
+<li>the optimal competitive ratio emerges as a dominant eigenvalue,</li>
+<li>and the set of all optimal algorithms forms a structured geometric region.</li>
+</ul>
+<p>Rather than discovering a single isolated solution, we characterize an entire <strong>optimal design space</strong>.</p>
+<p>This viewpoint fundamentally changes how we think about online algorithm design.</p>
+<p>Traditionally, optimality is viewed as a single point:</p>
+<blockquote>
+<p>one algorithm, one proof, one guarantee.</p></blockquote>
+<p>In contrast, our work reveals that optimality can instead be a <em>continuum</em> of algorithmic behaviors.</p>
+<hr>
+<h2 id="infinitely-many-optimal-algorithms">Infinitely Many Optimal Algorithms</h2>
+<p>One of the most surprising outcomes of our analysis is that there are infinitely many optimal reserve functions achieving the same best-possible competitive ratio.</p>
+<p>These algorithms are not arbitrary variations. They form a highly structured family bounded by extremal solutions:</p>
+<ul>
+<li>one corresponding to the most aggressive feasible design,</li>
+<li>and another corresponding to the most conservative feasible design.</li>
+</ul>
+<p>Every trajectory between these boundaries yields an optimal online algorithm.</p>
+<p>Geometrically, the design space resembles a cone-shaped region filled with infinitely many valid trajectories.</p>
+<p>This geometric structure provides a new lens for understanding online decisions:<br>
+instead of searching for a single handcrafted policy, we can study the entire landscape of optimal behaviors.</p>
+<hr>
+<h2 id="mixing-dynamic-and-static-pricing">Mixing Dynamic and Static Pricing</h2>
+<p>The characterized design space also enables new algorithmic constructions that are difficult to see from traditional analyses.</p>
+<p>One particularly intriguing result is that we can combine:</p>
+<ul>
+<li>dynamic pricing phases,</li>
+<li>and static pricing phases,</li>
+</ul>
+<p>without sacrificing worst-case optimality.</p>
+<p>This is surprising because, in many online decision problems, static and dynamic pricing are viewed as opposite ends of a trade-off:</p>
+<ul>
+<li>fully dynamic pricing offers adaptability,</li>
+<li>while static pricing offers simplicity and stability.</li>
+</ul>
+<p>In our setting, however, these are not competing paradigms. They become modular components that can be flexibly combined within the same optimal design.</p>
+<p>This reveals a fundamentally richer structure underlying online allocation with convex costs.</p>
+<hr>
+<h2 id="robustness-under-unknown-costs">Robustness Under Unknown Costs</h2>
+<p>Real systems rarely know their exact operating costs in advance.</p>
+<p>Energy prices fluctuate. Hardware efficiency changes over time. Workload characteristics evolve. Future demand is uncertain.</p>
+<p>Most existing online algorithms assume these cost functions are known beforehand.</p>
+<p>Our framework instead allows us to characterize <strong>universal design spaces</strong>: families of reserve functions that remain competitive across entire classes of possible cost functions.</p>
+<p>Conceptually, rather than optimizing for one precise environment, we identify a safe region of algorithmic behaviors that remain robust under uncertainty.</p>
+<p>This perspective naturally connects online algorithms with broader themes in robust optimization, adaptive systems, and learning-enabled decision-making.</p>
+<hr>
+<h2 id="beyond-a-single-optimal-algorithm">Beyond a Single Optimal Algorithm</h2>
+<p>At a broader level, this work suggests a different philosophy for online algorithm design.</p>
+<p>Traditionally, online algorithms are viewed as isolated solutions:<br>
+one problem, one optimal policy.</p>
+<p>But modern computational systems are increasingly dynamic, heterogeneous, and data-driven. In such environments, a single rigid design may be unnecessarily restrictive.</p>
+<p>Our results suggest that optimal online decision-making may instead be better understood as a <em>structured space</em> of feasible behaviors — one that can potentially be explored, adapted, calibrated, and even learned.</p>
+<p>We believe this opens several exciting directions:</p>
+<ul>
+<li>integrating worst-case guarantees with statistical learning,</li>
+<li>designing algorithms that adapt to structural regularities in real systems,</li>
+<li>understanding geometric properties of algorithmic design spaces,</li>
+<li>and building more flexible decision systems for emerging AI infrastructure.</li>
+</ul>
+<p>As online systems continue to scale in complexity, the future of algorithm design may lie not in discovering a single optimal trajectory, but in understanding the geometry of optimal decision-making itself.</p>
+<h2 id="1-markdown-or-r-markdown">1. Markdown or R Markdown</h2>
+<p>This is a post written in plain Markdown (<code>*.md</code>) instead of R Markdown (<code>*.Rmd</code>). The major differences are:</p>
+<ol>
+<li>You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (<code>```{r}</code>);</li>
+<li>A plain Markdown post is rendered through <a href="https://gohugo.io/overview/configuration/" target="_blank" rel="noopener">Blackfriday</a>, and an R Markdown document is compiled by <a href="http://rmarkdown.rstudio.com" target="_blank" rel="noopener"><strong>rmarkdown</strong></a> and <a href="http://pandoc.org" target="_blank" rel="noopener">Pandoc</a>.</li>
+</ol>
+<p>There are many differences in syntax between Blackfriday&rsquo;s Markdown and Pandoc&rsquo;s Markdown. For example, you can write a task list with Blackfriday but not with Pandoc:</p>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Write an R package.</li>
+<li><input disabled="" type="checkbox"> Write a book.</li>
+<li><input disabled="" type="checkbox"> &hellip;</li>
+<li><input disabled="" type="checkbox"> Profit!</li>
+</ul>
+<p>When creating a new post, you have to decide whether the post format is Markdown or R Markdown, and this can be done via the <code>rmd</code> argument of the function <code>blogdown::new_post()</code>, e.g.</p>
+<pre><code class="language-r">blogdown::new_post(&quot;Post Title&quot;, rmd = FALSE)
+</code></pre>
+<p>Actually I recommend you to use the RStudio addin &ldquo;New Post&rdquo; instead:</p>
+<p><img src="https://bookdown.org/yihui/blogdown/images/new-post.png" alt="RStudio addin New Post"></p>
+<h1 id="2-sample-text">2. Sample Text</h1>
+<h2 id="second-level-header">Second-level header</h2>
+<h3 id="third-level-header">Third-level header</h3>
+<h4 id="fourth-level-header">Fourth-level header</h4>
+<p>A paragraph (with a footnote):</p>
+<p><strong>Lorem ipsum</strong> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore <em>magna aliqua</em>. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.^[I&rsquo;m sure you are bored by the text here.]</p>
+<p>A blockquote (a gray bar at the left and lightgray background):</p>
+<blockquote>
+<p>Quisque mattis volutpat lorem vitae feugiat. Praesent porta est quis porta imperdiet. Aenean porta, mi non cursus volutpat, mi est mollis libero, id suscipit orci urna a augue. In fringilla euismod lacus, vitae tristique massa ultricies vitae. Mauris accumsan ligula tristique, viverra nulla sed, porta sapien. Vestibulum facilisis nec nisl blandit convallis. Maecenas venenatis porta malesuada. Ut ac erat tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla sodales quam sit amet tincidunt egestas. In et turpis at orci vestibulum ullamcorper. Aliquam sed ante libero. Sed hendrerit arcu lacus.</p></blockquote>
+<p>Some code (with a drop-shadow effect):</p>
+
+</main>
+    
+
+  <footer>
+  
+  
+  <hr/>
+  Copyright © 2021-2026 | Xiaoqi Tan
+  
+  
+  </footer>
+  </body>
+</html>
+
