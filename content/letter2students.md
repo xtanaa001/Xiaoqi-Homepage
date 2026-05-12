@@ -33,7 +33,7 @@ I value the beauty of mathematics and view technically sound, aesthetically eleg
 
 At the same time, my goal is not to pursue theory in isolation. I am most drawn to problems that are both intellectually deep and connected to meaningful real-world systems. In particular, I am interested in identifying simple yet fundamental abstractions that reveal new algorithmic ideas, clarify structural trade-offs, and guide the design of practical decision-making systems operating under uncertainty. My work therefore lies at the intersection of theory and systems. Rather than viewing these as opposing directions, I see theoretical abstraction as a tool for understanding the principles governing increasingly complex real-world platforms, including online markets, cloud systems, and modern AI infrastructure such as LLM inference systems.
 
-For this reason, I think of my research not simply as algorithmic nor systems research in the classical sense, but more specifically as **system-oriented theory**: mathematically rigorous research inspired by the structural challenges of real-world decision systems.
+For this reason, I think of my research not simply as algorithmic nor systems research in the classical sense, but more specifically as **systems-oriented theory**: mathematically rigorous research inspired by the structural challenges of real-world decision systems.
 
 <!-- I value the beauty of mathematics and see a **technically sound** and **aesthetically elegant** theorem as the cornerstone of a publication-worthy result. While I admire strong applied research, I believe that not all work must have immediate practical utility — good theory endures and often reveals its value in unexpected ways.
 
