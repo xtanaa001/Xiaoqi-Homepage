@@ -10,8 +10,6 @@ Dr. Tan's research focuses on algorithms and decision-making under uncertainty, 
 
 Dr. Tan has served on the program committees of multiple leading conferences, including [ACM SIGMETRICS](https://www.sigmetrics.org/), [WINE](https://wine2025.cs.rutgers.edu/), and [ACM e-Energy](https://energy.acm.org/eenergy-conference/). He is also a frequent program commitee or sub-reviewer for major AI/ML and TCS conferences, such as [AAAI](https://aaai.org/conference/aaai/), [ICML](https://icml.cc/),  [IJCAI](https://www.ijcai.org/), [NeurIPS](https://neurips.cc/), [RANDOM](https://randomconference.com/), [SODA](https://www.siam.org/conferences-events/siam-conferences/soda26/), and [WWW](https://www.sigweb.org/conferences/acm-sigweb-conferences/the-web-conference) (listed in alphabetical order).  In addition, he has reviewed for leading journals in AI/ML, operations research, and IEEE/ACM, including Journal of Artificial Intelligence Research, Operations Research, Management Science, Performance Evaluation, and various IEEE/ACM Transactions. Dr. Tan has also contributed to national and international grant review processes, including those for MITACS, the Dutch Research Council, and the Hong Kong Research Grants Council.
 
-<!-- on the organizing committee of [ACM e-Energy](https://energy.acm.org/eenergy-conference/) as Finance Chair -->
-
 ---
 
 ### Miscellaneous

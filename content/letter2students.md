@@ -17,8 +17,8 @@ I study algorithms for decision-making under uncertainty. Specifically, my recen
 <blockquote>
 
 - **Online Algorithms** — designing algorithms with provable guarantees for sequential decision-making without access to the full input in advance.
-- **Algorithmic Economics** — managing and allocating resources, incentives, and interactions in multi-agent, strategic settings while ensuring key guarantees such as robustness, fairness, and risk.
-- **Machine Learning** — studying the power and limitations of learning based on different forms of information (e.g., offline data and online interactions), with a particular focus on sequential decision-making problems.
+- **Learning Theory** — studying the power and limitations of learning based on different forms of information, with a particular focus on sequential decision-making problems.
+- **Algorithmic Economics** — managing resources, incentives, and strategic interactions in multi-agent settings while ensuring guarantees such as fairness, robustness, and risk-awareness.
 
 </blockquote>
 

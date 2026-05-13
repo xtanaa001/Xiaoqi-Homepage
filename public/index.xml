@@ -31,13 +31,6 @@
     </item>
     <item>
       <title>A Plain Markdown Post</title>
-      <link>//localhost:1313/blog/dsoa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/dsoa/</guid>
-      <description>&lt;h1 id=&#34;a-dynamical-systems-perspective-of-online-algorithms&#34;&gt;A Dynamical Systems Perspective of Online Algorithms&lt;/h1&gt;&#xA;&lt;p&gt;Modern computational systems make decisions continuously and under uncertainty.&lt;/p&gt;&#xA;&lt;p&gt;Cloud platforms allocate compute resources to incoming jobs. Online marketplaces decide which requests to accept. LLM inference systems dynamically schedule workloads across GPUs. Advertising platforms allocate impressions in real time. In all of these systems, decisions must be made sequentially, without knowing the future.&lt;/p&gt;&#xA;&lt;p&gt;A central challenge in algorithm design is therefore: how should a system allocate limited resources over time while balancing immediate rewards against future uncertainty?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Plain Markdown Post</title>
       <link>//localhost:1313/post/1/01/01/a-plain-markdown-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/post/1/01/01/a-plain-markdown-post/</guid>
@@ -105,13 +98,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/teaching/optcourse/fall2024/</guid>
       <description>&lt;style&gt;&#xA;    &#xA;table th:first-of-type {&#xA;    width: 10%;&#xA;}&#xA;table th:nth-of-type(2) {&#xA;    width: 50%;&#xA;}&#xA;/*&#xA;table th:nth-of-type(3) {&#xA;    width: 50%;&#xA;}&#xA;table th:nth-of-type(4) {&#xA;    width: 30%;&#xA;} */&#xA;&#xA;&lt;/style&gt;&#xA;&lt;h2 id=&#34;cmput-676-optimization-and-decision-making-under-uncertainty&#34;&gt;&lt;code&gt;CMPUT 676: Optimization and Decision-Making under Uncertainty&lt;/code&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;fall-2024&#34;&gt;Fall 2024&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;code&gt;Instructor&lt;/code&gt;&lt;/strong&gt;: &lt;a href=&#34;//localhost:1313/&#34;&gt;Xiaoqi Tan&lt;/a&gt; (xiaoqi.tan$\textsf{@}$ualberta.ca)&lt;br&gt;&#xA;&lt;strong&gt;&lt;code&gt;Location &amp;amp; Time&lt;/code&gt;&lt;/strong&gt;:  GSB 7-11, MW 12:00 PM – 1:20 PM&lt;br&gt;&#xA;&lt;strong&gt;&lt;code&gt;Office hour&lt;/code&gt;&lt;/strong&gt;: After class or by appointment\&lt;/p&gt;&#xA;&lt;!-- **`Slack`**: Join the [**Tan@CS-UofA slack workspace**](https://join.slack.com/t/odmu/signup) with your $\textsf{@ualberta.ca}$ email for online discussions about course-related questions.  --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;course-overview&#34;&gt;&lt;code&gt;Course Overview&lt;/code&gt;&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Many real-world problems involve making decisions over time in the presence of various forms of uncertainty. These challenges arise in fields such as Internet advertising, energy sustainability, transportation, financial trading, healthcare, and a wide range of problems in artificial intelligence and machine learning. Although these specific decision problems may initially appear different in various application scenarios, the models and algorithms needed to address them are often similar.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Join</title>
-      <link>//localhost:1313/join/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/join/</guid>
-      <description>&lt;h2 id=&#34;for-prospective-students&#34;&gt;&lt;a id=&#34;prospective&#34;&gt;&lt;/a&gt; &lt;code&gt;For Prospective Students&lt;/code&gt;&lt;/h2&gt;&#xA;&lt;p&gt;I am always looking for highly motivated students at all levels (undergraduate, MSc, and PhD). Below are some useful links to learn more about my research:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sodalab.ca&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;code&gt;SODALab @UofA&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt; page — contains up-to-date information about my research group, including our latest publications, member highlights, and details on how to join depending on your current status.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:1313/letter2students/&#34;&gt;&lt;strong&gt;&lt;code&gt;Letter to Prospective Students&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt; — outlines my core values in research and mentoring, as well as guidelines on how best to reach out. If you decide to email me, please review this letter first.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:1313/teaching/cmput676/&#34;&gt;&lt;strong&gt;&lt;code&gt;CMPUT 676&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt; course page — provides an overview of the research themes that align closely with the ongoing work in my group. Interested students may find it helpful to review the page; the course was most recently offered in Fall 2024.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If you’re already at UofA: My group meets weekly at the SODALab Seminar, which is open to anyone interested in attending. &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1gR2qVvK1fLDB_uvyKxTtVmQCDb6QMwXqIeh3m6HbEkk/edit#gid=1884220804&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;code&gt;Click here&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt; to view our past and upcoming schedules.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prospective Students</title>
