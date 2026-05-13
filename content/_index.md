@@ -31,7 +31,7 @@ Vist my lab:
 
 <blockquote>
 
-Algorithms for decision-making under uncertainty, particularly online algorithms and sequential decision-making, together with their connections to economics, control,  operations research, and societal aspects.
+Algorithms for decision-making under uncertainty, particularly online algorithms, learning under different forms of information, and algorithmic economics, as well as their broader connections to systems involving dynamics and strategic agents.
 
 </blockquote>
 
