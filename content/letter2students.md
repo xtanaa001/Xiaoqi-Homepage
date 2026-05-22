@@ -17,13 +17,12 @@ I study algorithms for decision-making under uncertainty. Specifically, my recen
 <blockquote>
 
 - **Online Algorithms** — designing algorithms with provable guarantees for sequential decision-making without access to the full input in advance.
-- **Learning Theory** — studying the power and limitations of learning based on different forms of information, with a particular focus on sequential decision-making problems.
 - **Algorithmic Economics** — managing resources, incentives, and strategic interactions in multi-agent settings while ensuring guarantees such as fairness, robustness, and risk-awareness.
+- **Learning Theory** — studying the power and limitations of learning based on different forms of information, with a particular focus on sequential decision-making problems.
 
 </blockquote>
 
-Collectively, my research across these directions aims to understand how to navigate two major sources of uncertainty in decision making: (i) _sequential uncertainty_, inherent to arguably all temporal decision processes; and (ii) _strategic uncertainty_, stemming from the behavior and incentives of interacting agents. Addressing these complexities calls for an interdisciplinary approach that integrates techniques from computer science, economics, statistics, and control.
-
+Collectively, my research across these directions aims to understand how algorithmic performance scales with structural properties arising from three interacting dimensions of a decision system : the _system_ itself (e.g., objectives, constraints, and strategic interactions), the _environment_ generating uncertainty (e.g., sequential, adversarial, and stochastic variability), and the _information interface_ between the two (e.g., predictions, offline data, and feedback acquired through interaction). Addressing these challenges requires an interdisciplinary approach that integrates techniques from computer science, economics, statistics, and control.
 
 <!-- > My research is primarily theoretical, but I do not regard it as pure CS theory in the traditional sense. Rather, my work is best characterized as _"system-driven theory"_: I am drawn to problems that are theoretically rich yet grounded in the practical realities of real-world systems. These include, for instance, electrical grids that power daily life, data centers that support the computational demands of cloud computing and artificial intelligence, the Internet that interconnects the digital world, and on-demand platforms such as ride-sharing, e-commerce, and food delivery — all of which have become integral to contemporary society, yet still pose complex theoretical challenges awaiting exploration. -->
 
@@ -31,7 +30,7 @@ Collectively, my research across these directions aims to understand how to navi
 
 I value the beauty of mathematics and view technically sound, aesthetically elegant theorems as the foundation of enduring scientific contributions. While I admire strong applied research,  I believe the deepest theoretical ideas often outlast the specific systems that first motivate them.
 
-At the same time, my goal is not to pursue theory in isolation. I am most drawn to problems that are both intellectually deep and connected to meaningful real-world systems. In particular, I am interested in identifying simple yet fundamental abstractions that reveal new algorithmic ideas, clarify structural trade-offs, and guide the design of practical decision-making systems operating under uncertainty. My work therefore lies at the intersection of theory and systems. Rather than viewing these as opposing directions, I see theoretical abstraction as a tool for understanding the principles governing increasingly complex real-world platforms, including online markets, cloud systems, and modern AI infrastructure such as LLM inference systems.
+At the same time, my goal is not to pursue theory in isolation. I am most drawn to problems that are both intellectually deep and connected to meaningful real-world systems. In particular, I am interested in identifying simple yet fundamental abstractions that reveal new algorithmic ideas, clarify structural trade-offs, and guide the design of practical systems operating under uncertainty. My work therefore lies at the intersection of theory and systems. Rather than viewing these as opposing directions, I see theoretical abstraction as a tool for understanding the principles governing increasingly complex real-world platforms, including online markets, cloud systems, and modern AI infrastructure such as LLM inference systems.
 
 For this reason, I think of my research not simply as algorithmic nor systems research in the classical sense, but more specifically as **systems-oriented theory**: mathematically rigorous research inspired by the structural challenges of real-world decision systems.
 
