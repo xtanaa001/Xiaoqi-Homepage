@@ -26,6 +26,10 @@ Collectively, my research across these directions aims to understand how algorit
 
 <!-- > My research is primarily theoretical, but I do not regard it as pure CS theory in the traditional sense. Rather, my work is best characterized as _"system-driven theory"_: I am drawn to problems that are theoretically rich yet grounded in the practical realities of real-world systems. These include, for instance, electrical grids that power daily life, data centers that support the computational demands of cloud computing and artificial intelligence, the Internet that interconnects the digital world, and on-demand platforms such as ride-sharing, e-commerce, and food delivery — all of which have become integral to contemporary society, yet still pose complex theoretical challenges awaiting exploration. -->
 
+
+---
+
+
 ## `What I Care About the Most in Research?`
 
 I value the beauty of mathematics and view technically sound, aesthetically elegant theorems as the foundation of enduring scientific contributions. While I admire strong applied research,  I believe the deepest theoretical ideas often outlast the specific systems that first motivate them.
@@ -41,6 +45,8 @@ That said, my interest is not in pursuing theory for its own sake. I am most dra
 For these reasons, I do not regard my research as CS theory in the traditional sense, even though it is primarily theoretical. Rather, I see my work as "**system-oriented theory**:" tackling problems that are theoretically rich yet grounded in the practical realities of real-world systems. These include, for instance, digital platforms such as online marketplaces and AI systems such as LLM inference.  -->
 
 
+---
+
 ## `What is My Take on Mentorship and the Advisor–Advisee Relationship?`
 
 I respect scholarship and love research, like most academics do. I consider getting a graduate degree takes initiative and commitment — it requires  strong motivation to excel, long-lasting enthusiasm in research, and probably most importantly, a good advisor-advisee match — based on mutual trust and respect, open and effortless communication, and sometimes, a bit of luck. While it is complex to define what is exactly a "good match," a simple rule of thumb is: if you feel this is the person you are willing to "**work with**," not to "**work for**," then it is usually a good sign.
@@ -48,12 +54,15 @@ I respect scholarship and love research, like most academics do. I consider gett
 I consider it a privilege to mentor students, and I feel genuinely fortunate to work with them during some of the most vibrant and formative years of their academic journeys. At the same time, I’m also humbled by the responsibility that comes with this role. I once came across a reflection by a mathematician (whose name, regrettably, I can no longer recall) that I now keep as a quiet reminder on my desk: "`There are moments when I take pride in my work, only to pause and question whether I’ve mistaken mediocrity for merit — what seems admirable to me may, in the end, hold little value. What I fear far more, however, is the possibility of unknowingly leading my students down the wrong path`." That fear, while humbling, has also deepened my appreciation for the advisor–advisee relationship. At its best, it is not a hierarchy, but a partnership — grounded in trust, mutual respect, and honest dialogue. Such a relationship can act as a safeguard, helping both mentor and mentee stay grounded, reflective, and open to growth.
 
 
+---
+
 ## `What I Care About the Most in Prospective Students?`
 
 I often receive emails from prospective students with descriptions like "I know how to use $X$ to implement $Y$." While this is undoubtedly a valuable skill, it is not my primary focus in my research. I am looking for students who are interested in (i) converting real-world problems into rigorous mathematical models (i.e., modeling) and (ii) developing algorithms to solve these problems (i.e., computation) with provable guarantees — in the form of mathematical theorems and lemmas. In short, I look for prospective students who are motivated and excited about creating new knowledge to explain “**how and why things work — or why they don't**."  
 
 A frequently asked question by undergraduate and early-stage graduate students is: mathematical proofs can seem daunting; how can I determine if I will enjoy them? While there isn't a one-size-fits-all answer, a reasonable approach is to ask yourself: Do I have an affinity for subjects like calculus, probability, linear algebra, and other math or theory-based courses (e.g., algorithm design and analysis, theory of computation, etc.)? If your answer is a clear and enthusiastic yes, and you've had positive experiences with most of these courses, then it's a promising indicator!
 
+---
 
 ## `Am I looking for New Students?`
 
@@ -61,7 +70,7 @@ Yes! I am always looking for motivated students at all levels (undergraduate, MS
  
 <blockquote>
 
-**For prospective undergraduate students**: Undergraduate students may join my lab through various channels, such as [**NSERC USRA**](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) and [**URI @UofA**](https://www.ualberta.ca/current-students/undergraduate-research-initiative/funding/index.html). Students with experience in  [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming) and [math competitions](https://en.wikipedia.org/wiki/List_of_mathematics_competitions) are particularly encouraged to apply. If interested, <u>please follow the instructions below to email me your CV, transcript, and statement of interest</u>. It is especially helpful if you specify in your email whether you are seeking a full-time summer internship or are interested in a longer-term, formal research commitment. The latter is generally preferred, as it offers the opportunity to engage in multiple components of a comprehensive training pipeline — such as guided study of graduate-level materials (e.g., through individual study courses), learning how to read and present research papers, and, ideally, exploring different directions that may help you discover what truly excites you in your future research.
+**For prospective undergraduate students**: Undergraduate students may join my lab through various channels, such as [**NSERC USRA**](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) and [**URI @UofA**](https://www.ualberta.ca/current-students/undergraduate-research-initiative/funding/index.html). Students from a range of backgrounds who are genuinely interested in algorithms, mathematical thinking, machine learning, or systems research are encouraged to apply. Prior experience in areas such as [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming), [    mathematics competitions](https://en.wikipedia.org/wiki/List_of_mathematics_competitions), or independent technical projects can certainly be helpful, but it is by no means required. If you are interested, <u>please follow the instructions below to email me your CV, transcript, and a brief statement of interest</u>. It is especially helpful if you specify in your email whether you are seeking a full-time summer internship or are interested in a longer-term, formal research commitment. The latter is generally preferred, as it provides the opportunity to engage more deeply with the research process through activities such as guided study of advanced materials, learning how to read and present research papers, and gradually exploring different research directions to discover the kinds of problems and styles of thinking resonate most with you.
 
 </blockquote>
 
@@ -73,7 +82,7 @@ Yes! I am always looking for motivated students at all levels (undergraduate, MS
 
 </blockquote>
 
-
+---
 
 ## `How to (Effectively) Write Me an Email about Your Application?`
 
