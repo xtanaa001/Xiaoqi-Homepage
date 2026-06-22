@@ -49,7 +49,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; Xiaoqi Tan"
+  footer: "2026 &copy; Xiaoqi Tan"
 
             
 markup:

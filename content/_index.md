@@ -4,7 +4,7 @@ title: Home
 
 <div>
 <!-- <img alt="Xiaoqi Tan (Jan 2026)" src="/img/CSPhoto2026.jpeg" style="max-width:260px; min-width:240px; float:right; border-radius: 50%; box-shadow: 0px 0px 5px #275D38; margin: 50px 20px 10px 10px" width="210"/> -->
-<img alt="Xiaoqi Tan (Jan 2026)" src="/img/AmiiPhoto2l.jpg" style="max-width:240px; min-width:210px; float:right; border-radius: 50%; box-shadow: 0px 0px 5px #275D38; margin: 50px 20px 10px 10px" width="210"/>
+<img alt="Xiaoqi Tan (Jan 2026)" src="/img/AmiiPhoto2l.jpg" style="max-width:240px; min-width:210px; float:right; border-radius: 50%; box-shadow: 0px 0px 5px #275D38; margin: 40px 20px 10px 10px" width="210"/>
 </div>
 
 
@@ -17,10 +17,13 @@ Assistant Professor \
 Email: xiaoqi.tan$\textsf{@}$ualberta.ca\
 Office: [UCOMM 6-121](https://www.ualberta.ca/en/maps.html?l=53.52507942172973,-113.52378328208613&z=18&campus=north_campus&b=dp)
 
-[Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate) | [DBLP](https://dblp.org/pid/139/4363.html) 
+[Google Scholar](https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate)  
+
+<!-- <a href="https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en&sortby=pubdate" target="_blank" title="Google Scholar"><img src="./img/gscholar.png" style="max-height:40px;" class="img-responsive"></a>
+<a href="https://dblp.org/pid/139/4363.html" target="_blank" title="DBLP"><img src="./img/DBLP.png" style="max-height:40px;" class="img-responsive"></a> -->
 
 <div>
-Vist my lab: 
+My lab: 
 <a href="https://sodalab.ca" target="_blank">  <img alt="" src="/img/SODALab_logo.png" style="min-width:20px; margin: 1px 1px 1px 1px;" width="100"/> </a>
 </div>
 
@@ -31,7 +34,7 @@ Vist my lab:
 
 <blockquote>
 
-Algorithms for decision-making under uncertainty, particularly online algorithms, algorithmic economics, and learning under different forms of information, as well as their broader connections to systems involving online and multi-agent interactions.
+Algorithms for decision-making under uncertainty, particularly online algorithms, algorithmic economics, and learning under different forms of information, as well as their broader connections to systems involving interacting and potentially strategic agents.
 
 </blockquote>
 
