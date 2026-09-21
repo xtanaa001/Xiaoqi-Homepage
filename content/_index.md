@@ -34,7 +34,7 @@ My lab:
 
 <blockquote>
 
-Algorithms for decision-making under uncertainty, particularly online algorithms, algorithmic economics, and learning under different forms of information, as well as their broader connections to systems involving interacting and potentially strategic agents.
+Algorithms for decision-making under uncertainty, with particular interests in online algorithms, algorithmic economics, and learning from different forms of information, as well as their connections to systems with interacting and potentially strategic agents.
 
 </blockquote>
 

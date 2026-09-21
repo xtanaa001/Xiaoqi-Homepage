@@ -12,19 +12,16 @@ I am [**Xiaoqi Tan**](https://xiaoqitan.org), an Assistant Professor at the [**U
 
 ## `What is My Research?`
 
-I study algorithms for decision-making under uncertainty. Specifically, my recent work concentrates on three directions:
+I study algorithms for decision-making under uncertainty. Much of my recent work falls into three closely related directions:
 
 <blockquote>
 
-- **Online Algorithms** — designing algorithms with provable guarantees for sequential decision-making without access to the full input in advance.
-- **Algorithmic Economics** — managing resources, incentives, and strategic interactions in multi-agent settings while ensuring guarantees such as fairness, robustness, and risk-awareness.
-- **Learning Theory** — studying the power and limitations of learning based on different forms of information, with a particular focus on online and sequential decision-making problems.
-
+- **Online Algorithms** — designing algorithms with provable guarantees when decisions must be made sequentially without knowing the full input in advance.
+- **Algorithmic Economics** — studying resource allocation, incentives, fairness, and strategic interactions in systems with multiple agents.
+- **Learning Theory** — understanding what can and cannot be learned from different forms of information, especially in online and sequential decision-making problems.
 </blockquote>
 
-Collectively, my research across these directions aims to understand how algorithmic performance scales with structural properties arising from three interacting dimensions of a decision system: the _system_ itself (e.g., objectives, constraints, and strategic interactions), the _environment_ generating uncertainty (e.g., sequential, adversarial, and stochastic variability), and the _information interface_ between the two (e.g., predictions, offline data, and feedback acquired through interaction). Addressing these challenges requires an interdisciplinary approach that integrates techniques from computer science, economics, statistics, and control.
-
-<!-- > My research is primarily theoretical, but I do not regard it as pure CS theory in the traditional sense. Rather, my work is best characterized as _"system-driven theory"_: I am drawn to problems that are theoretically rich yet grounded in the practical realities of real-world systems. These include, for instance, electrical grids that power daily life, data centers that support the computational demands of cloud computing and artificial intelligence, the Internet that interconnects the digital world, and on-demand platforms such as ride-sharing, e-commerce, and food delivery — all of which have become integral to contemporary society, yet still pose complex theoretical challenges awaiting exploration. -->
+Across these directions, I am broadly interested in how algorithmic performance depends on the structure of the decision problem, the uncertainty in the environment, and the information available to the decision maker. These questions naturally bring together ideas from computer science, economics, statistics, and control, and often arise in systems involving interacting people, institutions, and computational agents.
 
 
 ---
@@ -32,17 +29,9 @@ Collectively, my research across these directions aims to understand how algorit
 
 ## `What I Care About the Most in Research?`
 
-I value the beauty of mathematics and view technically sound, aesthetically elegant theorems as the foundation of enduring scientific contributions. While I admire strong applied research,  I believe the deepest theoretical ideas often outlast the specific systems that first motivate them.
+I value the beauty of mathematics and believe that technically sound, conceptually simple, and aesthetically elegant results often form the foundation of lasting scientific contributions. At the same time, I am most drawn to problems that connect deep theoretical questions with meaningful real-world systems.
 
-At the same time, my goal is not to pursue theory in isolation. I am most drawn to problems that are both intellectually deep and connected to meaningful real-world systems. In particular, I am interested in identifying simple yet fundamental abstractions that reveal new algorithmic ideas, clarify structural trade-offs, and guide the design of practical systems operating under uncertainty. My work therefore lies at the intersection of theory and systems. Rather than viewing these as opposing directions, I see theoretical abstraction as a tool for understanding the principles governing increasingly complex real-world platforms, including online markets, cloud systems, and modern AI infrastructure such as LLM inference systems.
-
-For this reason, I think of my research not simply as algorithmic nor systems research in the classical sense, but more specifically as **systems-oriented theory**: mathematically rigorous research inspired by the structural challenges of real-world decision systems.
-
-<!-- I value the beauty of mathematics and see a **technically sound** and **aesthetically elegant** theorem as the cornerstone of a publication-worthy result. While I admire strong applied research, I believe that not all work must have immediate practical utility — good theory endures and often reveals its value in unexpected ways.
-
-That said, my interest is not in pursuing theory for its own sake. I am most drawn to problems that are both deep and meaningful, with potential connections to broader impact. I greatly respect colleagues who advance knowledge purely out of curiosity — contributions that are essential to pushing the boundaries of foundational science. However, the questions that excite me most are those that (i) **generate novel, elegant ideas** from seemingly simple yet fundamental problems, and (ii) **build meaningful bridges between theory and practice**, uncovering trade-offs and insights that guide the design of real-world decision systems. To achieve these objectives, particularly the latter, I believe it is crucial, and at times necessary, to abstract away certain details of the problem. `"I want to know how God created this world. I am not interested in this or that phenomenon. I want to know His thoughts, the rest are details." — Albert Einstein`
-
-For these reasons, I do not regard my research as CS theory in the traditional sense, even though it is primarily theoretical. Rather, I see my work as "**system-oriented theory**:" tackling problems that are theoretically rich yet grounded in the practical realities of real-world systems. These include, for instance, digital platforms such as online marketplaces and AI systems such as LLM inference.  -->
+In particular, I enjoy identifying simple abstractions that reveal new algorithmic ideas, clarify structural trade-offs, and help explain how complex decision systems behave under uncertainty. My work therefore sits at the intersection of theory and systems. I think of this style of research as **systems-oriented theory**: mathematically rigorous work inspired by the structural challenges of real-world decision systems.
 
 
 ---
@@ -58,9 +47,11 @@ I consider it a privilege to mentor students, and I feel genuinely fortunate to 
 
 ## `What I Care About the Most in Prospective Students?`
 
-I often receive emails from prospective students with descriptions like "I know how to use $X$ to implement $Y$." While this is undoubtedly a valuable skill, it is not my primary focus in my research. I am looking for students who are interested in (i) converting real-world problems into rigorous mathematical models (i.e., modeling) and (ii) developing algorithms to solve these problems (i.e., computation) with provable guarantees — in the form of mathematical theorems and lemmas. In short, I look for prospective students who are motivated and excited about creating new knowledge to explain “**how and why things work — or why they don't**."  
+I am particularly interested in students who enjoy mathematical thinking and want to understand not only how to build algorithms, but also why they work, when they fail, and what fundamental limits govern them.
 
-A frequently asked question by undergraduate and early-stage graduate students is: mathematical proofs can seem daunting; how can I determine if I will enjoy them? While there isn't a one-size-fits-all answer, a reasonable approach is to ask yourself: Do I have an affinity for subjects like calculus, probability, linear algebra, and other math or theory-based courses (e.g., algorithm design and analysis, theory of computation, etc.)? If your answer is a clear and enthusiastic yes, and you've had positive experiences with most of these courses, then it's a promising indicator!
+Much of our work involves two complementary skills: turning real-world decision problems into clean mathematical models, and developing algorithms with provable guarantees. You do not need to arrive as an expert in online algorithms, economics, machine learning, or systems. What matters more is curiosity, comfort with abstraction, and a willingness to develop strong foundations in mathematics and theoretical computer science.
+
+If you are unsure whether this style of research is for you, one useful question is whether you have genuinely enjoyed courses such as probability, linear algebra, algorithms, theory of computation, optimization, or other mathematically oriented subjects. If the answer is yes, that is usually a good sign.
 
 ---
 
@@ -94,4 +85,4 @@ Due to the volume of emails, I may not be able to reply to everyone individually
 
 <br>
 
-by [Xiaoqi Tan](/) | Last updated: May 1, 2026
+by [Xiaoqi Tan](/) | Last updated: Sept 1, 2026
