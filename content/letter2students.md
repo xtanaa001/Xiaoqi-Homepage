@@ -49,9 +49,7 @@ I consider it a privilege to mentor students, and I feel genuinely fortunate to 
 
 I am particularly interested in students who enjoy mathematical thinking and want to understand not only how to build algorithms, but also why they work, when they fail, and what fundamental limits govern them.
 
-Much of our work involves two complementary skills: turning real-world decision problems into clean mathematical models, and developing algorithms with provable guarantees. You do not need to arrive as an expert in online algorithms, economics, machine learning, or systems. What matters more is curiosity, comfort with abstraction, and a willingness to develop strong foundations in mathematics and theoretical computer science.
-
-If you are unsure whether this style of research is for you, one useful question is whether you have genuinely enjoyed courses such as probability, linear algebra, algorithms, theory of computation, optimization, or other mathematically oriented subjects. If the answer is yes, that is usually a good sign.
+Much of our work involves two complementary skills: turning real-world decision problems into clean mathematical models, and developing algorithms with provable guarantees. You do not need to arrive as an expert in online algorithms, economics, machine learning, or systems. What matters more is curiosity, comfort with abstraction, and a willingness to develop strong foundations in mathematics and computer science. If you are unsure whether this style of research is for you, one useful question is whether you have genuinely enjoyed courses such as probability, linear algebra, algorithms, theory of computation, optimization, or other mathematically oriented subjects. If the answer is yes, that is usually a good sign.
 
 ---
 
