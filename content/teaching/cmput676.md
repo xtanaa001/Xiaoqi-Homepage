@@ -65,7 +65,7 @@ The material is interdisciplinary, drawing connections to theoretical computer s
 
 The main assignment of this course is to complete a course project which includes a proposal (20%), an in-class presentation (30%), and a final report (50%). 
 
-**Proposal** (20%): You need to select 1-2 papers from this **`list`** and prepare a _one-page review_ (covering the main idea, methodologies, and key results of the selected papers) and a separate _one-page proposal_ (containing potentially multiple ideas, such as improvements, alternative approaches, or new discoveries). 
+**Proposal** (20%): You need to select 1-2 papers from this [**list**](https://docs.google.com/document/d/1uBuFnFTOj6jWLSOO5iTP2Y7SSg4cys7GJnstrXgA17U/edit?usp=sharing) and prepare a _one-page review_ (covering the main idea, methodologies, and key results of the selected papers) and a separate _one-page proposal_ (containing potentially multiple ideas, such as improvements, alternative approaches, or new discoveries). 
 <!-- Your paper review and proposal will be evaluated using a scoring grid based on the following criteria: i) depth, rigor, and thoroughness of the review, ii) clarity and merit of the proposal, and iii) coherence between the review and the proposal. Please note that the one-page proposal is proportionally more important, which is why the task is titled “Proposal” rather than “Paper Review.” -->
 
 **Presentation** (30%): You will give an in-class presentation based on your paper review and proposal. 
