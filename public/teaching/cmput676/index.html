@@ -150,6 +150,11 @@ tr:hover {
   background-color: #fff1e5;
 }
 
+/* Styles the entire table row containing the span class */
+table tr:has(.highlight-row) {
+  background-color: #fff1e5 !important;
+}
+
 thead tr th:first-child,
 tbody tr td:first-child {
   width: 6em;
@@ -206,8 +211,8 @@ tbody tr td:first-child {
       </tr>
       <tr>
           <td style="text-align: left"></td>
-          <td style="text-align: left"><code>Convex Optimization (A Brief Intro)</code></td>
-          <td style="text-align: left"></td>
+          <td style="text-align: left"><span class="highlight-row"><code>Convex Optimization (A Brief Intro)</code><br><em>How do we find good decisions when the objective and constraints are given?</em></span></td>
+          <td></td>
       </tr>
       <tr>
           <td style="text-align: left">Sept. 9</td>
@@ -226,8 +231,8 @@ tbody tr td:first-child {
       </tr>
       <tr>
           <td style="text-align: left"></td>
-          <td style="text-align: left"><code>Online Optimization</code></td>
-          <td style="text-align: left"></td>
+          <td style="text-align: left"><span class="highlight-row"><code>Online Optimization</code><br><em>How do we make decisions sequentially without knowing future inputs?</em></span></td>
+          <td></td>
       </tr>
       <tr>
           <td style="text-align: left">Sept. 21</td>
@@ -274,10 +279,94 @@ tbody tr td:first-child {
           <td style="text-align: left"><strong>Lec 11: Beyond Worst-Case Analysis (WCA)</strong> <br> Beyond WCA: why + how  <br> Learning-augmented algorithms <br> Data-driven algorithm design</td>
           <td style="text-align: left"><a href="https://drive.google.com/open?id=1jFofvtfP0H2tGSFxABpSdbEprcXF0nLO&amp;usp=drive_fs" target="_blank" rel="noopener">L11-slides</a>  <br> <a href="https://arxiv.org/pdf/1806.09817" target="_blank" rel="noopener">Beyond WCA</a> <br> <a href="https://arxiv.org/pdf/2006.09123" target="_blank" rel="noopener">Algorithms with predictions</a> <br> <a href="https://arxiv.org/pdf/2011.07177" target="_blank" rel="noopener">Data-driven algorithm design</a></td>
       </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><span class="highlight-row"><code>Stochastic Optimization and Learning</code><br><em>How do we learn to make better decisions from noisy observations?</em></span></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Oct. 21</td>
+          <td style="text-align: left"><strong>Lec 12: Multi-Armed Bandits</strong> <br> Bandit problems: intro + variants <br> Stochatic bandits; Algorithms</td>
+          <td style="text-align: left"><a href="https://drive.google.com/open?id=1OUOqYwaBzb1uRejuWBxan9j8k0EYSu-l&amp;usp=drive_fs" target="_blank" rel="noopener">L12-slides</a>, <a href="">L12-notes (Kushagra Chandak)</a> <br> <a href="https://tor-lattimore.com/downloads/book/book.pdf" target="_blank" rel="noopener">LS Book</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Oct. 26</td>
+          <td style="text-align: left"><strong>Lec 13: Stochastic Approximation</strong> <br> Stochastic optimization: intro + variants <br> The Robbins-Monro algorithm <br></td>
+          <td style="text-align: left"><a href="">L13-slides</a>, <a href="">L13-notes</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Oct. 28</td>
+          <td style="text-align: left"><strong>Lec 14: Stochastic Gradient Descent</strong> <br> Stochastic gradient descent (SGD); <br> Adaptive SGD <br> Summary: Online vs. Stochastic</td>
+          <td style="text-align: left"><a href="">L14-slides</a>, <a href="">L14-notes</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><span class="highlight-row"><code>Algorithmic Game Theory; Mechanism Design</code><br><em>How do we make decisions in strategic settings?</em></span></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Nov. 2</td>
+          <td style="text-align: left"><strong>Lec 15: Game Theory</strong> <br> Pure-strategy Nash equilibrium   <br>  Mixed-strategy Nash equilibrium</td>
+          <td style="text-align: left"><a href="">L15-slides</a>, <a href="">L15-notes</a>  <br> <a href="https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf" target="_blank" rel="noopener">AGT book</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Nov. 4</td>
+          <td style="text-align: left"><strong>Lec 16: Mechanism Design</strong> <br> Key concepts  <br> Auctions; VCG mechanisms <br> Optimal auctions</td>
+          <td style="text-align: left"><a href="">L16-slides</a>, <a href="">L16-notes</a> <br> <a href="https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf" target="_blank" rel="noopener">AGT book</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Nov. 9</td>
+          <td style="text-align: left"><del>No Class</del>  <mark> (Reading Week Break)</mark></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Nov. 11</td>
+          <td style="text-align: left"><del>No Class</del>  <mark> (Reading Week Break)</mark></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Nov. 16</td>
+          <td style="text-align: left"><strong>Lec 17: Online Mechanisms</strong> <br> Intro + variants <br> Prophet inequalities <br> Online contention resolution schemes <br> <strong>Course summary</strong></td>
+          <td style="text-align: left"><a href="">L17-slides</a>, <a href="">L17-notes</a></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"><span class="highlight-row"><strong>Project   Presentations</strong> </span></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Nov. 18</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Nov. 23</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Nov. 25</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Nov. 30</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Dec. 2</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Dec. 7</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
   </tbody>
 </table>
-<!-- |                 | `Stochastic Optimization and Learning` |     |
-| Oct. 21         | **Lec 12: Markov Decision Process (MDP)** <br> MDPs: A brief intro <br> Algorithms: Value/policy iteration; LP approach <br> Example: energy storage control   |  [L12-slides](https://drive.google.com/open?id=1-Ld-gVPaIXuHwcZFImfba_Ocngar3kWk&usp=drive_fs) <br> Courses: [CMPUT 609](https://drive.google.com/drive/folders/0B3w765rOKuKANmxNbXdwaE1YU1k?resourcekey=0-JZz-noRuJgogNsg1ljgV8w), [CMPUT 653](https://rltheory.github.io/)  | -->
+<!-- | Oct. 21         | **Lec 12: Markov Decision Process (MDP)** <br> MDPs: A brief intro <br> Algorithms: Value/policy iteration; LP approach <br> Example: energy storage control   |  [L12-slides](https://drive.google.com/open?id=1-Ld-gVPaIXuHwcZFImfba_Ocngar3kWk&usp=drive_fs) <br> Courses: [CMPUT 609](https://drive.google.com/drive/folders/0B3w765rOKuKANmxNbXdwaE1YU1k?resourcekey=0-JZz-noRuJgogNsg1ljgV8w), [CMPUT 653](https://rltheory.github.io/)  | -->
 </main>
     
 

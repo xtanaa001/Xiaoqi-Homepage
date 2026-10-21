@@ -25,6 +25,11 @@ tr:hover {
   background-color: #fff1e5;
 }
 
+/* Styles the entire table row containing the span class */
+table tr:has(.highlight-row) {
+  background-color: #fff1e5 !important;
+}
+
 thead tr th:first-child,
 tbody tr td:first-child {
   width: 6em;
@@ -85,11 +90,11 @@ The main assignment of this course is to complete a course project which include
 |:-------------   | :-----                                        |  :-----                   |
 | Sept. 2          | **Lec 1: Overview** <br> Course topics; Logistics    |       [L1-slides](https://drive.google.com/open?id=17NdCogWaQcvHV3ezCdNBTSoMgpgR4wuY&usp=drive_fs)               |      
 | Sept. 7         |  ~~No Class~~  <mark> (Statutory Holiday) </mark>   |     |
-|                 | `Convex Optimization (A Brief Intro)`   |       |
+|                 | <span class="highlight-row">`Convex Optimization (A Brief Intro)`<br>*How do we find good decisions when the objective and constraints are given?*</span> |
 | Sept. 9         | **Lec 2: Concepts** <br> Convex sets <br> Convex functions <br> Convex problems         |  [L2-slides](https://drive.google.com/open?id=1ws4vsVW2Ylp_oCJh934st0Q1_e5WGvTK&usp=drive_fs) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch1-Ch4 |
 | Sept. 14       | **Lec 3: Theory** <br> Lagrange multipliers <br> Duality theory <br> Optimality conditions    |  [L3-slides](https://drive.google.com/file/d/17iaFiPB3mNhSyc8U0s3zBlp5xrku6mU4/view?usp=sharing)   <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch5 <br> [DB Book](http://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf)  |
 | Sept. 16       | **Lec 4: Algorithms** <br> Gradient descent <br> Newton's methods <br> Barrier methods <br> Dual ascent     | [L4-slides](https://drive.google.com/file/d/1hfrg6yz-Wk2dRXNU2U87aqHvOcxX4Nzv/view?usp=sharing) <br> [BV Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): Ch9-Ch11 | 
-|                 | `Online Optimization` |   |
+|                 | <span class="highlight-row">`Online Optimization`<br>*How do we make decisions sequentially without knowing future inputs?*</span> |
 | Sept. 21       |  **Lec 5: Online Algorithms (Basics)** <br> Ski rental problem <br> Deterministic vs Randomized <br> Yao's principle  |  [L5-slides](https://drive.google.com/open?id=1mQAdKpqUGM8pUoSwR5aXASHWPJAEkO9Z&usp=drive_fs), [L5-notes](https://drive.google.com/open?id=1Z1VnAH1jlNCFuKFwDjP1fKYew0MCAoed&usp=drive_fs) <br> [Ski rental](https://cs.brown.edu/~claire/Talks/skirental.pdf)|
 | Sept. 23      |  **Lec 6: Online Primal-Dual (OPD)**  <br> Time series search <br> $k$-max and $k$-min search<br> Online selection (adversarial) <br> The OPD approach (1st look) |  [L6-slides](https://drive.google.com/open?id=1gdyGwwGLt2ncEVyE2weitG9U2rq8RbgA&usp=drive_fs), L6-notes  <br>  [Online search and one-way trading](https://link.springer.com/article/10.1007/s00453-001-0003-0) <br> [$k$-max and $k$-min search](https://link.springer.com/article/10.1007/s00453-008-9217-8) <br> [Online selection with convex costs](https://arxiv.org/pdf/2310.06166)|
 | Sept. 28    |  **Lec 7: Online Knapsack** <br> Threshold-based algorithms <br> The OPD approach (2nd look)  |  [L7-slides](https://drive.google.com/open?id=1zuNRuyEbvuQF5EqSX1FdDKzOKWCSxthZ&usp=drive_fs), L7-notes <br> [Online knapsack and variants](https://deeparnab.github.io/PUBS/CZL-full.pdf)  <br> [Online multiple knapsack](https://arxiv.org/pdf/2010.00412) |
@@ -99,5 +104,23 @@ The main assignment of this course is to complete a course project which include
 | Oct. 12         |  ~~No Class~~  <mark> (Statutory Holiday) </mark>   |     |
 | Oct. 14      |  **Lec 10: Online Linear Programming (OLP)** <br> OLP: intro + variants <br> Adversarial inputs vs. Random inputs <br> Competitive ratio vs. Regret (2nd look) | [L10-slides](https://drive.google.com/open?id=1gvTrmiLbCD57KMhqBcPeAK_uAMVBh8Cv&usp=drive_fs)   <br>  [Random-order models](https://arxiv.org/pdf/2002.12159) <br> [Online LP under ROM](https://arxiv.org/pdf/0911.2974) <br> [Online LP under IID](https://arxiv.org/pdf/1909.05499) |
 | Oct. 19      |  **Lec 11: Beyond Worst-Case Analysis (WCA)** <br> Beyond WCA: why + how  <br> Learning-augmented algorithms <br> Data-driven algorithm design | [L11-slides](https://drive.google.com/open?id=1jFofvtfP0H2tGSFxABpSdbEprcXF0nLO&usp=drive_fs)  <br> [Beyond WCA](https://arxiv.org/pdf/1806.09817) <br> [Algorithms with predictions](https://arxiv.org/pdf/2006.09123) <br> [Data-driven algorithm design](https://arxiv.org/pdf/2011.07177)  |
-<!-- |                 | `Stochastic Optimization and Learning` |     |
-| Oct. 21         | **Lec 12: Markov Decision Process (MDP)** <br> MDPs: A brief intro <br> Algorithms: Value/policy iteration; LP approach <br> Example: energy storage control   |  [L12-slides](https://drive.google.com/open?id=1-Ld-gVPaIXuHwcZFImfba_Ocngar3kWk&usp=drive_fs) <br> Courses: [CMPUT 609](https://drive.google.com/drive/folders/0B3w765rOKuKANmxNbXdwaE1YU1k?resourcekey=0-JZz-noRuJgogNsg1ljgV8w), [CMPUT 653](https://rltheory.github.io/)  | -->
+|                 | <span class="highlight-row">`Stochastic Optimization and Learning`<br>*How do we learn to make better decisions from noisy observations?*</span> |
+| Oct. 21     | **Lec 12: Multi-Armed Bandits** <br> Bandit problems: intro + variants <br> Stochatic bandits; Algorithms                    |    [L12-slides](https://drive.google.com/open?id=1OUOqYwaBzb1uRejuWBxan9j8k0EYSu-l&usp=drive_fs), [L12-notes (Kushagra Chandak)]() <br> [LS Book](https://tor-lattimore.com/downloads/book/book.pdf)  |
+| Oct. 26    | **Lec 13: Stochastic Approximation** <br> Stochastic optimization: intro + variants <br> The Robbins-Monro algorithm <br>   |  [L13-slides](), [L13-notes]()  |
+| Oct. 28     | **Lec 14: Stochastic Gradient Descent** <br> Stochastic gradient descent (SGD); <br> Adaptive SGD <br> Summary: Online vs. Stochastic                    |    [L14-slides](), [L14-notes]()  |
+|                 | <span class="highlight-row">`Algorithmic Game Theory; Mechanism Design`<br>*How do we make decisions in strategic settings?*</span> |
+| Nov. 2   | **Lec 15: Game Theory** <br> Pure-strategy Nash equilibrium   <br>  Mixed-strategy Nash equilibrium | [L15-slides](), [L15-notes]()  <br> [AGT book](https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf) |
+| Nov. 4     | **Lec 16: Mechanism Design** <br> Key concepts  <br> Auctions; VCG mechanisms <br> Optimal auctions  |  [L16-slides](), [L16-notes]() <br> [AGT book](https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf) |
+| Nov. 9           |  ~~No Class~~  <mark> (Reading Week Break)</mark>              |         |
+| Nov. 11           |  ~~No Class~~  <mark> (Reading Week Break)</mark>             |         | 
+| Nov. 16           |  **Lec 17: Online Mechanisms** <br> Intro + variants <br> Prophet inequalities <br> Online contention resolution schemes <br> **Course summary**   | [L17-slides](), [L17-notes]() |         |
+|                 | <span class="highlight-row">**Project   Presentations** </span> |
+| Nov. 18    |          |         |
+| Nov. 23    |          |         |
+| Nov. 25    |          |         |
+| Nov. 30    |          |         |
+| Dec. 2     |          |         |
+| Dec. 7     |          |         |
+
+
+<!-- | Oct. 21         | **Lec 12: Markov Decision Process (MDP)** <br> MDPs: A brief intro <br> Algorithms: Value/policy iteration; LP approach <br> Example: energy storage control   |  [L12-slides](https://drive.google.com/open?id=1-Ld-gVPaIXuHwcZFImfba_Ocngar3kWk&usp=drive_fs) <br> Courses: [CMPUT 609](https://drive.google.com/drive/folders/0B3w765rOKuKANmxNbXdwaE1YU1k?resourcekey=0-JZz-noRuJgogNsg1ljgV8w), [CMPUT 653](https://rltheory.github.io/)  | -->
