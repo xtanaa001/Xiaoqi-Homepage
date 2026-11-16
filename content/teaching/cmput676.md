@@ -110,17 +110,17 @@ The main assignment of this course is to complete a course project which include
 | Oct. 28     | **Lec 14: Stochastic Optimization (Part 2)** <br> Stochastic gradient descent (SGD) <br> Adaptive SGD; Momentum <br> Online vs. Stochastic                    |   [BCN Review](https://arxiv.org/pdf/1606.04838) <br> [Duchi's lecture notes](https://web.stanford.edu/~jduchi/PCMIConvex/Duchi16.pdf) |
 |                 | <span class="highlight-row"><u>`Strategic Uncertainty: Games, Learning, and Mechanism Design`</u><br>*How does decision-making work in multi-agent games?*</span> |
 | Nov. 2   | **Lec 15: Equilibrium Concepts** <br>Nash equilibrium (NE)   <br> Minimax theorem <br> From NE to correlated equilibrium (CE) <br> Why CS? | [L15-slides](https://drive.google.com/open?id=19dFeyRgpB8YxMntE98shB9CZ3A2TsP5O&usp=drive_fs) <br> [AGT book](https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf) |
-| Nov. 4     | **Lec 16: Learning in Games** <br> The learning setting  <br> Zero-sum games: no-regret &rArr; minimax <br> General-sum games: CE and CCE <br> Vector payoffs: Blackwell approachability|  [L16-slides](https://drive.google.com/open?id=1jmciRr3QLg7oCt6vZPOLUh8zmvy8ZOGw&usp=drive_fs) <br> [Hart & Mas-Colell 2000](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0262.00153) <br> More TBD...|
+| Nov. 4     | **Lec 16: Learning in Games** <br> The learning setting  <br> Zero-sum games: no-regret &rArr; minimax <br> General-sum games: CE and CCE <br> Vector payoffs: Blackwell approachability|  [L16-slides](https://drive.google.com/open?id=15YgytEKOcR5bvWjsSQ4zrLKa9NZI0UPe&usp=drive_fs) <br> Papers mentioned on the slides|
 | Nov. 9           |  ~~No Class~~  <mark> (Reading Week Break)</mark>              |         |
 | Nov. 11           |  ~~No Class~~  <mark> (Reading Week Break)</mark>             |         | 
-| Nov. 16     | **Lec 17: Mechanism Design (Part 1: Offline)** <br> Key concepts  <br> Vickrey’s auctions; Myerson’s lemma;VCG mechanisms <br> Revenue vs Welfare; Simple vs Optimal  |  L17-18-slides <br> [AGT book](https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf) <br> More TBD...|
-| Nov. 18           |  **Lec 18: Mechanism Design (Part 2: Online)** <br> Intro + variants <br> Online auctions; Secretary auctions <br> Prophet inequalities <br> Course summary   | <br> Summary-slides <br> [Prophet Inequalities: Theory and Methods](https://prophetinequalities.github.io/pibook.pdf) <br> More TBD... |         |
+| Nov. 16     | **Lec 17: Mechanism Design (Part 1: Offline)** <br> Key concepts  <br> Vickrey’s auctions; Myerson’s lemma;VCG mechanisms <br> Revenue vs Welfare; Simple vs Optimal  |  [L17-18-slides](https://drive.google.com/open?id=1zJpXCpwbeW64I7Uw2CeQvSBSCwwvimvm&usp=drive_fs) <br> [AGT book](https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf) <br> Papers mentioned on the slides|
+| Nov. 18           |  **Lec 18: Mechanism Design (Part 2: Online)** <br> Intro + variants <br> Online auctions; Secretary auctions <br> Prophet inequalities <br> Course summary   | <br> Course-Summary-slides <br> [Prophet Inequalities: Theory and Methods](https://prophetinequalities.github.io/pibook.pdf) <br> More TBD... |         |
 |                 | <span class="highlight-row">`Project   Presentations` </span> |
-| Nov. 23    |          |         |
-| Nov. 25    |          |         |
-| Nov. 30    |          |         |
-| Dec. 2     |          |         |
-| Dec. 7     |          |         |
+| Nov. 23    |   Kaiyuan, Grayson,  Shengkuan \& Feng, and Andrew \& Ethan |         |
+| Nov. 25    |   Ilya & Jaspreet, Haruto, Michael, and Jessica \& Matthew  |         |
+| Nov. 30    |   Antony, Pranit, Weijia, and Sharvani       |         |
+| Dec. 2     |   Erik, Weilin, Zhikai, and  Hui   |         |
+| Dec. 7     |   Afraz, Larkin, and Chong       |         |
 
 
 <!-- | Oct. 21         | **Lec 12: Markov Decision Process (MDP)** <br> MDPs: A brief intro <br> Algorithms: Value/policy iteration; LP approach <br> Example: energy storage control   |  [L12-slides](https://drive.google.com/open?id=1-Ld-gVPaIXuHwcZFImfba_Ocngar3kWk&usp=drive_fs) <br> Courses: [CMPUT 609](https://drive.google.com/drive/folders/0B3w765rOKuKANmxNbXdwaE1YU1k?resourcekey=0-JZz-noRuJgogNsg1ljgV8w), [CMPUT 653](https://rltheory.github.io/)  | -->
