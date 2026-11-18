@@ -114,7 +114,7 @@ The main assignment of this course is to complete a course project which include
 | Nov. 9           |  ~~No Class~~  <mark> (Reading Week Break)</mark>              |         |
 | Nov. 11           |  ~~No Class~~  <mark> (Reading Week Break)</mark>             |         | 
 | Nov. 16     | **Lec 17: Mechanism Design (Part 1: Offline)** <br> Key concepts  <br> Two pillars: welfare (VCG) \&  revenue (Myerson)  <br> Two CS lens: computation \& information  |  [L17-18-slides](https://drive.google.com/open?id=1M4zAcc4vuz8MD-uaHgxLKa52mFHqOxKr&usp=drive_fs) <br> [AGT book](https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf) <br> Papers mentioned on the slides|
-| Nov. 18           |  **Lec 18: Mechanism Design (Part 2: Online)** <br> Intro + variants <br> Single-parameter: threshold rules (prophet inequalities) <br> Multi-parameter: menu rules <br>  Course summary   | <br> Course-Summary-slides <br> [Prophet Inequalities: Theory and Methods](https://prophetinequalities.github.io/pibook.pdf) <br> More TBD... |         |
+| Nov. 18           |  **Lec 18: Mechanism Design (Part 2: Online)** <br> Intro + variants <br> Single-parameter: threshold rules (prophet inequalities) <br> Multi-parameter: menu rules <br>  Course summary   | <br> Course-Summary-slides <br> [Prophet Inequalities: Theory and Methods](https://prophetinequalities.github.io/pibook.pdf) <br> Papers mentioned on the slides |         |
 |                 | <span class="highlight-row">`Project   Presentations` </span> |
 | Nov. 23    |   Kaiyuan, Grayson,  Shengkuan \& Feng, and Andrew \& Ethan |         |
 | Nov. 25    |   Ilya & Jaspreet, Haruto, Michael, and Jessica \& Matthew  |         |
