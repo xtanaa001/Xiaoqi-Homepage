@@ -113,14 +113,14 @@ The main assignment of this course is to complete a course project which include
 | Nov. 4     | **Lec 16: Learning in Games** <br> The learning setting  <br> Zero-sum games: no-regret &rArr; minimax <br> General-sum games: CE and CCE <br> Vector payoffs: Blackwell approachability|  [L16-slides](https://drive.google.com/open?id=15YgytEKOcR5bvWjsSQ4zrLKa9NZI0UPe&usp=drive_fs) <br> Papers mentioned on the slides|
 | Nov. 9           |  ~~No Class~~  <mark> (Reading Week Break)</mark>              |         |
 | Nov. 11           |  ~~No Class~~  <mark> (Reading Week Break)</mark>             |         | 
-| Nov. 16     | **Lec 17: Mechanism Design (Part 1: Offline)** <br> Key concepts  <br> Two pillars: welfare (VCG) \&  revenue (Myerson)  <br> Two CS lens: computation \& information  |  [L17-18-slides](https://drive.google.com/open?id=1M4zAcc4vuz8MD-uaHgxLKa52mFHqOxKr&usp=drive_fs) <br> [AGT book](https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf) <br> Papers mentioned on the slides|
-| Nov. 18           |  **Lec 18: Mechanism Design (Part 2: Online)** <br> Intro + variants <br> Single-parameter: threshold rules (prophet inequalities) <br> Multi-parameter: menu rules <br>  Course summary   | <br> Course-Summary-slides <br> [Prophet Inequalities: Theory and Methods](https://prophetinequalities.github.io/pibook.pdf) <br> Papers mentioned on the slides |         |
+| Nov. 16     | **Lec 17: Mechanism Design (Part 1: Offline)** <br> Key concepts  <br> Two pillars: welfare (VCG) \&  revenue (Myerson)  <br> Two CS lens: computation \& information  |  [L17-18-slides](https://drive.google.com/open?id=1xLV0CmwcQTiT8nGdZ5NIGMhY4zWtizMs&usp=drive_fs) <br> [AGT book](https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf) <br> Papers mentioned on the slides|
+| Nov. 18           |  **Lec 18: Mechanism Design (Part 2: Online)** <br> Intro + variants <br> Single-parameter: threshold rules (prophet inequalities) <br> Multi-parameter: menu rules   |  [Prophet Inequalities: Theory and Methods](https://prophetinequalities.github.io/pibook.pdf) <br> Papers mentioned on the slides |         |
 |                 | <span class="highlight-row">`Project   Presentations` </span> |
 | Nov. 23    |   Kaiyuan, Grayson,  Shengkuan \& Feng, and Andrew \& Ethan |         |
 | Nov. 25    |   Ilya & Jaspreet, Haruto, Michael, and Jessica \& Matthew  |         |
 | Nov. 30    |   Antony, Pranit, Weijia, and Sharvani       |         |
 | Dec. 2     |   Erik, Weilin, Zhikai, and  Hui   |         |
-| Dec. 7     |   Afraz, Larkin, and Chong       |         |
+| Dec. 7     |   Afraz, Larkin, and Chong  <br> Course summary       |   Course-Summary-slides    |
 
 
 <!-- | Oct. 21         | **Lec 12: Markov Decision Process (MDP)** <br> MDPs: A brief intro <br> Algorithms: Value/policy iteration; LP approach <br> Example: energy storage control   |  [L12-slides](https://drive.google.com/open?id=1-Ld-gVPaIXuHwcZFImfba_Ocngar3kWk&usp=drive_fs) <br> Courses: [CMPUT 609](https://drive.google.com/drive/folders/0B3w765rOKuKANmxNbXdwaE1YU1k?resourcekey=0-JZz-noRuJgogNsg1ljgV8w), [CMPUT 653](https://rltheory.github.io/)  | -->
